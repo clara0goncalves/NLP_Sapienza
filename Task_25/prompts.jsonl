@@ -1,0 +1,11 @@
+[
+    {
+        "prompt": "La frase {{text}} sostiene la frase {{hypothesis}}?"
+    },
+    {
+        "prompt": "La frase {{text}} implica la frase {{hypothesis}}?"
+    },
+    {
+        "prompt": "La frase {{hypothesis}} pu\u00f2 essere dedotta dalla frase {{text}}?"
+    }
+]

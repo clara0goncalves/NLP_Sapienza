@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entailment-corpus language="italian" type="test" year="2009" campaign="evalita" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <pair id="1401" task="WIKI" entailment="NO">
+	<t>Il 15 febbraio 2009 viene chiamato ad allenare il grosseto, dopo l'esonero di Gustinetti.</t>
+	<h>Il 15 febbraio 2009 viene chiamato ad allenare il grosseto calcio, dopo l'esonero di Gustinetti.</h> 
+</pair>
+<pair id="1402" task="WIKI" entailment="NO">
+	<t>Il 9 giugno 2009 Cirillo rescinde il contratto con la società amaranto.</t>
+	<h>Il 9 giugno 2009 Cirillo rescinde consensualmente il proprio contratto con la società amaranto.</h> 
+</pair>
+<pair id="1403" task="WIKI" entailment="YES">
+	<t>Bruschini però non si perse d'animo e, tornato sulle rive del lago di Como, nel 1967, riprese a giocare nelle fila del FC Chiasso nella Serie A Svizzera.</t>
+	<h>Bruschini però non si perse d'animo e, tornato sulle rive del lago di Lecco, nel 1967, tornò a giocare nelle fila del FC Chiasso nella Serie A Svizzera.</h> 
+</pair>
+<pair id="1404" task="WIKI" entailment="NO">
+	<t>Giuseppe Cavanna è stato un calciatore, attivo negli anni '30, nel ruolo di portiere.</t>
+	<h>Giovanni Cavanna è stato un calciatore, attivo negli anni '30, nel ruolo di portiere.</h> 
+</pair>
+<pair id="1405" task="WIKI" entailment="NO">
+	<t>Attualmente appartiene alla sezione AIA di Chiavari; inoltre, anche il figlio Tiziano ha fatto parte della lista degli arbitri internazionali FIFA.</t>
+	<h>Attualmente appartiene alla sezione AIA di Chiavari; inoltre, anche il figlio Tiziano fa parte della lista degli arbitri internazionali FIFA.</h> 
+</pair>
+<pair id="1406" task="WIKI" entailment="NO">
+	<t>Dal novembre 2007 è stato allenatore del Unione Sportiva Poggibonsi, club di Serie C2 (calcio), fino all'esonero avvenuto nel settembre 2008.</t>
+	<h>Dal novembre 2007 è stato allenatore del Unione Sportiva Poggibonsi, club di Serie C2 (calcio), fino all'esonero avvenuto nell'ottobre 2008.</h> 
+</pair>
+<pair id="1407" task="WIKI" entailment="YES">
+	<t>A gennaio del 2003 fino al dicembre del 2004, viene ceduto all'Empoli Football Club dove segno 1 gol in 13 presenze.</t>
+	<h>A gennaio del 2003 fino al dicembre del 2004, viene ceduto all'Empoli FC dove segno 1 gol in 13 presenze.</h> 
+</pair>
+<pair id="1408" task="WIKI" entailment="NO">
+	<t>Ragazza ebrea detta "La pantera nera" di appena 18 anni che nel 1944 era rientrata a Roma, dopo essere sfuggita alla razzia nazista nel ghetto ebraico.</t>
+	<h>Giovane e bella ebrea detta "La pantera nera" di appena 18 anni che nel 1944 era rientrata a Roma, dopo essere sfuggita alla razzia nazista nel ghetto ebraico.</h> 
+</pair>
+<pair id="1409" task="WIKI" entailment="NO">
+	<t>Nell'aprile 2008 viene però di nuovo deferito dal Procuratore FIGC Stefano Palazzi che vuole chiarire la vicenda penale appena conclusa sotto il profilo della giustizia sportiva e disciplinare.</t>
+	<h>Nell'aprile 2008 viene però di nuovo deferito dal Procuratore FIGC Stefano Palazzi che vuole chiarire questa vicenda penale sotto il profilo della giustizia sportiva e disciplinare.</h> 
+</pair>
+<pair id="1410" task="WIKI" entailment="YES">
+	<t>Da calciatore ricoprì il ruolo di difensore destro tra il 1973 e il 1990, giocando anche con Atalanta Bergamasca Calcio, Spal 1907 e Associazione Sportiva Bari.</t>
+	<h>Da calciatore ricoprì il ruolo di difensore destro tra il 1973 e il 1990, giocando anche con Atalanta Bergamasca Calcio e Associazione Sportiva Bari.</h> 
+</pair>
+<pair id="1411" task="WIKI" entailment="NO">
+	<t>Da calciatore ricoprì il ruolo di difensore destro tra il 1973 e il 1990, giocando anche con Atalanta Bergamasca Calcio e Associazione Sportiva Bari.</t>
+	<h>Da calciatore ricoprì il ruolo di difensore destro tra il 1973 e il 1990, giocando anche con Atalanta Bergamasca Calcio, Spal 1907 e Associazione Sportiva Bari.</h> 
+</pair>
+<pair id="1412" task="WIKI" entailment="YES">
+	<t>Rimase a Trieste fino al 1950, quando fu chiamato a ricoprire il ruolo di terzino destro nell’Internazionale Football Club di Alfredo Foni con cui conquistò due scudetti consecutivi.</t>
+	<h>Rimase a Trieste fino al 1950, quando fu chiamato a ricoprire il ruolo di terzino destro nell’Inter di Alfredo Foni con cui conquistò tre scudetti consecutivi.</h> 
+</pair>
+<pair id="1413" task="WIKI" entailment="NO">
+	<t>Attualmente (dicembre 2007) vanta 39 presenze nella massima serie, ed è uno dei più seri candidati in vista della nomina ad arbitro internazionale FIFA per l'annata 2008.</t>
+	<h>Attualmente (ottobre 2007) vanta 38 presenze nella massima serie, ed è uno dei più seri candidati in vista della nomina ad arbitro internazionale FIFA per l'annata 2008.</h> 
+</pair>
+<pair id="1414" task="WIKI" entailment="YES">
+	<t>Il 13 maggio 2007, a 17 anni, esordisce in Serie A in Ascoli-Unione Sportiva Città di Palermo (3-2), entrando nel primo tempo al posto di Di Biagio.</t>
+	<h>Il 13 maggio 2007, a 16 anni, esordisce in Serie A in Ascoli-Palermo (3-2), entrando nel primo tempo al posto di Di Biagio.</h> 
+</pair>
+<pair id="1415" task="WIKI" entailment="YES">
+	<t>Nel 2006 scende in Eccellenza ad allenare la Associazione Calcio Dilettantistica Virtus Entella ma anche qua fallisce l'obiettivo della promozione.</t>
+	<h>Nel 2006 scende in Eccellenza ad allenare la Virtus Entella ma anche qua fallisce l'obiettivo della promozione.</h> 
+</pair>
+<pair id="1416" task="WIKI" entailment="NO">
+	<t>Nel 2006 scende in Eccellenza ad allenare la Virtus Entella ma anche qua fallisce l'obiettivo della promozione.</t>
+	<h>Nel 2006 scende in Eccellenza ad allenare la Associazione Calcio Dilettantistica Virtus Entella ma anche qua fallisce l'obiettivo della promozione.</h> 
+</pair>
+<pair id="1417" task="WIKI" entailment="NO">
+	<t>Ha giocato 18 partite in nazionale di calcio dell'Italia, disputando anche il Campionato mondiale di calcio 1986 in Messico.</t>
+	<h>Ha giocato anche 18 partite in Nazionale disputando il Campionato mondiale di calcio 1986 del 1986.</h> 
+</pair>
+<pair id="1418" task="WIKI" entailment="YES">
+	<t>Le accuse contro di lui sostengono che Pieri sarebbe stato in contatto con Luciano Moggi attraverso dei cellulari forniti di schede telefoniche svizzere non intercettabili nel contenuto.</t>
+	<h>Le accuse formulate sostengono che Pieri sarebbe stato in contatto con Luciano Moggi attraverso dei cellulari forniti di schede telefoniche svizzere non intercettabili nel contenuto.</h> 
+</pair>
+<pair id="1419" task="WIKI" entailment="NO">
+	<t>Centrocampista dotato di buona tecnica, esordì in serie A nella stagione 1945-1946 nelle file del Palermo, squadra inclusa nel raggruppamento che partecipava al campionato Divisione Nazionale 1945-1946.</t>
+	<h>Centrocampista dotato di buona tecnica, esordì in serie A nella stagione 1945-1946 nelle file del Palermo, squadra inclusa nel raggruppamento che partecipava al campionato Misto Bassa Italia.</h> 
+</pair>
+<pair id="1420" task="WIKI" entailment="NO">
+	<t>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno alla morte dello studente Ferrara Federico Aldrovandi.</t>
+	<h>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno all'assassinio dello studente Ferrara Federico Aldrovandi.</h> 
+</pair>
+<pair id="1421" task="WIKI" entailment="YES">
+	<t>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno all'omicidio dello studente Ferrara Federico Aldrovandi.</t>
+	<h>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno alla morte dello studente Ferrara Federico Aldrovandi.</h> 
+</pair>
+<pair id="1422" task="WIKI" entailment="NO">
+	<t>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno alla morte dello studente Ferrara Federico Aldrovandi.</t>
+	<h>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno all'omicidio dello studente Ferrara Federico Aldrovandi.</h> 
+</pair>
+<pair id="1423" task="WIKI" entailment="NO">
+	<t>All'età di quasi 37 anni milita in Terza Categoria, nella squadra del Tombolo, allenata dal suo primo allenatore, Cesare Crivellaro.</t>
+	<h>All'età di 38 anni milita in Terza Categoria, nella squadra del Tombolo, allenata dal suo primo allenatore, Cesare Crivellaro.</h> 
+</pair>
+<pair id="1424" task="WIKI" entailment="YES">
+	<t>Rimarrà nella prigione di stato del New Jersey per i successivi quattro anni.</t>
+	<h>Rimarrà nella prigione di stato del New Jersey per i prossimi quattro anni.</h> 
+</pair>
+<pair id="1425" task="WIKI" entailment="YES">
+	<t>Ben presto Carla, bella, sensuale ed affascinante, prese a tradirlo con altri uomini.</t>
+	<h>Ben presto bella, sensuale ed affascinante, Carla prese a tradirlo con altri uomini.</h> 
+</pair>
+<pair id="1426" task="WIKI" entailment="NO">
+	<t>Attualmente (dicembre 2007) ha totalizzato la cifra di 23 presenze nella massima divisione.</t>
+	<h>Attualmente (ottobre 2007) ha totalizzato la cifra di 23 presenze nella massima divisione.</h> 
+</pair>
+<pair id="1427" task="WIKI" entailment="NO">
+	<t>Attualmente (aprile 2008) ha totalizzato la cifra di 30 presenze nella massima divisione.</t>
+	<h>Attualmente (marzo 2008) ha totalizzato la cifra di 30 presenze nella massima divisione.</h> 
+</pair>
+<pair id="1428" task="WIKI" entailment="YES">
+	<t>Ha giocato in tutte le nazionali giovanili italiane, dalla Under-16 alla Under-21.</t>
+	<h>Ha giocato in tutte le nazionali italiane giovanili dalla Under-16 alla Under-21.</h> 
+</pair>
+<pair id="1429" task="WIKI" entailment="YES">
+	<t>Centrocampista centrale datato di una buona tecnica e visione di gioco</t>
+	<h>Centrocampista centrale datato di una buona visione di gioco</h> 
+</pair>
+<pair id="1430" task="WIKI" entailment="YES">
+	<t>Successivamente allenò il Calcio Catania, ancora il Catanzaro e, poi, l'Associazione Calcio Arezzo.</t>
+	<h>Successivamente allenò il Calcio Catania, ancora il Catanzaro e, successivamente, l'Associazione Calcio Arezzo.</h> 
+</pair>
+<pair id="1431" task="WIKI" entailment="NO">
+	<t>Residente a Legnano, possiede un negozio di capi sportivi nel centro della Città.</t>
+	<h>Residente a Lodi, possiede un negozio di capi sportivi nel centro della Città.</h> 
+</pair>
+<pair id="1432" task="WIKI" entailment="NO">
+	<t>Nel 2006 viene convocato nella Nazionale di calcio dell'Italia under-21 di Claudio Gentile, con la quale disputa il Campionato mondiale di calcio Under-20 2005 in Portogallo.</t>
+	<h>Nel 2006 viene convocato nella Nazionale di calcio dell'Italia under-21 di Pierluigi Casiraghi, con la quale disputa il Campionato mondiale di calcio Under-20 2005 in Portogallo.</h> 
+</pair>
+<pair id="1433" task="WIKI" entailment="YES">
+	<t>Marco Baroni (Firenze, 11 settembre 1963) è un allenatore ed ex-calciatore, che ha giocato come difensore in diverse squadre italiane.</t>
+	<h>Marco Baroni è un allenatore ed ex-calciatore, che ha giocato come difensore in diverse squadre italiane.</h> 
+</pair>
+<pair id="1434" task="WIKI" entailment="NO">
+	<t>Nel corso del calciomercato estivo del 2007 viene acquistato dalla Sampdoria, dove non brilla particolarmente, siglando solamente una rete nei suoi pochi mesi a Genova.</t>
+	<h>Nel corso del calciomercato estivo del 2007 viene acquistato dalla Sampdoria, dove non brilla particolarmente, siglando solamente cinque reti nei suoi pochi mesi a Genova.</h> 
+</pair>
+<pair id="1435" task="WIKI" entailment="NO">
+	<t>Impiegato in molte zone del centrocampo e dell'attacco, il giovane sardo dimostra di avere una buona duttilità tattica, adattandosi appieno agli schemi di Davide Ballardini.</t>
+	<h>Impiegato in molte zone del centrocampo e dell'attacco, il giovane sardo dimostra di avere una buona duttilità tattica, adattandosi appieno agli schemi di Marco Giampaolo.</h> 
+</pair>
+<pair id="1436" task="WIKI" entailment="NO">
+	<t>Accusato di essere l'omicida materiale del Commissario Calabresi, e Condannato in Cassazione, fece richiesta di grazia e la ottenne per gravi motivi di salute.</t>
+	<h>Omicida materiale del Commissario Calabresi. Condannato in Cassazione, fece richiesta di grazia e la ottenne per gravi motivi di salute.</h> 
+</pair>
+<pair id="1437" task="WIKI" entailment="YES">
+	<t>È sempre stato stimato e voluto da Manchester United, Manchester City, Real Madrid e Inter: ciononostante ha sempre ribadito di voler restare sempre in giallorosso.</t>
+	<h>È sempre stato stimato e voluto da Real Madrid e Inter: ciononostante ha sempre ribadito di voler restare sempre in giallorosso.</h> 
+</pair>
+<pair id="1438" task="WIKI" entailment="NO">
+	<t>Nell'ultimo giorno di calciomercato passa in prestito con diritto di riscatto per la stagione 2008/2009 al Genoa Cricket and Football Club.</t>
+	<h>Nell'ultimo giorno di calciomercato passa in prestito con diritto di riscatto da parte dei "grifoni" per la stagione 2008/2009 al Genoa Cricket and Football Club.</h> 
+</pair>
+<pair id="1439" task="WIKI" entailment="NO">
+	<t>Nel 1985/86 viene acquistato dal Cosenza Calcio 1914 che milita in Serie C1, club con il quale giocherà per 5 stagioni.</t>
+	<h>Nel 1985/86 approda nel calcio importante: viene acquistato dal Cosenza Calcio 1914 che milita in Serie C1, club con il quale giocherà per 5 stagioni.</h> 
+</pair>
+<pair id="1440" task="WIKI" entailment="NO">
+	<t>Pochi giorni prima del delitto, Rosa trova diverse banconote nella tasca di un paio di pantaloni di Pietro Maso.</t>
+	<h>Pochi giorni prima del delitto, Rosa trova diverse banconote nella tasca di un paio di pantaloni di Pietro.</h> 
+</pair>
+<pair id="1441" task="WIKI" entailment="YES">
+	<t>Il 19 agosto 2007 con la vittoria della Supercoppa italiana ai danni dell'Inter, ottiene il suo secondo trofeo.</t>
+	<h>Il 19 agosto 2007 con la vittoria della Supercoppa italiana ai danni dell'Inter, vincendo così il suo secondo trofeo.</h> 
+</pair>
+<pair id="1442" task="WIKI" entailment="YES">
+	<t>Dal 2004 al 2006, viene affidato al Associazione Sportiva Bari, conquistando due salvezze consecutive con 13° e 12° posto.</t>
+	<h>Dal 2004 al 2006, viene affidato al AS Bari, conquistando due salvezze consecutive con 13° e 12° posto.</h> 
+</pair>
+<pair id="1443" task="WIKI" entailment="YES">
+	<t>Nel 2007/2008 torna a giocare in serie D ancora con il Cosenza Calcio 1914 dove ottiene una strepitosa promozione.</t>
+	<h>Nel 2007/08 torna a giocare in serie D ancora con il Cosenza Calcio 1914 dove ottiene una promozione.</h> 
+</pair>
+<pair id="1444" task="WIKI" entailment="NO">
+	<t>Tuttavia con i rosanero, in Serie A, riesce a disputare alcune partite: 10 nella prima stagione, 9 nella seconda e 10 nella terza.</t>
+	<h>Tuttavia con i rosanero, in Serie A, riesce a disputare alcune partite da titolare: 10 nella prima stagione, 9 nella seconda e 10 nella terza.</h> 
+</pair>
+<pair id="1445" task="WIKI" entailment="YES">
+	<t>In occasione degli europei di calcio 1996, svolse le funzioni di quarto ufficiale di gara.</t>
+	<h>In occasione degli europei di calcio 1996, svolse le funzioni di IV° ufficiale di gara.</h> 
+</pair>
+<pair id="1446" task="WIKI" entailment="NO">
+	<t>Vive a Pergine Valsugana e appartiene alla A.I.A. di Trento.</t>
+	<h>Vive e lavora a Pergine Valsugana e appartiene alla A.I.A. di Trento.</h> 
+</pair>
+<pair id="1447" task="WIKI" entailment="NO">
+	<t>L'8 agosto 2009 si trasferisce per 20 milioni di euro al, con cui firma un contratto quadriennale.</t>
+	<h>L'8 agosto 2009 si trasferisce per 20 milioni di euro al, con cui firma un contratto quadriennale da, circa, 4 milioni annui.</h> 
+</pair>
+<pair id="1448" task="WIKI" entailment="YES">
+	<t>Nel luglio del 2008 si trasferisce in prestito all'Associazione Calcio Ancona.</t>
+	<h>Nel luglio del 2008 si trasferisce all'Associazione Calcio Ancona.</h> 
+</pair>
+<pair id="1449" task="WIKI" entailment="YES">
+	<t>Il 12 luglio 2008 viene ceduto in prestito alla Triestina in Serie B.</t>
+	<h>Il 12 luglio 2008 viene ceduto alla Triestina in prestito.</h> 
+</pair>
+<pair id="1450" task="WIKI" entailment="NO">
+	<t>Nella squadra cremasca è titolare, ma è costretto a fermarsi dopo poche partite a causa di un infortunio, che comprometterà gran parte della stagione.</t>
+	<h>Divenuto titolare, è costretto a fermarsi dopo poche partite a causa di un infortunio, che comprometterà gran parte della stagione.</h> 
+</pair>
+<pair id="1451" task="WIKI" entailment="NO">
+	<t>Ethel Greenglass nacque il 28 settembre del 1915, anch'essa a New York.</t>
+	<h>Ethel Rosenberg nacque il 28 settembre del 1915, anch'essa a New York.</h> 
+</pair>
+<pair id="1452" task="WIKI" entailment="NO">
+	<t>Il 5 dicembre 2008 Simpson viene condannato a 15 anni di carcere.</t>
+	<h>Il 5 ottobre 2008 Simpson viene condannato a 15 anni di carcere.</h> 
+</pair>
+<pair id="1453" task="WIKI" entailment="NO">
+	<t>Attualmente (maggio 2009) vanta 71 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (aprile 2009) vanta 68 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1454" task="WIKI" entailment="NO">
+	<t>Attualmente (settembre 2008) vanta 55 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (maggio 2008) vanta 53 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1455" task="WIKI" entailment="NO">
+	<t>Attualmente (novembre 2008) vanta 61 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (ottobre 2008) vanta 57 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1456" task="WIKI" entailment="NO">
+	<t>Attualmente (ottobre 2008) vanta 57 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (settembre 2008) vanta 55 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1457" task="WIKI" entailment="NO">
+	<t>Attualmente (aprile 2009) vanta 68 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (marzo 2009) vanta 67 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1458" task="WIKI" entailment="NO">
+	<t>Attualmente (marzo 2009) vanta 96 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (gennaio 2009) vanta 91 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1459" task="WIKI" entailment="NO">
+	<t>Attualmente (settembre 2008) vanta 85 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (aprile 2008) vanta 83 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1460" task="WIKI" entailment="NO">
+	<t>Attualmente (febbraio 2007) vanta 80 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (dicembre 2007) vanta 77 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1461" task="WIKI" entailment="NO">
+	<t>Attualmente (novembre 2008) vanta 88 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (ottobre 2008) vanta 86 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1462" task="WIKI" entailment="NO">
+	<t>Attualmente (aprile 2008) vanta 83 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (marzo 2008) vanta 82 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1463" task="WIKI" entailment="NO">
+	<t>Attualmente (ottobre 2008) vanta 86 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (settembre 2008) vanta 85 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1464" task="WIKI" entailment="NO">
+	<t>Si è ritirato dall'attività agonistica nel 1970 ed attualmente risiede a Como.</t>
+	<h>Si è ritirato dall'attività agonistica nel 1970 ed attualmente risiede a Brunate.</h> 
+</pair>
+<pair id="1465" task="WIKI" entailment="NO">
+	<t>Correnti ha sempre ricoperto il ruolo di centrocampista.</t>
+	<h>Correnti ha sempre ricoperto il ruolo di difensore.</h> 
+</pair>
+<pair id="1466" task="WIKI" entailment="YES">
+	<t>Il 2 luglio 2009 viene nominato ufficialmente nuovo allenatore dell'amibizioso Benevento Calcio.</t>
+	<h>Il 2 luglio 2009 viene nominato ufficialmente nuovo allenatore del Benevento Calcio.</h> 
+</pair>
+<pair id="1467" task="WIKI" entailment="NO">
+	<t>È un giocatore polivalente che sa ricoprire sia il ruolo di terzino che di centrocampista sulla fascia destra e all'occorrenza anche sinistra.</t>
+	<h>È un giocatore polivalente che sa ricoprire sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</h> 
+</pair>
+<pair id="1468" task="WIKI" entailment="NO">
+	<t>Per parecchie stagioni è stato il secondo portiere del Parma Football Club alle spalle dell'esperto portiere.</t>
+	<h>Per parecchie stagioni è stato il secondo portiere del Parma Football Club alle spalle dell'esperto portiere Luca Bucci.</h> 
+</pair>
+<pair id="1469" task="WIKI" entailment="YES">
+	<t>Nella stagione 1997-1998, con lo Sheffield Wednesday giocherà 33 partite, segnando 9 gol: sarà il suo anno migliore in termini di realizzazioni.</t>
+	<h>Nella stagione 1997-1998, con lo Sheffield Wednesday giocherà 33 partite, segnando 9 gol, e questo sarà il suo anno migliore in termini di realizzazioni.</h> 
+</pair>
+<pair id="1470" task="WIKI" entailment="YES">
+	<t>Acquistato dal Unione Sportiva Città di Palermo nell'estate 2006 (1.800.000 €), trova un discreto spazio nell'undici titolare, contendendosi spesso il posto con Marco Pisano.</t>
+	<h>Acquistato dal Unione Sportiva Città di Palermo nell'estate 2006, trova un discreto spazio nell'undici titolare, contendendosi spesso il posto con Marco Pisano.</h> 
+</pair>
+<pair id="1471" task="WIKI" entailment="YES">
+	<t>Nella sua prima stagione in Serie A (calcio) gioca solo 13 partite, segnando due reti nel derby contro l'Inter vinto dai rossoneri per 6-0.</t>
+	<h>Nella sua prima stagione in Serie A (calcio) gioca solo 13 partite, segnando due reti nel derby contro l'Inter vinto dai rossoneri.</h> 
+</pair>
+<pair id="1472" task="WIKI" entailment="YES">
+	<t>È un giocatore che ricopre sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</t>
+	<h>È un giocatore polivalente.</h> 
+</pair>
+<pair id="1473" task="WIKI" entailment="NO">
+	<t>Cresciuto nel quartiere Avellino di pordenone (AV), dove ancora vive la madre Margherita, ancora adolescente è rimasto orfano del padre.</t>
+	<h>Cresciuto nel quartiere Avellino di San Martino V.C. (AV), dove ancora vive la madre Margherita, ancora adolescente è rimasto orfano del padre.</h> 
+</pair>
+<pair id="1474" task="WIKI" entailment="NO">
+	<t>Le perplessità suscitate da quella stagione, vinta dalla Juventus, fecero sì che Baldas venisse rimosso dalla carica di designatore prima dell'inizio del campionato seguente.</t>
+	<h>Le accuse, i sospetti e le perplessità suscitate da quella stagione, vinta dalla Juventus, fecero sì che Baldas venisse rimosso dalla carica di designatore prima dell'inizio del campionato seguente.</h> 
+</pair>
+<pair id="1475" task="WIKI" entailment="NO">
+	<t>Scende in campo in altre 2 occasioni nell'annata seguente, stagione Serie A 1989-1990, che vede la società campana conquistare il suo secondo scudetto.</t>
+	<h>Scende in campo in altre 2 occasioni nell'annata seguente, che vede la società campana conquistare il suo secondo scudetto.</h> 
+</pair>
+<pair id="1476" task="WIKI" entailment="YES">
+	<t>Il 12 agosto 2009, dopo la retrocessione dei giallorossi, passa in prestito con diritto di riscatto al Livorno Calcio sempre in serie A.</t>
+	<h>Il 12 agosto 2009, dopo la retrocessione dei giallorossi, passa in prestito al Livorno Calcio sempre in serie A.</h> 
+</pair>
+<pair id="1477" task="WIKI" entailment="YES">
+	<t>Leonardo Costagliola, detto anche ''Nardino'' e soprannominato dai tifosi ''Gatto Magico'', è stato uno dei più grandi calciatori pugliesi di tutti i tempi.</t>
+	<h>Leonardo Costagliola, soprannominato dai tifosi ''Gatto Magico'', è stato uno dei più grandi calciatori pugliesi di tutti i tempi.</h> 
+</pair>
+<pair id="1478" task="WIKI" entailment="YES">
+	<t>Carter tuttavia non era un buon soldato e dovette presentarsi davanti alla corte marziale per ben 4 volte a causa della sua insubordinazione.</t>
+	<h>Tuttavia, Carter non era un buon soldato, e dovette presentarsi davanti alla corte marziale per ben quattro volte a causa della sua insubordinazione.</h> 
+</pair>
+<pair id="1479" task="WIKI" entailment="NO">
+	<t>Attualmente (febbraio 2007) vanta 46 presenze nella massima serie, e dal 1° gennaio 2008 verrà inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (dicembre 2007) vanta 39 presenze nella massima serie, e dal 1° gennaio 2008 verrà inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1480" task="WIKI" entailment="YES">
+	<t>Nel 2009 con un ingaggio di 7.000.000 di euro il giocatore passa alla juventus football club con la stagione 2009-2010 alle sue spalle.</t>
+	<h>Nel 2009 con un ingaggio di 7 milioni di euro il giocatore passa alla juventus football club con la stagione 2009-2010 alle sue spalle.</h> 
+</pair>
+<pair id="1481" task="WIKI" entailment="NO">
+	<t>Nella stagione successiva con Domenico Di Carlo non trova spazio e nel gennaio 2008 viene ceduto a titolo definitivo al Associazione Calcio Cesena.</t>
+	<h>Nella stagione successiva con Domenico Di Carlo non trova spazio e nel mercato invernale viene ceduto a titolo definitivo al Associazione Calcio Cesena.</h> 
+</pair>
+<pair id="1482" task="WIKI" entailment="YES">
+	<t>Se ne andò così, fra molta e incomprensibile indifferenza, quello che con ogni probabilità fu il più grande portiere biancoazzurro di tutti i tempi assieme a Ottavio Bugatti.</t>
+	<h>Se ne andò così, fra molta e incomprensibile indifferenza, quello che forse fu, con ogni probabilità, il più grande portiere biancoazzurro di tutti i tempi assieme a Ottavio Bugatti.</h> 
+</pair>
+<pair id="1483" task="WIKI" entailment="NO">
+	<t>La scelta si rivelò azzeccata in quanto il Milan vinse quel campionato subendo solo tre sconfitte, e portando alla ribalta giovani future stelle come Franco Baresi e Mauro Tassotti.</t>
+	<h>La scelta si rivelò azzeccata in quanto il Milan vinse quel campionato senza subire sconfitte, e portando alla ribalta giovani future stelle come Franco Baresi e Mauro Tassotti.</h> 
+</pair>
+<pair id="1484" task="WIKI" entailment="NO">
+	<t>Crovari indossa la maglia biancorossa da sette anni, in cui ha collezionato appena 84 presenze (con 3 gol), ma diventando allo stesso tempo uno dei beniamini della tifoseria biancorossa.</t>
+	<h>Crovari indossa la maglia biancorossa da sette anni, in cui ha collezionato appena 65 presenze (con 3 gol), ma diventando uno dei beniamini della tifoseria biancorossa.</h> 
+</pair>
+<pair id="1485" task="WIKI" entailment="YES">
+	<t>A fine campionato il Perugia rinuncia al riscatto ed Anaclerio torna al Hellas Verona Football Club per fine prestito. Il 7 agosto 2009 lo acquista l'Associazione Sportiva Andria BAT.</t>
+	<h>A fine campionato il Perugia rinuncia al riscatto ed Anaclerio torna al Hellas Verona Football Club per fine prestito, nell'agosto 2009 lo acquista l'Associazione Sportiva Andria BAT.</h> 
+</pair>
+<pair id="1486" task="WIKI" entailment="NO">
+	<t>A fine campionato il Perugia rinuncia al riscatto ed Anaclerio torna al Hellas Verona Football Club per fine prestito, nell'agosto 2009 lo acquista l'Associazione Sportiva Andria BAT.</t>
+	<h>A fine campionato il Perugia rinuncia al riscatto ed Anaclerio torna al Hellas Verona Football Club per fine prestito. Il 7 agosto 2009 lo acquista l'Associazione Sportiva Andria BAT.</h> 
+</pair>
+<pair id="1487" task="WIKI" entailment="NO">
+	<t>In quel campionato De Bernardi scende in campo 4 volte ma iniziano alcuni acciacchi che lo perseguiteranno per tutta la sua breve carriera.</t>
+	<h>In quel campionato De Bernardi scende in campo 4 volte ma iniziano alcuni acciacchi che lo perseguiteranno per tutta la vita.</h> 
+</pair>
+<pair id="1488" task="WIKI" entailment="YES">
+	<t>Seguirono dapprima la denuncia, il 6 marzo 1951, e quindi l'arresto, il 29 marzo sempre del 1951.</t>
+	<h>Seguirono dapprima la denuncia, il 6 marzo del 1951, e quindi l'arresto, il 29 marzo successivo.</h> 
+</pair>
+<pair id="1489" task="WIKI" entailment="NO">
+	<t>Elegante mediano trasformato successivamente in difensore puro, cresce calcisticamente in una squadra della sua città, l'A.C.</t>
+	<h>Elegante mediano trasformato successivamente in libero, cresce calcisticamente in una squadra della sua città, l'A.C.</h> 
+</pair>
+<pair id="1490" task="WIKI" entailment="NO">
+	<t>Nel 1998 si trasferisce al Torino FC dove segnò in 29 presenze 7 reti e poi ad Empoli Football Club dove fece 5 gol in 22 presenze.</t>
+	<h>Nella stagione 1997/98 si trasferisce al Torino FC dove segnò in 29 presenze 7 reti e poi ad Empoli Football Club dove fece 5 gol in 22 presenze.</h> 
+</pair>
+<pair id="1491" task="WIKI" entailment="YES">
+	<t>Ebbe anche una breve esperienza come allenatore-giocatore sia con l'Ascoli sia nella squadra di calcio dilettantistica di Sacrofano in provincia di Roma.</t>
+	<h>Ebbe anche una breve esperienza come allenatore-giocatore nella squadra di calcio dilettantistica di Sacrofano in provincia di Roma.</h> 
+</pair>
+<pair id="1492" task="WIKI" entailment="NO">
+	<t>Nel 2000-2001 un secondo Centi ha giocato nel Como.</t>
+	<h>Nel 2000-2001 un secondo Centi (Luis Fernando) ha giocato nel Como.</h> 
+</pair>
+<pair id="1493" task="WIKI" entailment="NO">
+	<t>Dopo aver sostenuto un provino negativo con il West Bromwich Albion attualmente milita in prestito nel Società Sportiva Lanciano in serie C1</t>
+	<h>Dopo aver sostenuto un provino negativo con il West Ham United attualmente milita in prestito nel Società Sportiva Lanciano in serie C1</h> 
+</pair>
+<pair id="1494" task="WIKI" entailment="NO">
+	<t>Passato al Perugia Calcio disputa con i grifoni il campionato Primavera.</t>
+	<h>Passato al Perugia Calcio vince con i grifoni il campionato Primavera.</h> 
+</pair>
+<pair id="1495" task="WIKI" entailment="YES">
+	<t>Fu fra i pilastri del Vicenza che vinse la Coppa Italia 1996-1997 (calcio) e arrivò alle semifinali della Coppa delle Coppe 1997-1998.</t>
+	<h>Fu fra i pilastri del Vicenza che vinse la Coppa Italia 1996-1997 (calcio) e arrivò alle semifinali di Coppa delle Coppe (calcio).</h> 
+</pair>
+<pair id="1496" task="WIKI" entailment="NO">
+	<t>Ricopre il ruolo di difensore centrale, è mancino naturale.</t>
+	<h>Ricopre il ruolo di difensore centrale, è destro naturale.</h> 
+</pair>
+<pair id="1497" task="WIKI" entailment="YES">
+	<t>Esplode alla Maceratese e l'anno successivo viene acquistato dal Brescia Calcio.</t>
+	<h>Esplode alla Maceratese e l'anno successivo viene preso dal Brescia Calcio.</h> 
+</pair>
+<pair id="1498" task="WIKI" entailment="YES">
+	<t>Alto 1,76 per 73 kg, ha giocato nel Crema, Mantova, Reggiana, Bari e a lungo nel Como, dove chiuse la carriera da capitano nel 1978.</t>
+	<h>Alto 1,76 per 73 kg, ha giocato nel Crema, Mantova, Reggiana, Bari e a lungo nel Como, dove chiuse la carriera da capitano alla fine degli Anni '70.</h> 
+</pair>
+<pair id="1499" task="WIKI" entailment="NO">
+	<t>Nonostante ciò, il Livorno si rende protagonista di un pessimo girone di ritorno, che lo porta in piena zona retrocessione.</t>
+	<h>Nonostante una buona partenza, il Livorno si rende protagonista di un pessimo girone di ritorno, che lo porta in piena zona retrocessione.</h> 
+</pair>
+<pair id="1500" task="WIKI" entailment="YES">
+	<t>Idilio Cei è scomparso prematuramente, a 58 anni, nella sua casa di Larciano, per un infarto.</t>
+	<h>Idilio Cei è scomparso prematuramente, nella sua casa di Larciano, per un infarto.</h> 
+</pair>
+<pair id="1501" task="WIKI" entailment="NO">
+	<t>Idilio Cei è scomparso prematuramente, nella sua casa di Larciano, per un infarto.</t>
+	<h>Idilio Cei è scomparso prematuramente, a 58 anni, nella sua casa di Larciano, per un infarto.</h> 
+</pair>
+<pair id="1502" task="WIKI" entailment="NO">
+	<t>Decide di chiudere la carriera al Bassano Virtus, in Serie D (calcio), dove milita per un paio d'anni nel tentativo di ottenere la promozione in serie C2.</t>
+	<h>Decide di chiudere la carriera al Bassano Virtus, in Serie D (calcio), dove milita per quattro anni nel tentativo di ottenere la promozione in serie C2.</h> 
+</pair>
+<pair id="1503" task="WIKI" entailment="YES">
+	<t>Sue tele si trovano in varie parti del mondo, Stati Uniti, Canada, Francia, Svizzera presso collezioni private, compreso il ritratto di Caroline Kennedy all'età di 4 anni.</t>
+	<h>Sue tele si trovano in varie parti del mondo, America, Canada, Francia, Svizzera presso collezioni private, compreso il ritratto di Carolina Kennedy all'età di 4 anni.</h> 
+</pair>
+<pair id="1504" task="WIKI" entailment="YES">
+	<t>Ha militato nelle fila del Napoli Calcio e vince la Coppa del mondo FIFA 1934 con la nazionale di calcio Nazionale di calcio dell'Italia come secondo portiere.</t>
+	<h>Ha militato nelle fila del Napoli Calcio e vince il Mondiale di calcio 1934 con la nazionale di calcio Nazionale di calcio dell'Italia come secondo portiere.</h> 
+</pair>
+<pair id="1505" task="WIKI" entailment="NO">
+	<t>Ha militato nelle fila del Napoli Calcio e vince il Coppa del Mondo FIFA 1934 con la nazionale di calcio Nazionale di calcio dell'Italia come secondo portiere.</t>
+	<h>Ha militato nelle fila del Napoli Calcio e vince il mondiale italiano del 1934 con la nazionale di calcio Nazionale di calcio dell'Italia come secondo portiere.</h> 
+</pair>
+<pair id="1506" task="WIKI" entailment="YES">
+	<t>La stagione è arricchita dall'inaspettata chiamata di Roberto Donadoni che lo convoca agli Campionato europeo di calcio 2008 nonostante la scenata del 2 marzo contro il Torino.</t>
+	<h>La stagione è arricchita dall'inaspettata chiamata di Roberto Donadoni che lo convoca agli Campionato europeo di calcio 2008 nonostante la scenata del 2 marzo.</h> 
+</pair>
+<pair id="1507" task="WIKI" entailment="NO">
+	<t>Nella squadra calabrese resta fino all 2004, con una breve parentesi alla Football Club Turris 1944 in Serie C1 nella stagione Serie C1 1997-1998.</t>
+	<h>Nella squadra calabrese resta fino all 2004, con una breve parentesi alla Football Club Turris 1944 in Serie C1 nella stagione Classifica calcio Serie C1 italiana 1998.</h> 
+</pair>
+<pair id="1508" task="WIKI" entailment="NO">
+	<t>Centrocampista, ad inizio carriera militò nel Calcio Catania, esordendo diciottenne in Serie A (calcio) nella stagione Serie A 1970-1971 (12 gare e una rete).</t>
+	<h>Centrocampista, ad inizio carriera militò nel Calcio Catania, esordendo diciottenne in Serie A (calcio) nella stagione Classifica calcio Serie A italiana 1971 (12 gare e una rete).</h> 
+</pair>
+<pair id="1509" task="WIKI" entailment="NO">
+	<t>Da destra a sinistra: Ghigliotti, De Galleani, James Richardson Spensley, Edoardo Pasteur, Leaver, Enrico Pasteur, Passadoro, Arkelss, Dapples, Deteindre e Agar.</t>
+	<h>Da sinistra a destra: Ghigliotti, De Galleani, James Richardson Spensley, Edoardo Pasteur, Leaver, Enrico Pasteur, Passadoro, Arkelss, Dapples, Deteindre e Agar.</h> 
+</pair>
+<pair id="1510" task="WIKI" entailment="YES">
+	<t>Nelle stagioni 2005-2006 e 2006-2007 ha giocato nel Torino Football Club, il 6 luglio 2007 e` stato venduto al Mantova Calcio.</t>
+	<h>Nelle stagioni 2005-06 e 2006-07 ha giocato nel Torino Football Club, il 6 luglio 2007 e` stato venduto al Mantova Calcio.</h> 
+</pair>
+<pair id="1511" task="WIKI" entailment="NO">
+	<t>Nel 1985 si è ammalato di Leucemia mieloide, di cui è morto due anni dopo.</t>
+	<h>Nel 1985 si è ammalato di Leucemia acuta linfoblastica, di cui è morto due anni dopo.</h> 
+</pair>
+<pair id="1512" task="WIKI" entailment="YES">
+	<t>Ha iniziato la sua carriera calcistica nella stagione 1982-1983 indossando la maglia dell'Imola in Interregionale.</t>
+	<h>Ha iniziato la sua carriera calcistica nella stagione 1982/83 indossando la maglia dell'Imola in Interregionale.</h> 
+</pair>
+<pair id="1513" task="WIKI" entailment="NO">
+	<t>Concluse l'attività agonistica nel 1983, dopo un ultimo anno trascorso in serie C2 coll'Associazione Calcio Asti.</t>
+	<h>Concluse l'attività agonistica nel 1983, dopo un ultimo anno trascorso in serie C2 ad Asti.</h> 
+</pair>
+<pair id="1514" task="WIKI" entailment="NO">
+	<t>A tutt'oggi, anche suo figlio Carlo Cudicini è un calciatore professionista, attualmente portiere del Tottenham.</t>
+	<h>A tutt'oggi, anche suo figlio Carlo Cudicini è un calciatore professionista, attualmente portiere del Chelsea F.C..</h> 
+</pair>
+<pair id="1515" task="WIKI" entailment="NO">
+	<t>Nella stagione 2008/2009 è il vice-capocannoniere del girone C dopo 20 giornate con 10 reti.</t>
+	<h>Nella stagione 2008/2009 è il vice-capocannoniere del girone C dopo 19 giornate con ben 10 reti.</h> 
+</pair>
+<pair id="1516" task="WIKI" entailment="YES">
+	<t>Partecipa anche alle Giochi olimpici di Parigi, giocando da titolare i tre incontri della rappresentativa italiana.</t>
+	<h>Partecipa anche alle Olimpiadi di Parigi, giocando da titolare i tre incontri della rappresentativa italiana.</h> 
+</pair>
+<pair id="1517" task="WIKI" entailment="YES">
+	<t>Ivano Blason (San Lorenzo Isontino, provincia di Gorizia, 24 maggio 1923 – 2002) è stato un giocatore di calcio (sport) italiano nel ruolo di terzino destro.</t>
+	<h>Ivano Blason (24 maggio 1923 – 2002) è stato un giocatore di calcio (sport) italiano nel ruolo di terzino destro.</h> 
+</pair>
+<pair id="1518" task="WIKI" entailment="NO">
+	<t>Lo stesso ha fatto il comune di San Benedetto del Tronto, che nel 1949 intitolò il campo sportivo, allora utilizzato dalla Sambenedettese, ai due fratelli.</t>
+	<h>Lo stesso ha fatto il comune di San Benedetto del Tronto, che negli anni 70 intitolò il campo sportivo, allora utilizzato dalla Sambenedettese, ai due fratelli.</h> 
+</pair>
+<pair id="1519" task="WIKI" entailment="NO">
+	<t>Alfonso Camorani (Cercola, 21 febbraio 1978) è un calciatore Italia che milita come centrocampista nel Treviso FBC. È alto 179 cm e pesa 72 kg.</t>
+	<h>Alfonso Camorani (Cercola, 21 febbraio 1978) è un calciatore Italia che milita come centrocampista nel Unione Sportiva Lecce. È alto 179 cm e pesa 72 kg.</h> 
+</pair>
+<pair id="1520" task="WIKI" entailment="YES">
+	<t>Nella Serie A 2003-2004 va in ritiro con la prima squadra ed è il terzo portiere della rosa alle spalle di Ivan Pelizzoli e Carlo Zotti.</t>
+	<h>Nella stagione 2003/04 va in ritiro con la prima squadra ed è il terzo portiere della rosa alle spalle di Ivan Pelizzoli e Carlo Zotti.</h> 
+</pair>
+<pair id="1521" task="WIKI" entailment="NO">
+	<t>Cresciuto nella primavera (calcio) del SSC Napoli, nel 1982 fu ceduto in prestito alla Società Sportiva Cavese 1919 in Serie C per fare esperienza.</t>
+	<h>Promettente centrocampista della primavera (calcio) del SSC Napoli, nel 1982 fu ceduto in prestito alla Società Sportiva Cavese 1919 in Serie C per fare esperienza.</h> 
+</pair>
+<pair id="1522" task="WIKI" entailment="YES">
+	<t>Ha allenato successivamente numerose squadre soprattutto in serie C. Tra le altre US Lecce, Barletta Calcio, Acireale Calcio e Toma Maglie</t>
+	<h>Ha allenato successivamente numerose squadre soprattutto in serie C. Tra le altre US Lecce, Barletta Calcio e Acireale Calcio.</h> 
+</pair>
+<pair id="1523" task="WIKI" entailment="YES">
+	<t>Il 1975 è anche l'anno dell'incidente stradale, per cui Vincenzo Guerini, 22 anni, dovette lasciare anzitempo il calcio giocato.</t>
+	<h>Il 1975 è anche l'anno dello sfortunato incidente stradale, per cui Vincenzo Guerini, 22 anni, dovette lasciare anzitempo il calcio giocato.</h> 
+</pair>
+<pair id="1524" task="WIKI" entailment="NO">
+	<t>La sua annata migliore è quella Serie A 1995-1996, in cui ha anche l'opportunità di segnare ben otto reti (record della sua carriera).</t>
+	<h>La sua annata migliore è quella Classifica calcio Serie A italiana 1996, in cui ha anche l'opportunità di segnare ben otto reti (record della sua carriera).</h> 
+</pair>
+<pair id="1525" task="WIKI" entailment="NO">
+	<t>Nel Serie B 2003-2004 è ingaggiato dal Football Club Messina Peloro, in Serie B (calcio), che al termine del campionato ottiene la promozione.</t>
+	<h>Nel Classifica calcio Serie B italiana 2004 è ingaggiato dal Football Club Messina Peloro, in Serie B (calcio), che al termine del campionato ottiene la promozione.</h> 
+</pair>
+<pair id="1526" task="WIKI" entailment="NO">
+	<t>Confermato anche nei cadetti, Bertarelli totalizzò 14 goal nel Serie B 1972-1973, non sufficienti però a portare la compagine marchigiana nella massima serie.</t>
+	<h>Confermato anche nei cadetti, Bertarelli totalizzò 14 goal nel Classifica calcio Serie B italiana 1973, non sufficienti però a portare la compagine marchigiana nella massima serie.</h> 
+</pair>
+<pair id="1527" task="WIKI" entailment="YES">
+	<t>Durante il suo lavoro sono stati scoperti ottimi elementi come Martins, Giovanni Pasquale, Francesco Bolzoni e Balotelli, che si sono poi affermati ad alti livelli.</t>
+	<h>Durante il suo lavoro sono stati scoperti ottimi elementi come Martins, Pasqaule, Bolzoni e Balotelli, che si sono poi affermati ad alti livelli.</h> 
+</pair>
+<pair id="1528" task="WIKI" entailment="YES">
+	<t>Dopo un solo campionato in Friuli fu acquistato dalla Associazione Sportiva Roma 1951-1952, all'epoca in Serie B, dove rimase ugualmente una sola stagione, centrando la promozione.</t>
+	<h>Dopo un solo campionato in Friuli fu acquistato dalla Associazione Sportiva Roma 1951-1952, all'epoca in Serie B, dove rimase ugualmente una sola stagione.</h> 
+</pair>
+<pair id="1529" task="WIKI" entailment="NO">
+	<t>Crea un sito internet con notizie e controinformazione.</t>
+	<h>Crea un sito internet con molti servizi, notizie e controinformazione.</h> 
+</pair>
+<pair id="1530" task="WIKI" entailment="YES">
+	<t>Cercò di sopravvivere riparando Bicicletta o facendo il calzolaio nei popolari quartieri di San Lorenzo (zona di Roma) e Testaccio.</t>
+	<h>Cercò di sopravvivere riparando Bicicletta o facendo il ciabattino nei popolari quartieri di San Lorenzo (zona di Roma) e Testaccio.</h> 
+</pair>
+<pair id="1531" task="WIKI" entailment="NO">
+	<t>Fu in quell'anno che Sacco e Vanzetti si conobbero ed entrarono entrambi a far parte di un gruppo anarchico italoamericano.</t>
+	<h>Fu in quell'anno che "Nick" e "Bart" si conobbero ed entrarono entrambi a far parte di un gruppo anarchico italoamericano.</h> 
+</pair>
+<pair id="1532" task="WIKI" entailment="YES">
+	<t>Nel luglio 2009 la Federazione lo designa come rappresentante italiano al torneo calcistico della XXV Universiade in programma a Belgrado.</t>
+	<h>Nel luglio 2009 la Federazione lo designa come rappresentante italiano al torneo calcistico della 25. Universiade in programma a Belgrado</h> 
+</pair>
+<pair id="1533" task="WIKI" entailment="NO">
+	<t>Attualmente (aprile 2008), ha raccolto 17 presenze nella massima divisione.</t>
+	<h>Attualmente (marzo 2008), ha raccolto 17 presenze nella massima divisione.</h> 
+</pair>
+<pair id="1534" task="WIKI" entailment="NO">
+	<t>In serie A ha diretto 160 partite, e nel 2006 è stato proposto per i Campionato mondiale di calcio 2006.</t>
+	<h>In serie A ha diretto 160 partite, e nel 2006 è stato proposto per i Mondiali di calcio Germania 2006.</h> 
+</pair>
+<pair id="1535" task="WIKI" entailment="NO">
+	<t>Sinora (aprile 2009) ha diretto 172 partite in massima serie.</t>
+	<h>Sinora (marzo 2009) ha diretto 172 partite in massima serie.</h> 
+</pair>
+<pair id="1536" task="WIKI" entailment="YES">
+	<t>Nella stagione 1991-1992 nuovo trasferimento, sempre in serie B, stavolta alla Casertana (31 incontri da titolare con 4 gol realizzati).</t>
+	<h>Nella stagione 1991-1992 nuovo trasferimento, stavolta alla Casertana (31 incontri da titolare con 4 gol realizzati).</h> 
+</pair>
+<pair id="1537" task="WIKI" entailment="YES">
+	<t>Acquistato giovanissimo dall'Empoli Football Club come giovane promessa dal Sant'Anastasia, la squadra della sua città, ha trovato spazio come professionista nel Pisa Calcio.</t>
+	<h>Acquistato giovanissimo dall'Empoli Football Club come giovane promessa dal Sant'Anastasia, ha trovato spazio come professionista nel Pisa Calcio.</h> 
+</pair>
+<pair id="1538" task="WIKI" entailment="NO">
+	<t>Fortunato Baldinotti (Firenze 1908-18 Maggio 1947) è stato un calciatore italiano.</t>
+	<h>Fortunato Baldinotti (Firenze 1908-Firenze 18 Maggio 1947) è stato un calciatore italiano.</h> 
+</pair>
+<pair id="1539" task="WIKI" entailment="YES">
+	<t>Conta 194 presenze in serie A e 15 gol realizzate</t>
+	<h>Conta 194 presenze in serie A e 15 reti realizzate</h> 
+</pair>
+<pair id="1540" task="WIKI" entailment="YES">
+	<t>Nel 1936 fu convocato da Vittorio Pozzo per le Olimpiadi di Berlino, dove conquistò l'oro.</t>
+	<h>Nel 1936 fu convocato da Vittorio Pozzo per le Olimpiadi di Berlino, dove la Nazionale di calcio italiana conquistò l'oro.</h> 
+</pair>
+<pair id="1541" task="WIKI" entailment="YES">
+	<t>Esordisce in Serie A con la maglia dell'Ascoli nella Serie A 2006-2007, a 17 anni, collezionando 3 presenze.</t>
+	<h>Esordisce in Serie A nella Serie A 2006-2007, a 17 anni, collezionando 3 presenze.</h> 
+</pair>
+<pair id="1542" task="WIKI" entailment="NO">
+	<t>Alto 1,83 metri per 70 chilogrammi di peso, veste la maglia dell'Ascoli Calcio 1898 dove gioca nel ruolo di centrocampista.</t>
+	<h>Alto 1,83 metri per 70 chilogrammi di peso, veste la maglia dell'Unione Calcio AlbinoLeffe dove gioca nel ruolo di centrocampista.</h> 
+</pair>
+<pair id="1543" task="WIKI" entailment="NO">
+	<t>E' cresciuto nel quartiere Avellino di San Martino V.C.</t>
+	<h>E' cresciuto nel quartiere Napoli di San Martino V.C.</h> 
+</pair>
+<pair id="1544" task="WIKI" entailment="NO">
+	<t>Dal 1998 vive a Varese, dove ha allenato formazioni giovanili della squadra della città Lombardia.</t>
+	<h>Dal 1998 vive a Varese, dove allena formazioni giovanili della squadra della città Lombardia.</h> 
+</pair>
+<pair id="1545" task="WIKI" entailment="YES">
+	<t>Giuseppe Cavanna è stato un calciatore italiano attivo negli anni '30, nel ruolo di portiere.</t>
+	<h>Giuseppe Cavanna è stato un calciatore, attivo negli anni '30, nel ruolo di portiere.</h> 
+</pair>
+<pair id="1546" task="WIKI" entailment="NO">
+	<t>Nel video musicale della canzone "No Shelter" del gruppo Rage Against The Machine, appare più volte la scena della condanna a morte.</t>
+	<h>Nel video musicale della canzone "No Shelter" del gruppo Rage Against The Machine, appare più volte la scena della condanna a morte per sedia elettrica.</h> 
+</pair>
+<pair id="1547" task="WIKI" entailment="NO">
+	<t>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 22 presenze nella massima divisione (dati aggiornati al novembre 2008).</t>
+	<h>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 20 presenze nella massima divisione (dati aggiornati all'ottobre 2008).</h> 
+</pair>
+<pair id="1548" task="WIKI" entailment="YES">
+	<t>Guaita e Carlini furono per un biennio una coppia famosa di terzini che restò impressa nella memoria degli sportivi ferraresi.</t>
+	<h>Guaita e Carlini furono per un biennio una coppia famosa di terzini che restò impressa agli sportivi ferraresi.</h> 
+</pair>
+<pair id="1549" task="WIKI" entailment="YES">
+	<t>Fu scelto per il ruolo di rappresentante italiano ai mondiali di calcio in Cile, dove arbitrò ad Arica il 6 giugno Nazionale di calcio sovietica-Nazionale di calcio uruguayana 2:1.</t>
+	<h>Fu scelto per il ruolo di rappresentante italiano ai mondiali di calcio in Cile, dove arbitrò Nazionale di calcio sovietica-Nazionale di calcio uruguayana.</h> 
+</pair>
+<pair id="1550" task="WIKI" entailment="NO">
+	<t>Fa il suo esordio con la Nazionale Italiana "Under 21" di Serie C il 18 Aprile 1990 contro la Tunisia Olimpica. Italia C «Under 21» - Tunisia Olimpica 0-1</t>
+	<h>Fa il suo esordio con la Nazionale Italiana "Under 21" di Serie C a Giarre il 18 Aprile 1990 contro la Tunisia Olimpica, Italia C «Under 21»-Tunisia Olimpica 0-1</h> 
+</pair>
+<pair id="1551" task="WIKI" entailment="NO">
+	<t>Cacia conta 6 convocazioni con le Nazionali giovanili azzurre. Nel dettaglio ha collezionato una presenza con l'Nazionale di calcio dell'Italia Under-17 e 3 con l'Nazionale di calcio dell'Italia Under-19.</t>
+	<h>Cacia conta 6 convocazioni con le nazionali giovanili azzurre. Nel dettaglio ha collezionato 1 presenza con l'Nazionale di calcio dell'Italia Under-17 e 3 con l'Nazionale di calcio dell'Italia Under-18.</h> 
+</pair>
+<pair id="1552" task="WIKI" entailment="YES">
+	<t>Nel 1949 farà coppia con Domenico De Vito che, come Nesti, arriva da Scafati oltre all'altro neo acquisto Silvano Trevisani e Ciccarelli esploderà leteralmente mettendo a segno 17 reti.</t>
+	<h>Nel 1949 farà coppia con Domenico De Vito che, come Nesti, arriva da Scafati e Ciccarelli esploderà leteralmente mettendo a segno 17 reti.</h> 
+</pair>
+<pair id="1553" task="WIKI" entailment="YES">
+	<t>Fino al 2008, e a 40 anni d'età, delizia seppur con qualche pausa a causa dell'età, i suoi tifosi.</t>
+	<h>Tutt'ora, nel 2008, e a 40 anni d'età, delizia seppur con qualche pausa a causa dell'età, i suoi tifosi.</h> 
+</pair>
+<pair id="1554" task="WIKI" entailment="NO">
+	<t>Per consentirgli di giocare e fare esperienza, il Cagliari lo cede in prestito semestrale al Venezia Calcio durante il mercato di gennaio 2007.</t>
+	<h>Per consentirgli di giocare e fare esperienza, il Cagliari Calcio lo cede in prestito semestrale al Venezia Calcio durante il mercato di Gennaio 2006/2007.</h> 
+</pair>
+<pair id="1555" task="WIKI" entailment="YES">
+	<t>Finita questa esperienza, nella stagione Serie A 2008-2009 il giovane viene richiamato dall'Atalanta, dove parte come secondo portiere dietro il titolare Ferdinando Coppola.</t>
+	<h>Finita questa esperienza, il giovane portiere viene richiamato dall'Atalanta nella stagione Serie A 2008-2009, dove parte come secondo portiere dietro il titolare Ferdinando Coppola.</h> 
+</pair>
+<pair id="1556" task="WIKI" entailment="NO">
+	<t>Alessandro Camisa (San Cesario, 13 aprile 1985) è un calciatore che attualmente gioca come difensore esterno nella Sambenedettese. È alto 179 cm e pesa 78 kg.</t>
+	<h>Alessandro Camisa (San Cesario, 13 aprile 1985) è un calciatore che attualmente gioca come difensore esterno nel Unione Sportiva Lecce. È alto 179 cm e pesa 78 kg.</h> 
+</pair>
+<pair id="1557" task="WIKI" entailment="YES">
+	<t>Con la formazione calabrese, allenata da Bruno Giorgi, sfiora subito uno storico salto in Serie A nella stagione Serie B 1988-1989, annata in cui Caneo realizza 5 gol pesantissimi.</t>
+	<h>Con la formazione calabrese sfiora subito uno storico salto in Serie A nella stagione Serie B 1988-1989, annata in cui Caneo realizza 5 gol pesantissimi.</h> 
+</pair>
+<pair id="1558" task="WIKI" entailment="YES">
+	<t>A fine anno avrà collezionato 9 presenze e 1 rete. il 19 agosto 2008 viene ceduto in prestito con diritto di riscatto al Lanerossi Vicenza militante nella serie B</t>
+	<h>A fine anno avrà collezionato 9 presenze e 1 rete. il 19 agosto 2008 viene ceduto in prestito con diritto di riscatto al Vicenza Calcio.</h> 
+</pair>
+<pair id="1559" task="WIKI" entailment="YES">
+	<t>Negli ultimi giorni del calciomercato estivo del 2008 viene ceduto in prestito con diritto di riscatto al Vicenza Calcio, di cui diventa subito un'importante pedina, disputando ben 35 incontri.</t>
+	<h>Negli ultimi giorni del calciomercato estivo del 2008 viene ceduto in prestito con diritto di riscatto al Vicenza Calcio, di cui diventa subito un'importante pedina.</h> 
+</pair>
+<pair id="1560" task="WIKI" entailment="NO">
+	<t>Con la maglia biancoceleste ha debuttato, sostituendo Marcelo Salas il 7 novembre 2000, nella seconda fase di Champions League, nella partita Sparta Praga-Lazio 0-1 disputata al AXA Arena.</t>
+	<h>Con la maglia biancoceleste ha debuttato, sostituendo Marcel Salas il 7 novembre 2000, nella seconda fase di Champions League, nella partita Sparta Praga-Lazio 0-1 disputata al Letenský stadionin.</h> 
+</pair>
+<pair id="1561" task="WIKI" entailment="YES">
+	<t>Arturo Boiocchi (1888 - 1964) è stato un calciatore italiano, giocava nel ruolo di attaccante.</t>
+	<h>Arturo Boiocchi è stato un calciatore italiano, giocava nel ruolo di attaccante.</h> 
+</pair>
+<pair id="1562" task="WIKI" entailment="NO">
+	<t>Mazza lo cede poi al Brescia Calcio dove disputa un altro campionato di Serie B per poi passare alla Salernitana Calcio 1919</t>
+	<h>Mazza lo cede poi al Brescia Calcio dove disputa un altro campionato di Serie B per poi passare alla Salernitana Calcio 1919 ed infine alla Unione Sportiva Cremonese</h> 
+</pair>
+<pair id="1563" task="WIKI" entailment="YES">
+	<t>Bruno Beatrice fu un calciatore italiano nato a Milano nel 1948 e morto ad Arezzo il 17 dicembre 1987.</t>
+	<h>Bruno Beatrice fu un calciatore italiano nato a Milano nel 1948 e morto ad Arezzo nel 1987.</h> 
+</pair>
+<pair id="1564" task="WIKI" entailment="YES">
+	<t>Il 12 agosto 2009, dopo la retrocessione dei giallorossi, passa in prestito al Livorno Calcio sempre in serie A.</t>
+	<h>Nell'agosto 2009, dopo la retrocessione dei giallorossi, passa in prestito al Livorno Calcio sempre in serie A.</h> 
+</pair>
+<pair id="1565" task="WIKI" entailment="YES">
+	<t>Inizia nella primavera dell'Inter, prima di passare in serie C con la maglia del Calcio Lecco.</t>
+	<h>Inizia nella primavera Internazionale di Milano, prima di passare in serie C con la maglia del Calcio Lecco.</h> 
+</pair>
+<pair id="1566" task="WIKI" entailment="NO">
+	<t>Furono prescritti anche gli ex manager Fininvest Ubaldo Livolsi, Giancarlo Foscale e Alfredo Zuccotti.</t>
+	<h>Furono assolti gli ex manager Fininvest Ubaldo Livolsi, Giancarlo Foscale e Alfredo Zuccotti.</h> 
+</pair>
+<pair id="1567" task="WIKI" entailment="YES">
+	<t>Il 27 luglio 2009 viene ingaggiato dall'AC Ancona che lo contrattualizza sino al 2011.</t>
+	<h>Nel luglio 2009 viene ingaggiato dall'AC Ancona che lo contrattualizza sino al 2011.</h> 
+</pair>
+<pair id="1568" task="WIKI" entailment="NO">
+	<t>Nel 1993 passa alla Società Sportiva Lazio dove però gioca solo poche partite.</t>
+	<h>Nel 1993 passa alla Società Sportiva Lazio dove però gioca solo le prime partite.</h> 
+</pair>
+<pair id="1569" task="WIKI" entailment="YES">
+	<t>Vive a Reggio Calabria ormai sua città da 23 anni (1986) dove ha celebrato anche il martimonio al Duomo di Reggio Calabria.</t>
+	<h>Vive a Reggio Calabria ormai sua città da più di 20 anni dove ha celebrato anche il martimonio al Duomo di Reggio Calabria.</h> 
+</pair>
+<pair id="1570" task="WIKI" entailment="YES">
+	<t>Nato da Salvatore e Silvia, napoletani ma emigrati a Genova giovanissimi, collaborò da giovanissimo con propri testi con la Compagnia goliardica Mario Baistrocchi.</t>
+	<h>Nato da Salvatore e Silvia, collaborò da giovanissimo con propri testi con la Compagnia goliardica Mario Baistrocchi.</h> 
+</pair>
+<pair id="1571" task="WIKI" entailment="YES">
+	<t>È detto ''l'Airone'' per il suo modo di esultare.</t>
+	<h>È soprannominato ''l'Airone'' per il suo modo di esultare.</h> 
+</pair>
+<pair id="1572" task="WIKI" entailment="YES">
+	<t>Una curiosità: per il secondo anno consecutivo la squadra in cui milita il giocatore retrocede in Serie B.</t>
+	<h>Una curiosità: per il secondo anno consecutivo la squadra in cui milita il giocatore retrocede al torneo inferiore.</h> 
+</pair>
+<pair id="1573" task="WIKI" entailment="NO">
+	<t>Bruno Cicogna (Venezia, 25 Maggio 1937) è un ex calciatore italiano, che giocava nel ruolo di ala (calcio).</t>
+	<h>Bruno Cicogna (Venezia, 25 Maggio 1937) è un ex calciatore italiano, che giocava nel ruolo di ala sinistra.</h> 
+</pair>
+<pair id="1574" task="WIKI" entailment="NO">
+	<t>E' unanimamente considerato il più convincente estremo difensore della sua generazione.</t>
+	<h>E' unanimamente considerato il più convincente nel ruolo della sua generazione.</h> 
+</pair>
+<pair id="1575" task="WIKI" entailment="YES">
+	<t>Baresi lascia la Nazionale a 34 anni, dopo la sua ultima partita contro la il 7 settembre 1994.</t>
+	<h>Baresi lascia la Nazionale dopo la sua ultima partita contro la il 7 settembre 1994, a 34 anni.</h> 
+</pair>
+<pair id="1576" task="WIKI" entailment="YES">
+	<t>Un infortunio lo relega successivamente ai margini della rosa, tanto da essere ceduto al Brescia tra i cadetti.</t>
+	<h>Purtroppo un infortunio lo relega ai margini della rosa, tanto da essere ceduto al Brescia tra i cadetti.</h> 
+</pair>
+<pair id="1577" task="WIKI" entailment="YES">
+	<t>A gennaio 2008 passa in prestito al Siena Calcio.</t>
+	<h>A gennaio 2008 passa al Siena Calcio.</h> 
+</pair>
+<pair id="1578" task="WIKI" entailment="NO">
+	<t>La sua attivita' arbitrale e' poi proseguita fino alla CAN C, dove dirige ben 103 partite di cui 67 in serie C-1.</t>
+	<h>La sua attivita' arbitrale e' poi proseguita fino alla CAN C, dove dirige ben 41 partite in serie C-1.</h> 
+</pair>
+<pair id="1579" task="WIKI" entailment="YES">
+	<t>Nell'estate del 2009 firma un rinnovo triennale con il Rimini, ereditando allo stesso tempo anche la fascia di capitano dal partente Adrián Ricchiuti.</t>
+	<h>Nell'estate del 2009 firma un rinnovo triennale, ereditando allo stesso tempo anche la fascia di capitano dal partente Adrián Ricchiuti.</h> 
+</pair>
+<pair id="1580" task="WIKI" entailment="NO">
+	<t>Sposò Simona Marchini, figlia di Alvaro, allora presidente della Roma. È stato anche sposato in seconde nozze con Marisa Laurito.</t>
+	<h>Sposò, non senza polemiche Simona Marchini, figlia di Alvaro, allora presidente della Roma. È stato anche sposato in seconde nozze con Marisa Laurito.</h> 
+</pair>
+<pair id="1581" task="WIKI" entailment="YES">
+	<t>Nel suo palmares, figurano con i ducali un'altra Coppa Italia, una Supercoppa italiana e ben due Coppa UEFA nel 1995 e nel 1999.</t>
+	<h>Nel suo palmares, figurano con i ducali un'altra Coppa Italia e ben due Coppa UEFA nel 1995 e nel 1999.</h> 
+</pair>
+<pair id="1582" task="WIKI" entailment="NO">
+	<t>Con la formazione calabrese sfiora subito uno storico salto in Serie A nella stagione Serie B 1988-1989, annata in cui Caneo realizza 5 gol pesantissimi.</t>
+	<h>Con la formazione calabrese resta due stagioni, sfiorando uno storico salto in Serie A nella stagione Serie B 1988-1989, annata in cui Caneo realizza 5 gol pesantissimi.</h> 
+</pair>
+<pair id="1583" task="WIKI" entailment="YES">
+	<t>Secondo alcune stime, in Italia i decessi per infezione da emoderivati sono, al 2009, circa 2.600.</t>
+	<h>Secondo alcune stime, in Italia i decessi per infezione da emoderivati sono, al 2009, circa 2.500.</h> 
+</pair>
+<pair id="1584" task="WIKI" entailment="YES">
+	<t>A livello internazionale vanta la partecipazione ai mondiali di calcio FIFA under 17 disputati in Italia nel 1991.</t>
+	<h>A livello internazionale vanta la partecipazione ai mondiali di calcio FIFA under 17 disputati in Italia.</h> 
+</pair>
+<pair id="1585" task="WIKI" entailment="YES">
+	<t>Con la Nazionale di calcio dell'Italia under-21 ha vinto il Campionato di calcio europeo under-21 nel 2004.</t>
+	<h>Con la Nazionale di calcio dell'Italia under-21 ha vinto un Campionato di calcio europeo under-21.</h> 
+</pair>
+<pair id="1586" task="WIKI" entailment="YES">
+	<t>Nell'estate 2007 viene richiamato alla Reggina da Massimo Ficcadenti, che lo schiera in quasi tutte le amichevoli precampionato.</t>
+	<h>Viene richiamato alla Reggina da Massimo Ficcadenti, che lo schiera in quasi tutte le amichevoli precampionato.</h> 
+</pair>
+<pair id="1587" task="WIKI" entailment="YES">
+	<t>Federico Crovari (Milano 20 aprile 1975) è un calciatore italiano che gioca nel ruolo di centrocampista.</t>
+	<h>Federico Crovari (nato a Milano 20 aprile 1975) è un calciatore italiano che gioca nel ruolo di centrocampista.</h> 
+</pair>
+<pair id="1588" task="WIKI" entailment="YES">
+	<t>Dal 24 marzo 2009 è nuovamente sulla panchina del Torino Football Club, dove è subentrato a Walter Novellino.</t>
+	<h>Dal 24 marzo 2009 è nuovamente sulla panchina del Torino Football Club subentrando a Walter Novellino.</h> 
+</pair>
+<pair id="1589" task="WIKI" entailment="YES">
+	<t>Ha allenato il Sevegliano in Eccellenza e il Pozzuolo, collaborando anche con Milan, Real Madrid e Napoli Calcio.</t>
+	<h>Ha allenato il Sevegliano in Eccellenza e ha collaborato con Milan, Real Madrid e Napoli Calcio.</h> 
+</pair>
+<pair id="1590" task="WIKI" entailment="YES">
+	<t>Accusato di gravi delitti, fu additato come ''mostro'' dalla stampa.</t>
+	<h>Accusato di gravi delitti, fu additato alla pubblica opinione come ''mostro'' dalla stampa.</h> 
+</pair>
+<pair id="1591" task="WIKI" entailment="YES">
+	<t>Dino Ballarin (Chioggia, 23 settembre 1925 - Superga, 4 maggio 1949) fu un calcio (sport) italiano, nel ruolo di portiere.</t>
+	<h>Dino Ballarin (Chioggia, provincia di Venezia, 23 settembre 1925 - Superga, provincia di Torino, 4 maggio 1949) fu un calcio (sport) italiano, nel ruolo di portiere.</h> 
+</pair>
+<pair id="1592" task="WIKI" entailment="NO">
+	<t>Cresciuto nelle giovanili dell'Atalanta Bergamasca Calcio, contribuì all'epopea dell'Unione Calcio AlbinoLeffe, fino alla storica promozione in serie B (calcio) del sodalizio seriano.</t>
+	<h>Cresciuto nelle giovanili dell'real madrid, contribuì all'epopea dell'Unione Calcio AlbinoLeffe, fino alla storica promozione in serie B (calcio) del sodalizio seriano.</h> 
+</pair>
+<pair id="1593" task="WIKI" entailment="YES">
+	<t>C'è chi ha parlato di diciotto tra omicidi e casi di suicidio sospetti, tra i quali quelli di Andrea Ballarin e Cristian Frigerio.</t>
+	<h>C'è chi ha parlato di diciotto omicidi, tra i quali i suicidi di Andrea Ballarin e Cristian Frigerio.</h> 
+</pair>
+<pair id="1594" task="WIKI" entailment="YES">
+	<t>Fatale al tecnico le scelte non proprio felici di Cipriani e Gragnaniello, con l'accantonamento di Kenesei e De Angelis.</t>
+	<h>Fatale al tecnico le scelte non proprio felici di Cipriani e Gragnaniello.</h> 
+</pair>
+<pair id="1595" task="WIKI" entailment="NO">
+	<t>Viene convocato da Marcello Lippi in vista dell'amichevole del 12 Agosto 2009 contro la Nazionale di calcio della Svizzera.</t>
+	<h>L'8 Agosto 2009 viene convocato da Marcello Lippi in vista dell'amichevole del 12 Agosto 2009 contro la Nazionale di calcio della Svizzera.</h> 
+</pair>
+<pair id="1596" task="WIKI" entailment="YES">
+	<t>Ancora oggi è ricordato come uno dei più forti portieri del campionato italiano e di sempre, sicuramente il migliore del periodo ante-guerra.</t>
+	<h>Ancora oggi è ricordato come uno dei più forti portieri del campionato italiano, sicuramente il migliore del periodo ante-guerra.</h> 
+</pair>
+<pair id="1597" task="WIKI" entailment="YES">
+	<t>In quella gara, sul risultato di 1-1 Bergonzi concedette vergognosamente 2 calci di rigore inesistenti al Napoli.</t>
+	<h>In quella gara, sul risultato di 1-1 Bergonzi concedette 2 calci di rigore abbastanza dubbi al Napoli.</h> 
+</pair>
+<pair id="1598" task="WIKI" entailment="NO">
+	<t>Insieme allo stesso Vieri è fondatore della marca d'abbigliamento ''Baci e Abbracci''.</t>
+	<h>Insieme allo stesso Vieri e a Paolo Maldini è fondatore della marca d'abbigliamento ''Baci e Abbracci''.</h> 
+</pair>
+<pair id="1599" task="WIKI" entailment="YES">
+	<t>Potrà tornare a giocare dopo un periodo di stop che potrà andare dai 4 ai 6 mesi.</t>
+	<h>Potrà tornare a giocare dopo un periodo di stop che potrà andare dai quattro ai sei mesi.</h> 
+</pair>
+<pair id="1600" task="WIKI" entailment="YES">
+	<t>All'interno della stessa associazione aveva conosciuto, nel 1936, la futura moglie, Ethel Greenglass.</t>
+	<h>All'interno della stessa associazione aveva conosciuto, nel 1936, la futura moglie, Ethel.</h> 
+</pair>
+<pair id="1601" task="WIKI" entailment="NO">
+	<t>Ha una lunga carriera, con un esordio tardivo in Serie A.</t>
+	<h>Ha una lunga e importante carriera, con un esordio tardivo in Serie A.</h> 
+</pair>
+<pair id="1602" task="WIKI" entailment="NO">
+	<t>Vestì ancora, in Serie A, la maglia della SPAL 1907, nel 1967, quando Paolo Mazza tentò, con il suo inserimento, di dare più incisività all'attacco.</t>
+	<h>Vestì ancora, in Serie A, la maglia della SPAL 1907, nel 1967, quando Paolo Mazza tentò, con il suo inserimento, di dare più incisività all'attacco biancoazzurro.</h> 
+</pair>
+<pair id="1603" task="WIKI" entailment="NO">
+	<t>Nella formazione gigliata disputò ben sette campionati, prima di essere tesserato dall’Udinese Calcio.</t>
+	<h>Nella formazione gigliata disputò tre campionati, prima di essere tesserato dall’Udinese Calcio.</h> 
+</pair>
+<pair id="1604" task="WIKI" entailment="NO">
+	<t>Nella sua prima stagione in Serie A (calcio) gioca solo 13 partite, segnando due reti nel derby contro l'Inter vinto dai rossoneri.</t>
+	<h>Nella sua prima stagione in Serie A (calcio) gioca solo 13 partite, segnando due reti nel derby contro l'Inter vinto dai rossoneri con un clamoroso 6-0.</h> 
+</pair>
+<pair id="1605" task="WIKI" entailment="NO">
+	<t>Dal 2004 ha cominciato la carriera da allenatore, sedendosi sulla panchina prima del Rondinella e poi del Football Club Esperia Viareggio.</t>
+	<h>Dal 2006 ha cominciato la carriera da allenatore, sedendosi sulla panchina del Football Club Esperia Viareggio.</h> 
+</pair>
+<pair id="1606" task="WIKI" entailment="NO">
+	<t>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 30 presenze nella massima divisione (dati aggiornati al maggio 2009).</t>
+	<h>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 28 presenze nella massima divisione (dati aggiornati ad aprile 2009).</h> 
+</pair>
+<pair id="1607" task="WIKI" entailment="NO">
+	<t>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 28 presenze nella massima divisione (dati aggiornati ad aprile 2009).</t>
+	<h>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 27 presenze nella massima divisione (dati aggiornati al marzo 2009).</h> 
+</pair>
+<pair id="1608" task="WIKI" entailment="NO">
+	<t>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 24 presenze nella massima divisione (dati aggiornati al gennaio 2009).</t>
+	<h>Esordisce in Serie A il 23 dicembre 2006 in Livorno-Torino, e da allora ha raccolto 22 presenze nella massima divisione (dati aggiornati al novembre 2008).</h> 
+</pair>
+<pair id="1609" task="WIKI" entailment="NO">
+	<t>Realizza il suo primo gol in serie B il 13 Ottobre 2008 nella trasferta a Bergamo contro l'Albinoleffe con un gran destro dai 25 metri.</t>
+	<h>Realizza il suo primo gol in serie B il 14 settembre 2008 nella trasferta a bergamo contro l'Albinoleffe con un gran destro dai 25 metri.</h> 
+</pair>
+<pair id="1610" task="WIKI" entailment="NO">
+	<t>Nel 2007 alcune delle opere più importanti sono state esposte presso la casa natia del pittore, eccezionalmente aperta al pubblico.</t>
+	<h>Dal 31 marzo 2007 alcune delle opere più importanti sono esposte presso la casa natia del pittore, eccezionalmente aperta al pubblico.</h> 
+</pair>
+<pair id="1611" task="WIKI" entailment="YES">
+	<t>Ha militato per cinque stagioni con il Associazione Calcio Milan in Serie A senza mai riuscire a debuttare in campionato.</t>
+	<h>Ha militato per cinque stagioni con il Associazione Calcio Milan in Serie A ma non riesce mai a debuttare in campionato.</h> 
+</pair>
+<pair id="1612" task="WIKI" entailment="NO">
+	<t>Dopo una stagione alla Santegidiese nel novembre del 2008 viene ingaggiato dal Francavilla Calcio che partecipa al campionato di Eccellenza abruzzese.</t>
+	<h>Dopo una stagione alla Santegidiese nel novembre del 2008 viene ingaggiato dal Francavilla Calcio che partecipa al campionato di Eccellenza Pugliese.</h> 
+</pair>
+<pair id="1613" task="WIKI" entailment="YES">
+	<t>Ritornerà a segnare una doppietta su rigore l'11 aprile in casa del Lecce battuto 1-3.</t>
+	<h>Ritornerà a segnare una doppietta questa volta di rigore l'11 aprile in casa del Lecce battuto 1-3.</h> 
+</pair>
+<pair id="1614" task="WIKI" entailment="YES">
+	<t>I viola però non credono in lui e lo cedono in comproprietà al AS Bari (800.000 €).</t>
+	<h>I viola però non credono in lui e lo cedono in comproprietà al AS Bari.</h> 
+</pair>
+<pair id="1615" task="WIKI" entailment="YES">
+	<t>Il 3 luglio 2009, oramai libero da impegni contrattuali con la squadra calabrese, si accasa alla Salernitana.</t>
+	<h>Nell'estate 2009, oramai libero da impegni contrattuali con la squadra calabrese, si accasa alla Salernitana.</h> 
+</pair>
+<pair id="1616" task="WIKI" entailment="NO">
+	<t>Ritiratosi dall'attività agonistica nel 1994, intraprese la carriera come allenatore, iniziando dalle squadre giovanili.</t>
+	<h>Ritiratosi dall'attività agonistica nel 1994, intraprese la carriera come allenatore di calcio, iniziando dalle squadre giovanili.</h> 
+</pair>
+<pair id="1617" task="WIKI" entailment="YES">
+	<t>La stagione successiva, dopo essere rientrato alla Roma, viene ceduto in comproprietà nuovamente al Torino per 700.000€.</t>
+	<h>La stagione successiva, dopo essere rientrato alla Roma, viene ceduto in comproprietà nuovamente al Torino.</h> 
+</pair>
+<pair id="1618" task="WIKI" entailment="NO">
+	<t>Diego De Ascentis (Como, 31 luglio 1976) è un calciatore italiano che gioca nel ruolo di centrocampista nell'Atalanta Bergamasca Calcio. È alto 180 cm e pesa 77 kg.</t>
+	<h>Diego De Ascentis (Como, 31 luglio 1976) è un calciatore italiano che gioca nel ruolo di centrocampista nel Torino Football Club. È alto 180 cm e pesa 77 kg.</h> 
+</pair>
+<pair id="1619" task="WIKI" entailment="NO">
+	<t>Il gol dei rossoblù venne realizzato da Michele Padovano, suo grande amico, tant'è vero che nella successiva partita Cosenza-Messina (2-0) indossò la maglia numero 8 del compagno deceduto.</t>
+	<h>Il gol dei rossoblù venne realizzato da Michele Padovano, suo grande amico, tant'è vero che nella successiva partita Cosenza-Messina (2-0) indossò la maglia numero 8 che solitamente portava Bergamini.</h> 
+</pair>
+<pair id="1620" task="WIKI" entailment="YES">
+	<t>Anche la contrapposizione tra la figura del pio e religiosissimo Canella e quella dell'ateo, anarco-socialista Bruneri contribuì a infiammare gli animi.</t>
+	<h>Anche la contrapposizione tra il pio e religiosissimo Canella e l'ateo, anarco-socialista Bruneri contribuì a infiammare gli animi.</h> 
+</pair>
+<pair id="1621" task="WIKI" entailment="YES">
+	<t>Simile nell'argomento anche un film per la televisione statunitense del 1992, ''Il freddo cuore di Chris'' (titolo originale: ''Honor thy mother'').</t>
+	<h>Simile nell'argomento anche un film-tv statunitense del 1992, ''Il freddo cuore di Chris'' (titolo originale: ''Honor thy mother'').</h> 
+</pair>
+<pair id="1622" task="WIKI" entailment="YES">
+	<t>Carlo Annovazzi (Milano, 24 maggio 1925 - 1980) fu un giocatore di calcio italiano che ha ricoperto il ruolo di mediano.</t>
+	<h>Carlo Annovazzi (1925 - 1980) fu un giocatore di calcio italiano che ha ricoperto il ruolo di mediano.</h> 
+</pair>
+<pair id="1623" task="WIKI" entailment="YES">
+	<t>Mio nonno non è il secondo da sinistra in basso, ma è il secondo da destra in basso guardando la fotografia.</t>
+	<h>Mio nonno non è il secondo da sinistra in basso, ma è il secondo da destra in basso.</h> 
+</pair>
+<pair id="1624" task="WIKI" entailment="YES">
+	<t>Per cercare di migliorare le cose, il presidente Spinelli decide di esonerare Camolese alla terzultima giornata, per richiamare in panchina Orsi.</t>
+	<h>Per cercare di migliorare le cose, il presidente Spinelli decide di esonerare Camolese, per richiamare in panchina Orsi.</h> 
+</pair>
+<pair id="1625" task="WIKI" entailment="NO">
+	<t>A diciassette anni, nel 1928, esordisce col Calcio Padova nella partita contro il Torino F.C., allora campione d’Italia.</t>
+	<h>A diciassette anni, nel 1928, esordiva in serie A col Calcio Padova nella partita contro il Torino F.C., allora campione d’Italia.</h> 
+</pair>
+<pair id="1626" task="WIKI" entailment="YES">
+	<t>Appartenente alla prestigiosa sezione Associazione Italiana Arbitri di Firenze, della quale fa parte anche l'arbitro internazionale Gianluca Rocchi e Leonardo Baracani, svolge la professione di commercialista.</t>
+	<h>Appartenente alla prestigiosa sezione Associazione Italiana Arbitri di Firenze, della quale fa parte anche l'arbitro internazionale Gianluca Rocchi, svolge la professione di commercialista.</h> 
+</pair>
+<pair id="1627" task="WIKI" entailment="NO">
+	<t>Attualmente (gennaio 2009) vanta 64 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (novembre 2008) vanta 61 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1628" task="WIKI" entailment="NO">
+	<t>Attualmente (gennaio 2009) vanta 91 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (novembre 2008) vanta 88 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1629" task="WIKI" entailment="NO">
+	<t>Attualmente (marzo 2008) vanta 82 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</t>
+	<h>Attualmente (febbraio 2008) vanta 80 presenze nella massima divisione, dove regolarmente appare, in qualità di Assistente arbitro (calcio) internazionale, anche il fratello Stefano Ayroldi.</h> 
+</pair>
+<pair id="1630" task="WIKI" entailment="NO">
+	<t>Ad oggi (novembre 2008), vanta 80 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.Vollidiot</t>
+	<h>Ad oggi (ottobre 2008), vanta 77 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.Vollidiot</h> 
+</pair>
+<pair id="1631" task="WIKI" entailment="NO">
+	<t>Ad oggi (aprile 2009), vanta 89 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.</t>
+	<h>Ad oggi (marzo 2009), vanta 87 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.</h> 
+</pair>
+<pair id="1632" task="WIKI" entailment="NO">
+	<t>Ad oggi (marzo 2009), vanta 87 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.</t>
+	<h>Ad oggi (gennaio 2009), vanta 84 presenze nella massima divisione, di cui ben 17 nell'ultima stagione.</h> 
+</pair>
+<pair id="1633" task="WIKI" entailment="YES">
+	<t>Appartenente alla sezione AIA di Arezzo, venne promosso alla Commissione arbitri nazionale (CAN) A e B nel 1998 per decisione del designatore Tullio Lanese.</t>
+	<h>Appartenente alla sezione AIA di Arezzo, venne promosso alla CAN (Commissione arbitri nazionale) A e B nel 1998 per decisione del designatore Tullio Lanese.</h> 
+</pair>
+<pair id="1634" task="WIKI" entailment="YES">
+	<t>Dopo un gol nel derby con il Bari l' 11 Dicembre 1999 verrà soprannominato "il Sindaco".</t>
+	<h>Dopo un gol nel derby con il Bari verrà soprannominato "il Sindaco".</h> 
+</pair>
+<pair id="1635" task="WIKI" entailment="NO">
+	<t>I tifosi rossazzurri lo hanno soprannominato ''la streghetta''.</t>
+	<h>I tifosi rossazzurri come diego consalvo lo hanno soprannominato ''la streghetta''.</h> 
+</pair>
+<pair id="1636" task="WIKI" entailment="NO">
+	<t>Nella stagione 2008/2009 è il vice-capocannoniere del girone C dopo 18 giornate con ben 10 reti.</t>
+	<h>Nella stagione 2008/2009 è il capocannoniere del girone C dopo 17 giornate con ben 10 reti.</h> 
+</pair>
+<pair id="1637" task="WIKI" entailment="YES">
+	<t>Lorenzo Buffon è il padre di Gianluigi Buffon, attuale portiere della Nazionale Italiana di Calcio.</t>
+	<h>Lorenzo Buffon è il padre dello stimato e attuale portiere della Nazionale Italiana di Calcio.</h> 
+</pair>
+<pair id="1638" task="WIKI" entailment="NO">
+	<t>È un non giocatore che ricopre (malamente) sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</t>
+	<h>È un giocatore polivalente che sa ricoprire sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</h> 
+</pair>
+<pair id="1639" task="WIKI" entailment="NO">
+	<t>La sua condizione divenne intollerabile, tanto che, su insistenza del padre, si trasferì in Brasile, insieme con il presunto marito, non appena questi ebbe scontata la pena carceraria.</t>
+	<h>La sua condizione divenne intollerabile, tanto che, su insistenza del padre, si trasferì in Brasile, raggiunta dal presunto marito non appena questi ebbe scontata la pena carceraria.</h> 
+</pair>
+<pair id="1640" task="WIKI" entailment="NO">
+	<t>Nel 1999 e nel 2001 vinse l'Oscar del calcio, il premio assegnato dall'Associazione Italiana Calciatori al Miglior arbitro AIC.</t>
+	<h>Nel 1999 e nel 2001 vinse l'Oscar del calcio, il premio assegnato dall'Associazione Italiana Calciatori al miglior arbitro del campionato.</h> 
+</pair>
+<pair id="1641" task="WIKI" entailment="YES">
+	<t>Nell'agosto 2007 ha rappresentato la classe arbitrale italiana alle Universiadi di Bangkok</t>
+	<h>Nell'agosto 2007 rappresenterà la classe arbitrale italiana alle Universiadi di Bangkok</h> 
+</pair>
+<pair id="1642" task="WIKI" entailment="YES">
+	<t>Dopo tre ottime stagioni in biancoverde, arriva la chiamata della Juventus.</t>
+	<h>Dopo tre ottime stagioni in biancoverde, arriva la chiamata della Vecchia Signora.</h> 
+</pair>
+<pair id="1643" task="WIKI" entailment="NO">
+	<t>Nel giugno 1996 Cesare muore a Deiva Marina, aveva 97 anni.</t>
+	<h>Il 30 giugno 1996 Cesare muore a Deiva Marina, aveva 97 anni.</h> 
+</pair>
+<pair id="1644" task="WIKI" entailment="NO">
+	<t>Nel 2000-2001 un secondo Centi (Luis Fernando) ha giocato nel Como.</t>
+	<h>Nel 2000-2001 un secondo Centi (Luis Fernando Centi) ha giocato nel Como.</h> 
+</pair>
+<pair id="1645" task="WIKI" entailment="YES">
+	<t>Nel settembre del 2008 è passato in prestito al Potenza Sport Club.</t>
+	<h>Nel settembre del 2008 passa in prestito al Potenza Sport Club.</h> 
+</pair>
+<pair id="1646" task="WIKI" entailment="YES">
+	<t>Nel 12 luglio 2009 viene acquistato a titolo definitivo dal Associazione Calcio ChievoVerona.</t>
+	<h>Nel 2009 viene acquistato a titolo definitivo dal Associazione Calcio ChievoVerona.</h> 
+</pair>
+<pair id="1647" task="WIKI" entailment="YES">
+	<t>Nel 1991 passa al Bologna FC 1909 dove gioca 2 stagioni</t>
+	<h>Nel 1991 passa al Bologna Football Club 1909 dove gioca 2 stagioni</h> 
+</pair>
+<pair id="1648" task="WIKI" entailment="YES">
+	<t>Prima di allora fu il solo Olivieri ad essere convocato (in seguito questo onore spettera' a Sarti, Zoff, Zenga e il pronipote Gianluigi Buffon).</t>
+	<h>Prima di allora fu il solo Olivieri ad essere convocato (in seguito questo onore spettera' a Sarti, Zoff e Zenga).</h> 
+</pair>
+<pair id="1649" task="WIKI" entailment="YES">
+	<t>Il 7 luglio 2009, svincolatosi dal Bologna, firma un contratto biennale con il Cesena Calcio Antonioli nuovo portiere del Cesena</t>
+	<h>Il 7 luglio 2009 firma un contratto biennale con il Cesena Calcio Antonioli nuovo portiere del Cesena</h> 
+</pair>
+<pair id="1650" task="WIKI" entailment="YES">
+	<t>Appartenente alla sezione AIA ascolana, è uno degli elementi più esperti presenti nell'organico Commissione Arbitri Nazionale.</t>
+	<h>Appartenente alla sezione AIA ascolana, è uno degli elementi più esperti presenti nell'organico CAN.</h> 
+</pair>
+<pair id="1651" task="WIKI" entailment="YES">
+	<t>Acerbis è ricordato per l'estremo atteggiamento di chiusura che mostrava nei rapporti con la stampa.</t>
+	<h>Acerbis è ricordato per l'estrema chiusura che mostrava nei rapporti con la stampa.</h> 
+</pair>
+<pair id="1652" task="WIKI" entailment="YES">
+	<t>Nel 1985 si è ammalato di leucemia linfoblastica acuta, di cui è morto due anni dopo.</t>
+	<h>Nel 1985 si è ammalato di leucemia, di cui è morto due anni dopo.</h> 
+</pair>
+<pair id="1653" task="WIKI" entailment="YES">
+	<t>Nel 2001 una doppietta a Stadio Giuseppe Meazza contro il Associazione Calcio Milan lo consacra definitivamente.</t>
+	<h>Una doppietta a Stadio Giuseppe Meazza contro il Associazione Calcio Milan lo consacra definitivamente.</h> 
+</pair>
+<pair id="1654" task="WIKI" entailment="YES">
+	<t>Ha allenato il Sevegliano in Eccellenza e ha collaborato con Milan, Real Madrid e Napoli Calcio.</t>
+	<h>Ha allenato il Sevegliano in Eccellenza e ha collaborato con Milan e Napoli Calcio.</h> 
+</pair>
+<pair id="1655" task="WIKI" entailment="YES">
+	<t>Memorabile è il gol segnato da Caserta a Cremona: un tiro potente da fuori area dritto sotto l'incrocio dei pali, imprendibile per il portiere proteso in tuffo.</t>
+	<h>Memorabile è il gol segnato da Caserta a Cremona: un tiro potente da fuori area dritto sotto l'incrocio dei pali.</h> 
+</pair>
+<pair id="1656" task="WIKI" entailment="NO">
+	<t>In carriera è stato spesso abbinato al guardalinee, ex collega di sezione a Bologna, Stefano Saglietti, recentemente dismesso dalla CAN.</t>
+	<h>In carriera è stato spesso abbinato al guardalinee, ex collega di sezione a Bologna, Stefano Saglietti, anch'egli attualmente alla CAN.</h> 
+</pair>
+<pair id="1657" task="WIKI" entailment="NO">
+	<t>Dopo altre due stagioni trascorse nel club sanbenedettese, in Serie C1 e poi in Serie C2, passa al Unione Sportiva Tempio, in C2.</t>
+	<h>Dopo altre due stagioni trascorse nel club sanbenedettese, in Serie C1 e poi in Serie C2, passa al Tempio Pausania Calcio, in C2.</h> 
+</pair>
+<pair id="1658" task="WIKI" entailment="YES">
+	<t>Originario della Sardegna ma nato a Milano, Ambu iniziò a dare i primi calci al pallone nella Macallesi, una squadra di quartiere.</t>
+	<h>Di origini sarde ma nato a Milano, Ambu iniziò a dare i primi calci al pallone nella Macallesi, una squadra di quartiere.</h> 
+</pair>
+<pair id="1659" task="WIKI" entailment="NO">
+	<t>Al 12 agosto 2009 vanta 96 presenze in Nazionale italiana di calcio ed è attualmente 4° per numero di presenze in maglia azzurra.</t>
+	<h>Al 21 giugno 2009 vanta 95 presenze in Nazionale italiana di calcio ed è attualmente 4° per numero di presenze in maglia azzurra.</h> 
+</pair>
+<pair id="1660" task="WIKI" entailment="NO">
+	<t>Tuttavia, una discussa direzione arbitrale di Messina getta cattiva luce sul comportamento deontologico dell'arbitro Messina.</t>
+	<h>Tuttavia, una discussa direzione arbitrale di Messina getta cattiva luce sul comportamento deontologico dell'AIA.</h> 
+</pair>
+<pair id="1661" task="WIKI" entailment="NO">
+	<t>Nella metà del novembre 2008 si reinventa attaccante in prima categoria con il Calcara Samoggia.</t>
+	<h>Nella metà del novembre 2008 si reinventa attaccante in prima categoria con il Collaria Saffloscia.</h> 
+</pair>
+<pair id="1662" task="WIKI" entailment="YES">
+	<t>La Franzoni rifiutò poi di sottoporsi ad una seconda perizia psichiatrica, che venne comunque eseguita ma soltanto sulla base di documenti audiovisivi ed altro materiale già depositato.</t>
+	<h>La Franzoni rifiutò poi di sottoporsi ad una seconda perizia psichiatrica, che venne comunque eseguita ma soltanto sulla base di documenti audiovisivi.</h> 
+</pair>
+<pair id="1663" task="WIKI" entailment="YES">
+	<t>Ricopriva il ruolo di difensore; è noto soprattutto per aver vestito le maglie di Ambrosiana Inter, Società Ginnastica Andrea Doria, (poi Sampdoria) e Atalanta in serie A.</t>
+	<h>Ricopriva il ruolo di difensore; è noto soprattutto per aver vestito le maglie di Ambrosiana Inter, Sampdoria e Atalanta in serie A.</h> 
+</pair>
+<pair id="1664" task="WIKI" entailment="NO">
+	<t>Il destino però ha preparato un'agguato il 13 gennaio 1991 in uno scontro con il centravanti della Lucchese Paci si frattura il perone. Un lungo stop forzato.</t>
+	<h>Il destino però ha preparato un'agguato in uno scontro con il centravanti della Lucchese Paci si frattura il perone. Otto mesi di stop forzato.</h> 
+</pair>
+<pair id="1665" task="WIKI" entailment="NO">
+	<t>Il cantante Bob Dylan, dal canto suo, compose per loro una delle sue prime canzoni: "Julius and Ethel".</t>
+	<h>Il cantante Bob Dylan, dal canto suo, compose su di loro una delle sue prime canzoni, "Julius and Ethel".</h> 
+</pair>
+<pair id="1666" task="WIKI" entailment="NO">
+	<t>E' battezzato nella Nobile Contrada del Bruco, di cui ne fa parte anche il calciatore concittadino Bernardo Corradi.</t>
+	<h>E' un sostenitore della Nobile Contrada del Bruco, di cui ne fa parte anche il calciatore concittadino Bernardo Corradi.</h> 
+</pair>
+<pair id="1667" task="WIKI" entailment="NO">
+	<t>Fu insieme a Ferrara, Sormani jr. e Baiano uno dei migliori prodotti del vivaio napoletano dei primi anni '80.</t>
+	<h>Fu insieme a Ferrara, Sormani jr. e Baiano uno dei migliori prodotti del vivaio napoletano in quegli anni.</h> 
+</pair>
+<pair id="1668" task="WIKI" entailment="YES">
+	<t>A causa di alcune intercettazioni telefoniche fu squalificato per cinque anni, per cui chiuse con questa ombra la carriera.</t>
+	<h>Grazie ad alcune intercettazioni telefoniche fu squalificato per cinque anni, per cui chiuse con questa ombra la carriera.</h> 
+</pair>
+<pair id="1669" task="WIKI" entailment="YES">
+	<t>La vicenda ha inoltre ispirato Bob Dylan che scrisse appunto una canzone dal titolo Hurricane, soprannome di Rubin Carter, che fa da colonna sonora al film.</t>
+	<h>La vicenda ha inoltre ispirato Bob Dylan che scrisse appunto una canzone dal titolo Hurricane, soprannome di Rubin Carter.</h> 
+</pair>
+<pair id="1670" task="WIKI" entailment="NO">
+	<t>Tutt'ora, nel 2008, e a 40 anni d'età, delizia seppur con qualche pausa a causa di qualche infortunio in più, i suoi tifosi.</t>
+	<h>Tutt'ora, nel 2008, e a 40 anni d'età, delizia seppur con qualche pausa a causa dell'età, i suoi tifosi.</h> 
+</pair>
+<pair id="1671" task="WIKI" entailment="NO">
+	<t>Il 6 giugno 2009 viene acquistato dal Calcio Catania, squadra con cui firma un contratto triennale.</t>
+	<h>Il 6 giugno 1990 viene acquistato dal Calcio Siracusa, squadra con cui firma un contratto triennale.</h> 
+</pair>
+<pair id="1672" task="WIKI" entailment="YES">
+	<t>La squadra punta decisamente alla promozione in Serie B ma la sfiora soltando perdendo ai Playoff in finale contro Associazione Sportiva Cittadella.</t>
+	<h>La squadra punta decisamente alla promozione in Serie B ma la sfiora soltando perdendo ai Playoff.</h> 
+</pair>
+<pair id="1673" task="WIKI" entailment="NO">
+	<t>Il 30 giugno 2008 viene ingaggiato dal Calcio Como, neopromossa in Serie C - Seconda Divisione.</t>
+	<h>Il 30 giugno 2008 viene acquistato, dalla "lista gratuita", dal Calcio Como, neopromossa in Serie C - Seconda Divisione.</h> 
+</pair>
+<pair id="1674" task="WIKI" entailment="NO">
+	<t>Ma è costretto a fermarsi a causa di un infortunio, che comprometterà gran parte della stagione.</t>
+	<h>Dopo alcune prestazioni convincenti è costretto a fermarsi a causa di un infortunio, che comprometterà gran parte della stagione.</h> 
+</pair>
+<pair id="1675" task="WIKI" entailment="YES">
+	<t>A Empoli ha disputato 24 partite in totale, retrocendedo tuttavia in Serie B a fine stagione con i Toscana.</t>
+	<h>A Empoli ha disputato 24 partite in totale, retrocendedo tuttavia in Serie B a fine stagione.</h> 
+</pair>
+<pair id="1676" task="WIKI" entailment="NO">
+	<t>Alfonso Camorani (Cercola, 21 febbraio 1978) è un calciatore Italia che milita come centrocampista nello Spezia Calcio 1906. È alto 179 cm e pesa 72 kg.</t>
+	<h>Alfonso Camorani (Cercola, 21 febbraio 1978) è un calciatore Italia che milita come centrocampista nel Treviso FBC. È alto 179 cm e pesa 72 kg.</h> 
+</pair>
+<pair id="1677" task="WIKI" entailment="YES">
+	<t>Negli anni successivi Petrini riesce ad indagare sulla vicenda, riportando alla luce diversi elementi sulla tragica fine dell'atleta: Bergamini probabilmente fu ucciso dalla malavita locale.</t>
+	<h>Negli anni successivi Petrini è riuscito ad indagare sulla vicenda, riportando alla luce diversi elementi sulla sua tragica fine: Bergamini probabilmente fu ucciso dalla malavita locale.</h> 
+</pair>
+<pair id="1678" task="WIKI" entailment="NO">
+	<t>Il 4 agosto 2009 viene ufficializzato il suo passaggio in prestito alla Salernitana Calcio 1919.</t>
+	<h>Il 3 agosto 2009 viene ufficializzato il suo passaggio alla Salernitana Calcio 1919.</h> 
+</pair>
+<pair id="1679" task="WIKI" entailment="YES">
+	<t>Qui ha conosciuto una delle promesse calcistiche del futuro: Patrick Paris, e Grassi Stefano anno 1994</t>
+	<h>Qui ha conosciuto una delle promesse calcistiche del futuro: Patrick Paris, anno 1994</h> 
+</pair>
+<pair id="1680" task="WIKI" entailment="YES">
+	<t>Il suo bilancio fino ad ora è di 240 presenze e di 259 gol subiti.</t>
+	<h>Il suo bilancio fin'adesso è di 240 presenze e di 259 gol subiti.</h> 
+</pair>
+<pair id="1681" task="WIKI" entailment="YES">
+	<t>Durante il torneo ottiene quattro presenze, comprese quella in occasione del quarto di finale tra Norvegia e Cina, e della semifinale tra Germania e Norvegia.</t>
+	<h>Durante il torneo ottiene tre presenze, compresa quella in occasione del quarto di finale tra Norvegia e Cina.</h> 
+</pair>
+<pair id="1682" task="WIKI" entailment="YES">
+	<t>Nell'estate del 2008 firma un contratto triennale con il Chievo.</t>
+	<h>Nell'estate del 2008 firma un contratto triennale con il Chievo Verona.</h> 
+</pair>
+<pair id="1683" task="WIKI" entailment="YES">
+	<t>Dal 2006 gioca nel Associazione Calcio Mantova tra i Serie B.</t>
+	<h>Dal 2006 gioca nel Associazione Calcio Mantova tra i cadetti.</h> 
+</pair>
+<pair id="1684" task="WIKI" entailment="NO">
+	<t>Dal 2006 gioca nel Associazione Calcio Mantova tra i Serie A.</t>
+	<h>Dal 2006 gioca nel Associazione Calcio Mantova tra i cadetti.</h> 
+</pair>
+<pair id="1685" task="WIKI" entailment="YES">
+	<t>Nel 2009, giocando come terzino sinistro, prende parte all'Campionato europeo di calcio Under-21 2009 in Svezia, dove l'Italia viene eliminata in semifinale.</t>
+	<h>Nel 2009 prende parte all'Campionato europeo di calcio Under-21 2009 in Svezia, dove l'Italia viene eliminata in semifinale.</h> 
+</pair>
+<pair id="1686" task="WIKI" entailment="YES">
+	<t>Il 24 giugno 2009 il suo cartellino in comproprietà con il Torino è stato riscattato dal Milan.</t>
+	<h>Il 24 giugno 2009 il suo cartellino in comproprietà con il Torino è stato riscattato dal Milan per 3,5 milioni di euro.</h> 
+</pair>
+<pair id="1687" task="WIKI" entailment="NO">
+	<t>Cresciuto nelle file dello Spal, passa al Venezia Calcio, dove resta due anni prima di tornare nella Spal.</t>
+	<h>Cresciuto nelle file dello Spal, passa allo Spezia, dove resta due anni prima di tornare nella Spal.</h> 
+</pair>
+<pair id="1688" task="WIKI" entailment="YES">
+	<t>I tre finanzieri fanno carriera: si chiamano Massimo Maria Berruti, Salvatore Gallo (iscritto alla loggia P2 insieme Berlusconi) e Alberto Corrado.</t>
+	<h>I tre finanzieri fanno carriera: si chiamano Massimo Maria Berruti, Salvatore Gallo e Alberto Corrado.</h> 
+</pair>
+<pair id="1689" task="WIKI" entailment="YES">
+	<t>Giorgio Pietrostefani vive ora latitante in Francia.</t>
+	<h>Giorgio Pietrostefani vive in Francia.</h> 
+</pair>
+<pair id="1690" task="WIKI" entailment="NO">
+	<t>Giorgio Pietrostefani vive in Francia.</t>
+	<h>Giorgio Pietrostefani vive ora latitante in Francia.</h> 
+</pair>
+<pair id="1691" task="WIKI" entailment="YES">
+	<t>Nella stagione 1924-25 Bobbio segnò cinque reti nel campionato di Lega Sud e il Savoia fu eliminato alle semifinali interregionali.</t>
+	<h>Nella stagione Campionato di calcio italiano 1925 Bobbio segnò cinque reti nel campionato di Lega Sud e il Savoia fu eliminato alle semifinali interregionali.</h> 
+</pair>
+<pair id="1692" task="WIKI" entailment="YES">
+	<t>Nelle stagioni 2005-2006 e 2006-2007 ha giocato nel Torino Football Club, il 6 luglio 2007 e` stato acquistato dal Mantova Calcio.</t>
+	<h>Nelle stagioni 2005-2006 e 2006-2007 ha giocato nel Torino Football Club, il 6 luglio 2007 e` stato venduto al Mantova Calcio.</h> 
+</pair>
+<pair id="1693" task="WIKI" entailment="YES">
+	<t>Sarebbero tutti soci di una cooperativa edilizia.</t>
+	<h>Sono tutti soci di una cooperativa edilizia.</h> 
+</pair>
+<pair id="1694" task="WIKI" entailment="NO">
+	<t>Attaccante, è dotato di un'ottima tecnica individuale e di una bruciante accelerazione palla al piede: Per le sue caratteristiche è soprannominato 'il Thierry Henry di Valmontone'.</t>
+	<h>Attaccante esterno, è dotato di un'ottima tecnica individuale e di una buona accelerazione palla al piede: Per le sue caratteristiche, è soprannominato 'il Thierry Henry di Valmontone'.</h> 
+</pair>
+<pair id="1695" task="WIKI" entailment="YES">
+	<t>Per senso del goal, tecnica, caparbietà e carattere, ritengo che Cocco possa considerarsi il nuovo Arturo Gialletti.</t>
+	<h>Per senso del goal, tecnica, caparbietà e carattere, secondo me Cocco può considerarsi il nuovo Arturo Gialletti.</h> 
+</pair>
+<pair id="1696" task="WIKI" entailment="YES">
+	<t>A gennaio 2008 ritorna al Vicenza Calcio.</t>
+	<h>A gennaio 2008 passa al Vicenza Calcio.</h> 
+</pair>
+<pair id="1697" task="WIKI" entailment="NO">
+	<t>A gennaio 2008 passa al Vicenza Calcio.</t>
+	<h>A gennaio 2008 ritorna al Vicenza Calcio.</h> 
+</pair>
+<pair id="1698" task="WIKI" entailment="NO">
+	<t>In occasione della finale Cannavaro ha inoltre raggiunto la sua presenza numero 100 in Nazionale.</t>
+	<h>In occasione della finale Cannavaro ha inoltre raggiunto la sua presenza numero 100 nella Nazionale di calcio dell'Italia.</h> 
+</pair>
+<pair id="1699" task="WIKI" entailment="YES">
+	<t>Nell'estate 1999 viene ceduto in prestito al Cagliari, che a fine stagione rileva per intero il cartellino del giocatore (1.250.000.000 Lire).</t>
+	<h>Nell'estate 1999 viene ceduto in compartecipazione al Cagliari, che a fine stagione rileva per intero il cartellino del giocatore alle buste.</h> 
+</pair>
+<pair id="1700" task="WIKI" entailment="YES">
+	<t>Ha ricevuto quattordici convocazioni (con 5 presenze) per la Nazionale di calcio dell'Italia tra il 2000 e il 2004. Attualmente è svincolato.</t>
+	<h>Ha ricevuto delle convocazioni per la Nazionale di calcio dell'Italia tra il 2000 e il 2004. Attualmente è svincolato.</h> 
+</pair>
+<pair id="1701" task="WIKI" entailment="NO">
+	<t>Attualmente (marzo 2007) vanta 49 presenze nella massima serie, e dal 1° gennaio 2008 è stato inserito nella lista dei nuovi arbitri internazionali italiani.</t>
+	<h>Attualmente (febbraio 2007) vanta 46 presenze nella massima serie, e dal 1° gennaio 2008 verrà inserito nella lista dei nuovi arbitri internazionali italiani.</h> 
+</pair>
+<pair id="1702" task="WIKI" entailment="NO">
+	<t>Attualmente è osservatore degli arbitri UEFA e, in Italia, della CAN A e B.</t>
+	<h>Attualmente è osservatore degli arbitri UEFA e, in Italia, della CAN C.</h> 
+</pair>
+<pair id="1703" task="WIKI" entailment="YES">
+	<t>Roberto Rosetti è, attualmente, il miglior arbitro di pallavolo del mondo.</t>
+	<h>Roberto Rosetti è, attualmente, il miglior arbitro del mondo.</h> 
+</pair>
+<pair id="1704" task="WIKI" entailment="YES">
+	<t>Il 23 marzo 2009 viene nominato nuovo allenatore del Pescara Calcio, sostituendo l'esonerato Galderisi.</t>
+	<h>Il 23 marzo 2009 viene nominato allenatore del Pescara Calcio, sostituendo l'esonerato Galderisi.</h> 
+</pair>
+<pair id="1705" task="WIKI" entailment="YES">
+	<t>A gennaio 2008 ritorna a titolo definitivo al Vicenza Calcio.</t>
+	<h>A gennaio 2008 ritorna al Vicenza Calcio.</h> 
+</pair>
+<pair id="1706" task="WIKI" entailment="NO">
+	<t>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno all'assassinio dello studente di Ferrara Federico Aldrovandi.</t>
+	<h>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno alla morte in circostanze da chiarire dello studente di Ferrara Federico Aldrovandi.</h> 
+</pair>
+<pair id="1707" task="WIKI" entailment="YES">
+	<t>E' arbitro dal 1991 e appartiene alla sezione di Livorno, dalla Serie A 2004-2005 è stato inserito nella Commissione Arbitri Nazionale.</t>
+	<h>Appartenente alla sezione di Livorno, dalla Serie A 2004-2005 è stato inserito nella Commissione Arbitri Nazionale.</h> 
+</pair>
+<pair id="1708" task="WIKI" entailment="YES">
+	<t>Vestì ancora, in Serie A, la maglia della SPAL 1907, nel 1967, per poi andare a chiudere, nel 1969 la carriera all'Associazione Calcio Bellaria Igea Marina, come giocatore-allenatore.</t>
+	<h>Vestì ancora, in Serie A, la maglia della SPAL 1907, nel 1967, per poi andare a chiudere la carriera all'Associazione Calcio Bellaria Igea Marina, come giocatore-allenatore.</h> 
+</pair>
+<pair id="1709" task="WIKI" entailment="YES">
+	<t>Il 31 Marzo 2008 subentra a Mario Ansaldi alla guida della Associazione Calcio Pistoiese per tentare la salvezza degli aranconi.</t>
+	<h>Il 31 Marzo 2008 subentra a Mario Ansaldi alla guida della Associazione Calcio Pistoiese.</h> 
+</pair>
+<pair id="1710" task="WIKI" entailment="YES">
+	<t>Il 2 febbraio 2009 passa in prestito al Gallipoli Calcio, dove vince il campionato di Lega Pro.</t>
+	<h>Il 2 febbraio 2009 passa in prestito al Gallipoli Calcio, dove vince il campionato.</h> 
+</pair>
+<pair id="1711" task="WIKI" entailment="NO">
+	<t>Il 16 giugno 2009 viene presentato alla stampa come nuovo allenatore della SS Lazio.</t>
+	<h>Il 16 Giugno 2009 alle ore 12 viene presentato alla stampa come nuovo allenatore della SS Lazio.</h> 
+</pair>
+<pair id="1712" task="WIKI" entailment="YES">
+	<t>Dal 2007, con l'inizio della presidenza di Giancarlo Abete è diventato vice-presidente della FIGC.</t>
+	<h>Dal 2007, con l'inizio della presidenza di Giancarlo Abete è diventato vice-presidente della Federazione Italiana Giuoco Calcio.</h> 
+</pair>
+<pair id="1713" task="WIKI" entailment="YES">
+	<t>In serie A ha ricoperto il ruolo di direttore sportivo nel Lecce durante la prima presidenza Semeraro.</t>
+	<h>Ha ricoperto il ruolo di direttore sportivo nel Lecce durante la prima presidenza Semeraro.</h> 
+</pair>
+<pair id="1714" task="WIKI" entailment="YES">
+	<t>Nella sua carriera viene soprannominato "Il cigno di Grosseto"</t>
+	<h>Nella sua carriera viene anche chiamato col soprannome di "Il cigno di Grosseto"</h> 
+</pair>
+<pair id="1715" task="WIKI" entailment="NO">
+	<t>Il 26 Giugno 2008 viene riscattato dal Piacenza Calcio alle buste per una cifra vicina ai 2,9 milioni di euro.</t>
+	<h>Il 26 Giugno 2008 viene riscattato dal Piacenza Calcio alle buste per 2,9 milioni di euro</h> 
+</pair>
+<pair id="1716" task="WIKI" entailment="YES">
+	<t>Fu una stagione molto positiva che gli fruttò il meritato salto di categoria, ingaggiato dal Napoli allenato da Marcello Lippi.</t>
+	<h>Fu una stagione molto positiva che gli fruttò il meritato salto di categoria, ingaggiato dal Napoli.</h> 
+</pair>
+<pair id="1717" task="WIKI" entailment="YES">
+	<t>Poco prima della sua prematura scomparsa a soli 55 anni ebbe occasione di avere fra le sue fila anche il giovane Franco Baresi.</t>
+	<h>Poco prima della sua morte ebbe occasione di avere fra le sue fila anche il giovane Franco Baresi.</h> 
+</pair>
+<pair id="1718" task="WIKI" entailment="NO">
+	<t>Nel Novembre 2006 si candida come Responsabile del Settore Tecnico dell'Associazione Italiana Arbitri appoggiando la candidatura a Presidente di Marcello Nicchi, rimasto sconfitto da Cesare Gussoni.</t>
+	<h>Nel Novembre 2006 si candida a Vice Presidente dell'Associazione Italiana Arbitri appoggiando la candidatura a Presidente di Marcello Nicchi, rimasto sconfitto da Cesare Gussoni.</h> 
+</pair>
+<pair id="1719" task="WIKI" entailment="YES">
+	<t>Pochi minuti dopo il Palermo passa in vantaggio con un gol di Fabrizio Miccoli che regalerà la vittoria al Palermo.</t>
+	<h>Pochi minuti dopo il Palermo passa in vantaggio con un gol di Fabrizio Miccoli che regalerà alla squadra di casa la vittoria finale.</h> 
+</pair>
+<pair id="1720" task="WIKI" entailment="YES">
+	<t>Il 15 marzo 2009 ha subito la rottura del legamento crociato del ginocchio destro durante la partita di campionato Associazione Calcio Siena-Milan venendo sostituito da Dida.</t>
+	<h>Il 15 marzo 2009 ha subito un infortunio durante la partita di campionato Associazione Calcio Siena-Milan venendo sostituito da Dida.</h> 
+</pair>
+<pair id="1721" task="WIKI" entailment="NO">
+	<t>Tolta una stagione al Calcio Padova, è per un decennio un punto fermo della squadra neroazzurra, risultandone spesso il cannoniere pur non essendo un centravanti puro.</t>
+	<h>Per un decennio è un punto fermo della squadra neroazzurra, risultandone spesso il cannoniere pur non essendo un centravanti puro.</h> 
+</pair>
+<pair id="1722" task="WIKI" entailment="YES">
+	<t>Gioca soprattutto come terzino e esterno sinistro, ma può giocare anche a destra.</t>
+	<h>Gioca prevalentemente come terzino e esterno sinistro, ma può giocare anche sulla fascia destra.</h> 
+</pair>
+<pair id="1723" task="WIKI" entailment="YES">
+	<t>Con una formazione costruita per la serie inferiore ottiene un dignitoso dodicesimo posto che gli vale la chiamata della SS Lazio, reduce da un quarto posto nell'annata post-scudetto.</t>
+	<h>Ottiene un dodicesimo posto che gli vale la chiamata della SS Lazio, reduce da un quarto posto nell'annata post-scudetto.</h> 
+</pair>
+<pair id="1724" task="WIKI" entailment="NO">
+	<t>Lo stesso ha fatto il comune di San Benedetto del Tronto, che negli anni 70 intitolò il campo sportivo allora utilizzato dalla Sambenedettese ai due fratelli.</t>
+	<h>Lo stesso ha fatto il comune di San Benedetto del Tronto, che negli anni 70 intitolò lo stadio comunale ai due fratelli.</h> 
+</pair>
+<pair id="1725" task="WIKI" entailment="NO">
+	<t>Nel 2009 viene acquistato a titolo definitivo dall'Associazione Calcio Chievo Verona.</t>
+	<h>Il 14 luglio 2009 viene acquistato a titolo definitivo dall'Associazione Calcio Chievo Verona.</h> 
+</pair>
+<pair id="1726" task="WIKI" entailment="NO">
+	<t>Boniperti è riconosciuto dalla Juventus Football Club come uno dei calciatori più rappresentativi della sua storia.</t>
+	<h>Boniperti è riconosciuto dalla Juventus Football Club come il calciatore più rappresentativo della sua storia.</h> 
+</pair>
+<pair id="1727" task="WIKI" entailment="NO">
+	<t>Emerge dalla serie C, dove gioca con Pro Livorno, Siena ed Anconitana, approdando al Livorno in Serie B con cui disputa tre campionati.</t>
+	<h>Difensore esterno dotato di buona velocità, emerge dalla serie C, dove gioca con Pro Livorno, Siena ed Anconitana, approdando al Livorno in Serie B con cui disputa tre campionati.</h> 
+</pair>
+<pair id="1728" task="WIKI" entailment="YES">
+	<t>Condannato a 3 mesi di sospensione, scontata la pena, Puglisi è divenuto osservatore arbitrale a livello nazionale e ad oggi opera nel campionato nazionale dilettanti con questa funzione.</t>
+	<h>Condannato a 3 mesi di sospensione, scontata la pena, Puglisi è divenuto osservatore arbitrale a livello regionale e ad oggi opera in Prima Categoria con questa funzione.</h> 
+</pair>
+<pair id="1729" task="WIKI" entailment="NO">
+	<t>Il 27 settembre 1964, dopo 10 mesi di indagini, fu pubblicato il rapporto.</t>
+	<h>Il 27 settembre 1964, dopo 10 mesi di indagini, fu pubblicato il Rapporto della Commissione Warren.</h> 
+</pair>
+<pair id="1730" task="WIKI" entailment="YES">
+	<t>Accusato di gravi delitti, fu additato alla pubblica opinione come mostro da una campagna di stampa.</t>
+	<h>Accusato di gravi delitti, fu additato alla pubblica opinione come mostro dalla stampa.</h> 
+</pair>
+<pair id="1731" task="WIKI" entailment="YES">
+	<t>Mentre altri grandi studiosi hanno dato parere contrario, favorevole alla tesi Canella, come Giovanni Mingazzini, Calligaris, Perrando e Pellegrini.</t>
+	<h>Mentre altri grandi studiosi hanno dato parere contrario, come Giovanni Mingazzini, Calligaris, Perrando e Pellegrini.</h> 
+</pair>
+<pair id="1732" task="WIKI" entailment="YES">
+	<t>A seguito del Caso Rosenberg, venne giustiziata nel 1953 insieme al marito Julius Rosenberg con l'accusa di spionaggio a favore dell'Unione Sovietica.</t>
+	<h>Venne giustiziata nel 1953 insieme al marito Julius Rosenberg con l'accusa di spionaggio a favore dell'Unione Sovietica.</h> 
+</pair>
+<pair id="1733" task="WIKI" entailment="YES">
+	<t>Calciatore di buona tecnica ma non molto prestante fisicamente, giocava come interno ed era famoso per la sua ottima capacità realizzativa.</t>
+	<h>Calciatore di buona tecnica, giocava come interno ed era famoso per la sua ottima capacità realizzativa.</h> 
+</pair>
+<pair id="1734" task="WIKI" entailment="YES">
+	<t>Il 24 giugno 2009 il suo cartellino, in comproprietà con il Torino, è stato riscattato dal Milan per 2,8 milioni di euro.</t>
+	<h>Il 24 giugno 2009 il suo cartellino, in comproprietà con il Torino, è stato riscattato dal Milan.</h> 
+</pair>
+<pair id="1735" task="WIKI" entailment="YES">
+	<t>Il giudice Webster Thayer li definì senza mezze parole due ''bastardi anarchici''.</t>
+	<h>Il giudice Webster Thayer li definì senza mezze parole due ''anarchici bastardi''.</h> 
+</pair>
+<pair id="1736" task="WIKI" entailment="NO">
+	<t>Dal 19 giugno 2009 è il nuovo allenatore del settore giovanile della Juventus.</t>
+	<h>Dal 19 giugno 2009 è il nuovo allenatore della primavera della Juventus.</h> 
+</pair>
+<pair id="1737" task="WIKI" entailment="YES">
+	<t>Esordì in serie A allo stadio Friuli di Udine in Udinese-Palermo il 27 maggio 2007.</t>
+	<h>Esordì in serie A in Udinese-Palermo il 27 maggio 2007.</h> 
+</pair>
+<pair id="1738" task="WIKI" entailment="YES">
+	<t>Morì nel 1915 nella Terza battaglia dell'Isonzo durante la Prima Guerra Mondiale.</t>
+	<h>Morì nel 1915 durante la Prima Guerra Mondiale.</h> 
+</pair>
+<pair id="1739" task="WIKI" entailment="YES">
+	<t>Nella stagione 2006-2007 torna a vestire per la terza volta la maglia del Cosenza Calcio in serie D.</t>
+	<h>Nella stagione 2006-2007 veste la maglia del Cosenza Calcio in serie D.</h> 
+</pair>
+<pair id="1740" task="WIKI" entailment="YES">
+	<t>Viene poi convocato per alcune partite di qualificazione ad Euro 2008 e successivamente a quelle per i Mondiali 2010, ma non viene mai schierato.</t>
+	<h>Viene poi convocato per alcune partite di qualificazione ad Euro 2008, ma non viene mai schierato.</h> 
+</pair>
+<pair id="1741" task="WIKI" entailment="YES">
+	<t>Castellazzi è il migliore se si tratta di reattività.</t>
+	<h>Castellazzi è il migliore.</h> 
+</pair>
+<pair id="1742" task="WIKI" entailment="YES">
+	<t>Per il Lecce ha giocato sette partite in Serie B, senza mai andare a segno.</t>
+	<h>Per il Lecce ha giocato sette partite di campionato, senza mai andare a segno.</h> 
+</pair>
+<pair id="1743" task="WIKI" entailment="YES">
+	<t>Nell'estate del 1994 si trasferisce alla Società Sportiva Lazio, senza mai scendere in campo.</t>
+	<h>Nell'estate del 1994, si trasferisce alla Società Sportiva Lazio, senza mai nessuna apparizione in campo.</h> 
+</pair>
+<pair id="1744" task="WIKI" entailment="NO">
+	<t>Vinta la sfida con il tumore, riesce a risalire le categorie fino a riapprodare in Serie C.</t>
+	<h>Vinta la sfida con il tumore, non sarà più lo stesso, anche se con tenacia riesce a risalire le categorie fino a riapprodare in Serie C.</h> 
+</pair>
+<pair id="1745" task="WIKI" entailment="NO">
+	<t>Finora ha arbitrato oltre sessanta gare nella massima categoria.</t>
+	<h>Finora ha arbitrato 62 gare nella massima categoria.</h> 
+</pair>
+<pair id="1746" task="WIKI" entailment="YES">
+	<t>È stato sposato con la conduttrice televisiva Paola Perego.</t>
+	<h>È stato sposato con la soubrette Paola Perego.</h> 
+</pair>
+<pair id="1747" task="WIKI" entailment="YES">
+	<t>Ad oggi, con i crociati conta 12 presenze.</t>
+	<h>Ad oggi, con i crociati ha collezionato 12 presenze.</h> 
+</pair>
+<pair id="1748" task="WIKI" entailment="YES">
+	<t>In quella stagione, forse la più bella nella storia del Cosenza, realizza anche il suo primo ed unico gol nella partita Cosenza-Licata (2-0).</t>
+	<h>In quella stagione realizza anche il suo primo ed unico gol nella partita Cosenza-Licata (2-0).</h> 
+</pair>
+<pair id="1749" task="WIKI" entailment="YES">
+	<t>Nel 1976 diresse la finale degli europei di calcio, a Belgrado, tra Cecoslovacchia e Germania Ovest.</t>
+	<h>Nel 1976, unico arbitro italiano nella storia, diresse la finale degli europei di calcio, a Belgrado, tra Cecoslovacchia e Germania Ovest.</h> 
+</pair>
+<pair id="1750" task="WIKI" entailment="YES">
+	<t>Il 29 maggio 2008 firma un contratto che lo lega al FC Parma, appena retrocesso in serie B, per due anni.</t>
+	<h>Il 29 maggio 2008 firma un contratto che lo lega al FC Parma per due anni.</h> 
+</pair>
+<pair id="1751" task="WIKI" entailment="NO">
+	<t>Grazie a questo finale di stagione viene riconfermato titolare anche per la Unione Sportiva Città di Palermo 2008-2009.</t>
+	<h>Grazie a questo finale di stagione viene riconfermato titolare anche per la stagione successiva.</h> 
+</pair>
+<pair id="1752" task="WIKI" entailment="NO">
+	<t>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno alla morte dello studente di Ferrara Federico Aldrovandi.</t>
+	<h>Il caso Aldrovandi è la vicenda giudiziaria e di cronaca che ruota intorno all'orribile assassinio, perpetrato dalla polizia italiana, dello di studente Ferrara Federico Aldrovandi.</h> 
+</pair>
+<pair id="1753" task="WIKI" entailment="NO">
+	<t>Ethel Greenglass, coniugata in Rosenberg, nacque il 28 settembre del 1915, anch'essa a New York.</t>
+	<h>Ethel Greenglass nacque il 28 settembre del 1915, anch'essa a New York.</h> 
+</pair>
+<pair id="1754" task="WIKI" entailment="YES">
+	<t>Ha militato nel Calcio Padova, nel Milan, nella AS Roma, nell'Inter e nel Rovigo.</t>
+	<h>Ha militato nel Calcio Padova, nel Milan, nella AS Roma e nell'Inter.</h> 
+</pair>
+<pair id="1755" task="WIKI" entailment="YES">
+	<t>Ritorna al Torino ma riparte subito verso il Pescara Calcio in comproprietà.</t>
+	<h>Ritorna al Torino ma riparte subito verso il Pescara Calcio.</h> 
+</pair>
+<pair id="1756" task="WIKI" entailment="YES">
+	<t>Tuttavia non mantiene le aspettative e dopo quattro stagioni a Bergamo (tre in serie A), nelle quali riuscì a collezionare poche presenze viene ceduto.</t>
+	<h>Tuttavia non mantiene le aspettative e dopo quattro stagioni a Bergamo (nelle quali riuscì a collezionare poche presenze) viene ceduto.</h> 
+</pair>
+<pair id="1757" task="WIKI" entailment="YES">
+	<t>Nel suo paese Leonarda è benvoluta e stimata, considerata una madre esemplare e - siamo negli anni del Ventennio - una fervente fascista.</t>
+	<h>Nel suo paese Leonarda è benvoluta e stimata, considerata una madre esemplare.</h> 
+</pair>
+<pair id="1758" task="WIKI" entailment="NO">
+	<t>Luigi Anaclerio (Bari, 25 marzo 1981) è un calciatore Italia che gioca come attaccante nell'Hellas Verona.</t>
+	<h>Luigi Anaclerio (Bari, 25 marzo 1981) è un calciatore Italia che gioca come attaccante nel Perugia Calcio.</h> 
+</pair>
+<pair id="1759" task="WIKI" entailment="YES">
+	<t>L'unico sospettato è l'ex marito della vittima, proprio O.J. Simpson, su cui gravano precedenti denunzie della moglie per maltrattamenti.</t>
+	<h>L'unico sospettato è l'ex marito della vittima, proprio O.J. Simpson, già compromesso per precedenti denunzie della moglie per maltrattamenti.</h> 
+</pair>
+<pair id="1760" task="WIKI" entailment="YES">
+	<t>Nato il, 12 febbraio 1954 a Leno (Provincia di Brescia), esordisce in Serie A l'11 settembre 1977 in Atalanta-Perugia 1-1, difendendo i colori dei nerazzurri di Bergamo.</t>
+	<h>Nato il, 12/02/1954 a Leno (Brescia), esordisce in Serie A l'11/09/1977 in Atalanta-Perugia 1-1, difendendo i colori dei nerazzurri di Bergamo.</h> 
+</pair>
+<pair id="1761" task="WIKI" entailment="YES">
+	<t>Attualmente gestisce un chiosco di crepes a Bocca di Magra, nel comune di Ameglia, tra La Spezia e Carrara.</t>
+	<h>Attualmente gestisce un chiosco di crepes ad Ameglia, tra La Spezia e Carrara.</h> 
+</pair>
+<pair id="1762" task="WIKI" entailment="YES">
+	<t>Il 25 giugno 2009 viene acquistato a titolo definitivo dal Calcio Catania, con cui sottoscrive un contratto quinquennale.</t>
+	<h>Il 25 giugno 2009 viene acquistato a titolo definitivo dal Calcio Catania.</h> 
+</pair>
+<pair id="1763" task="WIKI" entailment="YES">
+	<t>Il 24 giugno 2009 il suo cartellino in comproprietà con il Torino è stato riscattato dal Milan.</t>
+	<h>Il 24 giugno 2009 il suo cartellino in comproprietà con il Torino è stato riscattato dal Milan per circa 3 milioni di euro.</h> 
+</pair>
+<pair id="1764" task="WIKI" entailment="NO">
+	<t>L'impresa avvenne nella partita Fiorentina-Novara Calcio 3-0 del 27 aprile 1930.</t>
+	<h>L'impresa avvenne nella partita Fiorentina-Novara Calcio 3-0 del 30 marzo 1930.</h> 
+</pair>
+<pair id="1765" task="WIKI" entailment="NO">
+	<t>Cresciuto tra le file dell'Ardens Bergamo, passa all'Atalanta nell'estate 1929.</t>
+	<h>Difensore cresciuto tra le file dell'Ardens Bergamo, passa all'Atalanta nell'estate 1929.</h> 
+</pair>
+<pair id="1766" task="WIKI" entailment="YES">
+	<t>Quest'ultimo lo considera ancora oggi come l'allenatore della svolta nella sua carriera, visto che l'ha rigenerato dopo un periodo di profonda crisi.</t>
+	<h>Quest'ultimo lo considera ancora oggi come l'allenatore decisivo per la sua carriera, visto che l'ha rigenerato dopo un periodo di profonda crisi.</h> 
+</pair>
+<pair id="1767" task="WIKI" entailment="YES">
+	<t>In serie A ha vestito le maglie di Empoli Football Club e US Lecce, attualmente in forza alla Pro Castel di Sangro.</t>
+	<h>In serie A ha vestito le maglie di Empoli Football Club e US Lecce</h> 
+</pair>
+<pair id="1768" task="WIKI" entailment="YES">
+	<t>Il giovane rilasciò diverse interviste e partecipò ad alcuni talk-show, suscitando viva disapprovazione.</t>
+	<h>Il giovane rilasciò diverse interviste e partecipò ad alcuni talk-show, suscitando non poche polemiche.</h> 
+</pair>
+<pair id="1769" task="WIKI" entailment="YES">
+	<t>Detiene il record del maggior numero di partite arbitrate in Serie A (328).</t>
+	<h>Detiene il record del maggior snumero di partite arbitrate in Serie A, ben 328.</h> 
+</pair>
+<pair id="1770" task="WIKI" entailment="YES">
+	<t>Elemento dalle buone capacità atletiche, è alto 179 cm e pesa 78 kg.</t>
+	<h>In possesso di buone capacità atletiche, è alto 179 cm e pesa 78 kg.</h> 
+</pair>
+<pair id="1771" task="WIKI" entailment="YES">
+	<t>Lo Stadio "Carlo Castellani" di Empoli e lo Stadio "Castellani" di Montelupo Fiorentino devono a lui il loro nome.</t>
+	<h>Lo Stadio "Carlo Castellani" di Empoli deve a lui il suo nome.</h> 
+</pair>
+<pair id="1772" task="WIKI" entailment="YES">
+	<t>Nel 1999 è vice allenatore di Albertino Bigon all'Olympiakos Pireo, dove rimane fino al giugno 2001</t>
+	<h>Nel 1999 è vice allenatore di Albertino Bigon all'Olympiakos Pireo fino al giugno 2001</h> 
+</pair>
+<pair id="1773" task="WIKI" entailment="NO">
+	<t>Diventò in seguito direttore di banca alla City Bank di New York nella sua sede di Genova, dove morì a soli 51 anni di broncopolmonite.</t>
+	<h>Diventò in seguito direttore di banca nella city di New York dove morì a 52 anni di broncopolmonite.</h> 
+</pair>
+<pair id="1774" task="WIKI" entailment="YES">
+	<t>Ivone De Franceschi (Padova, 1 gennaio 1974) è un calciatore Italy di ruolo centrocampista.</t>
+	<h>Ivone De Franceschi (Padova, 1 gennaio 1974) è un calciatore Italy.</h> 
+</pair>
+<pair id="1775" task="WIKI" entailment="YES">
+	<t>Leonardo Costagliola, soprannominato dai tifosi ''Gatto Magico'', è stato uno dei più grandi calciatori pugliesi di tutti i tempi.</t>
+	<h>Leonardo Costagliola è stato uno dei più grandi calciatori pugliesi di tutti i tempi.</h> 
+</pair>
+<pair id="1776" task="WIKI" entailment="YES">
+	<t>Con la Nazionale, nella quale ha militato dal 1991 al 2002, Albertini ha totalizzato 79 presenze e 3 reti.</t>
+	<h>Con la Nazionale, nella quale ha militato dal 1991 al 2002, Albertini ha collezionato 79 presenze e 3 reti.</h> 
+</pair>
+<pair id="1777" task="WIKI" entailment="YES">
+	<t>Il 16 Giugno 2009 alle ore 12 viene presentato alla stampa come nuovo allenatore della SS Lazio.</t>
+	<h>Il 16 giugno 2009 viene presentato alla stampa come nuovo allenatore della SS Lazio.</h> 
+</pair>
+<pair id="1778" task="WIKI" entailment="YES">
+	<t>Nonostante la giovane età (18 anni) è soprannominato "lo zio" per l'aria matura conferitagli anche dai baffoni che sfoggia.</t>
+	<h>Nonostante la giovane età (non è ancora ventenne) è soprannominato "lo zio" per l'aria matura datagli anche dai baffoni che sfoggia.</h> 
+</pair>
+<pair id="1779" task="WIKI" entailment="NO">
+	<t>Nonostante la giovane età (non è ancora ventenne) è soprannominato "lo zio" per l'aria matura datagli anche dai baffoni che sfoggia.</t>
+	<h>Nonostante la giovane età (18 anni) è soprannominato "lo zio" per l'aria matura conferitagli anche dai baffoni che sfoggia.</h> 
+</pair>
+<pair id="1780" task="WIKI" entailment="NO">
+	<t>Dal luglio 2009 non è più osservatore degli arbitri di serie A.</t>
+	<h>Attualmente è osservatore degli arbitri di serie A.</h> 
+</pair>
+<pair id="1781" task="WIKI" entailment="NO">
+	<t>La leggenda narra che morì a soli cinquant'anni suicidandosi per amore.</t>
+	<h>Morì a soli cinquant'anni suicidandosi per amore.</h> 
+</pair>
+<pair id="1782" task="WIKI" entailment="YES">
+	<t>Ha giocato in serie A e in serie B con il US Lecce e in C con Nola Calcio e Lodigiani, Fasano Calcio, Lumezzane Calcio e Tricase Calcio.</t>
+	<h>Ha giocato in serie A con il US Lecce e in C con Nola Calcio e Lodigiani, Fasano Calcio, Lumezzane Calcio e Tricase Calcio.</h> 
+</pair>
+<pair id="1783" task="WIKI" entailment="YES">
+	<t>Viene convocato in Nazionale di calcio dell'Italia da Marcello Lippi in vista dell'amichevole del 12 agosto 2009 contro la Nazionale di calcio della Svizzera.</t>
+	<h>Viene convocato da Marcello Lippi in vista dell'amichevole del 12 Agosto 2009 contro la Nazionale di calcio della Svizzera.</h> 
+</pair>
+<pair id="1784" task="WIKI" entailment="YES">
+	<t>Il 4 luglio 2008 è stato dismesso dall'organico CAN per normale avvicendamento, e pochi giorni più tardi è stato nominato alla presidenza del Comitato Regionale Arbitri del Trentino-Alto Adige.</t>
+	<h>Il 4 luglio 2008 è stato dismesso dall'organico CAN per normale avvicendamento, e pochi giorni più tardi viene nominato alla presidenza del Comitato Regionale Arbitri del Trentino-Alto Adige.</h> 
+</pair>
+<pair id="1785" task="WIKI" entailment="YES">
+	<t>Amedeo Biavati (Bologna, 4 aprile 1915 – 22 aprile 1979) fu un giocatore di calcio (sport) italiano nel ruolo di ala destra.</t>
+	<h>Amedeo Biavati (Bologna, 4 aprile 1915 – 1979) fu un giocatore di calcio (sport) italiano nel ruolo di ala destra.</h> 
+</pair>
+<pair id="1786" task="WIKI" entailment="YES">
+	<t>Nel 1993 si sposa con un falegname di Cernobbio dopo 6 mesi di fidanzamanto ma i continui litigi la portano a divorzio dopo appena un anno.</t>
+	<h>Nel 1993 si sposa con un falegname di Cernobbio ma i continui litigi la portano a divorzio dopo appena un anno.</h> 
+</pair>
+<pair id="1787" task="WIKI" entailment="YES">
+	<t>Bellucci è stato convocato nelle Nazionale di calcio dell'Italia 11 volte ma ha giocato solo 6 partite nell' Nazionale di calcio dell'Italia Under-21 segnando 2 gol</t>
+	<h>Bellucci ha giocato 6 partite nell' Nazionale di calcio dell'Italia Under-21 segnando 2 gol</h> 
+</pair>
+<pair id="1788" task="WIKI" entailment="YES">
+	<t>Tornato a Castel di Sangro nel 2006, con una discreta parentesi nel 2004/2005 nella Football Club Pro Vasto, ha clamorosamente rescisso il contratto con gli abruzzesi nel febbraio 2008.</t>
+	<h>Tornato a Castel di Sangro nel 2006, con una parentesi nel 2004/2005 nella Football Club Pro Vasto, ha clamorosamente rescisso il contratto con gli abruzzesi nel febbraio 2008.</h> 
+</pair>
+<pair id="1789" task="WIKI" entailment="YES">
+	<t>Con i ducali realizza il suo primo e finora unico gol in Serie A il 26 gennaio proprio contro la sua ex squadra, il Brescia.</t>
+	<h>Con i ducali realizza il suo primo e finora unico gol in Serie A proprio contro la sua ex squadra, il Brescia.</h> 
+</pair>
+<pair id="1790" task="WIKI" entailment="YES">
+	<t>Il 14 gennaio 2007 viene ceduto in prestito all'Avellino Calcio, squadra con cui incappa in un'annata sfortunata, conclusa con la retrocessione in Lega Pro Prima Divisione degli irpini.</t>
+	<h>Il 14 gennaio viene ceduto in prestito all'Avellino Calcio, squadra con cui incappa in un'annata sfortunata, conclusa con la retrocessione in Lega Pro Prima Divisione degli irpini.</h> 
+</pair>
+<pair id="1791" task="WIKI" entailment="YES">
+	<t>Blason portiere spericolato e felino si vede costretto nell'arco della sua carriera a dare spesso forfait a seguito di infortuni di gioco rimediati nel corso di strepitose prestazioni.</t>
+	<h>Blason portiere spericolato e felino si vede costretto nell'arco della sua carriera a dare forfait a seguito di infortuni di gioco rimediati nel corso di strepitose prestazioni.</h> 
+</pair>
+<pair id="1792" task="WIKI" entailment="YES">
+	<t>Nel 1994, Berlusconi entra in politica (con le sue parole, "scende in campo") e a fine marzo vince le elezioni politiche del 1994.</t>
+	<h>Nel 1994, Berlusconi entra impetuosamente in politica (con le sue parole, "scende in campo") e a fine marzo vince le elezioni politiche del 1994.</h> 
+</pair>
+<pair id="1793" task="WIKI" entailment="YES">
+	<t>Nel 1985/86 approda finalmente nel calcio importante: viene acquistato dal Cosenza Calcio 1914 che milita in Serie C1, club con il quale giocherà per 5 stagioni.</t>
+	<h>Nel 1985/86 approda nel calcio importante: viene acquistato dal Cosenza Calcio 1914 che milita in Serie C1, club con il quale giocherà per 5 stagioni.</h> 
+</pair>
+<pair id="1794" task="WIKI" entailment="YES">
+	<t>Poi la Corte Suprema di Cassazione rimise i 4 nuovamente al giudizio della Corte d'Appello che li assolse con formula piena.</t>
+	<h>Poi la Cassazione rimise i 4 nuovamente al giudizio della Corte d'Appello che li assolse con formula piena.</h> 
+</pair>
+<pair id="1795" task="WIKI" entailment="YES">
+	<t>La coppia aveva passato la sera al cinema di Signa dov'era in proiezione un film giapponese dal titolo inquietante 'Nuda per un pugno di eroi'.</t>
+	<h>La coppia aveva passato la sera al cinema di Signa dov'era in proiezione un film dal titolo inquietante 'Nuda per un pugno di eroi'.</h> 
+</pair>
+<pair id="1796" task="WIKI" entailment="YES">
+	<t>Proprio in quella stagione, che segnò l'addio al calcio giocato di Rivera, si realizzò una sorta di passaggio del testimone come uomo-simbolo della squadra.</t>
+	<h>Proprio nell'anno che segnò l'addio al calcio giocato di Rivera, in quella stagione, si realizzò una sorta di passaggio del testimone come uomo-simbolo della squadra.</h> 
+</pair>
+<pair id="1797" task="WIKI" entailment="YES">
+	<t>È un giovane giocatore polivalente che sa ricoprire sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</t>
+	<h>È un giocatore polivalente che sa ricoprire sia il ruolo di terzino che di centrocampista sulla fascia sinistra e all'occorrenza anche destra.</h> 
+</pair>
+<pair id="1798" task="WIKI" entailment="YES">
+	<t>Nel 1972 su mandato dei capi dell'Organizzazione, partecipò come autista, assieme ad un altro membro dell'Organizzazione partecipò all' Omicidio Calabresi.</t>
+	<h>Nel 1972 su mandato dei capi dell'Organizzazione, assieme ad un altro membro dell'Organizzazione partecipò all' Omicidio Calabresi.</h> 
+</pair>
+<pair id="1799" task="WIKI" entailment="NO">
+	<t>Dopo un inizio di stagione molto positivo al Pisa, nel 2007 Cerci viene convocato da Pierluigi Casiraghi nella Nazionale di calcio dell'Italia Under-21.</t>
+	<h>Dopo un inizio di stagione molto positivo al Pisa, nel novembre 2007 Cerci viene convocato da Pierluigi Casiraghi nella Nazionale di calcio dell'Italia Under-21.</h> 
+</pair>
+<pair id="1800" task="WIKI" entailment="YES">
+	<t>Cigarini è un regista di gioco ed è apprezzato per le sue doti tecniche e fisiche e la precisione nel lancio e nel passaggio.</t>
+	<h>Cigarini è definibile un regista di gioco ed è apprezzato per le sue doti tecniche e la precisione nel lancio e nel passaggio.</h> 
+</pair>
+</entailment-corpus>
