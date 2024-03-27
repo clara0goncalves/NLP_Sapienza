@@ -1,0 +1,3 @@
+{"prompt": "Valuta se il seguente testo \u00e8 accettabile o meno secondo il contesto: {{text}}"}
+{"prompt": "Determina se la seguente frase \u00e8 coerente con il contesto: {{text}}"}
+{"prompt": "Decidi se il testo fornito \u00e8 congruente con la situazione descritta: {{text}}"}
