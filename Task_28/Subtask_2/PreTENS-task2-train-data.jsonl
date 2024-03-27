@@ -1,0 +1,524 @@
+{"id": 0, "text": "Adoro gli abeti, ma non i cespugli.", "choices": ["Molto buono", "Eccellente", "Scarso", "Buono"], "label": 3}
+{"id": 1, "text": "Adoro il vitello, ma non i granchi.", "choices": ["Ottimo", "Sufficiente", "Scarso", "Molto buono"], "label": 1}
+{"id": 2, "text": "Adoro gli animali, un tipo interessante di abete.", "choices": ["Buono", "Pessimo", "Scarso", "Sufficiente"], "label": 1}
+{"id": 3, "text": "Amo gli abeti pi\u00f9 dei cespugli.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 4, "text": "Amo i criceti, un tipo interessante di pappagallo.", "choices": ["Molto buono", "Pessimo", "Sufficiente", "Eccellente"], "label": 1}
+{"id": 5, "text": "Amo i prodotti del mare pi\u00f9 del tacchino.", "choices": ["Buono", "Pessimo", "Ottimo", "Sufficiente"], "label": 2}
+{"id": 6, "text": "Amo i cani, ma non i merli.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 7, "text": "Amo i merli pi\u00f9 degli uccelli.", "choices": ["Eccellente", "Molto buono", "Pessimo", "Scarso"], "label": 3}
+{"id": 8, "text": "Amo le anatre pi\u00f9 dei criceti.", "choices": ["Ottimo", "Buono", "Eccellente", "Molto buono"], "label": 0}
+{"id": 9, "text": "Amo i cespugli, ed anche le betulle.", "choices": ["Molto buono", "Pessimo", "Eccellente", "Buono"], "label": 0}
+{"id": 10, "text": "Amo il tacchino, ed anche il salmone.", "choices": ["Pessimo", "Buono", "Ottimo", "Eccellente"], "label": 3}
+{"id": 11, "text": "Adoro i granchi, un tipo interessante di manzo.", "choices": ["Buono", "Ottimo", "Pessimo", "Sufficiente"], "label": 2}
+{"id": 12, "text": "Amo i passeri, ed anche gli uccelli.", "choices": ["Buono", "Sufficiente", "Molto buono", "Scarso"], "label": 2}
+{"id": 13, "text": "Adoro il manzo, un tipo interessante di caviale.", "choices": ["Molto buono", "Scarso", "Pessimo", "Buono"], "label": 2}
+{"id": 14, "text": "Amo le querce, ed anche i cespugli.", "choices": ["Eccellente", "Sufficiente", "Ottimo", "Pessimo"], "label": 2}
+{"id": 15, "text": "Amo l' erba pi\u00f9 delle querce.", "choices": ["Ottimo", "Buono", "Eccellente", "Pessimo"], "label": 0}
+{"id": 16, "text": "Amo i merli pi\u00f9 dei maiali.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Scarso"], "label": 0}
+{"id": 17, "text": "Amo gli animali, ed anche gli abeti.", "choices": ["Molto buono", "Scarso", "Buono", "Sufficiente"], "label": 2}
+{"id": 18, "text": "Amo i prodotti del mare, ed anche il tacchino.", "choices": ["Sufficiente", "Buono", "Ottimo", "Pessimo"], "label": 1}
+{"id": 19, "text": "Amo i maiali, ma non i passeri.", "choices": ["Pessimo", "Molto buono", "Sufficiente", "Ottimo"], "label": 1}
+{"id": 20, "text": "Amo gli alberi, ed anche gli arbusti.", "choices": ["Buono", "Eccellente", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 21, "text": "Amo i pappagalli, ma non i gatti.", "choices": ["Buono", "Molto buono", "Scarso", "Ottimo"], "label": 1}
+{"id": 22, "text": "Amo le betulle pi\u00f9 degli alberi.", "choices": ["Sufficiente", "Scarso", "Ottimo", "Molto buono"], "label": 1}
+{"id": 23, "text": "Amo i pini, ed anche l' erba.", "choices": ["Ottimo", "Scarso", "Molto buono", "Pessimo"], "label": 0}
+{"id": 24, "text": "Amo i gatti, un tipo interessante di passero.", "choices": ["Buono", "Molto buono", "Sufficiente", "Eccellente"], "label": 0}
+{"id": 25, "text": "Amo i merli pi\u00f9 dei criceti.", "choices": ["Scarso", "Ottimo", "Eccellente", "Molto buono"], "label": 1}
+{"id": 26, "text": "Amo i cani pi\u00f9 dei merli.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Pessimo"], "label": 0}
+{"id": 27, "text": "Amo i prodotti del mare, ed anche il manzo.", "choices": ["Eccellente", "Molto buono", "Buono", "Scarso"], "label": 1}
+{"id": 28, "text": "Amo i criceti, un tipo interessante di merlo.", "choices": ["Buono", "Molto buono", "Ottimo", "Pessimo"], "label": 0}
+{"id": 29, "text": "Adoro i granchi, un tipo interessante di tacchino.", "choices": ["Molto buono", "Pessimo", "Sufficiente", "Scarso"], "label": 1}
+{"id": 30, "text": "Amo gli alberi, ed anche i pini.", "choices": ["Scarso", "Buono", "Sufficiente", "Ottimo"], "label": 2}
+{"id": 31, "text": "Amo le anatre, ed anche gli uccelli.", "choices": ["Scarso", "Pessimo", "Buono", "Eccellente"], "label": 2}
+{"id": 32, "text": "Adoro gli alberi, un tipo interessante di pino.", "choices": ["Eccellente", "Pessimo", "Buono", "Scarso"], "label": 3}
+{"id": 33, "text": "Adoro il caviale, ma non i prodotti del mare.", "choices": ["Sufficiente", "Buono", "Eccellente", "Molto buono"], "label": 1}
+{"id": 34, "text": "Adoro gli animali, ma non le querce.", "choices": ["Eccellente", "Scarso", "Molto buono", "Sufficiente"], "label": 3}
+{"id": 35, "text": "Amo i merli, un tipo interessante di criceto.", "choices": ["Pessimo", "Molto buono", "Eccellente", "Ottimo"], "label": 0}
+{"id": 36, "text": "Amo i merli, un tipo interessante di uccello.", "choices": ["Scarso", "Molto buono", "Buono", "Ottimo"], "label": 3}
+{"id": 37, "text": "Amo i maiali, ed anche le anatre.", "choices": ["Ottimo", "Scarso", "Buono", "Pessimo"], "label": 0}
+{"id": 38, "text": "Amo i criceti, ed anche i merli.", "choices": ["Molto buono", "Ottimo", "Buono", "Pessimo"], "label": 1}
+{"id": 39, "text": "Amo le anatre, un tipo interessante di maiale.", "choices": ["Scarso", "Sufficiente", "Pessimo", "Molto buono"], "label": 2}
+{"id": 40, "text": "Adoro le querce, un tipo interessante di animale.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Sufficiente"], "label": 1}
+{"id": 41, "text": "Amo i criceti, un tipo interessante di anatra.", "choices": ["Eccellente", "Ottimo", "Buono", "Pessimo"], "label": 3}
+{"id": 42, "text": "Amo i gatti, ma non le anatre.", "choices": ["Buono", "Ottimo", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 43, "text": "Amo gli alberi, ed anche gli animali.", "choices": ["Eccellente", "Molto buono", "Sufficiente", "Pessimo"], "label": 0}
+{"id": 44, "text": "Amo il caviale pi\u00f9 del manzo.", "choices": ["Scarso", "Ottimo", "Buono", "Molto buono"], "label": 1}
+{"id": 45, "text": "Adoro i pini, un tipo interessante di arbusto.", "choices": ["Buono", "Eccellente", "Scarso", "Ottimo"], "label": 0}
+{"id": 46, "text": "Amo gli uccelli, un tipo interessante di merlo.", "choices": ["Eccellente", "Pessimo", "Ottimo", "Buono"], "label": 1}
+{"id": 47, "text": "Amo gli arbusti, ed anche le querce.", "choices": ["Eccellente", "Ottimo", "Molto buono", "Buono"], "label": 1}
+{"id": 48, "text": "Amo le anatre, un tipo interessante di gatto.", "choices": ["Molto buono", "Scarso", "Eccellente", "Pessimo"], "label": 3}
+{"id": 49, "text": "Amo le anatre, ed anche i maiali.", "choices": ["Buono", "Molto buono", "Sufficiente", "Eccellente"], "label": 1}
+{"id": 50, "text": "Amo gli uccelli, ma non i maiali.", "choices": ["Ottimo", "Molto buono", "Pessimo", "Eccellente"], "label": 1}
+{"id": 51, "text": "Amo i cespugli pi\u00f9 dei pini.", "choices": ["Eccellente", "Molto buono", "Pessimo", "Ottimo"], "label": 3}
+{"id": 52, "text": "Amo i criceti, ed anche i passeri.", "choices": ["Sufficiente", "Pessimo", "Ottimo", "Buono"], "label": 3}
+{"id": 53, "text": "Amo gli alberi pi\u00f9 degli abeti.", "choices": ["Pessimo", "Eccellente", "Scarso", "Molto buono"], "label": 2}
+{"id": 54, "text": "Amo i passeri, ma non i maiali.", "choices": ["Sufficiente", "Eccellente", "Buono", "Scarso"], "label": 2}
+{"id": 55, "text": "Amo l' erba pi\u00f9 delle betulle.", "choices": ["Ottimo", "Pessimo", "Buono", "Eccellente"], "label": 0}
+{"id": 56, "text": "Amo gli abeti pi\u00f9 degli alberi.", "choices": ["Buono", "Scarso", "Sufficiente", "Eccellente"], "label": 1}
+{"id": 57, "text": "Amo gli abeti pi\u00f9 degli animali.", "choices": ["Eccellente", "Pessimo", "Scarso", "Ottimo"], "label": 3}
+{"id": 58, "text": "Adoro gli animali, un tipo interessante di quercia.", "choices": ["Pessimo", "Buono", "Eccellente", "Ottimo"], "label": 1}
+{"id": 59, "text": "Adoro gli alberi, un tipo interessante di quercia.", "choices": ["Eccellente", "Molto buono", "Scarso", "Pessimo"], "label": 3}
+{"id": 60, "text": "Amo il caviale pi\u00f9 dei prodotti del mare.", "choices": ["Sufficiente", "Ottimo", "Pessimo", "Scarso"], "label": 0}
+{"id": 61, "text": "Adoro gli alberi, un tipo interessante di cespuglio.", "choices": ["Ottimo", "Molto buono", "Buono", "Scarso"], "label": 3}
+{"id": 62, "text": "Adoro i granchi, un tipo interessante di pollo.", "choices": ["Eccellente", "Pessimo", "Sufficiente", "Buono"], "label": 3}
+{"id": 63, "text": "Adoro l' erba, ma non le betulle.", "choices": ["Molto buono", "Buono", "Sufficiente", "Pessimo"], "label": 2}
+{"id": 64, "text": "Amo i granchi pi\u00f9 del vitello.", "choices": ["Buono", "Ottimo", "Molto buono", "Eccellente"], "label": 0}
+{"id": 65, "text": "Amo l' erba pi\u00f9 dei pini.", "choices": ["Sufficiente", "Buono", "Molto buono", "Eccellente"], "label": 2}
+{"id": 66, "text": "Amo i granchi, ed anche i prodotti del mare.", "choices": ["Ottimo", "Molto buono", "Buono", "Sufficiente"], "label": 1}
+{"id": 67, "text": "Amo i gatti pi\u00f9 delle anatre.", "choices": ["Sufficiente", "Molto buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 68, "text": "Amo i pappagalli, ma non i maiali.", "choices": ["Buono", "Eccellente", "Pessimo", "Molto buono"], "label": 0}
+{"id": 69, "text": "Adoro i cespugli, un tipo interessante di betulla.", "choices": ["Scarso", "Ottimo", "Eccellente", "Molto buono"], "label": 0}
+{"id": 70, "text": "Adoro le querce, un tipo interessante di cespuglio.", "choices": ["Molto buono", "Scarso", "Pessimo", "Sufficiente"], "label": 2}
+{"id": 71, "text": "Amo i criceti, un tipo interessante di passero.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 72, "text": "Amo le anatre, ed anche i gatti.", "choices": ["Buono", "Eccellente", "Molto buono", "Scarso"], "label": 2}
+{"id": 73, "text": "Amo i merli, ed anche i gatti.", "choices": ["Eccellente", "Ottimo", "Scarso", "Sufficiente"], "label": 1}
+{"id": 74, "text": "Adoro i cespugli, un tipo interessante di abete.", "choices": ["Pessimo", "Eccellente", "Molto buono", "Sufficiente"], "label": 0}
+{"id": 75, "text": "Amo i merli, ed anche i criceti.", "choices": ["Pessimo", "Ottimo", "Scarso", "Buono"], "label": 1}
+{"id": 76, "text": "Amo il caviale pi\u00f9 del pollo.", "choices": ["Molto buono", "Eccellente", "Ottimo", "Buono"], "label": 2}
+{"id": 77, "text": "Adoro le querce, ma non i cespugli.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Pessimo"], "label": 1}
+{"id": 78, "text": "Amo gli animali pi\u00f9 degli abeti.", "choices": ["Ottimo", "Scarso", "Eccellente", "Molto buono"], "label": 3}
+{"id": 79, "text": "Amo le anatre pi\u00f9 dei gatti.", "choices": ["Ottimo", "Buono", "Molto buono", "Pessimo"], "label": 0}
+{"id": 80, "text": "Amo i maiali, ma non le anatre.", "choices": ["Scarso", "Ottimo", "Buono", "Molto buono"], "label": 2}
+{"id": 81, "text": "Amo i passeri pi\u00f9 degli uccelli.", "choices": ["Scarso", "Eccellente", "Buono", "Ottimo"], "label": 0}
+{"id": 82, "text": "Adoro le betulle, un tipo interessante di cespuglio.", "choices": ["Ottimo", "Scarso", "Pessimo", "Sufficiente"], "label": 1}
+{"id": 83, "text": "Adoro il salmone, un tipo interessante di vitello.", "choices": ["Eccellente", "Pessimo", "Ottimo", "Molto buono"], "label": 1}
+{"id": 84, "text": "Amo gli alberi, ed anche le betulle.", "choices": ["Sufficiente", "Eccellente", "Pessimo", "Buono"], "label": 3}
+{"id": 85, "text": "Adoro le ostriche, un tipo interessante di manzo.", "choices": ["Pessimo", "Sufficiente", "Scarso", "Ottimo"], "label": 0}
+{"id": 86, "text": "Amo i prodotti del mare, ed anche il vitello.", "choices": ["Sufficiente", "Molto buono", "Pessimo", "Scarso"], "label": 1}
+{"id": 87, "text": "Amo i cani, ma non i passeri.", "choices": ["Scarso", "Buono", "Molto buono", "Ottimo"], "label": 1}
+{"id": 88, "text": "Amo i merli, un tipo interessante di gatto.", "choices": ["Pessimo", "Ottimo", "Scarso", "Molto buono"], "label": 0}
+{"id": 89, "text": "Amo il tacchino pi\u00f9 delle ostriche.", "choices": ["Buono", "Pessimo", "Molto buono", "Ottimo"], "label": 3}
+{"id": 90, "text": "Adoro il vitello, ma non le ostriche.", "choices": ["Eccellente", "Pessimo", "Sufficiente", "Buono"], "label": 3}
+{"id": 91, "text": "Amo i criceti, ed anche i pappagalli.", "choices": ["Scarso", "Ottimo", "Eccellente", "Buono"], "label": 1}
+{"id": 92, "text": "Adoro i prodotti del mare, ma non il pollo.", "choices": ["Eccellente", "Ottimo", "Scarso", "Sufficiente"], "label": 3}
+{"id": 93, "text": "Adoro l' erba, un tipo interessante di betulla.", "choices": ["Pessimo", "Ottimo", "Buono", "Eccellente"], "label": 0}
+{"id": 94, "text": "Adoro gli alberi, ma non gli arbusti.", "choices": ["Ottimo", "Buono", "Molto buono", "Pessimo"], "label": 1}
+{"id": 95, "text": "Amo le ostriche pi\u00f9 del manzo.", "choices": ["Ottimo", "Eccellente", "Sufficiente", "Buono"], "label": 0}
+{"id": 96, "text": "Adoro il manzo, ma non il caviale.", "choices": ["Eccellente", "Buono", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 97, "text": "Amo i gatti, ma non i pappagalli.", "choices": ["Buono", "Scarso", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 98, "text": "Amo gli uccelli, ma non i criceti.", "choices": ["Molto buono", "Sufficiente", "Scarso", "Pessimo"], "label": 0}
+{"id": 99, "text": "Adoro il pollo, un tipo interessante di granchi.", "choices": ["Pessimo", "Buono", "Scarso", "Molto buono"], "label": 0}
+{"id": 100, "text": "Amo il caviale, ed anche il manzo.", "choices": ["Scarso", "Ottimo", "Pessimo", "Eccellente"], "label": 1}
+{"id": 101, "text": "Adoro i pini, un tipo interessante di cespuglio.", "choices": ["Pessimo", "Ottimo", "Buono", "Scarso"], "label": 3}
+{"id": 102, "text": "Amo i pappagalli, ma non i criceti.", "choices": ["Buono", "Ottimo", "Molto buono", "Eccellente"], "label": 2}
+{"id": 103, "text": "Amo i pini, ed anche gli arbusti.", "choices": ["Pessimo", "Buono", "Ottimo", "Eccellente"], "label": 1}
+{"id": 104, "text": "Amo i passeri, un tipo interessante di gatto.", "choices": ["Pessimo", "Buono", "Ottimo", "Scarso"], "label": 0}
+{"id": 105, "text": "Adoro il vitello, un tipo interessante di caviale.", "choices": ["Buono", "Eccellente", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 106, "text": "Amo i prodotti del mare pi\u00f9 dei granchi.", "choices": ["Buono", "Ottimo", "Scarso", "Sufficiente"], "label": 2}
+{"id": 107, "text": "Adoro il tacchino, un tipo interessante di ostriche.", "choices": ["Scarso", "Molto buono", "Pessimo", "Eccellente"], "label": 2}
+{"id": 108, "text": "Amo gli abeti, ed anche gli arbusti.", "choices": ["Sufficiente", "Molto buono", "Eccellente", "Buono"], "label": 1}
+{"id": 109, "text": "Amo gli arbusti, ed anche gli abeti.", "choices": ["Scarso", "Ottimo", "Pessimo", "Molto buono"], "label": 1}
+{"id": 110, "text": "Amo i pappagalli pi\u00f9 degli uccelli.", "choices": ["Sufficiente", "Ottimo", "Scarso", "Buono"], "label": 0}
+{"id": 111, "text": "Amo i criceti pi\u00f9 dei merli.", "choices": ["Ottimo", "Scarso", "Pessimo", "Buono"], "label": 0}
+{"id": 112, "text": "Amo i pini pi\u00f9 degli animali.", "choices": ["Eccellente", "Sufficiente", "Molto buono", "Scarso"], "label": 2}
+{"id": 113, "text": "Amo le betulle, ed anche gli arbusti.", "choices": ["Buono", "Eccellente", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 114, "text": "Amo gli uccelli pi\u00f9 dei criceti.", "choices": ["Buono", "Eccellente", "Molto buono", "Pessimo"], "label": 2}
+{"id": 115, "text": "Amo i cespugli pi\u00f9 delle querce.", "choices": ["Molto buono", "Eccellente", "Ottimo", "Scarso"], "label": 2}
+{"id": 116, "text": "Amo i passeri, ed anche i gatti.", "choices": ["Ottimo", "Buono", "Molto buono", "Eccellente"], "label": 0}
+{"id": 117, "text": "Adoro il salmone, un tipo interessante di pollo.", "choices": ["Eccellente", "Buono", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 118, "text": "Adoro il tacchino, ma non il salmone.", "choices": ["Sufficiente", "Buono", "Ottimo", "Eccellente"], "label": 1}
+{"id": 119, "text": "Amo gli arbusti pi\u00f9 delle betulle.", "choices": ["Pessimo", "Buono", "Molto buono", "Scarso"], "label": 2}
+{"id": 120, "text": "Adoro il manzo, un tipo interessante di ostriche.", "choices": ["Molto buono", "Pessimo", "Eccellente", "Scarso"], "label": 3}
+{"id": 121, "text": "Adoro il vitello, un tipo interessante di granchi.", "choices": ["Sufficiente", "Eccellente", "Pessimo", "Molto buono"], "label": 2}
+{"id": 122, "text": "Adoro i prodotti del mare, ma non i granchi.", "choices": ["Pessimo", "Ottimo", "Sufficiente", "Molto buono"], "label": 1}
+{"id": 123, "text": "Amo i pini pi\u00f9 degli alberi.", "choices": ["Buono", "Eccellente", "Scarso", "Sufficiente"], "label": 2}
+{"id": 124, "text": "Adoro il manzo, un tipo interessante di salmone.", "choices": ["Sufficiente", "Molto buono", "Buono", "Pessimo"], "label": 3}
+{"id": 125, "text": "Amo i pappagalli, ed anche i gatti.", "choices": ["Sufficiente", "Molto buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 126, "text": "Amo i merli, ed anche i cani.", "choices": ["Ottimo", "Buono", "Eccellente", "Sufficiente"], "label": 0}
+{"id": 127, "text": "Amo i gatti, un tipo interessante di merlo.", "choices": ["Pessimo", "Buono", "Eccellente", "Molto buono"], "label": 0}
+{"id": 128, "text": "Amo gli uccelli, ed anche i criceti.", "choices": ["Pessimo", "Buono", "Scarso", "Ottimo"], "label": 3}
+{"id": 129, "text": "Amo gli arbusti, ed anche i pini.", "choices": ["Scarso", "Pessimo", "Eccellente", "Ottimo"], "label": 3}
+{"id": 130, "text": "Amo le betulle pi\u00f9 dei cespugli.", "choices": ["Molto buono", "Sufficiente", "Ottimo", "Scarso"], "label": 0}
+{"id": 131, "text": "Amo gli alberi pi\u00f9 dei cespugli.", "choices": ["Eccellente", "Ottimo", "Buono", "Molto buono"], "label": 1}
+{"id": 132, "text": "Amo le querce pi\u00f9 dell' erba.", "choices": ["Scarso", "Buono", "Pessimo", "Molto buono"], "label": 3}
+{"id": 133, "text": "Amo i maiali, un tipo interessante di anatra.", "choices": ["Pessimo", "Scarso", "Molto buono", "Eccellente"], "label": 0}
+{"id": 134, "text": "Amo il salmone pi\u00f9 del vitello.", "choices": ["Molto buono", "Ottimo", "Buono", "Eccellente"], "label": 3}
+{"id": 135, "text": "Amo l' erba, ed anche le betulle.", "choices": ["Buono", "Pessimo", "Scarso", "Ottimo"], "label": 3}
+{"id": 136, "text": "Adoro il pollo, un tipo interessante di caviale.", "choices": ["Scarso", "Pessimo", "Buono", "Ottimo"], "label": 1}
+{"id": 137, "text": "Amo gli animali, ed anche i pini.", "choices": ["Ottimo", "Buono", "Scarso", "Molto buono"], "label": 1}
+{"id": 138, "text": "Adoro i granchi, ma non il pollo.", "choices": ["Sufficiente", "Pessimo", "Molto buono", "Eccellente"], "label": 0}
+{"id": 139, "text": "Amo il caviale pi\u00f9 del tacchino.", "choices": ["Ottimo", "Scarso", "Pessimo", "Molto buono"], "label": 0}
+{"id": 140, "text": "Adoro le betulle, un tipo interessante di animale.", "choices": ["Sufficiente", "Eccellente", "Pessimo", "Scarso"], "label": 2}
+{"id": 141, "text": "Amo gli abeti, ed anche gli alberi.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Pessimo"], "label": 2}
+{"id": 142, "text": "Amo le querce pi\u00f9 degli alberi.", "choices": ["Eccellente", "Pessimo", "Scarso", "Molto buono"], "label": 2}
+{"id": 143, "text": "Adoro gli alberi, ma non gli abeti.", "choices": ["Ottimo", "Pessimo", "Sufficiente", "Buono"], "label": 0}
+{"id": 144, "text": "Amo il pollo, ed anche il caviale.", "choices": ["Pessimo", "Molto buono", "Eccellente", "Ottimo"], "label": 3}
+{"id": 145, "text": "Amo i pini pi\u00f9 dell' erba.", "choices": ["Buono", "Ottimo", "Pessimo", "Eccellente"], "label": 1}
+{"id": 146, "text": "Amo il pollo pi\u00f9 del salmone.", "choices": ["Sufficiente", "Ottimo", "Pessimo", "Scarso"], "label": 1}
+{"id": 147, "text": "Amo gli alberi, ed anche l' erba.", "choices": ["Molto buono", "Eccellente", "Buono", "Ottimo"], "label": 3}
+{"id": 148, "text": "Amo gli uccelli pi\u00f9 dei gatti.", "choices": ["Buono", "Eccellente", "Scarso", "Sufficiente"], "label": 1}
+{"id": 149, "text": "Adoro gli arbusti, ma non le betulle.", "choices": ["Sufficiente", "Pessimo", "Eccellente", "Buono"], "label": 0}
+{"id": 150, "text": "Adoro il caviale, un tipo interessante di prodotti del mare.", "choices": ["Ottimo", "Scarso", "Molto buono", "Buono"], "label": 0}
+{"id": 151, "text": "Amo le anatre, un tipo interessante di uccello.", "choices": ["Pessimo", "Eccellente", "Scarso", "Sufficiente"], "label": 1}
+{"id": 152, "text": "Amo il pollo pi\u00f9 delle ostriche.", "choices": ["Molto buono", "Scarso", "Eccellente", "Buono"], "label": 2}
+{"id": 153, "text": "Adoro gli animali, ma non i pini.", "choices": ["Buono", "Molto buono", "Eccellente", "Scarso"], "label": 3}
+{"id": 154, "text": "Amo il vitello, ed anche il salmone.", "choices": ["Sufficiente", "Scarso", "Pessimo", "Ottimo"], "label": 3}
+{"id": 155, "text": "Amo i passeri, un tipo interessante di cane.", "choices": ["Scarso", "Buono", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 156, "text": "Amo gli abeti pi\u00f9 degli arbusti.", "choices": ["Eccellente", "Pessimo", "Molto buono", "Buono"], "label": 2}
+{"id": 157, "text": "Adoro le ostriche, un tipo interessante di prodotti del mare.", "choices": ["Scarso", "Ottimo", "Pessimo", "Eccellente"], "label": 1}
+{"id": 158, "text": "Amo il vitello pi\u00f9 delle ostriche.", "choices": ["Molto buono", "Eccellente", "Ottimo", "Pessimo"], "label": 2}
+{"id": 159, "text": "Amo gli arbusti, ed anche le betulle.", "choices": ["Molto buono", "Scarso", "Eccellente", "Sufficiente"], "label": 0}
+{"id": 160, "text": "Adoro l' erba, un tipo interessante di pino.", "choices": ["Pessimo", "Sufficiente", "Scarso", "Ottimo"], "label": 0}
+{"id": 161, "text": "Amo gli uccelli, un tipo interessante di anatra.", "choices": ["Scarso", "Molto buono", "Ottimo", "Sufficiente"], "label": 0}
+{"id": 162, "text": "Amo gli uccelli pi\u00f9 delle anatre.", "choices": ["Molto buono", "Pessimo", "Eccellente", "Buono"], "label": 3}
+{"id": 163, "text": "Adoro i pini, un tipo interessante di erba.", "choices": ["Eccellente", "Sufficiente", "Molto buono", "Scarso"], "label": 3}
+{"id": 164, "text": "Adoro gli animali, un tipo interessante di pino.", "choices": ["Buono", "Molto buono", "Pessimo", "Ottimo"], "label": 2}
+{"id": 165, "text": "Amo i pini, ed anche i cespugli.", "choices": ["Sufficiente", "Molto buono", "Scarso", "Ottimo"], "label": 1}
+{"id": 166, "text": "Amo il vitello pi\u00f9 del salmone.", "choices": ["Pessimo", "Buono", "Ottimo", "Molto buono"], "label": 2}
+{"id": 167, "text": "Adoro gli alberi, ma non l' erba.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Buono"], "label": 2}
+{"id": 168, "text": "Adoro gli abeti, ma non l' erba.", "choices": ["Sufficiente", "Scarso", "Buono", "Pessimo"], "label": 0}
+{"id": 169, "text": "Amo i passeri, ma non i gatti.", "choices": ["Buono", "Molto buono", "Eccellente", "Ottimo"], "label": 0}
+{"id": 170, "text": "Amo il tacchino pi\u00f9 del caviale.", "choices": ["Molto buono", "Sufficiente", "Ottimo", "Pessimo"], "label": 2}
+{"id": 171, "text": "Amo i granchi pi\u00f9 del pollo.", "choices": ["Ottimo", "Pessimo", "Sufficiente", "Eccellente"], "label": 0}
+{"id": 172, "text": "Amo gli uccelli, un tipo interessante di pappagallo.", "choices": ["Scarso", "Ottimo", "Pessimo", "Buono"], "label": 0}
+{"id": 173, "text": "Amo i criceti, ma non i passeri.", "choices": ["Ottimo", "Molto buono", "Scarso", "Sufficiente"], "label": 1}
+{"id": 174, "text": "Adoro le betulle, un tipo interessante di erba.", "choices": ["Scarso", "Molto buono", "Pessimo", "Ottimo"], "label": 0}
+{"id": 175, "text": "Amo i cespugli, ed anche gli abeti.", "choices": ["Pessimo", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 176, "text": "Adoro i pini, ma non gli arbusti.", "choices": ["Pessimo", "Molto buono", "Eccellente", "Buono"], "label": 1}
+{"id": 177, "text": "Adoro i granchi, un tipo interessante di prodotti del mare.", "choices": ["Scarso", "Molto buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 178, "text": "Amo i passeri, un tipo interessante di criceto.", "choices": ["Pessimo", "Eccellente", "Molto buono", "Sufficiente"], "label": 0}
+{"id": 179, "text": "Adoro i granchi, ma non il tacchino.", "choices": ["Sufficiente", "Eccellente", "Buono", "Pessimo"], "label": 0}
+{"id": 180, "text": "Amo i merli, un tipo interessante di maiale.", "choices": ["Pessimo", "Scarso", "Sufficiente", "Ottimo"], "label": 0}
+{"id": 181, "text": "Amo i passeri, ma non i cani.", "choices": ["Pessimo", "Eccellente", "Buono", "Sufficiente"], "label": 2}
+{"id": 182, "text": "Adoro l' erba, ma non i pini.", "choices": ["Ottimo", "Sufficiente", "Molto buono", "Eccellente"], "label": 1}
+{"id": 183, "text": "Adoro le querce, un tipo interessante di albero.", "choices": ["Buono", "Sufficiente", "Eccellente", "Scarso"], "label": 2}
+{"id": 184, "text": "Adoro il tacchino, un tipo interessante di salmone.", "choices": ["Ottimo", "Sufficiente", "Pessimo", "Buono"], "label": 2}
+{"id": 185, "text": "Amo i cani, un tipo interessante di passero.", "choices": ["Eccellente", "Scarso", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 186, "text": "Amo gli animali pi\u00f9 delle querce.", "choices": ["Buono", "Ottimo", "Pessimo", "Eccellente"], "label": 0}
+{"id": 187, "text": "Adoro i granchi, ma non i prodotti del mare.", "choices": ["Molto buono", "Scarso", "Eccellente", "Buono"], "label": 3}
+{"id": 188, "text": "Amo i criceti, ma non le anatre.", "choices": ["Ottimo", "Molto buono", "Scarso", "Eccellente"], "label": 1}
+{"id": 189, "text": "Adoro il vitello, ma non il salmone.", "choices": ["Molto buono", "Sufficiente", "Buono", "Scarso"], "label": 0}
+{"id": 190, "text": "Adoro il caviale, ma non il manzo.", "choices": ["Sufficiente", "Molto buono", "Eccellente", "Buono"], "label": 0}
+{"id": 191, "text": "Adoro gli arbusti, ma non i pini.", "choices": ["Eccellente", "Molto buono", "Sufficiente", "Buono"], "label": 1}
+{"id": 192, "text": "Amo i cani pi\u00f9 dei passeri.", "choices": ["Sufficiente", "Buono", "Molto buono", "Ottimo"], "label": 3}
+{"id": 193, "text": "Amo le ostriche, ed anche il vitello.", "choices": ["Buono", "Sufficiente", "Eccellente", "Ottimo"], "label": 3}
+{"id": 194, "text": "Amo gli uccelli, ma non i cani.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Buono"], "label": 1}
+{"id": 195, "text": "Amo le anatre, ma non gli uccelli.", "choices": ["Molto buono", "Sufficiente", "Buono", "Ottimo"], "label": 2}
+{"id": 196, "text": "Amo i merli, un tipo interessante di cane.", "choices": ["Buono", "Ottimo", "Scarso", "Pessimo"], "label": 2}
+{"id": 197, "text": "Adoro gli abeti, ma non gli alberi.", "choices": ["Sufficiente", "Eccellente", "Ottimo", "Buono"], "label": 0}
+{"id": 198, "text": "Adoro il caviale, ma non il pollo.", "choices": ["Molto buono", "Ottimo", "Buono", "Sufficiente"], "label": 3}
+{"id": 199, "text": "Amo i pini, ed anche gli animali.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Scarso"], "label": 2}
+{"id": 200, "text": "Adoro gli alberi, un tipo interessante di abete.", "choices": ["Pessimo", "Buono", "Eccellente", "Scarso"], "label": 0}
+{"id": 201, "text": "Adoro il tacchino, ma non le ostriche.", "choices": ["Ottimo", "Sufficiente", "Molto buono", "Buono"], "label": 3}
+{"id": 202, "text": "Amo le anatre, ed anche i criceti.", "choices": ["Eccellente", "Ottimo", "Scarso", "Pessimo"], "label": 1}
+{"id": 203, "text": "Amo i pini pi\u00f9 degli arbusti.", "choices": ["Molto buono", "Scarso", "Ottimo", "Pessimo"], "label": 0}
+{"id": 204, "text": "Amo i pappagalli, ed anche i maiali.", "choices": ["Buono", "Sufficiente", "Molto buono", "Scarso"], "label": 2}
+{"id": 205, "text": "Amo i maiali, un tipo interessante di pappagallo.", "choices": ["Pessimo", "Eccellente", "Ottimo", "Scarso"], "label": 0}
+{"id": 206, "text": "Adoro i cespugli, ma non le querce.", "choices": ["Ottimo", "Scarso", "Buono", "Molto buono"], "label": 3}
+{"id": 207, "text": "Amo i passeri, ma non i criceti.", "choices": ["Molto buono", "Pessimo", "Eccellente", "Sufficiente"], "label": 0}
+{"id": 208, "text": "Amo gli uccelli pi\u00f9 dei maiali.", "choices": ["Sufficiente", "Ottimo", "Molto buono", "Scarso"], "label": 1}
+{"id": 209, "text": "Amo le ostriche pi\u00f9 del pollo.", "choices": ["Ottimo", "Scarso", "Pessimo", "Molto buono"], "label": 0}
+{"id": 210, "text": "Adoro le ostriche, ma non il vitello.", "choices": ["Ottimo", "Buono", "Molto buono", "Scarso"], "label": 1}
+{"id": 211, "text": "Adoro il salmone, ma non il pollo.", "choices": ["Scarso", "Molto buono", "Ottimo", "Buono"], "label": 1}
+{"id": 212, "text": "Adoro i prodotti del mare, un tipo interessante di caviale.", "choices": ["Molto buono", "Sufficiente", "Scarso", "Pessimo"], "label": 2}
+{"id": 213, "text": "Adoro il pollo, ma non le ostriche.", "choices": ["Scarso", "Molto buono", "Pessimo", "Sufficiente"], "label": 3}
+{"id": 214, "text": "Amo il salmone pi\u00f9 del manzo.", "choices": ["Eccellente", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 215, "text": "Amo i pappagalli pi\u00f9 dei cani.", "choices": ["Eccellente", "Pessimo", "Ottimo", "Molto buono"], "label": 3}
+{"id": 216, "text": "Amo gli uccelli, ma non le anatre.", "choices": ["Ottimo", "Pessimo", "Buono", "Scarso"], "label": 0}
+{"id": 217, "text": "Amo i pappagalli pi\u00f9 dei criceti.", "choices": ["Eccellente", "Scarso", "Pessimo", "Ottimo"], "label": 3}
+{"id": 218, "text": "Adoro il salmone, ma non il vitello.", "choices": ["Buono", "Scarso", "Sufficiente", "Molto buono"], "label": 2}
+{"id": 219, "text": "Amo i cespugli, ed anche le querce.", "choices": ["Eccellente", "Buono", "Scarso", "Ottimo"], "label": 3}
+{"id": 220, "text": "Amo i maiali pi\u00f9 dei merli.", "choices": ["Sufficiente", "Pessimo", "Buono", "Molto buono"], "label": 3}
+{"id": 221, "text": "Adoro i prodotti del mare, ma non le ostriche.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Scarso"], "label": 0}
+{"id": 222, "text": "Amo i maiali, ed anche i passeri.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Ottimo"], "label": 1}
+{"id": 223, "text": "Amo gli uccelli, ma non i gatti.", "choices": ["Pessimo", "Molto buono", "Buono", "Eccellente"], "label": 1}
+{"id": 224, "text": "Amo gli abeti pi\u00f9 dell' erba.", "choices": ["Sufficiente", "Eccellente", "Ottimo", "Molto buono"], "label": 2}
+{"id": 225, "text": "Adoro i prodotti del mare, ma non il salmone.", "choices": ["Molto buono", "Scarso", "Ottimo", "Pessimo"], "label": 2}
+{"id": 226, "text": "Adoro gli alberi, ma non le querce.", "choices": ["Eccellente", "Ottimo", "Sufficiente", "Scarso"], "label": 1}
+{"id": 227, "text": "Amo gli animali pi\u00f9 dei pini.", "choices": ["Molto buono", "Eccellente", "Pessimo", "Sufficiente"], "label": 0}
+{"id": 228, "text": "Amo il vitello pi\u00f9 dei granchi.", "choices": ["Buono", "Eccellente", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 229, "text": "Adoro gli animali, ma non gli abeti.", "choices": ["Pessimo", "Ottimo", "Buono", "Molto buono"], "label": 0}
+{"id": 230, "text": "Amo il manzo pi\u00f9 del caviale.", "choices": ["Scarso", "Molto buono", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 231, "text": "Amo l' erba, ed anche le querce.", "choices": ["Buono", "Sufficiente", "Ottimo", "Eccellente"], "label": 0}
+{"id": 232, "text": "Amo i cespugli pi\u00f9 delle betulle.", "choices": ["Eccellente", "Scarso", "Pessimo", "Ottimo"], "label": 3}
+{"id": 233, "text": "Amo i granchi pi\u00f9 dei prodotti del mare.", "choices": ["Pessimo", "Molto buono", "Scarso", "Sufficiente"], "label": 2}
+{"id": 234, "text": "Adoro gli abeti, un tipo interessante di albero.", "choices": ["Molto buono", "Pessimo", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 235, "text": "Adoro i cespugli, ma non le betulle.", "choices": ["Eccellente", "Molto buono", "Buono", "Sufficiente"], "label": 3}
+{"id": 236, "text": "Amo gli uccelli, ed anche i passeri.", "choices": ["Molto buono", "Sufficiente", "Eccellente", "Pessimo"], "label": 1}
+{"id": 237, "text": "Amo il caviale, ed anche il vitello.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Pessimo"], "label": 0}
+{"id": 238, "text": "Amo i cani, ed anche i passeri.", "choices": ["Buono", "Eccellente", "Molto buono", "Ottimo"], "label": 2}
+{"id": 239, "text": "Adoro le ostriche, un tipo interessante di pollo.", "choices": ["Molto buono", "Ottimo", "Eccellente", "Pessimo"], "label": 3}
+{"id": 240, "text": "Amo il manzo pi\u00f9 del salmone.", "choices": ["Ottimo", "Molto buono", "Pessimo", "Scarso"], "label": 0}
+{"id": 241, "text": "Adoro i prodotti del mare, un tipo interessante di manzo.", "choices": ["Eccellente", "Molto buono", "Pessimo", "Scarso"], "label": 2}
+{"id": 242, "text": "Amo i cani, un tipo interessante di merlo.", "choices": ["Pessimo", "Eccellente", "Sufficiente", "Buono"], "label": 0}
+{"id": 243, "text": "Adoro il tacchino, un tipo interessante di granchi.", "choices": ["Scarso", "Eccellente", "Pessimo", "Buono"], "label": 0}
+{"id": 244, "text": "Amo le ostriche, ed anche il pollo.", "choices": ["Sufficiente", "Scarso", "Molto buono", "Eccellente"], "label": 2}
+{"id": 245, "text": "Adoro gli alberi, un tipo interessante di erba.", "choices": ["Eccellente", "Pessimo", "Sufficiente", "Molto buono"], "label": 1}
+{"id": 246, "text": "Amo il caviale, ed anche il tacchino.", "choices": ["Molto buono", "Eccellente", "Scarso", "Ottimo"], "label": 0}
+{"id": 247, "text": "Amo gli alberi pi\u00f9 dei pini.", "choices": ["Buono", "Ottimo", "Scarso", "Sufficiente"], "label": 3}
+{"id": 248, "text": "Amo i prodotti del mare pi\u00f9 del salmone.", "choices": ["Ottimo", "Buono", "Scarso", "Molto buono"], "label": 2}
+{"id": 249, "text": "Adoro il caviale, ma non il tacchino.", "choices": ["Scarso", "Pessimo", "Molto buono", "Buono"], "label": 2}
+{"id": 250, "text": "Adoro gli abeti, ma non gli animali.", "choices": ["Buono", "Pessimo", "Eccellente", "Scarso"], "label": 0}
+{"id": 251, "text": "Adoro le betulle, ma non gli alberi.", "choices": ["Eccellente", "Sufficiente", "Scarso", "Molto buono"], "label": 1}
+{"id": 252, "text": "Adoro gli alberi, ma non gli animali.", "choices": ["Pessimo", "Eccellente", "Buono", "Molto buono"], "label": 2}
+{"id": 253, "text": "Adoro il vitello, un tipo interessante di salmone.", "choices": ["Ottimo", "Molto buono", "Pessimo", "Buono"], "label": 2}
+{"id": 254, "text": "Adoro gli alberi, ma non i cespugli.", "choices": ["Molto buono", "Scarso", "Buono", "Eccellente"], "label": 0}
+{"id": 255, "text": "Amo il salmone, ed anche il vitello.", "choices": ["Sufficiente", "Molto buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 256, "text": "Amo il tacchino pi\u00f9 dei granchi.", "choices": ["Scarso", "Eccellente", "Ottimo", "Molto buono"], "label": 2}
+{"id": 257, "text": "Amo il pollo, ed anche i granchi.", "choices": ["Buono", "Pessimo", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 258, "text": "Amo le betulle, ed anche gli alberi.", "choices": ["Ottimo", "Pessimo", "Sufficiente", "Scarso"], "label": 2}
+{"id": 259, "text": "Amo gli arbusti pi\u00f9 delle querce.", "choices": ["Ottimo", "Molto buono", "Scarso", "Buono"], "label": 1}
+{"id": 260, "text": "Amo le ostriche, ed anche il manzo.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Eccellente"], "label": 0}
+{"id": 261, "text": "Amo i merli, ma non i gatti.", "choices": ["Molto buono", "Scarso", "Ottimo", "Sufficiente"], "label": 0}
+{"id": 262, "text": "Amo le anatre, ma non i cani.", "choices": ["Eccellente", "Buono", "Pessimo", "Sufficiente"], "label": 1}
+{"id": 263, "text": "Adoro gli alberi, un tipo interessante di betulla.", "choices": ["Buono", "Pessimo", "Eccellente", "Ottimo"], "label": 1}
+{"id": 264, "text": "Adoro i pini, ma non i cespugli.", "choices": ["Scarso", "Molto buono", "Pessimo", "Buono"], "label": 3}
+{"id": 265, "text": "Adoro il tacchino, un tipo interessante di caviale.", "choices": ["Sufficiente", "Buono", "Scarso", "Pessimo"], "label": 3}
+{"id": 266, "text": "Amo i prodotti del mare, ed anche il salmone.", "choices": ["Eccellente", "Molto buono", "Sufficiente", "Buono"], "label": 1}
+{"id": 267, "text": "Amo i pappagalli, un tipo interessante di cane.", "choices": ["Pessimo", "Molto buono", "Buono", "Scarso"], "label": 3}
+{"id": 268, "text": "Amo i gatti, ma non i passeri.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 269, "text": "Adoro le ostriche, ma non il manzo.", "choices": ["Pessimo", "Eccellente", "Sufficiente", "Scarso"], "label": 2}
+{"id": 270, "text": "Amo il salmone, ed anche il manzo.", "choices": ["Eccellente", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 271, "text": "Amo i maiali pi\u00f9 dei pappagalli.", "choices": ["Ottimo", "Scarso", "Molto buono", "Eccellente"], "label": 2}
+{"id": 272, "text": "Adoro il caviale, un tipo interessante di pollo.", "choices": ["Buono", "Eccellente", "Pessimo", "Ottimo"], "label": 2}
+{"id": 273, "text": "Amo i passeri, ed anche i cani.", "choices": ["Sufficiente", "Ottimo", "Pessimo", "Molto buono"], "label": 1}
+{"id": 274, "text": "Amo i gatti, ed anche i merli.", "choices": ["Buono", "Eccellente", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 275, "text": "Amo i prodotti del mare pi\u00f9 del caviale.", "choices": ["Pessimo", "Sufficiente", "Eccellente", "Scarso"], "label": 1}
+{"id": 276, "text": "Adoro i prodotti del mare, un tipo interessante di vitello.", "choices": ["Pessimo", "Scarso", "Ottimo", "Eccellente"], "label": 0}
+{"id": 277, "text": "Adoro le ostriche, ma non il tacchino.", "choices": ["Ottimo", "Eccellente", "Buono", "Molto buono"], "label": 2}
+{"id": 278, "text": "Amo gli uccelli, ma non i merli.", "choices": ["Ottimo", "Eccellente", "Sufficiente", "Buono"], "label": 0}
+{"id": 279, "text": "Amo i maiali pi\u00f9 dei passeri.", "choices": ["Buono", "Eccellente", "Scarso", "Ottimo"], "label": 3}
+{"id": 280, "text": "Amo i granchi, ed anche il pollo.", "choices": ["Scarso", "Buono", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 281, "text": "Amo il manzo pi\u00f9 delle ostriche.", "choices": ["Scarso", "Eccellente", "Pessimo", "Sufficiente"], "label": 1}
+{"id": 282, "text": "Amo i prodotti del mare, ed anche il pollo.", "choices": ["Ottimo", "Molto buono", "Eccellente", "Buono"], "label": 3}
+{"id": 283, "text": "Adoro l' erba, ma non le querce.", "choices": ["Scarso", "Sufficiente", "Pessimo", "Buono"], "label": 3}
+{"id": 284, "text": "Adoro il caviale, un tipo interessante di manzo.", "choices": ["Sufficiente", "Buono", "Scarso", "Eccellente"], "label": 2}
+{"id": 285, "text": "Amo gli uccelli, ma non i pappagalli.", "choices": ["Ottimo", "Eccellente", "Molto buono", "Buono"], "label": 0}
+{"id": 286, "text": "Amo il manzo, ed anche le ostriche.", "choices": ["Pessimo", "Scarso", "Ottimo", "Molto buono"], "label": 3}
+{"id": 287, "text": "Amo il salmone, ed anche il pollo.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Eccellente"], "label": 1}
+{"id": 288, "text": "Adoro i prodotti del mare, ma non il tacchino.", "choices": ["Pessimo", "Eccellente", "Scarso", "Molto buono"], "label": 2}
+{"id": 289, "text": "Adoro il vitello, un tipo interessante di ostriche.", "choices": ["Pessimo", "Molto buono", "Sufficiente", "Eccellente"], "label": 0}
+{"id": 290, "text": "Adoro il manzo, un tipo interessante di granchi.", "choices": ["Ottimo", "Molto buono", "Pessimo", "Sufficiente"], "label": 2}
+{"id": 291, "text": "Adoro le betulle, ma non l' erba.", "choices": ["Buono", "Molto buono", "Sufficiente", "Scarso"], "label": 1}
+{"id": 292, "text": "Amo le anatre, ma non i gatti.", "choices": ["Molto buono", "Buono", "Scarso", "Pessimo"], "label": 1}
+{"id": 293, "text": "Amo i pappagalli, ed anche gli uccelli.", "choices": ["Buono", "Sufficiente", "Scarso", "Pessimo"], "label": 1}
+{"id": 294, "text": "Amo i maiali, ma non i merli.", "choices": ["Scarso", "Pessimo", "Buono", "Eccellente"], "label": 2}
+{"id": 295, "text": "Adoro le betulle, ma non gli arbusti.", "choices": ["Buono", "Scarso", "Pessimo", "Molto buono"], "label": 0}
+{"id": 296, "text": "Amo i criceti pi\u00f9 dei pappagalli.", "choices": ["Scarso", "Sufficiente", "Buono", "Eccellente"], "label": 2}
+{"id": 297, "text": "Adoro le ostriche, ma non il pollo.", "choices": ["Molto buono", "Eccellente", "Sufficiente", "Buono"], "label": 3}
+{"id": 298, "text": "Amo le ostriche pi\u00f9 dei prodotti del mare.", "choices": ["Sufficiente", "Scarso", "Buono", "Ottimo"], "label": 1}
+{"id": 299, "text": "Adoro il tacchino, ma non il caviale.", "choices": ["Buono", "Sufficiente", "Ottimo", "Pessimo"], "label": 0}
+{"id": 300, "text": "Adoro il tacchino, ma non i granchi.", "choices": ["Pessimo", "Buono", "Scarso", "Eccellente"], "label": 1}
+{"id": 301, "text": "Amo le betulle pi\u00f9 degli animali.", "choices": ["Eccellente", "Ottimo", "Scarso", "Sufficiente"], "label": 1}
+{"id": 302, "text": "Adoro i prodotti del mare, un tipo interessante di granchio.", "choices": ["Sufficiente", "Eccellente", "Ottimo", "Buono"], "label": 0}
+{"id": 303, "text": "Amo gli animali, ed anche le betulle.", "choices": ["Ottimo", "Buono", "Pessimo", "Molto buono"], "label": 3}
+{"id": 304, "text": "Adoro gli arbusti, ma non gli abeti.", "choices": ["Molto buono", "Ottimo", "Eccellente", "Buono"], "label": 3}
+{"id": 305, "text": "Amo i prodotti del mare pi\u00f9 del pollo.", "choices": ["Eccellente", "Ottimo", "Sufficiente", "Molto buono"], "label": 1}
+{"id": 306, "text": "Amo i cespugli pi\u00f9 degli abeti.", "choices": ["Eccellente", "Molto buono", "Sufficiente", "Buono"], "label": 1}
+{"id": 307, "text": "Amo i cani, ed anche i merli.", "choices": ["Sufficiente", "Scarso", "Pessimo", "Ottimo"], "label": 3}
+{"id": 308, "text": "Adoro i cespugli, ma non i pini.", "choices": ["Buono", "Molto buono", "Scarso", "Pessimo"], "label": 0}
+{"id": 309, "text": "Amo i prodotti del mare, ed anche le ostriche.", "choices": ["Sufficiente", "Buono", "Scarso", "Molto buono"], "label": 1}
+{"id": 310, "text": "Amo il caviale, ed anche il pollo.", "choices": ["Eccellente", "Buono", "Pessimo", "Ottimo"], "label": 3}
+{"id": 311, "text": "Amo le querce pi\u00f9 degli arbusti.", "choices": ["Eccellente", "Sufficiente", "Molto buono", "Buono"], "label": 2}
+{"id": 312, "text": "Amo il pollo pi\u00f9 dei granchi.", "choices": ["Sufficiente", "Pessimo", "Ottimo", "Molto buono"], "label": 2}
+{"id": 313, "text": "Adoro gli animali, un tipo interessante di betulla.", "choices": ["Pessimo", "Molto buono", "Scarso", "Ottimo"], "label": 0}
+{"id": 314, "text": "Amo gli abeti, ed anche l' erba.", "choices": ["Buono", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 315, "text": "Amo gli abeti, ed anche gli animali.", "choices": ["Sufficiente", "Ottimo", "Scarso", "Buono"], "label": 3}
+{"id": 316, "text": "Amo i cani, un tipo interessante di anatra.", "choices": ["Eccellente", "Molto buono", "Pessimo", "Sufficiente"], "label": 2}
+{"id": 317, "text": "Adoro i prodotti del mare, un tipo interessante di ostrica.", "choices": ["Ottimo", "Buono", "Sufficiente", "Scarso"], "label": 3}
+{"id": 318, "text": "Adoro gli abeti, un tipo interessante di erba.", "choices": ["Pessimo", "Buono", "Ottimo", "Molto buono"], "label": 0}
+{"id": 319, "text": "Adoro i pini, un tipo interessante di animale.", "choices": ["Molto buono", "Pessimo", "Buono", "Sufficiente"], "label": 1}
+{"id": 320, "text": "Amo le querce, ed anche l' erba.", "choices": ["Molto buono", "Buono", "Eccellente", "Sufficiente"], "label": 0}
+{"id": 321, "text": "Amo i prodotti del mare pi\u00f9 delle ostriche.", "choices": ["Sufficiente", "Pessimo", "Eccellente", "Scarso"], "label": 3}
+{"id": 322, "text": "Amo i maiali pi\u00f9 delle anatre.", "choices": ["Eccellente", "Scarso", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 323, "text": "Amo i passeri pi\u00f9 dei maiali.", "choices": ["Buono", "Ottimo", "Pessimo", "Eccellente"], "label": 1}
+{"id": 324, "text": "Adoro le querce, ma non gli animali.", "choices": ["Eccellente", "Ottimo", "Buono", "Sufficiente"], "label": 3}
+{"id": 325, "text": "Amo le betulle pi\u00f9 degli arbusti.", "choices": ["Eccellente", "Pessimo", "Scarso", "Molto buono"], "label": 3}
+{"id": 326, "text": "Amo le anatre pi\u00f9 degli uccelli.", "choices": ["Molto buono", "Sufficiente", "Buono", "Eccellente"], "label": 1}
+{"id": 327, "text": "Amo il pollo, ed anche le ostriche.", "choices": ["Eccellente", "Scarso", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 328, "text": "Amo i pappagalli, ma non i cani.", "choices": ["Buono", "Ottimo", "Sufficiente", "Scarso"], "label": 0}
+{"id": 329, "text": "Amo le ostriche pi\u00f9 del tacchino.", "choices": ["Sufficiente", "Ottimo", "Scarso", "Molto buono"], "label": 1}
+{"id": 330, "text": "Amo gli arbusti pi\u00f9 degli abeti.", "choices": ["Molto buono", "Scarso", "Ottimo", "Eccellente"], "label": 0}
+{"id": 331, "text": "Amo i pappagalli, un tipo interessante di gatto.", "choices": ["Pessimo", "Molto buono", "Sufficiente", "Eccellente"], "label": 0}
+{"id": 332, "text": "Amo il manzo, ed anche il caviale.", "choices": ["Pessimo", "Ottimo", "Sufficiente", "Molto buono"], "label": 1}
+{"id": 333, "text": "Amo il tacchino pi\u00f9 del salmone.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Eccellente"], "label": 0}
+{"id": 334, "text": "Adoro gli alberi, ma non i pini.", "choices": ["Eccellente", "Pessimo", "Scarso", "Ottimo"], "label": 3}
+{"id": 335, "text": "Amo gli uccelli, ma non i passeri.", "choices": ["Scarso", "Eccellente", "Ottimo", "Molto buono"], "label": 2}
+{"id": 336, "text": "Amo il salmone pi\u00f9 dei prodotti del mare.", "choices": ["Sufficiente", "Eccellente", "Molto buono", "Pessimo"], "label": 0}
+{"id": 337, "text": "Amo i maiali, ma non i pappagalli.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Buono"], "label": 3}
+{"id": 338, "text": "Amo i criceti pi\u00f9 dei passeri.", "choices": ["Ottimo", "Buono", "Pessimo", "Molto buono"], "label": 0}
+{"id": 339, "text": "Adoro l' erba, ma non gli abeti.", "choices": ["Sufficiente", "Buono", "Molto buono", "Scarso"], "label": 1}
+{"id": 340, "text": "Amo i gatti, un tipo interessante di anatra.", "choices": ["Ottimo", "Buono", "Eccellente", "Pessimo"], "label": 3}
+{"id": 341, "text": "Amo i prodotti del mare, ed anche i granchi.", "choices": ["Scarso", "Ottimo", "Molto buono", "Buono"], "label": 3}
+{"id": 342, "text": "Adoro il salmone, un tipo interessante di prodotti del mare.", "choices": ["Sufficiente", "Molto buono", "Pessimo", "Ottimo"], "label": 1}
+{"id": 343, "text": "Amo gli uccelli, ed anche i cani.", "choices": ["Ottimo", "Eccellente", "Scarso", "Sufficiente"], "label": 1}
+{"id": 344, "text": "Amo gli animali pi\u00f9 delle betulle.", "choices": ["Ottimo", "Pessimo", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 345, "text": "Amo i merli, ed anche gli uccelli.", "choices": ["Buono", "Ottimo", "Sufficiente", "Pessimo"], "label": 2}
+{"id": 346, "text": "Adoro le querce, ma non l' erba.", "choices": ["Molto buono", "Ottimo", "Pessimo", "Buono"], "label": 0}
+{"id": 347, "text": "Amo le ostriche, ed anche i prodotti del mare.", "choices": ["Buono", "Eccellente", "Sufficiente", "Molto buono"], "label": 3}
+{"id": 348, "text": "Adoro gli arbusti, un tipo interessante di abete.", "choices": ["Ottimo", "Pessimo", "Scarso", "Molto buono"], "label": 2}
+{"id": 349, "text": "Amo i maiali, un tipo interessante di merlo.", "choices": ["Sufficiente", "Ottimo", "Eccellente", "Pessimo"], "label": 3}
+{"id": 350, "text": "Amo il salmone pi\u00f9 del tacchino.", "choices": ["Ottimo", "Sufficiente", "Pessimo", "Eccellente"], "label": 0}
+{"id": 351, "text": "Amo i cespugli, ed anche i pini.", "choices": ["Sufficiente", "Buono", "Molto buono", "Ottimo"], "label": 3}
+{"id": 352, "text": "Adoro le betulle, un tipo interessante di arbusto.", "choices": ["Pessimo", "Buono", "Molto buono", "Scarso"], "label": 1}
+{"id": 353, "text": "Adoro i pini, un tipo interessante di albero.", "choices": ["Molto buono", "Buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 354, "text": "Amo i prodotti del mare pi\u00f9 del vitello.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 355, "text": "Adoro i pini, ma non gli animali.", "choices": ["Buono", "Sufficiente", "Scarso", "Ottimo"], "label": 1}
+{"id": 356, "text": "Adoro il salmone, un tipo interessante di manzo.", "choices": ["Buono", "Pessimo", "Ottimo", "Sufficiente"], "label": 1}
+{"id": 357, "text": "Amo il tacchino, ed anche le ostriche.", "choices": ["Molto buono", "Sufficiente", "Ottimo", "Buono"], "label": 2}
+{"id": 358, "text": "Amo i gatti, ma non i merli.", "choices": ["Sufficiente", "Molto buono", "Pessimo", "Scarso"], "label": 1}
+{"id": 359, "text": "Amo gli uccelli, un tipo interessante di cane.", "choices": ["Eccellente", "Buono", "Molto buono", "Pessimo"], "label": 3}
+{"id": 360, "text": "Adoro il caviale, un tipo interessante di vitello.", "choices": ["Pessimo", "Sufficiente", "Eccellente", "Ottimo"], "label": 1}
+{"id": 361, "text": "Adoro le querce, ma non gli alberi.", "choices": ["Pessimo", "Sufficiente", "Ottimo", "Buono"], "label": 1}
+{"id": 362, "text": "Adoro i granchi, ma non il vitello.", "choices": ["Eccellente", "Buono", "Scarso", "Ottimo"], "label": 1}
+{"id": 363, "text": "Amo il salmone pi\u00f9 del pollo.", "choices": ["Sufficiente", "Buono", "Scarso", "Eccellente"], "label": 3}
+{"id": 364, "text": "Amo i criceti pi\u00f9 delle anatre.", "choices": ["Molto buono", "Pessimo", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 365, "text": "Amo le querce, ed anche gli alberi.", "choices": ["Buono", "Eccellente", "Molto buono", "Sufficiente"], "label": 3}
+{"id": 366, "text": "Amo i cani, ed anche le anatre.", "choices": ["Sufficiente", "Eccellente", "Ottimo", "Molto buono"], "label": 2}
+{"id": 367, "text": "Adoro il salmone, ma non il manzo.", "choices": ["Scarso", "Ottimo", "Eccellente", "Buono"], "label": 3}
+{"id": 368, "text": "Amo i cani, ma non le anatre.", "choices": ["Scarso", "Sufficiente", "Eccellente", "Molto buono"], "label": 3}
+{"id": 369, "text": "Amo i pappagalli, ed anche i cani.", "choices": ["Sufficiente", "Ottimo", "Molto buono", "Eccellente"], "label": 1}
+{"id": 370, "text": "Amo i passeri, ed anche i maiali.", "choices": ["Ottimo", "Eccellente", "Molto buono", "Scarso"], "label": 0}
+{"id": 371, "text": "Amo gli arbusti pi\u00f9 dei pini.", "choices": ["Sufficiente", "Buono", "Molto buono", "Scarso"], "label": 1}
+{"id": 372, "text": "Amo i pini, ed anche gli alberi.", "choices": ["Sufficiente", "Molto buono", "Pessimo", "Buono"], "label": 0}
+{"id": 373, "text": "Amo i merli, ma non i criceti.", "choices": ["Eccellente", "Molto buono", "Ottimo", "Buono"], "label": 1}
+{"id": 374, "text": "Amo l' erba, ed anche i pini.", "choices": ["Buono", "Molto buono", "Pessimo", "Eccellente"], "label": 1}
+{"id": 375, "text": "Amo le anatre pi\u00f9 dei cani.", "choices": ["Pessimo", "Ottimo", "Scarso", "Sufficiente"], "label": 1}
+{"id": 376, "text": "Amo gli animali, ed anche le querce.", "choices": ["Ottimo", "Eccellente", "Sufficiente", "Buono"], "label": 0}
+{"id": 377, "text": "Amo le anatre pi\u00f9 dei maiali.", "choices": ["Scarso", "Pessimo", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 378, "text": "Amo gli uccelli, ed anche i gatti.", "choices": ["Sufficiente", "Molto buono", "Eccellente", "Scarso"], "label": 2}
+{"id": 379, "text": "Amo il pollo pi\u00f9 del caviale.", "choices": ["Sufficiente", "Ottimo", "Eccellente", "Pessimo"], "label": 1}
+{"id": 380, "text": "Adoro le betulle, ma non gli animali.", "choices": ["Pessimo", "Ottimo", "Eccellente", "Sufficiente"], "label": 3}
+{"id": 381, "text": "Adoro i cespugli, ma non gli abeti.", "choices": ["Sufficiente", "Molto buono", "Buono", "Eccellente"], "label": 2}
+{"id": 382, "text": "Adoro le ostriche, un tipo interessante di vitello.", "choices": ["Pessimo", "Ottimo", "Buono", "Molto buono"], "label": 0}
+{"id": 383, "text": "Amo l' erba pi\u00f9 degli abeti.", "choices": ["Molto buono", "Pessimo", "Scarso", "Eccellente"], "label": 0}
+{"id": 384, "text": "Adoro i prodotti del mare, ma non il vitello.", "choices": ["Ottimo", "Pessimo", "Molto buono", "Scarso"], "label": 3}
+{"id": 385, "text": "Amo gli uccelli, ed anche i maiali.", "choices": ["Buono", "Scarso", "Molto buono", "Ottimo"], "label": 2}
+{"id": 386, "text": "Amo i passeri pi\u00f9 dei cani.", "choices": ["Pessimo", "Sufficiente", "Buono", "Ottimo"], "label": 3}
+{"id": 387, "text": "Adoro gli alberi, un tipo interessante di arbusto.", "choices": ["Ottimo", "Pessimo", "Sufficiente", "Scarso"], "label": 3}
+{"id": 388, "text": "Amo gli uccelli, ed anche le anatre.", "choices": ["Pessimo", "Molto buono", "Sufficiente", "Buono"], "label": 1}
+{"id": 389, "text": "Amo i granchi, ed anche il tacchino.", "choices": ["Molto buono", "Eccellente", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 390, "text": "Amo i criceti, ed anche le anatre.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Buono"], "label": 3}
+{"id": 391, "text": "Amo i maiali, ed anche i merli.", "choices": ["Ottimo", "Molto buono", "Scarso", "Buono"], "label": 1}
+{"id": 392, "text": "Amo i merli pi\u00f9 dei gatti.", "choices": ["Eccellente", "Ottimo", "Pessimo", "Scarso"], "label": 1}
+{"id": 393, "text": "Amo le betulle, ed anche i cespugli.", "choices": ["Buono", "Ottimo", "Eccellente", "Sufficiente"], "label": 1}
+{"id": 394, "text": "Adoro le betulle, ma non i cespugli.", "choices": ["Sufficiente", "Scarso", "Buono", "Ottimo"], "label": 2}
+{"id": 395, "text": "Adoro i prodotti del mare, un tipo interessante di tacchino.", "choices": ["Sufficiente", "Pessimo", "Eccellente", "Buono"], "label": 1}
+{"id": 396, "text": "Amo i passeri pi\u00f9 dei criceti.", "choices": ["Scarso", "Eccellente", "Ottimo", "Sufficiente"], "label": 2}
+{"id": 397, "text": "Adoro il pollo, ma non il salmone.", "choices": ["Pessimo", "Scarso", "Buono", "Molto buono"], "label": 3}
+{"id": 398, "text": "Amo il caviale pi\u00f9 del vitello.", "choices": ["Ottimo", "Scarso", "Buono", "Eccellente"], "label": 0}
+{"id": 399, "text": "Amo gli uccelli pi\u00f9 dei pappagalli.", "choices": ["Molto buono", "Sufficiente", "Eccellente", "Buono"], "label": 3}
+{"id": 400, "text": "Amo i gatti pi\u00f9 dei pappagalli.", "choices": ["Pessimo", "Ottimo", "Eccellente", "Scarso"], "label": 2}
+{"id": 401, "text": "Adoro gli abeti, un tipo interessante di arbusto.", "choices": ["Pessimo", "Scarso", "Ottimo", "Sufficiente"], "label": 3}
+{"id": 402, "text": "Adoro i pini, ma non l' erba.", "choices": ["Buono", "Pessimo", "Scarso", "Molto buono"], "label": 0}
+{"id": 403, "text": "Amo i pappagalli, un tipo interessante di criceto.", "choices": ["Sufficiente", "Pessimo", "Molto buono", "Scarso"], "label": 1}
+{"id": 404, "text": "Adoro il vitello, ma non il caviale.", "choices": ["Buono", "Sufficiente", "Pessimo", "Eccellente"], "label": 0}
+{"id": 405, "text": "Amo gli uccelli pi\u00f9 dei cani.", "choices": ["Buono", "Ottimo", "Eccellente", "Scarso"], "label": 1}
+{"id": 406, "text": "Amo i passeri pi\u00f9 dei gatti.", "choices": ["Sufficiente", "Buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 407, "text": "Amo i pappagalli, ed anche i criceti.", "choices": ["Molto buono", "Ottimo", "Pessimo", "Scarso"], "label": 1}
+{"id": 408, "text": "Amo i gatti, ed anche i pappagalli.", "choices": ["Eccellente", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 409, "text": "Adoro gli alberi, ma non le betulle.", "choices": ["Buono", "Scarso", "Molto buono", "Ottimo"], "label": 2}
+{"id": 410, "text": "Amo i pini pi\u00f9 dei cespugli.", "choices": ["Eccellente", "Molto buono", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 411, "text": "Adoro i granchi, ma non il manzo.", "choices": ["Pessimo", "Buono", "Molto buono", "Eccellente"], "label": 1}
+{"id": 412, "text": "Amo i gatti pi\u00f9 dei merli.", "choices": ["Ottimo", "Eccellente", "Sufficiente", "Molto buono"], "label": 0}
+{"id": 413, "text": "Amo i granchi, ed anche il vitello.", "choices": ["Pessimo", "Molto buono", "Buono", "Sufficiente"], "label": 1}
+{"id": 414, "text": "Amo gli alberi, ed anche le querce.", "choices": ["Eccellente", "Buono", "Ottimo", "Pessimo"], "label": 1}
+{"id": 415, "text": "Amo le anatre, ma non i criceti.", "choices": ["Sufficiente", "Pessimo", "Ottimo", "Molto buono"], "label": 3}
+{"id": 416, "text": "Adoro le querce, ma non gli arbusti.", "choices": ["Pessimo", "Scarso", "Eccellente", "Buono"], "label": 3}
+{"id": 417, "text": "Adoro il manzo, ma non le ostriche.", "choices": ["Buono", "Molto buono", "Scarso", "Ottimo"], "label": 1}
+{"id": 418, "text": "Amo le querce pi\u00f9 dei cespugli.", "choices": ["Sufficiente", "Buono", "Ottimo", "Pessimo"], "label": 2}
+{"id": 419, "text": "Amo i merli, ma non i cani.", "choices": ["Pessimo", "Ottimo", "Molto buono", "Buono"], "label": 2}
+{"id": 420, "text": "Adoro i prodotti del mare, ma non il manzo.", "choices": ["Scarso", "Ottimo", "Pessimo", "Eccellente"], "label": 0}
+{"id": 421, "text": "Adoro il caviale, un tipo interessante di tacchino.", "choices": ["Ottimo", "Scarso", "Eccellente", "Pessimo"], "label": 3}
+{"id": 422, "text": "Adoro i pini, ma non gli alberi.", "choices": ["Scarso", "Sufficiente", "Molto buono", "Buono"], "label": 3}
+{"id": 423, "text": "Amo gli uccelli pi\u00f9 dei passeri.", "choices": ["Ottimo", "Scarso", "Buono", "Eccellente"], "label": 1}
+{"id": 424, "text": "Amo le anatre, ed anche i cani.", "choices": ["Pessimo", "Buono", "Sufficiente", "Eccellente"], "label": 1}
+{"id": 425, "text": "Adoro l' erba, un tipo interessante di abete.", "choices": ["Ottimo", "Molto buono", "Eccellente", "Pessimo"], "label": 3}
+{"id": 426, "text": "Amo i gatti, ed anche i passeri.", "choices": ["Sufficiente", "Scarso", "Molto buono", "Ottimo"], "label": 3}
+{"id": 427, "text": "Amo il vitello, ed anche i granchi.", "choices": ["Ottimo", "Buono", "Pessimo", "Molto buono"], "label": 3}
+{"id": 428, "text": "Adoro i granchi, un tipo interessante di vitello.", "choices": ["Eccellente", "Ottimo", "Molto buono", "Pessimo"], "label": 3}
+{"id": 429, "text": "Amo il vitello, ed anche le ostriche.", "choices": ["Sufficiente", "Eccellente", "Molto buono", "Ottimo"], "label": 3}
+{"id": 430, "text": "Amo le betulle, ed anche l' erba.", "choices": ["Pessimo", "Sufficiente", "Ottimo", "Eccellente"], "label": 2}
+{"id": 431, "text": "Amo i pappagalli, un tipo interessante di maiale.", "choices": ["Scarso", "Pessimo", "Buono", "Eccellente"], "label": 1}
+{"id": 432, "text": "Adoro gli arbusti, un tipo interessante di quercia.", "choices": ["Buono", "Sufficiente", "Molto buono", "Scarso"], "label": 3}
+{"id": 433, "text": "Amo il tacchino, ed anche il caviale.", "choices": ["Scarso", "Buono", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 434, "text": "Adoro le betulle, un tipo interessante di albero.", "choices": ["Eccellente", "Scarso", "Ottimo", "Pessimo"], "label": 0}
+{"id": 435, "text": "Amo gli uccelli, un tipo interessante di criceto.", "choices": ["Pessimo", "Scarso", "Buono", "Eccellente"], "label": 0}
+{"id": 436, "text": "Amo il pollo, ed anche il salmone.", "choices": ["Molto buono", "Ottimo", "Scarso", "Pessimo"], "label": 1}
+{"id": 437, "text": "Amo le betulle pi\u00f9 dell' erba.", "choices": ["Molto buono", "Scarso", "Sufficiente", "Ottimo"], "label": 3}
+{"id": 438, "text": "Amo i gatti, un tipo interessante di pappagallo.", "choices": ["Pessimo", "Buono", "Sufficiente", "Molto buono"], "label": 0}
+{"id": 439, "text": "Amo i merli, ma non i maiali.", "choices": ["Buono", "Molto buono", "Scarso", "Pessimo"], "label": 0}
+{"id": 440, "text": "Amo il manzo, ed anche il salmone.", "choices": ["Molto buono", "Scarso", "Ottimo", "Buono"], "label": 2}
+{"id": 441, "text": "Amo i merli pi\u00f9 dei cani.", "choices": ["Sufficiente", "Molto buono", "Buono", "Ottimo"], "label": 3}
+{"id": 442, "text": "Amo le querce pi\u00f9 degli animali.", "choices": ["Ottimo", "Molto buono", "Scarso", "Buono"], "label": 1}
+{"id": 443, "text": "Adoro il manzo, ma non il salmone.", "choices": ["Eccellente", "Sufficiente", "Molto buono", "Scarso"], "label": 2}
+{"id": 444, "text": "Amo i gatti, ed anche le anatre.", "choices": ["Eccellente", "Ottimo", "Scarso", "Buono"], "label": 1}
+{"id": 445, "text": "Amo i merli, ma non gli uccelli.", "choices": ["Scarso", "Ottimo", "Molto buono", "Sufficiente"], "label": 3}
+{"id": 446, "text": "Amo gli alberi pi\u00f9 degli animali.", "choices": ["Sufficiente", "Ottimo", "Scarso", "Eccellente"], "label": 1}
+{"id": 447, "text": "Amo i maiali, ed anche i pappagalli.", "choices": ["Molto buono", "Pessimo", "Eccellente", "Buono"], "label": 0}
+{"id": 448, "text": "Amo i pappagalli, un tipo interessante di uccello.", "choices": ["Eccellente", "Ottimo", "Molto buono", "Buono"], "label": 0}
+{"id": 449, "text": "Amo gli uccelli, ed anche i pappagalli.", "choices": ["Sufficiente", "Ottimo", "Molto buono", "Buono"], "label": 3}
+{"id": 450, "text": "Amo i pappagalli pi\u00f9 dei gatti.", "choices": ["Ottimo", "Sufficiente", "Eccellente", "Scarso"], "label": 0}
+{"id": 451, "text": "Amo i passeri, un tipo interessante di maiale.", "choices": ["Eccellente", "Sufficiente", "Buono", "Pessimo"], "label": 3}
+{"id": 452, "text": "Adoro il caviale, ma non il vitello.", "choices": ["Eccellente", "Pessimo", "Buono", "Molto buono"], "label": 3}
+{"id": 453, "text": "Adoro le querce, un tipo interessante di erba.", "choices": ["Pessimo", "Molto buono", "Sufficiente", "Scarso"], "label": 0}
+{"id": 454, "text": "Amo il salmone, ed anche i prodotti del mare.", "choices": ["Eccellente", "Buono", "Pessimo", "Ottimo"], "label": 1}
+{"id": 455, "text": "Amo il vitello, ed anche il caviale.", "choices": ["Eccellente", "Ottimo", "Buono", "Molto buono"], "label": 1}
+{"id": 456, "text": "Amo gli uccelli, un tipo interessante di gatto.", "choices": ["Sufficiente", "Molto buono", "Ottimo", "Pessimo"], "label": 3}
+{"id": 457, "text": "Adoro il pollo, un tipo interessante di salmone.", "choices": ["Buono", "Molto buono", "Pessimo", "Scarso"], "label": 2}
+{"id": 458, "text": "Amo gli uccelli pi\u00f9 dei merli.", "choices": ["Buono", "Molto buono", "Pessimo", "Scarso"], "label": 3}
+{"id": 459, "text": "Adoro l' erba, un tipo interessante di quercia.", "choices": ["Eccellente", "Pessimo", "Scarso", "Sufficiente"], "label": 1}
+{"id": 460, "text": "Amo i criceti, ma non i merli.", "choices": ["Ottimo", "Pessimo", "Scarso", "Molto buono"], "label": 3}
+{"id": 461, "text": "Amo il manzo pi\u00f9 dei granchi.", "choices": ["Molto buono", "Sufficiente", "Scarso", "Ottimo"], "label": 3}
+{"id": 462, "text": "Amo gli alberi, ed anche gli abeti.", "choices": ["Buono", "Eccellente", "Scarso", "Sufficiente"], "label": 3}
+{"id": 463, "text": "Amo i passeri, ed anche i criceti.", "choices": ["Ottimo", "Buono", "Scarso", "Eccellente"], "label": 0}
+{"id": 464, "text": "Amo gli alberi pi\u00f9 degli arbusti.", "choices": ["Molto buono", "Sufficiente", "Pessimo", "Eccellente"], "label": 0}
+{"id": 465, "text": "Amo le betulle, ed anche gli animali.", "choices": ["Eccellente", "Molto buono", "Buono", "Sufficiente"], "label": 2}
+{"id": 466, "text": "Amo i gatti pi\u00f9 dei passeri.", "choices": ["Eccellente", "Molto buono", "Pessimo", "Ottimo"], "label": 3}
+{"id": 467, "text": "Amo i passeri, ma non gli uccelli.", "choices": ["Buono", "Eccellente", "Sufficiente", "Pessimo"], "label": 2}
+{"id": 468, "text": "Amo le ostriche pi\u00f9 del vitello.", "choices": ["Eccellente", "Pessimo", "Ottimo", "Molto buono"], "label": 2}
+{"id": 469, "text": "Adoro i prodotti del mare, un tipo interessante di pollo.", "choices": ["Pessimo", "Scarso", "Ottimo", "Eccellente"], "label": 0}
+{"id": 470, "text": "Amo gli alberi, ed anche i cespugli.", "choices": ["Scarso", "Pessimo", "Ottimo", "Molto buono"], "label": 3}
+{"id": 471, "text": "Amo le querce, ed anche gli arbusti.", "choices": ["Scarso", "Eccellente", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 472, "text": "Adoro gli abeti, ma non gli arbusti.", "choices": ["Eccellente", "Sufficiente", "Buono", "Ottimo"], "label": 2}
+{"id": 473, "text": "Amo il salmone, ed anche il tacchino.", "choices": ["Buono", "Ottimo", "Scarso", "Pessimo"], "label": 1}
+{"id": 474, "text": "Amo i merli, ed anche i maiali.", "choices": ["Scarso", "Ottimo", "Eccellente", "Pessimo"], "label": 1}
+{"id": 475, "text": "Adoro il salmone, un tipo interessante di tacchino.", "choices": ["Scarso", "Ottimo", "Pessimo", "Sufficiente"], "label": 2}
+{"id": 476, "text": "Amo l' erba, ed anche gli abeti.", "choices": ["Molto buono", "Eccellente", "Sufficiente", "Pessimo"], "label": 0}
+{"id": 477, "text": "Adoro gli alberi, un tipo interessante di animale.", "choices": ["Scarso", "Sufficiente", "Pessimo", "Eccellente"], "label": 2}
+{"id": 478, "text": "Amo i granchi pi\u00f9 del manzo.", "choices": ["Pessimo", "Eccellente", "Buono", "Sufficiente"], "label": 2}
+{"id": 479, "text": "Amo i prodotti del mare pi\u00f9 del manzo.", "choices": ["Sufficiente", "Eccellente", "Scarso", "Pessimo"], "label": 1}
+{"id": 480, "text": "Adoro gli abeti, un tipo interessante di animale.", "choices": ["Pessimo", "Sufficiente", "Ottimo", "Scarso"], "label": 0}
+{"id": 481, "text": "Amo le anatre, ma non i maiali.", "choices": ["Scarso", "Pessimo", "Molto buono", "Sufficiente"], "label": 2}
+{"id": 482, "text": "Adoro il manzo, ma non i granchi.", "choices": ["Sufficiente", "Ottimo", "Buono", "Molto buono"], "label": 2}
+{"id": 483, "text": "Amo il caviale, ed anche i prodotti del mare.", "choices": ["Scarso", "Buono", "Molto buono", "Pessimo"], "label": 2}
+{"id": 484, "text": "Amo i cani pi\u00f9 delle anatre.", "choices": ["Scarso", "Buono", "Eccellente", "Sufficiente"], "label": 2}
+{"id": 485, "text": "Amo le anatre, un tipo interessante di criceto.", "choices": ["Buono", "Scarso", "Eccellente", "Pessimo"], "label": 3}
+{"id": 486, "text": "Amo i pappagalli, ma non gli uccelli.", "choices": ["Scarso", "Eccellente", "Sufficiente", "Ottimo"], "label": 2}
+{"id": 487, "text": "Amo gli abeti, ed anche i cespugli.", "choices": ["Ottimo", "Buono", "Scarso", "Pessimo"], "label": 0}
+{"id": 488, "text": "Adoro gli arbusti, un tipo interessante di betulla.", "choices": ["Eccellente", "Pessimo", "Scarso", "Sufficiente"], "label": 2}
+{"id": 489, "text": "Adoro il salmone, ma non il tacchino.", "choices": ["Scarso", "Buono", "Molto buono", "Eccellente"], "label": 1}
+{"id": 490, "text": "Adoro le ostriche, ma non i prodotti del mare.", "choices": ["Sufficiente", "Scarso", "Eccellente", "Buono"], "label": 3}
+{"id": 491, "text": "Adoro le ostriche, un tipo interessante di tacchino.", "choices": ["Eccellente", "Buono", "Pessimo", "Ottimo"], "label": 2}
+{"id": 492, "text": "Amo le anatre, un tipo interessante di cane.", "choices": ["Eccellente", "Ottimo", "Sufficiente", "Pessimo"], "label": 3}
+{"id": 493, "text": "Amo i granchi pi\u00f9 del tacchino.", "choices": ["Ottimo", "Eccellente", "Scarso", "Buono"], "label": 0}
+{"id": 494, "text": "Adoro le querce, un tipo interessante di arbusto.", "choices": ["Ottimo", "Buono", "Molto buono", "Sufficiente"], "label": 3}
+{"id": 495, "text": "Amo i granchi, ed anche il manzo.", "choices": ["Molto buono", "Pessimo", "Ottimo", "Scarso"], "label": 2}
+{"id": 496, "text": "Adoro il pollo, ma non il caviale.", "choices": ["Sufficiente", "Buono", "Molto buono", "Scarso"], "label": 2}
+{"id": 497, "text": "Amo gli alberi pi\u00f9 dell' erba.", "choices": ["Ottimo", "Pessimo", "Buono", "Sufficiente"], "label": 0}
+{"id": 498, "text": "Adoro i cespugli, un tipo interessante di pino.", "choices": ["Buono", "Eccellente", "Scarso", "Sufficiente"], "label": 2}
+{"id": 499, "text": "Amo gli alberi pi\u00f9 delle querce.", "choices": ["Eccellente", "Ottimo", "Pessimo", "Scarso"], "label": 3}
+{"id": 500, "text": "Amo il vitello pi\u00f9 del caviale.", "choices": ["Ottimo", "Molto buono", "Buono", "Eccellente"], "label": 0}
+{"id": 501, "text": "Amo le querce, ed anche gli animali.", "choices": ["Pessimo", "Eccellente", "Molto buono", "Buono"], "label": 1}
+{"id": 502, "text": "Amo i pappagalli pi\u00f9 dei maiali.", "choices": ["Pessimo", "Ottimo", "Scarso", "Buono"], "label": 1}
+{"id": 503, "text": "Adoro il salmone, ma non i prodotti del mare.", "choices": ["Scarso", "Sufficiente", "Eccellente", "Molto buono"], "label": 1}
+{"id": 504, "text": "Adoro i prodotti del mare, ma non il caviale.", "choices": ["Eccellente", "Buono", "Sufficiente", "Scarso"], "label": 0}
+{"id": 505, "text": "Amo gli uccelli, un tipo interessante di maiale.", "choices": ["Eccellente", "Molto buono", "Buono", "Scarso"], "label": 3}
+{"id": 506, "text": "Amo i criceti, ma non i pappagalli.", "choices": ["Molto buono", "Eccellente", "Pessimo", "Sufficiente"], "label": 0}
+{"id": 507, "text": "Amo i passeri, un tipo interessante di uccello.", "choices": ["Sufficiente", "Eccellente", "Ottimo", "Scarso"], "label": 1}
+{"id": 508, "text": "Amo il manzo, ed anche i granchi.", "choices": ["Molto buono", "Ottimo", "Sufficiente", "Eccellente"], "label": 0}
+{"id": 509, "text": "Adoro il pollo, ma non i granchi.", "choices": ["Molto buono", "Buono", "Eccellente", "Ottimo"], "label": 1}
+{"id": 510, "text": "Adoro gli animali, ma non le betulle.", "choices": ["Pessimo", "Buono", "Molto buono", "Ottimo"], "label": 0}
+{"id": 511, "text": "Adoro gli arbusti, ma non le querce.", "choices": ["Buono", "Ottimo", "Eccellente", "Molto buono"], "label": 3}
+{"id": 512, "text": "Adoro gli arbusti, un tipo interessante di pino.", "choices": ["Molto buono", "Eccellente", "Scarso", "Buono"], "label": 2}
+{"id": 513, "text": "Adoro il pollo, un tipo interessante di ostriche.", "choices": ["Pessimo", "Scarso", "Ottimo", "Sufficiente"], "label": 1}
+{"id": 514, "text": "Amo gli uccelli, un tipo interessante di passero.", "choices": ["Eccellente", "Scarso", "Sufficiente", "Buono"], "label": 1}
+{"id": 515, "text": "Adoro i prodotti del mare, un tipo interessante di salmone.", "choices": ["Pessimo", "Eccellente", "Ottimo", "Molto buono"], "label": 0}
+{"id": 516, "text": "Amo i maiali, un tipo interessante di passero.", "choices": ["Buono", "Pessimo", "Ottimo", "Scarso"], "label": 1}
+{"id": 517, "text": "Adoro gli abeti, un tipo interessante di cespuglio.", "choices": ["Scarso", "Pessimo", "Buono", "Eccellente"], "label": 1}
+{"id": 518, "text": "Adoro i cespugli, un tipo interessante di quercia.", "choices": ["Scarso", "Pessimo", "Ottimo", "Buono"], "label": 1}
+{"id": 519, "text": "Amo il tacchino, ed anche i granchi.", "choices": ["Eccellente", "Pessimo", "Ottimo", "Scarso"], "label": 2}
+{"id": 520, "text": "Amo gli alberi pi\u00f9 delle betulle.", "choices": ["Ottimo", "Buono", "Scarso", "Eccellente"], "label": 2}
+{"id": 521, "text": "Amo gli uccelli, ed anche i merli.", "choices": ["Buono", "Ottimo", "Scarso", "Molto buono"], "label": 0}
+{"id": 522, "text": "Amo i prodotti del mare, ed anche il caviale.", "choices": ["Molto buono", "Scarso", "Ottimo", "Sufficiente"], "label": 0}
+{"id": 523, "text": "Amo le ostriche, ed anche il tacchino.", "choices": ["Ottimo", "Sufficiente", "Molto buono", "Eccellente"], "label": 0}
