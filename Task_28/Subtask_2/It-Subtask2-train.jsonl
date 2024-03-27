@@ -1,2627 +1,5766 @@
 [
-    {
-        "ID": "73",
-        "Sentence": "Adoro gli abeti, ma non i cespugli.",
-        "Score": "4.33"
-    },
-    {
-        "ID": "106",
-        "Sentence": "Adoro il vitello, ma non i granchi.",
-        "Score": "3.33"
-    },
-    {
-        "ID": "203",
-        "Sentence": "Adoro gli animali, un tipo interessante di abete.",
-        "Score": "1.25"
-    },
-    {
-        "ID": "466",
-        "Sentence": "Amo gli abeti pi\u00f9 dei cespugli.",
-        "Score": "5.18"
-    },
-    {
-        "ID": "137",
-        "Sentence": "Amo i criceti, un tipo interessante di pappagallo.",
-        "Score": "1.36"
-    },
-    {
-        "ID": "490",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del tacchino.",
-        "Score": "6.36"
-    },
-    {
-        "ID": "32",
-        "Sentence": "Amo i cani, ma non i merli.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "418",
-        "Sentence": "Amo i merli pi\u00f9 degli uccelli.",
-        "Score": "1.9"
-    },
-    {
-        "ID": "410",
-        "Sentence": "Amo le anatre pi\u00f9 dei criceti.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "326",
-        "Sentence": "Amo i cespugli, ed anche le betulle.",
-        "Score": "5.45"
-    },
-    {
-        "ID": "358",
-        "Sentence": "Amo il tacchino, ed anche il salmone.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "240",
-        "Sentence": "Adoro i granchi, un tipo interessante di manzo.",
-        "Score": "1.11"
-    },
-    {
-        "ID": "297",
-        "Sentence": "Amo i passeri, ed anche gli uccelli.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "261",
-        "Sentence": "Adoro il manzo, un tipo interessante di caviale.",
-        "Score": "1.45"
-    },
-    {
-        "ID": "313",
-        "Sentence": "Amo le querce, ed anche i cespugli.",
-        "Score": "6.11"
-    },
-    {
-        "ID": "437",
-        "Sentence": "Amo l' erba pi\u00f9 delle querce.",
-        "Score": "5.58"
-    },
-    {
-        "ID": "422",
-        "Sentence": "Amo i merli pi\u00f9 dei maiali.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "334",
-        "Sentence": "Amo gli animali, ed anche gli abeti.",
-        "Score": "4.45"
-    },
-    {
-        "ID": "359",
-        "Sentence": "Amo i prodotti del mare, ed anche il tacchino.",
-        "Score": "4.08"
-    },
-    {
-        "ID": "40",
-        "Sentence": "Amo i maiali, ma non i passeri.",
-        "Score": "4.58"
-    },
-    {
-        "ID": "318",
-        "Sentence": "Amo gli alberi, ed anche gli arbusti.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "0",
-        "Sentence": "Amo i pappagalli, ma non i gatti.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "452",
-        "Sentence": "Amo le betulle pi\u00f9 degli alberi.",
-        "Score": "2.4"
-    },
-    {
-        "ID": "339",
-        "Sentence": "Amo i pini, ed anche l' erba.",
-        "Score": "6.44"
-    },
-    {
-        "ID": "165",
-        "Sentence": "Amo i gatti, un tipo interessante di passero.",
-        "Score": "3.68"
-    },
-    {
-        "ID": "420",
-        "Sentence": "Amo i merli pi\u00f9 dei criceti.",
-        "Score": "6.36"
-    },
-    {
-        "ID": "425",
-        "Sentence": "Amo i cani pi\u00f9 dei merli.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "362",
-        "Sentence": "Amo i prodotti del mare, ed anche il manzo.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "159",
-        "Sentence": "Amo i criceti, un tipo interessante di merlo.",
-        "Score": "3.68"
-    },
-    {
-        "ID": "238",
-        "Sentence": "Adoro i granchi, un tipo interessante di tacchino.",
-        "Score": "1.27"
-    },
-    {
-        "ID": "342",
-        "Sentence": "Amo gli alberi, ed anche i pini.",
-        "Score": "2.7"
-    },
-    {
-        "ID": "277",
-        "Sentence": "Amo le anatre, ed anche gli uccelli.",
-        "Score": "4.33"
-    },
-    {
-        "ID": "211",
-        "Sentence": "Adoro gli alberi, un tipo interessante di pino.",
-        "Score": "2.27"
-    },
-    {
-        "ID": "123",
-        "Sentence": "Adoro il caviale, ma non i prodotti del mare.",
-        "Score": "4.17"
-    },
-    {
-        "ID": "49",
-        "Sentence": "Adoro gli animali, ma non le querce.",
-        "Score": "3.33"
-    },
-    {
-        "ID": "158",
-        "Sentence": "Amo i merli, un tipo interessante di criceto.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "156",
-        "Sentence": "Amo i merli, un tipo interessante di uccello.",
-        "Score": "6.4"
-    },
-    {
-        "ID": "282",
-        "Sentence": "Amo i maiali, ed anche le anatre.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "290",
-        "Sentence": "Amo i criceti, ed anche i merli.",
-        "Score": "6.08"
-    },
-    {
-        "ID": "150",
-        "Sentence": "Amo le anatre, un tipo interessante di maiale.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "179",
-        "Sentence": "Adoro le querce, un tipo interessante di animale.",
-        "Score": "1.08"
-    },
-    {
-        "ID": "149",
-        "Sentence": "Amo i criceti, un tipo interessante di anatra.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "14",
-        "Sentence": "Amo i gatti, ma non le anatre.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "312",
-        "Sentence": "Amo gli alberi, ed anche gli animali.",
-        "Score": "6.78"
-    },
-    {
-        "ID": "522",
-        "Sentence": "Amo il caviale pi\u00f9 del manzo.",
-        "Score": "6.18"
-    },
-    {
-        "ID": "216",
-        "Sentence": "Adoro i pini, un tipo interessante di arbusto.",
-        "Score": "4.09"
-    },
-    {
-        "ID": "157",
-        "Sentence": "Amo gli uccelli, un tipo interessante di merlo.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "317",
-        "Sentence": "Amo gli arbusti, ed anche le querce.",
-        "Score": "5.64"
-    },
-    {
-        "ID": "144",
-        "Sentence": "Amo le anatre, un tipo interessante di gatto.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "281",
-        "Sentence": "Amo le anatre, ed anche i maiali.",
-        "Score": "5.18"
-    },
-    {
-        "ID": "10",
-        "Sentence": "Amo gli uccelli, ma non i maiali.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "477",
-        "Sentence": "Amo i cespugli pi\u00f9 dei pini.",
-        "Score": "6.15"
-    },
-    {
-        "ID": "300",
-        "Sentence": "Amo i criceti, ed anche i passeri.",
-        "Score": "4.31"
-    },
-    {
-        "ID": "463",
-        "Sentence": "Amo gli alberi pi\u00f9 degli abeti.",
-        "Score": "1.58"
-    },
-    {
-        "ID": "39",
-        "Sentence": "Amo i passeri, ma non i maiali.",
-        "Score": "4.33"
-    },
-    {
-        "ID": "451",
-        "Sentence": "Amo l' erba pi\u00f9 delle betulle.",
-        "Score": "5.56"
-    },
-    {
-        "ID": "462",
-        "Sentence": "Amo gli abeti pi\u00f9 degli alberi.",
-        "Score": "1.73"
-    },
-    {
-        "ID": "464",
-        "Sentence": "Amo gli abeti pi\u00f9 degli animali.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "180",
-        "Sentence": "Adoro gli animali, un tipo interessante di quercia.",
-        "Score": "3.95"
-    },
-    {
-        "ID": "177",
-        "Sentence": "Adoro gli alberi, un tipo interessante di quercia.",
-        "Score": "1.44"
-    },
-    {
-        "ID": "516",
-        "Sentence": "Amo il caviale pi\u00f9 dei prodotti del mare.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "184",
-        "Sentence": "Adoro gli alberi, un tipo interessante di cespuglio.",
-        "Score": "1.64"
-    },
-    {
-        "ID": "232",
-        "Sentence": "Adoro i granchi, un tipo interessante di pollo.",
-        "Score": "3.95"
-    },
-    {
-        "ID": "58",
-        "Sentence": "Adoro l' erba, ma non le betulle.",
-        "Score": "3.42"
-    },
-    {
-        "ID": "498",
-        "Sentence": "Amo i granchi pi\u00f9 del vitello.",
-        "Score": "3.55"
-    },
-    {
-        "ID": "471",
-        "Sentence": "Amo l' erba pi\u00f9 dei pini.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "365",
-        "Sentence": "Amo i granchi, ed anche i prodotti del mare.",
-        "Score": "4.91"
-    },
-    {
-        "ID": "407",
-        "Sentence": "Amo i gatti pi\u00f9 delle anatre.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "8",
-        "Sentence": "Amo i pappagalli, ma non i maiali.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "195",
-        "Sentence": "Adoro i cespugli, un tipo interessante di betulla.",
-        "Score": "1.62"
-    },
-    {
-        "ID": "182",
-        "Sentence": "Adoro le querce, un tipo interessante di cespuglio.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "169",
-        "Sentence": "Amo i criceti, un tipo interessante di passero.",
-        "Score": "1.08"
-    },
-    {
-        "ID": "275",
-        "Sentence": "Amo le anatre, ed anche i gatti.",
-        "Score": "5.14"
-    },
-    {
-        "ID": "285",
-        "Sentence": "Amo i merli, ed anche i gatti.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "205",
-        "Sentence": "Adoro i cespugli, un tipo interessante di abete.",
-        "Score": "1.45"
-    },
-    {
-        "ID": "289",
-        "Sentence": "Amo i merli, ed anche i criceti.",
-        "Score": "5.62"
-    },
-    {
-        "ID": "514",
-        "Sentence": "Amo il caviale pi\u00f9 del pollo.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "51",
-        "Sentence": "Adoro le querce, ma non i cespugli.",
-        "Score": "5.09"
-    },
-    {
-        "ID": "465",
-        "Sentence": "Amo gli animali pi\u00f9 degli abeti.",
-        "Score": "4.55"
-    },
-    {
-        "ID": "406",
-        "Sentence": "Amo le anatre pi\u00f9 dei gatti.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "20",
-        "Sentence": "Amo i maiali, ma non le anatre.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "428",
-        "Sentence": "Amo i passeri pi\u00f9 degli uccelli.",
-        "Score": "1.69"
-    },
-    {
-        "ID": "194",
-        "Sentence": "Adoro le betulle, un tipo interessante di cespuglio.",
-        "Score": "2.25"
-    },
-    {
-        "ID": "223",
-        "Sentence": "Adoro il salmone, un tipo interessante di vitello.",
-        "Score": "1.36"
-    },
-    {
-        "ID": "322",
-        "Sentence": "Amo gli alberi, ed anche le betulle.",
-        "Score": "3.75"
-    },
-    {
-        "ID": "250",
-        "Sentence": "Adoro le ostriche, un tipo interessante di manzo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "356",
-        "Sentence": "Amo i prodotti del mare, ed anche il vitello.",
-        "Score": "5.09"
-    },
-    {
-        "ID": "42",
-        "Sentence": "Amo i cani, ma non i passeri.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "154",
-        "Sentence": "Amo i merli, un tipo interessante di gatto.",
-        "Score": "1.08"
-    },
-    {
-        "ID": "511",
-        "Sentence": "Amo il tacchino pi\u00f9 delle ostriche.",
-        "Score": "5.64"
-    },
-    {
-        "ID": "116",
-        "Sentence": "Adoro il vitello, ma non le ostriche.",
-        "Score": "4.27"
-    },
-    {
-        "ID": "268",
-        "Sentence": "Amo i criceti, ed anche i pappagalli.",
-        "Score": "5.5"
-    },
-    {
-        "ID": "91",
-        "Sentence": "Adoro i prodotti del mare, ma non il pollo.",
-        "Score": "3.45"
-    },
-    {
-        "ID": "189",
-        "Sentence": "Adoro l' erba, un tipo interessante di betulla.",
-        "Score": "1.31"
-    },
-    {
-        "ID": "56",
-        "Sentence": "Adoro gli alberi, ma non gli arbusti.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "512",
-        "Sentence": "Amo le ostriche pi\u00f9 del manzo.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "130",
-        "Sentence": "Adoro il manzo, ma non il caviale.",
-        "Score": "4.92"
-    },
-    {
-        "ID": "1",
-        "Sentence": "Amo i gatti, ma non i pappagalli.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "7",
-        "Sentence": "Amo gli uccelli, ma non i criceti.",
-        "Score": "4.92"
-    },
-    {
-        "ID": "233",
-        "Sentence": "Adoro il pollo, un tipo interessante di granchi.",
-        "Score": "1.15"
-    },
-    {
-        "ID": "391",
-        "Sentence": "Amo il caviale, ed anche il manzo.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "214",
-        "Sentence": "Adoro i pini, un tipo interessante di cespuglio.",
-        "Score": "1.62"
-    },
-    {
-        "ID": "5",
-        "Sentence": "Amo i pappagalli, ma non i criceti.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "347",
-        "Sentence": "Amo i pini, ed anche gli arbusti.",
-        "Score": "4.18"
-    },
-    {
-        "ID": "164",
-        "Sentence": "Amo i passeri, un tipo interessante di gatto.",
-        "Score": "1.11"
-    },
-    {
-        "ID": "257",
-        "Sentence": "Adoro il vitello, un tipo interessante di caviale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "497",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 dei granchi.",
-        "Score": "2.0"
-    },
-    {
-        "ID": "249",
-        "Sentence": "Adoro il tacchino, un tipo interessante di ostriche.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "337",
-        "Sentence": "Amo gli abeti, ed anche gli arbusti.",
-        "Score": "5.4"
-    },
-    {
-        "ID": "338",
-        "Sentence": "Amo gli arbusti, ed anche gli abeti.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "395",
-        "Sentence": "Amo i pappagalli pi\u00f9 degli uccelli.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "421",
-        "Sentence": "Amo i criceti pi\u00f9 dei merli.",
-        "Score": "5.58"
-    },
-    {
-        "ID": "474",
-        "Sentence": "Amo i pini pi\u00f9 degli animali.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "327",
-        "Sentence": "Amo le betulle, ed anche gli arbusti.",
-        "Score": "5.44"
-    },
-    {
-        "ID": "400",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei criceti.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "445",
-        "Sentence": "Amo i cespugli pi\u00f9 delle querce.",
-        "Score": "5.54"
-    },
-    {
-        "ID": "295",
-        "Sentence": "Amo i passeri, ed anche i gatti.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "218",
-        "Sentence": "Adoro il salmone, un tipo interessante di pollo.",
-        "Score": "1.15"
-    },
-    {
-        "ID": "96",
-        "Sentence": "Adoro il tacchino, ma non il salmone.",
-        "Score": "4.2"
-    },
-    {
-        "ID": "459",
-        "Sentence": "Amo gli arbusti pi\u00f9 delle betulle.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "251",
-        "Sentence": "Adoro il manzo, un tipo interessante di ostriche.",
-        "Score": "1.5"
-    },
-    {
-        "ID": "237",
-        "Sentence": "Adoro il vitello, un tipo interessante di granchi.",
-        "Score": "1.22"
-    },
-    {
-        "ID": "104",
-        "Sentence": "Adoro i prodotti del mare, ma non i granchi.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "472",
-        "Sentence": "Amo i pini pi\u00f9 degli alberi.",
-        "Score": "1.55"
-    },
-    {
-        "ID": "230",
-        "Sentence": "Adoro il manzo, un tipo interessante di salmone.",
-        "Score": "1.45"
-    },
-    {
-        "ID": "262",
-        "Sentence": "Amo i pappagalli, ed anche i gatti.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "293",
-        "Sentence": "Amo i merli, ed anche i cani.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "155",
-        "Sentence": "Amo i gatti, un tipo interessante di merlo.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "269",
-        "Sentence": "Amo gli uccelli, ed anche i criceti.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "348",
-        "Sentence": "Amo gli arbusti, ed anche i pini.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "456",
-        "Sentence": "Amo le betulle pi\u00f9 dei cespugli.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "446",
-        "Sentence": "Amo gli alberi pi\u00f9 dei cespugli.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "436",
-        "Sentence": "Amo le querce pi\u00f9 dell' erba.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "151",
-        "Sentence": "Amo i maiali, un tipo interessante di anatra.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "485",
-        "Sentence": "Amo il salmone pi\u00f9 del vitello.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "320",
-        "Sentence": "Amo l' erba, ed anche le betulle.",
-        "Score": "5.77"
-    },
-    {
-        "ID": "253",
-        "Sentence": "Adoro il pollo, un tipo interessante di caviale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "344",
-        "Sentence": "Amo gli animali, ed anche i pini.",
-        "Score": "3.62"
-    },
-    {
-        "ID": "101",
-        "Sentence": "Adoro i granchi, ma non il pollo.",
-        "Score": "3.25"
-    },
-    {
-        "ID": "520",
-        "Sentence": "Amo il caviale pi\u00f9 del tacchino.",
-        "Score": "6.27"
-    },
-    {
-        "ID": "192",
-        "Sentence": "Adoro le betulle, un tipo interessante di animale.",
-        "Score": "1.11"
-    },
-    {
-        "ID": "331",
-        "Sentence": "Amo gli abeti, ed anche gli alberi.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "438",
-        "Sentence": "Amo le querce pi\u00f9 degli alberi.",
-        "Score": "1.6"
-    },
-    {
-        "ID": "70",
-        "Sentence": "Adoro gli alberi, ma non gli abeti.",
-        "Score": "5.91"
-    },
-    {
-        "ID": "384",
-        "Sentence": "Amo il pollo, ed anche il caviale.",
-        "Score": "5.78"
-    },
-    {
-        "ID": "470",
-        "Sentence": "Amo i pini pi\u00f9 dell' erba.",
-        "Score": "5.73"
-    },
-    {
-        "ID": "481",
-        "Sentence": "Amo il pollo pi\u00f9 del salmone.",
-        "Score": "6.08"
-    },
-    {
-        "ID": "309",
-        "Sentence": "Amo gli alberi, ed anche l' erba.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "397",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei gatti.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "66",
-        "Sentence": "Adoro gli arbusti, ma non le betulle.",
-        "Score": "3.18"
-    },
-    {
-        "ID": "254",
-        "Sentence": "Adoro il caviale, un tipo interessante di prodotti del mare.",
-        "Score": "5.82"
-    },
-    {
-        "ID": "146",
-        "Sentence": "Amo le anatre, un tipo interessante di uccello.",
-        "Score": "6.55"
-    },
-    {
-        "ID": "505",
-        "Sentence": "Amo il pollo pi\u00f9 delle ostriche.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "82",
-        "Sentence": "Adoro gli animali, ma non i pini.",
-        "Score": "2.27"
-    },
-    {
-        "ID": "355",
-        "Sentence": "Amo il vitello, ed anche il salmone.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "172",
-        "Sentence": "Amo i passeri, un tipo interessante di cane.",
-        "Score": "1.4"
-    },
-    {
-        "ID": "468",
-        "Sentence": "Amo gli abeti pi\u00f9 degli arbusti.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "244",
-        "Sentence": "Adoro le ostriche, un tipo interessante di prodotti del mare.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "509",
-        "Sentence": "Amo il vitello pi\u00f9 delle ostriche.",
-        "Score": "6.5"
-    },
-    {
-        "ID": "328",
-        "Sentence": "Amo gli arbusti, ed anche le betulle.",
-        "Score": "4.63"
-    },
-    {
-        "ID": "209",
-        "Sentence": "Adoro l' erba, un tipo interessante di pino.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "147",
-        "Sentence": "Amo gli uccelli, un tipo interessante di anatra.",
-        "Score": "1.67"
-    },
-    {
-        "ID": "409",
-        "Sentence": "Amo gli uccelli pi\u00f9 delle anatre.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "208",
-        "Sentence": "Adoro i pini, un tipo interessante di erba.",
-        "Score": "1.62"
-    },
-    {
-        "ID": "213",
-        "Sentence": "Adoro gli animali, un tipo interessante di pino.",
-        "Score": "1.09"
-    },
-    {
-        "ID": "345",
-        "Sentence": "Amo i pini, ed anche i cespugli.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "486",
-        "Sentence": "Amo il vitello pi\u00f9 del salmone.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "47",
-        "Sentence": "Adoro gli alberi, ma non l' erba.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "67",
-        "Sentence": "Adoro gli abeti, ma non l' erba.",
-        "Score": "3.25"
-    },
-    {
-        "ID": "33",
-        "Sentence": "Amo i passeri, ma non i gatti.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "521",
-        "Sentence": "Amo il tacchino pi\u00f9 del caviale.",
-        "Score": "6.23"
-    },
-    {
-        "ID": "494",
-        "Sentence": "Amo i granchi pi\u00f9 del pollo.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "134",
-        "Sentence": "Amo gli uccelli, un tipo interessante di pappagallo.",
-        "Score": "1.64"
-    },
-    {
-        "ID": "38",
-        "Sentence": "Amo i criceti, ma non i passeri.",
-        "Score": "4.91"
-    },
-    {
-        "ID": "188",
-        "Sentence": "Adoro le betulle, un tipo interessante di erba.",
-        "Score": "1.75"
-    },
-    {
-        "ID": "336",
-        "Sentence": "Amo i cespugli, ed anche gli abeti.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "85",
-        "Sentence": "Adoro i pini, ma non gli arbusti.",
-        "Score": "5.18"
-    },
-    {
-        "ID": "234",
-        "Sentence": "Adoro i granchi, un tipo interessante di prodotti del mare.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "168",
-        "Sentence": "Amo i passeri, un tipo interessante di criceto.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "107",
-        "Sentence": "Adoro i granchi, ma non il tacchino.",
-        "Score": "3.36"
-    },
-    {
-        "ID": "160",
-        "Sentence": "Amo i merli, un tipo interessante di maiale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "41",
-        "Sentence": "Amo i passeri, ma non i cani.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "78",
-        "Sentence": "Adoro l' erba, ma non i pini.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "176",
-        "Sentence": "Adoro le querce, un tipo interessante di albero.",
-        "Score": "6.77"
-    },
-    {
-        "ID": "227",
-        "Sentence": "Adoro il tacchino, un tipo interessante di salmone.",
-        "Score": "1.2"
-    },
-    {
-        "ID": "173",
-        "Sentence": "Amo i cani, un tipo interessante di passero.",
-        "Score": "1.08"
-    },
-    {
-        "ID": "442",
-        "Sentence": "Amo gli animali pi\u00f9 delle querce.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "103",
-        "Sentence": "Adoro i granchi, ma non i prodotti del mare.",
-        "Score": "4.09"
-    },
-    {
-        "ID": "18",
-        "Sentence": "Amo i criceti, ma non le anatre.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "93",
-        "Sentence": "Adoro il vitello, ma non il salmone.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "129",
-        "Sentence": "Adoro il caviale, ma non il manzo.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "86",
-        "Sentence": "Adoro gli arbusti, ma non i pini.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "435",
-        "Sentence": "Amo i cani pi\u00f9 dei passeri.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "377",
-        "Sentence": "Amo le ostriche, ed anche il vitello.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "12",
-        "Sentence": "Amo gli uccelli, ma non i cani.",
-        "Score": "4.92"
-    },
-    {
-        "ID": "15",
-        "Sentence": "Amo le anatre, ma non gli uccelli.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "162",
-        "Sentence": "Amo i merli, un tipo interessante di cane.",
-        "Score": "1.55"
-    },
-    {
-        "ID": "69",
-        "Sentence": "Adoro gli abeti, ma non gli alberi.",
-        "Score": "2.83"
-    },
-    {
-        "ID": "121",
-        "Sentence": "Adoro il caviale, ma non il pollo.",
-        "Score": "3.33"
-    },
-    {
-        "ID": "343",
-        "Sentence": "Amo i pini, ed anche gli animali.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "201",
-        "Sentence": "Adoro gli alberi, un tipo interessante di abete.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "118",
-        "Sentence": "Adoro il tacchino, ma non le ostriche.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "279",
-        "Sentence": "Amo le anatre, ed anche i criceti.",
-        "Score": "5.54"
-    },
-    {
-        "ID": "478",
-        "Sentence": "Amo i pini pi\u00f9 degli arbusti.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "270",
-        "Sentence": "Amo i pappagalli, ed anche i maiali.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "140",
-        "Sentence": "Amo i maiali, un tipo interessante di pappagallo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "52",
-        "Sentence": "Adoro i cespugli, ma non le querce.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "37",
-        "Sentence": "Amo i passeri, ma non i criceti.",
-        "Score": "4.58"
-    },
-    {
-        "ID": "403",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei maiali.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "504",
-        "Sentence": "Amo le ostriche pi\u00f9 del pollo.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "115",
-        "Sentence": "Adoro le ostriche, ma non il vitello.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "87",
-        "Sentence": "Adoro il salmone, ma non il pollo.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "255",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di caviale.",
-        "Score": "2.18"
-    },
-    {
-        "ID": "112",
-        "Sentence": "Adoro il pollo, ma non le ostriche.",
-        "Score": "3.0"
-    },
-    {
-        "ID": "491",
-        "Sentence": "Amo il salmone pi\u00f9 del manzo.",
-        "Score": "6.27"
-    },
-    {
-        "ID": "404",
-        "Sentence": "Amo i pappagalli pi\u00f9 dei cani.",
-        "Score": "5.32"
-    },
-    {
-        "ID": "16",
-        "Sentence": "Amo gli uccelli, ma non le anatre.",
-        "Score": "5.83"
-    },
-    {
-        "ID": "398",
-        "Sentence": "Amo i pappagalli pi\u00f9 dei criceti.",
-        "Score": "6.18"
-    },
-    {
-        "ID": "92",
-        "Sentence": "Adoro il salmone, ma non il vitello.",
-        "Score": "3.0"
-    },
-    {
-        "ID": "314",
-        "Sentence": "Amo i cespugli, ed anche le querce.",
-        "Score": "6.22"
-    },
-    {
-        "ID": "423",
-        "Sentence": "Amo i maiali pi\u00f9 dei merli.",
-        "Score": "5.08"
-    },
-    {
-        "ID": "114",
-        "Sentence": "Adoro i prodotti del mare, ma non le ostriche.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "302",
-        "Sentence": "Amo i maiali, ed anche i passeri.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "4",
-        "Sentence": "Amo gli uccelli, ma non i gatti.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "460",
-        "Sentence": "Amo gli abeti pi\u00f9 dell' erba.",
-        "Score": "5.91"
-    },
-    {
-        "ID": "90",
-        "Sentence": "Adoro i prodotti del mare, ma non il salmone.",
-        "Score": "6.27"
-    },
-    {
-        "ID": "46",
-        "Sentence": "Adoro gli alberi, ma non le querce.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "475",
-        "Sentence": "Amo gli animali pi\u00f9 dei pini.",
-        "Score": "4.91"
-    },
-    {
-        "ID": "499",
-        "Sentence": "Amo il vitello pi\u00f9 dei granchi.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "72",
-        "Sentence": "Adoro gli animali, ma non gli abeti.",
-        "Score": "1.45"
-    },
-    {
-        "ID": "523",
-        "Sentence": "Amo il manzo pi\u00f9 del caviale.",
-        "Score": "6.45"
-    },
-    {
-        "ID": "306",
-        "Sentence": "Amo l' erba, ed anche le querce.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "457",
-        "Sentence": "Amo i cespugli pi\u00f9 delle betulle.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "496",
-        "Sentence": "Amo i granchi pi\u00f9 dei prodotti del mare.",
-        "Score": "2.0"
-    },
-    {
-        "ID": "200",
-        "Sentence": "Adoro gli abeti, un tipo interessante di albero.",
-        "Score": "5.82"
-    },
-    {
-        "ID": "64",
-        "Sentence": "Adoro i cespugli, ma non le betulle.",
-        "Score": "2.83"
-    },
-    {
-        "ID": "298",
-        "Sentence": "Amo gli uccelli, ed anche i passeri.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "387",
-        "Sentence": "Amo il caviale, ed anche il vitello.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "304",
-        "Sentence": "Amo i cani, ed anche i passeri.",
-        "Score": "5.46"
-    },
-    {
-        "ID": "242",
-        "Sentence": "Adoro le ostriche, un tipo interessante di pollo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "492",
-        "Sentence": "Amo il manzo pi\u00f9 del salmone.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "231",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di manzo.",
-        "Score": "1.25"
-    },
-    {
-        "ID": "163",
-        "Sentence": "Amo i cani, un tipo interessante di merlo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "239",
-        "Sentence": "Adoro il tacchino, un tipo interessante di granchi.",
-        "Score": "1.82"
-    },
-    {
-        "ID": "373",
-        "Sentence": "Amo le ostriche, ed anche il pollo.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "178",
-        "Sentence": "Adoro gli alberi, un tipo interessante di erba.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "389",
-        "Sentence": "Amo il caviale, ed anche il tacchino.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "473",
-        "Sentence": "Amo gli alberi pi\u00f9 dei pini.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "483",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del salmone.",
-        "Score": "2.0"
-    },
-    {
-        "ID": "127",
-        "Sentence": "Adoro il caviale, ma non il tacchino.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "71",
-        "Sentence": "Adoro gli abeti, ma non gli animali.",
-        "Score": "3.92"
-    },
-    {
-        "ID": "59",
-        "Sentence": "Adoro le betulle, ma non gli alberi.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "50",
-        "Sentence": "Adoro gli alberi, ma non gli animali.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "224",
-        "Sentence": "Adoro il vitello, un tipo interessante di salmone.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "53",
-        "Sentence": "Adoro gli alberi, ma non i cespugli.",
-        "Score": "4.91"
-    },
-    {
-        "ID": "354",
-        "Sentence": "Amo il salmone, ed anche il vitello.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "501",
-        "Sentence": "Amo il tacchino pi\u00f9 dei granchi.",
-        "Score": "5.54"
-    },
-    {
-        "ID": "364",
-        "Sentence": "Amo il pollo, ed anche i granchi.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "321",
-        "Sentence": "Amo le betulle, ed anche gli alberi.",
-        "Score": "3.08"
-    },
-    {
-        "ID": "448",
-        "Sentence": "Amo gli arbusti pi\u00f9 delle querce.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "381",
-        "Sentence": "Amo le ostriche, ed anche il manzo.",
-        "Score": "5.95"
-    },
-    {
-        "ID": "23",
-        "Sentence": "Amo i merli, ma non i gatti.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "ID",
-        "Sentence": "Sentence",
-        "Score": "Score"
-    },
-    {
-        "ID": "21",
-        "Sentence": "Amo le anatre, ma non i cani.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "191",
-        "Sentence": "Adoro gli alberi, un tipo interessante di betulla.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "83",
-        "Sentence": "Adoro i pini, ma non i cespugli.",
-        "Score": "3.83"
-    },
-    {
-        "ID": "259",
-        "Sentence": "Adoro il tacchino, un tipo interessante di caviale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "352",
-        "Sentence": "Amo i prodotti del mare, ed anche il salmone.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "142",
-        "Sentence": "Amo i pappagalli, un tipo interessante di cane.",
-        "Score": "1.54"
-    },
-    {
-        "ID": "34",
-        "Sentence": "Amo i gatti, ma non i passeri.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "119",
-        "Sentence": "Adoro le ostriche, ma non il manzo.",
-        "Score": "3.33"
-    },
-    {
-        "ID": "360",
-        "Sentence": "Amo il salmone, ed anche il manzo.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "402",
-        "Sentence": "Amo i maiali pi\u00f9 dei pappagalli.",
-        "Score": "5.36"
-    },
-    {
-        "ID": "252",
-        "Sentence": "Adoro il caviale, un tipo interessante di pollo.",
-        "Score": "1.36"
-    },
-    {
-        "ID": "303",
-        "Sentence": "Amo i passeri, ed anche i cani.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "286",
-        "Sentence": "Amo i gatti, ed anche i merli.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "517",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del caviale.",
-        "Score": "3.25"
-    },
-    {
-        "ID": "225",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di vitello.",
-        "Score": "1.09"
-    },
-    {
-        "ID": "117",
-        "Sentence": "Adoro le ostriche, ma non il tacchino.",
-        "Score": "3.75"
-    },
-    {
-        "ID": "26",
-        "Sentence": "Amo gli uccelli, ma non i merli.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "433",
-        "Sentence": "Amo i maiali pi\u00f9 dei passeri.",
-        "Score": "5.56"
-    },
-    {
-        "ID": "363",
-        "Sentence": "Amo i granchi, ed anche il pollo.",
-        "Score": "4.92"
-    },
-    {
-        "ID": "513",
-        "Sentence": "Amo il manzo pi\u00f9 delle ostriche.",
-        "Score": "6.55"
-    },
-    {
-        "ID": "353",
-        "Sentence": "Amo i prodotti del mare, ed anche il pollo.",
-        "Score": "4.17"
-    },
-    {
-        "ID": "44",
-        "Sentence": "Adoro l' erba, ma non le querce.",
-        "Score": "4.18"
-    },
-    {
-        "ID": "260",
-        "Sentence": "Adoro il caviale, un tipo interessante di manzo.",
-        "Score": "1.82"
-    },
-    {
-        "ID": "3",
-        "Sentence": "Amo gli uccelli, ma non i pappagalli.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "382",
-        "Sentence": "Amo il manzo, ed anche le ostriche.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "349",
-        "Sentence": "Amo il salmone, ed anche il pollo.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "97",
-        "Sentence": "Adoro i prodotti del mare, ma non il tacchino.",
-        "Score": "2.5"
-    },
-    {
-        "ID": "247",
-        "Sentence": "Adoro il vitello, un tipo interessante di ostriche.",
-        "Score": "1.42"
-    },
-    {
-        "ID": "241",
-        "Sentence": "Adoro il manzo, un tipo interessante di granchi.",
-        "Score": "1.09"
-    },
-    {
-        "ID": "57",
-        "Sentence": "Adoro le betulle, ma non l' erba.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "13",
-        "Sentence": "Amo le anatre, ma non i gatti.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "264",
-        "Sentence": "Amo i pappagalli, ed anche gli uccelli.",
-        "Score": "3.09"
-    },
-    {
-        "ID": "30",
-        "Sentence": "Amo i maiali, ma non i merli.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "65",
-        "Sentence": "Adoro le betulle, ma non gli arbusti.",
-        "Score": "3.67"
-    },
-    {
-        "ID": "399",
-        "Sentence": "Amo i criceti pi\u00f9 dei pappagalli.",
-        "Score": "4.45"
-    },
-    {
-        "ID": "111",
-        "Sentence": "Adoro le ostriche, ma non il pollo.",
-        "Score": "4.08"
-    },
-    {
-        "ID": "506",
-        "Sentence": "Amo le ostriche pi\u00f9 dei prodotti del mare.",
-        "Score": "2.45"
-    },
-    {
-        "ID": "128",
-        "Sentence": "Adoro il tacchino, ma non il caviale.",
-        "Score": "3.83"
-    },
-    {
-        "ID": "108",
-        "Sentence": "Adoro il tacchino, ma non i granchi.",
-        "Score": "4.42"
-    },
-    {
-        "ID": "454",
-        "Sentence": "Amo le betulle pi\u00f9 degli animali.",
-        "Score": "5.77"
-    },
-    {
-        "ID": "235",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di granchio.",
-        "Score": "2.58"
-    },
-    {
-        "ID": "324",
-        "Sentence": "Amo gli animali, ed anche le betulle.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "76",
-        "Sentence": "Adoro gli arbusti, ma non gli abeti.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "484",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del pollo.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "467",
-        "Sentence": "Amo i cespugli pi\u00f9 degli abeti.",
-        "Score": "5.4"
-    },
-    {
-        "ID": "294",
-        "Sentence": "Amo i cani, ed anche i merli.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "84",
-        "Sentence": "Adoro i cespugli, ma non i pini.",
-        "Score": "3.75"
-    },
-    {
-        "ID": "376",
-        "Sentence": "Amo i prodotti del mare, ed anche le ostriche.",
-        "Score": "4.17"
-    },
-    {
-        "ID": "383",
-        "Sentence": "Amo il caviale, ed anche il pollo.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "447",
-        "Sentence": "Amo le querce pi\u00f9 degli arbusti.",
-        "Score": "5.1"
-    },
-    {
-        "ID": "495",
-        "Sentence": "Amo il pollo pi\u00f9 dei granchi.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "193",
-        "Sentence": "Adoro gli animali, un tipo interessante di betulla.",
-        "Score": "1.4"
-    },
-    {
-        "ID": "329",
-        "Sentence": "Amo gli abeti, ed anche l' erba.",
-        "Score": "5.6"
-    },
-    {
-        "ID": "333",
-        "Sentence": "Amo gli abeti, ed anche gli animali.",
-        "Score": "4.27"
-    },
-    {
-        "ID": "153",
-        "Sentence": "Amo i cani, un tipo interessante di anatra.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "245",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di ostrica.",
-        "Score": "2.27"
-    },
-    {
-        "ID": "198",
-        "Sentence": "Adoro gli abeti, un tipo interessante di erba.",
-        "Score": "1.4"
-    },
-    {
-        "ID": "212",
-        "Sentence": "Adoro i pini, un tipo interessante di animale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "305",
-        "Sentence": "Amo le querce, ed anche l' erba.",
-        "Score": "5.45"
-    },
-    {
-        "ID": "507",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 delle ostriche.",
-        "Score": "2.25"
-    },
-    {
-        "ID": "413",
-        "Sentence": "Amo i maiali pi\u00f9 delle anatre.",
-        "Score": "5.83"
-    },
-    {
-        "ID": "432",
-        "Sentence": "Amo i passeri pi\u00f9 dei maiali.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "48",
-        "Sentence": "Adoro le querce, ma non gli animali.",
-        "Score": "2.9"
-    },
-    {
-        "ID": "458",
-        "Sentence": "Amo le betulle pi\u00f9 degli arbusti.",
-        "Score": "4.85"
-    },
-    {
-        "ID": "408",
-        "Sentence": "Amo le anatre pi\u00f9 degli uccelli.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "374",
-        "Sentence": "Amo il pollo, ed anche le ostriche.",
-        "Score": "5.38"
-    },
-    {
-        "ID": "11",
-        "Sentence": "Amo i pappagalli, ma non i cani.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "510",
-        "Sentence": "Amo le ostriche pi\u00f9 del tacchino.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "469",
-        "Sentence": "Amo gli arbusti pi\u00f9 degli abeti.",
-        "Score": "5.17"
-    },
-    {
-        "ID": "131",
-        "Sentence": "Amo i pappagalli, un tipo interessante di gatto.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "392",
-        "Sentence": "Amo il manzo, ed anche il caviale.",
-        "Score": "5.82"
-    },
-    {
-        "ID": "489",
-        "Sentence": "Amo il tacchino pi\u00f9 del salmone.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "80",
-        "Sentence": "Adoro gli alberi, ma non i pini.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "36",
-        "Sentence": "Amo gli uccelli, ma non i passeri.",
-        "Score": "6.25"
-    },
-    {
-        "ID": "482",
-        "Sentence": "Amo il salmone pi\u00f9 dei prodotti del mare.",
-        "Score": "2.58"
-    },
-    {
-        "ID": "9",
-        "Sentence": "Amo i maiali, ma non i pappagalli.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "431",
-        "Sentence": "Amo i criceti pi\u00f9 dei passeri.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "68",
-        "Sentence": "Adoro l' erba, ma non gli abeti.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "145",
-        "Sentence": "Amo i gatti, un tipo interessante di anatra.",
-        "Score": "1.09"
-    },
-    {
-        "ID": "366",
-        "Sentence": "Amo i prodotti del mare, ed anche i granchi.",
-        "Score": "4.25"
-    },
-    {
-        "ID": "220",
-        "Sentence": "Adoro il salmone, un tipo interessante di prodotti del mare.",
-        "Score": "5.17"
-    },
-    {
-        "ID": "274",
-        "Sentence": "Amo gli uccelli, ed anche i cani.",
-        "Score": "6.56"
-    },
-    {
-        "ID": "455",
-        "Sentence": "Amo gli animali pi\u00f9 delle betulle.",
-        "Score": "4.78"
-    },
-    {
-        "ID": "287",
-        "Sentence": "Amo i merli, ed anche gli uccelli.",
-        "Score": "3.09"
-    },
-    {
-        "ID": "43",
-        "Sentence": "Adoro le querce, ma non l' erba.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "375",
-        "Sentence": "Amo le ostriche, ed anche i prodotti del mare.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "207",
-        "Sentence": "Adoro gli arbusti, un tipo interessante di abete.",
-        "Score": "1.75"
-    },
-    {
-        "ID": "161",
-        "Sentence": "Amo i maiali, un tipo interessante di merlo.",
-        "Score": "1.32"
-    },
-    {
-        "ID": "488",
-        "Sentence": "Amo il salmone pi\u00f9 del tacchino.",
-        "Score": "5.58"
-    },
-    {
-        "ID": "346",
-        "Sentence": "Amo i cespugli, ed anche i pini.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "196",
-        "Sentence": "Adoro le betulle, un tipo interessante di arbusto.",
-        "Score": "3.56"
-    },
-    {
-        "ID": "210",
-        "Sentence": "Adoro i pini, un tipo interessante di albero.",
-        "Score": "6.5"
-    },
-    {
-        "ID": "487",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del vitello.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "81",
-        "Sentence": "Adoro i pini, ma non gli animali.",
-        "Score": "3.33"
-    },
-    {
-        "ID": "229",
-        "Sentence": "Adoro il salmone, un tipo interessante di manzo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "380",
-        "Sentence": "Amo il tacchino, ed anche le ostriche.",
-        "Score": "5.77"
-    },
-    {
-        "ID": "24",
-        "Sentence": "Amo i gatti, ma non i merli.",
-        "Score": "4.58"
-    },
-    {
-        "ID": "143",
-        "Sentence": "Amo gli uccelli, un tipo interessante di cane.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "256",
-        "Sentence": "Adoro il caviale, un tipo interessante di vitello.",
-        "Score": "2.64"
-    },
-    {
-        "ID": "45",
-        "Sentence": "Adoro le querce, ma non gli alberi.",
-        "Score": "3.0"
-    },
-    {
-        "ID": "105",
-        "Sentence": "Adoro i granchi, ma non il vitello.",
-        "Score": "3.64"
-    },
-    {
-        "ID": "480",
-        "Sentence": "Amo il salmone pi\u00f9 del pollo.",
-        "Score": "6.59"
-    },
-    {
-        "ID": "411",
-        "Sentence": "Amo i criceti pi\u00f9 delle anatre.",
-        "Score": "6.08"
-    },
-    {
-        "ID": "307",
-        "Sentence": "Amo le querce, ed anche gli alberi.",
-        "Score": "2.92"
-    },
-    {
-        "ID": "284",
-        "Sentence": "Amo i cani, ed anche le anatre.",
-        "Score": "6.22"
-    },
-    {
-        "ID": "98",
-        "Sentence": "Adoro il salmone, ma non il manzo.",
-        "Score": "4.09"
-    },
-    {
-        "ID": "22",
-        "Sentence": "Amo i cani, ma non le anatre.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "273",
-        "Sentence": "Amo i pappagalli, ed anche i cani.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "301",
-        "Sentence": "Amo i passeri, ed anche i maiali.",
-        "Score": "5.91"
-    },
-    {
-        "ID": "479",
-        "Sentence": "Amo gli arbusti pi\u00f9 dei pini.",
-        "Score": "4.38"
-    },
-    {
-        "ID": "341",
-        "Sentence": "Amo i pini, ed anche gli alberi.",
-        "Score": "3.0"
-    },
-    {
-        "ID": "27",
-        "Sentence": "Amo i merli, ma non i criceti.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "340",
-        "Sentence": "Amo l' erba, ed anche i pini.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "414",
-        "Sentence": "Amo le anatre pi\u00f9 dei cani.",
-        "Score": "6.4"
-    },
-    {
-        "ID": "311",
-        "Sentence": "Amo gli animali, ed anche le querce.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "412",
-        "Sentence": "Amo le anatre pi\u00f9 dei maiali.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "266",
-        "Sentence": "Amo gli uccelli, ed anche i gatti.",
-        "Score": "6.6"
-    },
-    {
-        "ID": "515",
-        "Sentence": "Amo il pollo pi\u00f9 del caviale.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "61",
-        "Sentence": "Adoro le betulle, ma non gli animali.",
-        "Score": "3.08"
-    },
-    {
-        "ID": "74",
-        "Sentence": "Adoro i cespugli, ma non gli abeti.",
-        "Score": "4.45"
-    },
-    {
-        "ID": "246",
-        "Sentence": "Adoro le ostriche, un tipo interessante di vitello.",
-        "Score": "1.46"
-    },
-    {
-        "ID": "461",
-        "Sentence": "Amo l' erba pi\u00f9 degli abeti.",
-        "Score": "4.89"
-    },
-    {
-        "ID": "94",
-        "Sentence": "Adoro i prodotti del mare, ma non il vitello.",
-        "Score": "1.92"
-    },
-    {
-        "ID": "272",
-        "Sentence": "Amo gli uccelli, ed anche i maiali.",
-        "Score": "5.17"
-    },
-    {
-        "ID": "434",
-        "Sentence": "Amo i passeri pi\u00f9 dei cani.",
-        "Score": "5.9"
-    },
-    {
-        "ID": "187",
-        "Sentence": "Adoro gli alberi, un tipo interessante di arbusto.",
-        "Score": "2.36"
-    },
-    {
-        "ID": "278",
-        "Sentence": "Amo gli uccelli, ed anche le anatre.",
-        "Score": "4.75"
-    },
-    {
-        "ID": "369",
-        "Sentence": "Amo i granchi, ed anche il tacchino.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "280",
-        "Sentence": "Amo i criceti, ed anche le anatre.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "292",
-        "Sentence": "Amo i maiali, ed anche i merli.",
-        "Score": "5.42"
-    },
-    {
-        "ID": "416",
-        "Sentence": "Amo i merli pi\u00f9 dei gatti.",
-        "Score": "6.08"
-    },
-    {
-        "ID": "325",
-        "Sentence": "Amo le betulle, ed anche i cespugli.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "63",
-        "Sentence": "Adoro le betulle, ma non i cespugli.",
-        "Score": "3.58"
-    },
-    {
-        "ID": "228",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di tacchino.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "430",
-        "Sentence": "Amo i passeri pi\u00f9 dei criceti.",
-        "Score": "6.2"
-    },
-    {
-        "ID": "88",
-        "Sentence": "Adoro il pollo, ma non il salmone.",
-        "Score": "5.36"
-    },
-    {
-        "ID": "518",
-        "Sentence": "Amo il caviale pi\u00f9 del vitello.",
-        "Score": "5.75"
-    },
-    {
-        "ID": "396",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei pappagalli.",
-        "Score": "3.68"
-    },
-    {
-        "ID": "394",
-        "Sentence": "Amo i gatti pi\u00f9 dei pappagalli.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "206",
-        "Sentence": "Adoro gli abeti, un tipo interessante di arbusto.",
-        "Score": "3.3"
-    },
-    {
-        "ID": "77",
-        "Sentence": "Adoro i pini, ma non l' erba.",
-        "Score": "3.67"
-    },
-    {
-        "ID": "136",
-        "Sentence": "Amo i pappagalli, un tipo interessante di criceto.",
-        "Score": "1.38"
-    },
-    {
-        "ID": "126",
-        "Sentence": "Adoro il vitello, ma non il caviale.",
-        "Score": "4.33"
-    },
-    {
-        "ID": "405",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei cani.",
-        "Score": "6.46"
-    },
-    {
-        "ID": "426",
-        "Sentence": "Amo i passeri pi\u00f9 dei gatti.",
-        "Score": "5.9"
-    },
-    {
-        "ID": "267",
-        "Sentence": "Amo i pappagalli, ed anche i criceti.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "263",
-        "Sentence": "Amo i gatti, ed anche i pappagalli.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "60",
-        "Sentence": "Adoro gli alberi, ma non le betulle.",
-        "Score": "5.45"
-    },
-    {
-        "ID": "476",
-        "Sentence": "Amo i pini pi\u00f9 dei cespugli.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "109",
-        "Sentence": "Adoro i granchi, ma non il manzo.",
-        "Score": "4.0"
-    },
-    {
-        "ID": "417",
-        "Sentence": "Amo i gatti pi\u00f9 dei merli.",
-        "Score": "6.45"
-    },
-    {
-        "ID": "367",
-        "Sentence": "Amo i granchi, ed anche il vitello.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "308",
-        "Sentence": "Amo gli alberi, ed anche le querce.",
-        "Score": "4.0"
-    },
-    {
-        "ID": "17",
-        "Sentence": "Amo le anatre, ma non i criceti.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "54",
-        "Sentence": "Adoro le querce, ma non gli arbusti.",
-        "Score": "3.67"
-    },
-    {
-        "ID": "120",
-        "Sentence": "Adoro il manzo, ma non le ostriche.",
-        "Score": "4.83"
-    },
-    {
-        "ID": "444",
-        "Sentence": "Amo le querce pi\u00f9 dei cespugli.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "31",
-        "Sentence": "Amo i merli, ma non i cani.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "100",
-        "Sentence": "Adoro i prodotti del mare, ma non il manzo.",
-        "Score": "2.17"
-    },
-    {
-        "ID": "258",
-        "Sentence": "Adoro il caviale, un tipo interessante di tacchino.",
-        "Score": "1.4"
-    },
-    {
-        "ID": "79",
-        "Sentence": "Adoro i pini, ma non gli alberi.",
-        "Score": "4.0"
-    },
-    {
-        "ID": "429",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei passeri.",
-        "Score": "2.08"
-    },
-    {
-        "ID": "283",
-        "Sentence": "Amo le anatre, ed anche i cani.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "199",
-        "Sentence": "Adoro l' erba, un tipo interessante di abete.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "296",
-        "Sentence": "Amo i gatti, ed anche i passeri.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "368",
-        "Sentence": "Amo il vitello, ed anche i granchi.",
-        "Score": "5.46"
-    },
-    {
-        "ID": "236",
-        "Sentence": "Adoro i granchi, un tipo interessante di vitello.",
-        "Score": "1.36"
-    },
-    {
-        "ID": "378",
-        "Sentence": "Amo il vitello, ed anche le ostriche.",
-        "Score": "5.55"
-    },
-    {
-        "ID": "319",
-        "Sentence": "Amo le betulle, ed anche l' erba.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "139",
-        "Sentence": "Amo i pappagalli, un tipo interessante di maiale.",
-        "Score": "1.3"
-    },
-    {
-        "ID": "186",
-        "Sentence": "Adoro gli arbusti, un tipo interessante di quercia.",
-        "Score": "1.83"
-    },
-    {
-        "ID": "390",
-        "Sentence": "Amo il tacchino, ed anche il caviale.",
-        "Score": "6.42"
-    },
-    {
-        "ID": "190",
-        "Sentence": "Adoro le betulle, un tipo interessante di albero.",
-        "Score": "7.0"
-    },
-    {
-        "ID": "138",
-        "Sentence": "Amo gli uccelli, un tipo interessante di criceto.",
-        "Score": "1.3"
-    },
-    {
-        "ID": "350",
-        "Sentence": "Amo il pollo, ed anche il salmone.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "450",
-        "Sentence": "Amo le betulle pi\u00f9 dell' erba.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "132",
-        "Sentence": "Amo i gatti, un tipo interessante di pappagallo.",
-        "Score": "1.27"
-    },
-    {
-        "ID": "29",
-        "Sentence": "Amo i merli, ma non i maiali.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "361",
-        "Sentence": "Amo il manzo, ed anche il salmone.",
-        "Score": "6.2"
-    },
-    {
-        "ID": "424",
-        "Sentence": "Amo i merli pi\u00f9 dei cani.",
-        "Score": "6.5"
-    },
-    {
-        "ID": "441",
-        "Sentence": "Amo le querce pi\u00f9 degli animali.",
-        "Score": "4.7"
-    },
-    {
-        "ID": "99",
-        "Sentence": "Adoro il manzo, ma non il salmone.",
-        "Score": "5.18"
-    },
-    {
-        "ID": "276",
-        "Sentence": "Amo i gatti, ed anche le anatre.",
-        "Score": "6.2"
-    },
-    {
-        "ID": "25",
-        "Sentence": "Amo i merli, ma non gli uccelli.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "443",
-        "Sentence": "Amo gli alberi pi\u00f9 degli animali.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "271",
-        "Sentence": "Amo i maiali, ed anche i pappagalli.",
-        "Score": "5.08"
-    },
-    {
-        "ID": "133",
-        "Sentence": "Amo i pappagalli, un tipo interessante di uccello.",
-        "Score": "6.89"
-    },
-    {
-        "ID": "265",
-        "Sentence": "Amo gli uccelli, ed anche i pappagalli.",
-        "Score": "4.18"
-    },
-    {
-        "ID": "393",
-        "Sentence": "Amo i pappagalli pi\u00f9 dei gatti.",
-        "Score": "6.31"
-    },
-    {
-        "ID": "170",
-        "Sentence": "Amo i passeri, un tipo interessante di maiale.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "125",
-        "Sentence": "Adoro il caviale, ma non il vitello.",
-        "Score": "4.73"
-    },
-    {
-        "ID": "174",
-        "Sentence": "Adoro le querce, un tipo interessante di erba.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "351",
-        "Sentence": "Amo il salmone, ed anche i prodotti del mare.",
-        "Score": "4.5"
-    },
-    {
-        "ID": "388",
-        "Sentence": "Amo il vitello, ed anche il caviale.",
-        "Score": "6.17"
-    },
-    {
-        "ID": "135",
-        "Sentence": "Amo gli uccelli, un tipo interessante di gatto.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "219",
-        "Sentence": "Adoro il pollo, un tipo interessante di salmone.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "419",
-        "Sentence": "Amo gli uccelli pi\u00f9 dei merli.",
-        "Score": "2.27"
-    },
-    {
-        "ID": "175",
-        "Sentence": "Adoro l' erba, un tipo interessante di quercia.",
-        "Score": "1.25"
-    },
-    {
-        "ID": "28",
-        "Sentence": "Amo i criceti, ma non i merli.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "503",
-        "Sentence": "Amo il manzo pi\u00f9 dei granchi.",
-        "Score": "5.54"
-    },
-    {
-        "ID": "332",
-        "Sentence": "Amo gli alberi, ed anche gli abeti.",
-        "Score": "3.45"
-    },
-    {
-        "ID": "299",
-        "Sentence": "Amo i passeri, ed anche i criceti.",
-        "Score": "5.92"
-    },
-    {
-        "ID": "449",
-        "Sentence": "Amo gli alberi pi\u00f9 degli arbusti.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "323",
-        "Sentence": "Amo le betulle, ed anche gli animali.",
-        "Score": "4.17"
-    },
-    {
-        "ID": "427",
-        "Sentence": "Amo i gatti pi\u00f9 dei passeri.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "35",
-        "Sentence": "Amo i passeri, ma non gli uccelli.",
-        "Score": "3.17"
-    },
-    {
-        "ID": "508",
-        "Sentence": "Amo le ostriche pi\u00f9 del vitello.",
-        "Score": "6.36"
-    },
-    {
-        "ID": "222",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di pollo.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "315",
-        "Sentence": "Amo gli alberi, ed anche i cespugli.",
-        "Score": "5.33"
-    },
-    {
-        "ID": "316",
-        "Sentence": "Amo le querce, ed anche gli arbusti.",
-        "Score": "5.1"
-    },
-    {
-        "ID": "75",
-        "Sentence": "Adoro gli abeti, ma non gli arbusti.",
-        "Score": "4.25"
-    },
-    {
-        "ID": "357",
-        "Sentence": "Amo il salmone, ed anche il tacchino.",
-        "Score": "5.67"
-    },
-    {
-        "ID": "291",
-        "Sentence": "Amo i merli, ed anche i maiali.",
-        "Score": "5.64"
-    },
-    {
-        "ID": "226",
-        "Sentence": "Adoro il salmone, un tipo interessante di tacchino.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "330",
-        "Sentence": "Amo l' erba, ed anche gli abeti.",
-        "Score": "5.2"
-    },
-    {
-        "ID": "181",
-        "Sentence": "Adoro gli alberi, un tipo interessante di animale.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "502",
-        "Sentence": "Amo i granchi pi\u00f9 del manzo.",
-        "Score": "3.77"
-    },
-    {
-        "ID": "493",
-        "Sentence": "Amo i prodotti del mare pi\u00f9 del manzo.",
-        "Score": "6.91"
-    },
-    {
-        "ID": "202",
-        "Sentence": "Adoro gli abeti, un tipo interessante di animale.",
-        "Score": "1.42"
-    },
-    {
-        "ID": "19",
-        "Sentence": "Amo le anatre, ma non i maiali.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "110",
-        "Sentence": "Adoro il manzo, ma non i granchi.",
-        "Score": "3.5"
-    },
-    {
-        "ID": "385",
-        "Sentence": "Amo il caviale, ed anche i prodotti del mare.",
-        "Score": "5.0"
-    },
-    {
-        "ID": "415",
-        "Sentence": "Amo i cani pi\u00f9 delle anatre.",
-        "Score": "6.67"
-    },
-    {
-        "ID": "148",
-        "Sentence": "Amo le anatre, un tipo interessante di criceto.",
-        "Score": "1.31"
-    },
-    {
-        "ID": "2",
-        "Sentence": "Amo i pappagalli, ma non gli uccelli.",
-        "Score": "3.25"
-    },
-    {
-        "ID": "335",
-        "Sentence": "Amo gli abeti, ed anche i cespugli.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "197",
-        "Sentence": "Adoro gli arbusti, un tipo interessante di betulla.",
-        "Score": "1.64"
-    },
-    {
-        "ID": "95",
-        "Sentence": "Adoro il salmone, ma non il tacchino.",
-        "Score": "3.83"
-    },
-    {
-        "ID": "113",
-        "Sentence": "Adoro le ostriche, ma non i prodotti del mare.",
-        "Score": "3.64"
-    },
-    {
-        "ID": "248",
-        "Sentence": "Adoro le ostriche, un tipo interessante di tacchino.",
-        "Score": "1.33"
-    },
-    {
-        "ID": "152",
-        "Sentence": "Amo le anatre, un tipo interessante di cane.",
-        "Score": "1.42"
-    },
-    {
-        "ID": "500",
-        "Sentence": "Amo i granchi pi\u00f9 del tacchino.",
-        "Score": "6.09"
-    },
-    {
-        "ID": "185",
-        "Sentence": "Adoro le querce, un tipo interessante di arbusto.",
-        "Score": "3.42"
-    },
-    {
-        "ID": "371",
-        "Sentence": "Amo i granchi, ed anche il manzo.",
-        "Score": "5.89"
-    },
-    {
-        "ID": "122",
-        "Sentence": "Adoro il pollo, ma non il caviale.",
-        "Score": "4.91"
-    },
-    {
-        "ID": "440",
-        "Sentence": "Amo gli alberi pi\u00f9 dell' erba.",
-        "Score": "6.11"
-    },
-    {
-        "ID": "215",
-        "Sentence": "Adoro i cespugli, un tipo interessante di pino.",
-        "Score": "1.62"
-    },
-    {
-        "ID": "439",
-        "Sentence": "Amo gli alberi pi\u00f9 delle querce.",
-        "Score": "1.56"
-    },
-    {
-        "ID": "519",
-        "Sentence": "Amo il vitello pi\u00f9 del caviale.",
-        "Score": "6.33"
-    },
-    {
-        "ID": "310",
-        "Sentence": "Amo le querce, ed anche gli animali.",
-        "Score": "6.56"
-    },
-    {
-        "ID": "401",
-        "Sentence": "Amo i pappagalli pi\u00f9 dei maiali.",
-        "Score": "5.7"
-    },
-    {
-        "ID": "89",
-        "Sentence": "Adoro il salmone, ma non i prodotti del mare.",
-        "Score": "3.25"
-    },
-    {
-        "ID": "124",
-        "Sentence": "Adoro i prodotti del mare, ma non il caviale.",
-        "Score": "6.64"
-    },
-    {
-        "ID": "141",
-        "Sentence": "Amo gli uccelli, un tipo interessante di maiale.",
-        "Score": "1.59"
-    },
-    {
-        "ID": "6",
-        "Sentence": "Amo i criceti, ma non i pappagalli.",
-        "Score": "4.67"
-    },
-    {
-        "ID": "166",
-        "Sentence": "Amo i passeri, un tipo interessante di uccello.",
-        "Score": "6.78"
-    },
-    {
-        "ID": "372",
-        "Sentence": "Amo il manzo, ed anche i granchi.",
-        "Score": "4.58"
-    },
-    {
-        "ID": "102",
-        "Sentence": "Adoro il pollo, ma non i granchi.",
-        "Score": "4.33"
-    },
-    {
-        "ID": "62",
-        "Sentence": "Adoro gli animali, ma non le betulle.",
-        "Score": "1.45"
-    },
-    {
-        "ID": "55",
-        "Sentence": "Adoro gli arbusti, ma non le querce.",
-        "Score": "5.25"
-    },
-    {
-        "ID": "217",
-        "Sentence": "Adoro gli arbusti, un tipo interessante di pino.",
-        "Score": "1.92"
-    },
-    {
-        "ID": "243",
-        "Sentence": "Adoro il pollo, un tipo interessante di ostriche.",
-        "Score": "1.64"
-    },
-    {
-        "ID": "167",
-        "Sentence": "Amo gli uccelli, un tipo interessante di passero.",
-        "Score": "1.67"
-    },
-    {
-        "ID": "221",
-        "Sentence": "Adoro i prodotti del mare, un tipo interessante di salmone.",
-        "Score": "1.17"
-    },
-    {
-        "ID": "171",
-        "Sentence": "Amo i maiali, un tipo interessante di passero.",
-        "Score": "1.0"
-    },
-    {
-        "ID": "204",
-        "Sentence": "Adoro gli abeti, un tipo interessante di cespuglio.",
-        "Score": "1.18"
-    },
-    {
-        "ID": "183",
-        "Sentence": "Adoro i cespugli, un tipo interessante di quercia.",
-        "Score": "1.42"
-    },
-    {
-        "ID": "370",
-        "Sentence": "Amo il tacchino, ed anche i granchi.",
-        "Score": "6.0"
-    },
-    {
-        "ID": "453",
-        "Sentence": "Amo gli alberi pi\u00f9 delle betulle.",
-        "Score": "2.22"
-    },
-    {
-        "ID": "288",
-        "Sentence": "Amo gli uccelli, ed anche i merli.",
-        "Score": "3.55"
-    },
-    {
-        "ID": "386",
-        "Sentence": "Amo i prodotti del mare, ed anche il caviale.",
-        "Score": "5.08"
-    },
-    {
-        "ID": "379",
-        "Sentence": "Amo le ostriche, ed anche il tacchino.",
-        "Score": "5.64"
-    }
+  {
+    "id": 73,
+    "text": "Adoro gli abeti, ma non i cespugli.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 106,
+    "text": "Adoro il vitello, ma non i granchi.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 203,
+    "text": "Adoro gli animali, un tipo interessante di abete.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 466,
+    "text": "Amo gli abeti pi\u00f9 dei cespugli.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 137,
+    "text": "Amo i criceti, un tipo interessante di pappagallo.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 490,
+    "text": "Amo i prodotti del mare pi\u00f9 del tacchino.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 32,
+    "text": "Amo i cani, ma non i merli.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 418,
+    "text": "Amo i merli pi\u00f9 degli uccelli.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 410,
+    "text": "Amo le anatre pi\u00f9 dei criceti.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 326,
+    "text": "Amo i cespugli, ed anche le betulle.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 358,
+    "text": "Amo il tacchino, ed anche il salmone.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 240,
+    "text": "Adoro i granchi, un tipo interessante di manzo.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 297,
+    "text": "Amo i passeri, ed anche gli uccelli.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 261,
+    "text": "Adoro il manzo, un tipo interessante di caviale.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 313,
+    "text": "Amo le querce, ed anche i cespugli.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 437,
+    "text": "Amo l' erba pi\u00f9 delle querce.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 422,
+    "text": "Amo i merli pi\u00f9 dei maiali.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 334,
+    "text": "Amo gli animali, ed anche gli abeti.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 359,
+    "text": "Amo i prodotti del mare, ed anche il tacchino.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 40,
+    "text": "Amo i maiali, ma non i passeri.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 318,
+    "text": "Amo gli alberi, ed anche gli arbusti.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 0,
+    "text": "Amo i pappagalli, ma non i gatti.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 452,
+    "text": "Amo le betulle pi\u00f9 degli alberi.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 339,
+    "text": "Amo i pini, ed anche l' erba.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 165,
+    "text": "Amo i gatti, un tipo interessante di passero.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 420,
+    "text": "Amo i merli pi\u00f9 dei criceti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 425,
+    "text": "Amo i cani pi\u00f9 dei merli.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 362,
+    "text": "Amo i prodotti del mare, ed anche il manzo.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 159,
+    "text": "Amo i criceti, un tipo interessante di merlo.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 238,
+    "text": "Adoro i granchi, un tipo interessante di tacchino.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 342,
+    "text": "Amo gli alberi, ed anche i pini.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 277,
+    "text": "Amo le anatre, ed anche gli uccelli.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 211,
+    "text": "Adoro gli alberi, un tipo interessante di pino.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 123,
+    "text": "Adoro il caviale, ma non i prodotti del mare.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 49,
+    "text": "Adoro gli animali, ma non le querce.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 158,
+    "text": "Amo i merli, un tipo interessante di criceto.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 156,
+    "text": "Amo i merli, un tipo interessante di uccello.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 282,
+    "text": "Amo i maiali, ed anche le anatre.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 290,
+    "text": "Amo i criceti, ed anche i merli.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 150,
+    "text": "Amo le anatre, un tipo interessante di maiale.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 179,
+    "text": "Adoro le querce, un tipo interessante di animale.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 149,
+    "text": "Amo i criceti, un tipo interessante di anatra.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 14,
+    "text": "Amo i gatti, ma non le anatre.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 312,
+    "text": "Amo gli alberi, ed anche gli animali.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 522,
+    "text": "Amo il caviale pi\u00f9 del manzo.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 216,
+    "text": "Adoro i pini, un tipo interessante di arbusto.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 157,
+    "text": "Amo gli uccelli, un tipo interessante di merlo.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 317,
+    "text": "Amo gli arbusti, ed anche le querce.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 144,
+    "text": "Amo le anatre, un tipo interessante di gatto.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 281,
+    "text": "Amo le anatre, ed anche i maiali.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 10,
+    "text": "Amo gli uccelli, ma non i maiali.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 477,
+    "text": "Amo i cespugli pi\u00f9 dei pini.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 300,
+    "text": "Amo i criceti, ed anche i passeri.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 463,
+    "text": "Amo gli alberi pi\u00f9 degli abeti.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 39,
+    "text": "Amo i passeri, ma non i maiali.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 451,
+    "text": "Amo l' erba pi\u00f9 delle betulle.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 462,
+    "text": "Amo gli abeti pi\u00f9 degli alberi.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 464,
+    "text": "Amo gli abeti pi\u00f9 degli animali.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 180,
+    "text": "Adoro gli animali, un tipo interessante di quercia.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 177,
+    "text": "Adoro gli alberi, un tipo interessante di quercia.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 516,
+    "text": "Amo il caviale pi\u00f9 dei prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 184,
+    "text": "Adoro gli alberi, un tipo interessante di cespuglio.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 232,
+    "text": "Adoro i granchi, un tipo interessante di pollo.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 58,
+    "text": "Adoro l' erba, ma non le betulle.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 498,
+    "text": "Amo i granchi pi\u00f9 del vitello.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 471,
+    "text": "Amo l' erba pi\u00f9 dei pini.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 365,
+    "text": "Amo i granchi, ed anche i prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 407,
+    "text": "Amo i gatti pi\u00f9 delle anatre.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 8,
+    "text": "Amo i pappagalli, ma non i maiali.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 195,
+    "text": "Adoro i cespugli, un tipo interessante di betulla.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 182,
+    "text": "Adoro le querce, un tipo interessante di cespuglio.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 169,
+    "text": "Amo i criceti, un tipo interessante di passero.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 275,
+    "text": "Amo le anatre, ed anche i gatti.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 285,
+    "text": "Amo i merli, ed anche i gatti.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 205,
+    "text": "Adoro i cespugli, un tipo interessante di abete.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 289,
+    "text": "Amo i merli, ed anche i criceti.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 514,
+    "text": "Amo il caviale pi\u00f9 del pollo.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 51,
+    "text": "Adoro le querce, ma non i cespugli.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 465,
+    "text": "Amo gli animali pi\u00f9 degli abeti.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 406,
+    "text": "Amo le anatre pi\u00f9 dei gatti.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 20,
+    "text": "Amo i maiali, ma non le anatre.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 428,
+    "text": "Amo i passeri pi\u00f9 degli uccelli.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 194,
+    "text": "Adoro le betulle, un tipo interessante di cespuglio.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 223,
+    "text": "Adoro il salmone, un tipo interessante di vitello.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 322,
+    "text": "Amo gli alberi, ed anche le betulle.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 250,
+    "text": "Adoro le ostriche, un tipo interessante di manzo.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 356,
+    "text": "Amo i prodotti del mare, ed anche il vitello.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 42,
+    "text": "Amo i cani, ma non i passeri.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 154,
+    "text": "Amo i merli, un tipo interessante di gatto.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 511,
+    "text": "Amo il tacchino pi\u00f9 delle ostriche.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 116,
+    "text": "Adoro il vitello, ma non le ostriche.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 268,
+    "text": "Amo i criceti, ed anche i pappagalli.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 91,
+    "text": "Adoro i prodotti del mare, ma non il pollo.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 189,
+    "text": "Adoro l' erba, un tipo interessante di betulla.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 56,
+    "text": "Adoro gli alberi, ma non gli arbusti.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 512,
+    "text": "Amo le ostriche pi\u00f9 del manzo.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 130,
+    "text": "Adoro il manzo, ma non il caviale.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 1,
+    "text": "Amo i gatti, ma non i pappagalli.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 7,
+    "text": "Amo gli uccelli, ma non i criceti.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 233,
+    "text": "Adoro il pollo, un tipo interessante di granchi.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 391,
+    "text": "Amo il caviale, ed anche il manzo.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 214,
+    "text": "Adoro i pini, un tipo interessante di cespuglio.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 5,
+    "text": "Amo i pappagalli, ma non i criceti.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 347,
+    "text": "Amo i pini, ed anche gli arbusti.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 164,
+    "text": "Amo i passeri, un tipo interessante di gatto.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 257,
+    "text": "Adoro il vitello, un tipo interessante di caviale.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 497,
+    "text": "Amo i prodotti del mare pi\u00f9 dei granchi.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 249,
+    "text": "Adoro il tacchino, un tipo interessante di ostriche.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 337,
+    "text": "Amo gli abeti, ed anche gli arbusti.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 338,
+    "text": "Amo gli arbusti, ed anche gli abeti.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 395,
+    "text": "Amo i pappagalli pi\u00f9 degli uccelli.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 421,
+    "text": "Amo i criceti pi\u00f9 dei merli.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 474,
+    "text": "Amo i pini pi\u00f9 degli animali.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 327,
+    "text": "Amo le betulle, ed anche gli arbusti.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 400,
+    "text": "Amo gli uccelli pi\u00f9 dei criceti.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 445,
+    "text": "Amo i cespugli pi\u00f9 delle querce.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 295,
+    "text": "Amo i passeri, ed anche i gatti.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 218,
+    "text": "Adoro il salmone, un tipo interessante di pollo.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 96,
+    "text": "Adoro il tacchino, ma non il salmone.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 459,
+    "text": "Amo gli arbusti pi\u00f9 delle betulle.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 251,
+    "text": "Adoro il manzo, un tipo interessante di ostriche.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 237,
+    "text": "Adoro il vitello, un tipo interessante di granchi.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 104,
+    "text": "Adoro i prodotti del mare, ma non i granchi.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 472,
+    "text": "Amo i pini pi\u00f9 degli alberi.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 230,
+    "text": "Adoro il manzo, un tipo interessante di salmone.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 262,
+    "text": "Amo i pappagalli, ed anche i gatti.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 293,
+    "text": "Amo i merli, ed anche i cani.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 155,
+    "text": "Amo i gatti, un tipo interessante di merlo.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 269,
+    "text": "Amo gli uccelli, ed anche i criceti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 348,
+    "text": "Amo gli arbusti, ed anche i pini.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 456,
+    "text": "Amo le betulle pi\u00f9 dei cespugli.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 446,
+    "text": "Amo gli alberi pi\u00f9 dei cespugli.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 436,
+    "text": "Amo le querce pi\u00f9 dell' erba.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 151,
+    "text": "Amo i maiali, un tipo interessante di anatra.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 485,
+    "text": "Amo il salmone pi\u00f9 del vitello.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 320,
+    "text": "Amo l' erba, ed anche le betulle.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 253,
+    "text": "Adoro il pollo, un tipo interessante di caviale.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 344,
+    "text": "Amo gli animali, ed anche i pini.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 101,
+    "text": "Adoro i granchi, ma non il pollo.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 520,
+    "text": "Amo il caviale pi\u00f9 del tacchino.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 192,
+    "text": "Adoro le betulle, un tipo interessante di animale.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 331,
+    "text": "Amo gli abeti, ed anche gli alberi.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 438,
+    "text": "Amo le querce pi\u00f9 degli alberi.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 70,
+    "text": "Adoro gli alberi, ma non gli abeti.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 384,
+    "text": "Amo il pollo, ed anche il caviale.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 470,
+    "text": "Amo i pini pi\u00f9 dell' erba.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 481,
+    "text": "Amo il pollo pi\u00f9 del salmone.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 309,
+    "text": "Amo gli alberi, ed anche l' erba.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 397,
+    "text": "Amo gli uccelli pi\u00f9 dei gatti.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 66,
+    "text": "Adoro gli arbusti, ma non le betulle.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 254,
+    "text": "Adoro il caviale, un tipo interessante di prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 146,
+    "text": "Amo le anatre, un tipo interessante di uccello.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 505,
+    "text": "Amo il pollo pi\u00f9 delle ostriche.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 82,
+    "text": "Adoro gli animali, ma non i pini.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 3
+  },
+  {
+    "id": 355,
+    "text": "Amo il vitello, ed anche il salmone.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 172,
+    "text": "Amo i passeri, un tipo interessante di cane.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 468,
+    "text": "Amo gli abeti pi\u00f9 degli arbusti.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 244,
+    "text": "Adoro le ostriche, un tipo interessante di prodotti del mare.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 509,
+    "text": "Amo il vitello pi\u00f9 delle ostriche.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 328,
+    "text": "Amo gli arbusti, ed anche le betulle.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 209,
+    "text": "Adoro l' erba, un tipo interessante di pino.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 147,
+    "text": "Amo gli uccelli, un tipo interessante di anatra.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 409,
+    "text": "Amo gli uccelli pi\u00f9 delle anatre.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 208,
+    "text": "Adoro i pini, un tipo interessante di erba.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 213,
+    "text": "Adoro gli animali, un tipo interessante di pino.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 345,
+    "text": "Amo i pini, ed anche i cespugli.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 486,
+    "text": "Amo il vitello pi\u00f9 del salmone.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 47,
+    "text": "Adoro gli alberi, ma non l' erba.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 67,
+    "text": "Adoro gli abeti, ma non l' erba.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 33,
+    "text": "Amo i passeri, ma non i gatti.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 521,
+    "text": "Amo il tacchino pi\u00f9 del caviale.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 494,
+    "text": "Amo i granchi pi\u00f9 del pollo.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 134,
+    "text": "Amo gli uccelli, un tipo interessante di pappagallo.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 38,
+    "text": "Amo i criceti, ma non i passeri.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 188,
+    "text": "Adoro le betulle, un tipo interessante di erba.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 336,
+    "text": "Amo i cespugli, ed anche gli abeti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 85,
+    "text": "Adoro i pini, ma non gli arbusti.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 234,
+    "text": "Adoro i granchi, un tipo interessante di prodotti del mare.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 168,
+    "text": "Amo i passeri, un tipo interessante di criceto.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 107,
+    "text": "Adoro i granchi, ma non il tacchino.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 160,
+    "text": "Amo i merli, un tipo interessante di maiale.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 41,
+    "text": "Amo i passeri, ma non i cani.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 78,
+    "text": "Adoro l' erba, ma non i pini.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 176,
+    "text": "Adoro le querce, un tipo interessante di albero.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 227,
+    "text": "Adoro il tacchino, un tipo interessante di salmone.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 173,
+    "text": "Amo i cani, un tipo interessante di passero.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 442,
+    "text": "Amo gli animali pi\u00f9 delle querce.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 103,
+    "text": "Adoro i granchi, ma non i prodotti del mare.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 18,
+    "text": "Amo i criceti, ma non le anatre.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 93,
+    "text": "Adoro il vitello, ma non il salmone.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 129,
+    "text": "Adoro il caviale, ma non il manzo.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 86,
+    "text": "Adoro gli arbusti, ma non i pini.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 435,
+    "text": "Amo i cani pi\u00f9 dei passeri.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 377,
+    "text": "Amo le ostriche, ed anche il vitello.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 12,
+    "text": "Amo gli uccelli, ma non i cani.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 15,
+    "text": "Amo le anatre, ma non gli uccelli.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 162,
+    "text": "Amo i merli, un tipo interessante di cane.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 69,
+    "text": "Adoro gli abeti, ma non gli alberi.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 121,
+    "text": "Adoro il caviale, ma non il pollo.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 343,
+    "text": "Amo i pini, ed anche gli animali.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 201,
+    "text": "Adoro gli alberi, un tipo interessante di abete.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 118,
+    "text": "Adoro il tacchino, ma non le ostriche.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 279,
+    "text": "Amo le anatre, ed anche i criceti.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 478,
+    "text": "Amo i pini pi\u00f9 degli arbusti.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 270,
+    "text": "Amo i pappagalli, ed anche i maiali.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 140,
+    "text": "Amo i maiali, un tipo interessante di pappagallo.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 52,
+    "text": "Adoro i cespugli, ma non le querce.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 37,
+    "text": "Amo i passeri, ma non i criceti.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 403,
+    "text": "Amo gli uccelli pi\u00f9 dei maiali.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 504,
+    "text": "Amo le ostriche pi\u00f9 del pollo.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 115,
+    "text": "Adoro le ostriche, ma non il vitello.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 87,
+    "text": "Adoro il salmone, ma non il pollo.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 255,
+    "text": "Adoro i prodotti del mare, un tipo interessante di caviale.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 112,
+    "text": "Adoro il pollo, ma non le ostriche.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 491,
+    "text": "Amo il salmone pi\u00f9 del manzo.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 404,
+    "text": "Amo i pappagalli pi\u00f9 dei cani.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 16,
+    "text": "Amo gli uccelli, ma non le anatre.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 398,
+    "text": "Amo i pappagalli pi\u00f9 dei criceti.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 92,
+    "text": "Adoro il salmone, ma non il vitello.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 314,
+    "text": "Amo i cespugli, ed anche le querce.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 423,
+    "text": "Amo i maiali pi\u00f9 dei merli.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 114,
+    "text": "Adoro i prodotti del mare, ma non le ostriche.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 302,
+    "text": "Amo i maiali, ed anche i passeri.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 4,
+    "text": "Amo gli uccelli, ma non i gatti.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 460,
+    "text": "Amo gli abeti pi\u00f9 dell' erba.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 90,
+    "text": "Adoro i prodotti del mare, ma non il salmone.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 46,
+    "text": "Adoro gli alberi, ma non le querce.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 475,
+    "text": "Amo gli animali pi\u00f9 dei pini.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 499,
+    "text": "Amo il vitello pi\u00f9 dei granchi.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 72,
+    "text": "Adoro gli animali, ma non gli abeti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 523,
+    "text": "Amo il manzo pi\u00f9 del caviale.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 306,
+    "text": "Amo l' erba, ed anche le querce.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 457,
+    "text": "Amo i cespugli pi\u00f9 delle betulle.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 496,
+    "text": "Amo i granchi pi\u00f9 dei prodotti del mare.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 200,
+    "text": "Adoro gli abeti, un tipo interessante di albero.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 64,
+    "text": "Adoro i cespugli, ma non le betulle.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 298,
+    "text": "Amo gli uccelli, ed anche i passeri.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 387,
+    "text": "Amo il caviale, ed anche il vitello.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 304,
+    "text": "Amo i cani, ed anche i passeri.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 242,
+    "text": "Adoro le ostriche, un tipo interessante di pollo.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 492,
+    "text": "Amo il manzo pi\u00f9 del salmone.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 231,
+    "text": "Adoro i prodotti del mare, un tipo interessante di manzo.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 163,
+    "text": "Amo i cani, un tipo interessante di merlo.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 239,
+    "text": "Adoro il tacchino, un tipo interessante di granchi.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 373,
+    "text": "Amo le ostriche, ed anche il pollo.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 178,
+    "text": "Adoro gli alberi, un tipo interessante di erba.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 389,
+    "text": "Amo il caviale, ed anche il tacchino.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 473,
+    "text": "Amo gli alberi pi\u00f9 dei pini.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 483,
+    "text": "Amo i prodotti del mare pi\u00f9 del salmone.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 127,
+    "text": "Adoro il caviale, ma non il tacchino.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 71,
+    "text": "Adoro gli abeti, ma non gli animali.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 59,
+    "text": "Adoro le betulle, ma non gli alberi.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 50,
+    "text": "Adoro gli alberi, ma non gli animali.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 224,
+    "text": "Adoro il vitello, un tipo interessante di salmone.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 53,
+    "text": "Adoro gli alberi, ma non i cespugli.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 354,
+    "text": "Amo il salmone, ed anche il vitello.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 501,
+    "text": "Amo il tacchino pi\u00f9 dei granchi.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 364,
+    "text": "Amo il pollo, ed anche i granchi.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 321,
+    "text": "Amo le betulle, ed anche gli alberi.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 448,
+    "text": "Amo gli arbusti pi\u00f9 delle querce.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 381,
+    "text": "Amo le ostriche, ed anche il manzo.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 23,
+    "text": "Amo i merli, ma non i gatti.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 21,
+    "text": "Amo le anatre, ma non i cani.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 191,
+    "text": "Adoro gli alberi, un tipo interessante di betulla.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 83,
+    "text": "Adoro i pini, ma non i cespugli.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 259,
+    "text": "Adoro il tacchino, un tipo interessante di caviale.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 352,
+    "text": "Amo i prodotti del mare, ed anche il salmone.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 142,
+    "text": "Amo i pappagalli, un tipo interessante di cane.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 34,
+    "text": "Amo i gatti, ma non i passeri.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 119,
+    "text": "Adoro le ostriche, ma non il manzo.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 360,
+    "text": "Amo il salmone, ed anche il manzo.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 402,
+    "text": "Amo i maiali pi\u00f9 dei pappagalli.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 252,
+    "text": "Adoro il caviale, un tipo interessante di pollo.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 303,
+    "text": "Amo i passeri, ed anche i cani.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 286,
+    "text": "Amo i gatti, ed anche i merli.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 517,
+    "text": "Amo i prodotti del mare pi\u00f9 del caviale.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 225,
+    "text": "Adoro i prodotti del mare, un tipo interessante di vitello.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 117,
+    "text": "Adoro le ostriche, ma non il tacchino.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 26,
+    "text": "Amo gli uccelli, ma non i merli.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 433,
+    "text": "Amo i maiali pi\u00f9 dei passeri.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 363,
+    "text": "Amo i granchi, ed anche il pollo.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 513,
+    "text": "Amo il manzo pi\u00f9 delle ostriche.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 353,
+    "text": "Amo i prodotti del mare, ed anche il pollo.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 44,
+    "text": "Adoro l' erba, ma non le querce.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 260,
+    "text": "Adoro il caviale, un tipo interessante di manzo.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 3,
+    "text": "Amo gli uccelli, ma non i pappagalli.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 382,
+    "text": "Amo il manzo, ed anche le ostriche.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 349,
+    "text": "Amo il salmone, ed anche il pollo.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 97,
+    "text": "Adoro i prodotti del mare, ma non il tacchino.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 247,
+    "text": "Adoro il vitello, un tipo interessante di ostriche.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 241,
+    "text": "Adoro il manzo, un tipo interessante di granchi.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 57,
+    "text": "Adoro le betulle, ma non l' erba.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 13,
+    "text": "Amo le anatre, ma non i gatti.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 264,
+    "text": "Amo i pappagalli, ed anche gli uccelli.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 30,
+    "text": "Amo i maiali, ma non i merli.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 65,
+    "text": "Adoro le betulle, ma non gli arbusti.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 399,
+    "text": "Amo i criceti pi\u00f9 dei pappagalli.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 111,
+    "text": "Adoro le ostriche, ma non il pollo.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 506,
+    "text": "Amo le ostriche pi\u00f9 dei prodotti del mare.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 128,
+    "text": "Adoro il tacchino, ma non il caviale.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 108,
+    "text": "Adoro il tacchino, ma non i granchi.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 454,
+    "text": "Amo le betulle pi\u00f9 degli animali.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 235,
+    "text": "Adoro i prodotti del mare, un tipo interessante di granchio.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 324,
+    "text": "Amo gli animali, ed anche le betulle.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 76,
+    "text": "Adoro gli arbusti, ma non gli abeti.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 484,
+    "text": "Amo i prodotti del mare pi\u00f9 del pollo.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 467,
+    "text": "Amo i cespugli pi\u00f9 degli abeti.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 294,
+    "text": "Amo i cani, ed anche i merli.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 84,
+    "text": "Adoro i cespugli, ma non i pini.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 376,
+    "text": "Amo i prodotti del mare, ed anche le ostriche.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 383,
+    "text": "Amo il caviale, ed anche il pollo.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 447,
+    "text": "Amo le querce pi\u00f9 degli arbusti.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 495,
+    "text": "Amo il pollo pi\u00f9 dei granchi.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 193,
+    "text": "Adoro gli animali, un tipo interessante di betulla.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 329,
+    "text": "Amo gli abeti, ed anche l' erba.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 333,
+    "text": "Amo gli abeti, ed anche gli animali.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 153,
+    "text": "Amo i cani, un tipo interessante di anatra.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 245,
+    "text": "Adoro i prodotti del mare, un tipo interessante di ostrica.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 198,
+    "text": "Adoro gli abeti, un tipo interessante di erba.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 212,
+    "text": "Adoro i pini, un tipo interessante di animale.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 305,
+    "text": "Amo le querce, ed anche l' erba.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 507,
+    "text": "Amo i prodotti del mare pi\u00f9 delle ostriche.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 413,
+    "text": "Amo i maiali pi\u00f9 delle anatre.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 432,
+    "text": "Amo i passeri pi\u00f9 dei maiali.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 48,
+    "text": "Adoro le querce, ma non gli animali.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 458,
+    "text": "Amo le betulle pi\u00f9 degli arbusti.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 408,
+    "text": "Amo le anatre pi\u00f9 degli uccelli.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 374,
+    "text": "Amo il pollo, ed anche le ostriche.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 11,
+    "text": "Amo i pappagalli, ma non i cani.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 510,
+    "text": "Amo le ostriche pi\u00f9 del tacchino.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 469,
+    "text": "Amo gli arbusti pi\u00f9 degli abeti.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 131,
+    "text": "Amo i pappagalli, un tipo interessante di gatto.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 392,
+    "text": "Amo il manzo, ed anche il caviale.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 489,
+    "text": "Amo il tacchino pi\u00f9 del salmone.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 80,
+    "text": "Adoro gli alberi, ma non i pini.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 36,
+    "text": "Amo gli uccelli, ma non i passeri.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 482,
+    "text": "Amo il salmone pi\u00f9 dei prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 9,
+    "text": "Amo i maiali, ma non i pappagalli.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 431,
+    "text": "Amo i criceti pi\u00f9 dei passeri.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 68,
+    "text": "Adoro l' erba, ma non gli abeti.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 145,
+    "text": "Amo i gatti, un tipo interessante di anatra.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 366,
+    "text": "Amo i prodotti del mare, ed anche i granchi.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 220,
+    "text": "Adoro il salmone, un tipo interessante di prodotti del mare.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 274,
+    "text": "Amo gli uccelli, ed anche i cani.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 455,
+    "text": "Amo gli animali pi\u00f9 delle betulle.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 287,
+    "text": "Amo i merli, ed anche gli uccelli.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 43,
+    "text": "Adoro le querce, ma non l' erba.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 375,
+    "text": "Amo le ostriche, ed anche i prodotti del mare.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 207,
+    "text": "Adoro gli arbusti, un tipo interessante di abete.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 161,
+    "text": "Amo i maiali, un tipo interessante di merlo.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 488,
+    "text": "Amo il salmone pi\u00f9 del tacchino.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 346,
+    "text": "Amo i cespugli, ed anche i pini.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 196,
+    "text": "Adoro le betulle, un tipo interessante di arbusto.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 210,
+    "text": "Adoro i pini, un tipo interessante di albero.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 487,
+    "text": "Amo i prodotti del mare pi\u00f9 del vitello.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 81,
+    "text": "Adoro i pini, ma non gli animali.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 229,
+    "text": "Adoro il salmone, un tipo interessante di manzo.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 380,
+    "text": "Amo il tacchino, ed anche le ostriche.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 24,
+    "text": "Amo i gatti, ma non i merli.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 143,
+    "text": "Amo gli uccelli, un tipo interessante di cane.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 256,
+    "text": "Adoro il caviale, un tipo interessante di vitello.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 45,
+    "text": "Adoro le querce, ma non gli alberi.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 105,
+    "text": "Adoro i granchi, ma non il vitello.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 480,
+    "text": "Amo il salmone pi\u00f9 del pollo.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 411,
+    "text": "Amo i criceti pi\u00f9 delle anatre.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 307,
+    "text": "Amo le querce, ed anche gli alberi.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 284,
+    "text": "Amo i cani, ed anche le anatre.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 98,
+    "text": "Adoro il salmone, ma non il manzo.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 22,
+    "text": "Amo i cani, ma non le anatre.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 273,
+    "text": "Amo i pappagalli, ed anche i cani.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 301,
+    "text": "Amo i passeri, ed anche i maiali.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 479,
+    "text": "Amo gli arbusti pi\u00f9 dei pini.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 341,
+    "text": "Amo i pini, ed anche gli alberi.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 27,
+    "text": "Amo i merli, ma non i criceti.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 340,
+    "text": "Amo l' erba, ed anche i pini.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 414,
+    "text": "Amo le anatre pi\u00f9 dei cani.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 311,
+    "text": "Amo gli animali, ed anche le querce.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 412,
+    "text": "Amo le anatre pi\u00f9 dei maiali.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 266,
+    "text": "Amo gli uccelli, ed anche i gatti.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 515,
+    "text": "Amo il pollo pi\u00f9 del caviale.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 61,
+    "text": "Adoro le betulle, ma non gli animali.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 74,
+    "text": "Adoro i cespugli, ma non gli abeti.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 246,
+    "text": "Adoro le ostriche, un tipo interessante di vitello.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 461,
+    "text": "Amo l' erba pi\u00f9 degli abeti.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 94,
+    "text": "Adoro i prodotti del mare, ma non il vitello.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 272,
+    "text": "Amo gli uccelli, ed anche i maiali.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 434,
+    "text": "Amo i passeri pi\u00f9 dei cani.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 187,
+    "text": "Adoro gli alberi, un tipo interessante di arbusto.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 278,
+    "text": "Amo gli uccelli, ed anche le anatre.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 369,
+    "text": "Amo i granchi, ed anche il tacchino.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 280,
+    "text": "Amo i criceti, ed anche le anatre.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 292,
+    "text": "Amo i maiali, ed anche i merli.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 416,
+    "text": "Amo i merli pi\u00f9 dei gatti.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 325,
+    "text": "Amo le betulle, ed anche i cespugli.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 63,
+    "text": "Adoro le betulle, ma non i cespugli.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 228,
+    "text": "Adoro i prodotti del mare, un tipo interessante di tacchino.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 430,
+    "text": "Amo i passeri pi\u00f9 dei criceti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 88,
+    "text": "Adoro il pollo, ma non il salmone.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 518,
+    "text": "Amo il caviale pi\u00f9 del vitello.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Scarso",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 396,
+    "text": "Amo gli uccelli pi\u00f9 dei pappagalli.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 394,
+    "text": "Amo i gatti pi\u00f9 dei pappagalli.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 206,
+    "text": "Adoro gli abeti, un tipo interessante di arbusto.",
+    "choices": [
+      "Sufficiente",
+      "Pessimo",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 77,
+    "text": "Adoro i pini, ma non l' erba.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 136,
+    "text": "Amo i pappagalli, un tipo interessante di criceto.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 126,
+    "text": "Adoro il vitello, ma non il caviale.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 405,
+    "text": "Amo gli uccelli pi\u00f9 dei cani.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 426,
+    "text": "Amo i passeri pi\u00f9 dei gatti.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 267,
+    "text": "Amo i pappagalli, ed anche i criceti.",
+    "choices": [
+      "Pessimo",
+      "Scarso",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 263,
+    "text": "Amo i gatti, ed anche i pappagalli.",
+    "choices": [
+      "Buono",
+      "Molto buono",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 60,
+    "text": "Adoro gli alberi, ma non le betulle.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 476,
+    "text": "Amo i pini pi\u00f9 dei cespugli.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 109,
+    "text": "Adoro i granchi, ma non il manzo.",
+    "choices": [
+      "Molto buono",
+      "Eccellente",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 417,
+    "text": "Amo i gatti pi\u00f9 dei merli.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 367,
+    "text": "Amo i granchi, ed anche il vitello.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 308,
+    "text": "Amo gli alberi, ed anche le querce.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 17,
+    "text": "Amo le anatre, ma non i criceti.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Eccellente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 54,
+    "text": "Adoro le querce, ma non gli arbusti.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 120,
+    "text": "Adoro il manzo, ma non le ostriche.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 444,
+    "text": "Amo le querce pi\u00f9 dei cespugli.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 31,
+    "text": "Amo i merli, ma non i cani.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 100,
+    "text": "Adoro i prodotti del mare, ma non il manzo.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 258,
+    "text": "Adoro il caviale, un tipo interessante di tacchino.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 79,
+    "text": "Adoro i pini, ma non gli alberi.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 429,
+    "text": "Amo gli uccelli pi\u00f9 dei passeri.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 3
+  },
+  {
+    "id": 283,
+    "text": "Amo le anatre, ed anche i cani.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 199,
+    "text": "Adoro l' erba, un tipo interessante di abete.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 296,
+    "text": "Amo i gatti, ed anche i passeri.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 368,
+    "text": "Amo il vitello, ed anche i granchi.",
+    "choices": [
+      "Molto buono",
+      "Buono",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 236,
+    "text": "Adoro i granchi, un tipo interessante di vitello.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 378,
+    "text": "Amo il vitello, ed anche le ostriche.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 319,
+    "text": "Amo le betulle, ed anche l' erba.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 139,
+    "text": "Amo i pappagalli, un tipo interessante di maiale.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 186,
+    "text": "Adoro gli arbusti, un tipo interessante di quercia.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 390,
+    "text": "Amo il tacchino, ed anche il caviale.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 190,
+    "text": "Adoro le betulle, un tipo interessante di albero.",
+    "choices": [
+      "Buono",
+      "Eccellente",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 138,
+    "text": "Amo gli uccelli, un tipo interessante di criceto.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 350,
+    "text": "Amo il pollo, ed anche il salmone.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 0
+  },
+  {
+    "id": 450,
+    "text": "Amo le betulle pi\u00f9 dell' erba.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 132,
+    "text": "Amo i gatti, un tipo interessante di pappagallo.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 29,
+    "text": "Amo i merli, ma non i maiali.",
+    "choices": [
+      "Ottimo",
+      "Pessimo",
+      "Eccellente",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 361,
+    "text": "Amo il manzo, ed anche il salmone.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 424,
+    "text": "Amo i merli pi\u00f9 dei cani.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 441,
+    "text": "Amo le querce pi\u00f9 degli animali.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 99,
+    "text": "Adoro il manzo, ma non il salmone.",
+    "choices": [
+      "Ottimo",
+      "Sufficiente",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 276,
+    "text": "Amo i gatti, ed anche le anatre.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 25,
+    "text": "Amo i merli, ma non gli uccelli.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 443,
+    "text": "Amo gli alberi pi\u00f9 degli animali.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 271,
+    "text": "Amo i maiali, ed anche i pappagalli.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Ottimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 133,
+    "text": "Amo i pappagalli, un tipo interessante di uccello.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 265,
+    "text": "Amo gli uccelli, ed anche i pappagalli.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 393,
+    "text": "Amo i pappagalli pi\u00f9 dei gatti.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 170,
+    "text": "Amo i passeri, un tipo interessante di maiale.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 125,
+    "text": "Adoro il caviale, ma non il vitello.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 174,
+    "text": "Adoro le querce, un tipo interessante di erba.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 351,
+    "text": "Amo il salmone, ed anche i prodotti del mare.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 388,
+    "text": "Amo il vitello, ed anche il caviale.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 135,
+    "text": "Amo gli uccelli, un tipo interessante di gatto.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 219,
+    "text": "Adoro il pollo, un tipo interessante di salmone.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 419,
+    "text": "Amo gli uccelli pi\u00f9 dei merli.",
+    "choices": [
+      "Scarso",
+      "Eccellente",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 175,
+    "text": "Adoro l' erba, un tipo interessante di quercia.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 28,
+    "text": "Amo i criceti, ma non i merli.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 503,
+    "text": "Amo il manzo pi\u00f9 dei granchi.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 332,
+    "text": "Amo gli alberi, ed anche gli abeti.",
+    "choices": [
+      "Pessimo",
+      "Eccellente",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 299,
+    "text": "Amo i passeri, ed anche i criceti.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 449,
+    "text": "Amo gli alberi pi\u00f9 degli arbusti.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Pessimo",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 323,
+    "text": "Amo le betulle, ed anche gli animali.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 427,
+    "text": "Amo i gatti pi\u00f9 dei passeri.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 35,
+    "text": "Amo i passeri, ma non gli uccelli.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Sufficiente",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 508,
+    "text": "Amo le ostriche pi\u00f9 del vitello.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 222,
+    "text": "Adoro i prodotti del mare, un tipo interessante di pollo.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 315,
+    "text": "Amo gli alberi, ed anche i cespugli.",
+    "choices": [
+      "Eccellente",
+      "Ottimo",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 316,
+    "text": "Amo le querce, ed anche gli arbusti.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 75,
+    "text": "Adoro gli abeti, ma non gli arbusti.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 357,
+    "text": "Amo il salmone, ed anche il tacchino.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 291,
+    "text": "Amo i merli, ed anche i maiali.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 226,
+    "text": "Adoro il salmone, un tipo interessante di tacchino.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 330,
+    "text": "Amo l' erba, ed anche gli abeti.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Buono",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 181,
+    "text": "Adoro gli alberi, un tipo interessante di animale.",
+    "choices": [
+      "Eccellente",
+      "Molto buono",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 502,
+    "text": "Amo i granchi pi\u00f9 del manzo.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 493,
+    "text": "Amo i prodotti del mare pi\u00f9 del manzo.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 202,
+    "text": "Adoro gli abeti, un tipo interessante di animale.",
+    "choices": [
+      "Eccellente",
+      "Pessimo",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 19,
+    "text": "Amo le anatre, ma non i maiali.",
+    "choices": [
+      "Sufficiente",
+      "Buono",
+      "Molto buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 110,
+    "text": "Adoro il manzo, ma non i granchi.",
+    "choices": [
+      "Scarso",
+      "Ottimo",
+      "Buono",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 385,
+    "text": "Amo il caviale, ed anche i prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 415,
+    "text": "Amo i cani pi\u00f9 delle anatre.",
+    "choices": [
+      "Eccellente",
+      "Buono",
+      "Sufficiente",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 148,
+    "text": "Amo le anatre, un tipo interessante di criceto.",
+    "choices": [
+      "Sufficiente",
+      "Ottimo",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 2,
+    "text": "Amo i pappagalli, ma non gli uccelli.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Pessimo",
+      "Sufficiente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 335,
+    "text": "Amo gli abeti, ed anche i cespugli.",
+    "choices": [
+      "Pessimo",
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 197,
+    "text": "Adoro gli arbusti, un tipo interessante di betulla.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 1
+  },
+  {
+    "id": 95,
+    "text": "Adoro il salmone, ma non il tacchino.",
+    "choices": [
+      "Scarso",
+      "Sufficiente",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 113,
+    "text": "Adoro le ostriche, ma non i prodotti del mare.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Scarso",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 248,
+    "text": "Adoro le ostriche, un tipo interessante di tacchino.",
+    "choices": [
+      "Eccellente",
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 152,
+    "text": "Amo le anatre, un tipo interessante di cane.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Pessimo",
+      "Scarso"
+    ],
+    "label": 2
+  },
+  {
+    "id": 500,
+    "text": "Amo i granchi pi\u00f9 del tacchino.",
+    "choices": [
+      "Buono",
+      "Scarso",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 185,
+    "text": "Adoro le querce, un tipo interessante di arbusto.",
+    "choices": [
+      "Ottimo",
+      "Molto buono",
+      "Sufficiente",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 371,
+    "text": "Amo i granchi, ed anche il manzo.",
+    "choices": [
+      "Sufficiente",
+      "Molto buono",
+      "Pessimo",
+      "Ottimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 122,
+    "text": "Adoro il pollo, ma non il caviale.",
+    "choices": [
+      "Scarso",
+      "Buono",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 3
+  },
+  {
+    "id": 440,
+    "text": "Amo gli alberi pi\u00f9 dell' erba.",
+    "choices": [
+      "Molto buono",
+      "Pessimo",
+      "Ottimo",
+      "Sufficiente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 215,
+    "text": "Adoro i cespugli, un tipo interessante di pino.",
+    "choices": [
+      "Scarso",
+      "Molto buono",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 439,
+    "text": "Amo gli alberi pi\u00f9 delle querce.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 519,
+    "text": "Amo il vitello pi\u00f9 del caviale.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Sufficiente"
+    ],
+    "label": 1
+  },
+  {
+    "id": 310,
+    "text": "Amo le querce, ed anche gli animali.",
+    "choices": [
+      "Sufficiente",
+      "Eccellente",
+      "Buono",
+      "Scarso"
+    ],
+    "label": 1
+  },
+  {
+    "id": 401,
+    "text": "Amo i pappagalli pi\u00f9 dei maiali.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Eccellente",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 89,
+    "text": "Adoro il salmone, ma non i prodotti del mare.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 124,
+    "text": "Adoro i prodotti del mare, ma non il caviale.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 141,
+    "text": "Amo gli uccelli, un tipo interessante di maiale.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo",
+      "Scarso"
+    ],
+    "label": 3
+  },
+  {
+    "id": 6,
+    "text": "Amo i criceti, ma non i pappagalli.",
+    "choices": [
+      "Pessimo",
+      "Molto buono",
+      "Scarso",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 166,
+    "text": "Amo i passeri, un tipo interessante di uccello.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Scarso",
+      "Eccellente"
+    ],
+    "label": 3
+  },
+  {
+    "id": 372,
+    "text": "Amo il manzo, ed anche i granchi.",
+    "choices": [
+      "Molto buono",
+      "Scarso",
+      "Eccellente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 102,
+    "text": "Adoro il pollo, ma non i granchi.",
+    "choices": [
+      "Buono",
+      "Pessimo",
+      "Eccellente",
+      "Sufficiente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 62,
+    "text": "Adoro gli animali, ma non le betulle.",
+    "choices": [
+      "Ottimo",
+      "Buono",
+      "Pessimo",
+      "Eccellente"
+    ],
+    "label": 2
+  },
+  {
+    "id": 55,
+    "text": "Adoro gli arbusti, ma non le querce.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Buono",
+      "Pessimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 217,
+    "text": "Adoro gli arbusti, un tipo interessante di pino.",
+    "choices": [
+      "Buono",
+      "Ottimo",
+      "Scarso",
+      "Molto buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 243,
+    "text": "Adoro il pollo, un tipo interessante di ostriche.",
+    "choices": [
+      "Ottimo",
+      "Eccellente",
+      "Sufficiente",
+      "Scarso"
+    ],
+    "label": 3
+  },
+  {
+    "id": 167,
+    "text": "Amo gli uccelli, un tipo interessante di passero.",
+    "choices": [
+      "Scarso",
+      "Pessimo",
+      "Sufficiente",
+      "Ottimo"
+    ],
+    "label": 0
+  },
+  {
+    "id": 221,
+    "text": "Adoro i prodotti del mare, un tipo interessante di salmone.",
+    "choices": [
+      "Pessimo",
+      "Buono",
+      "Ottimo",
+      "Eccellente"
+    ],
+    "label": 0
+  },
+  {
+    "id": 171,
+    "text": "Amo i maiali, un tipo interessante di passero.",
+    "choices": [
+      "Molto buono",
+      "Sufficiente",
+      "Eccellente",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 204,
+    "text": "Adoro gli abeti, un tipo interessante di cespuglio.",
+    "choices": [
+      "Pessimo",
+      "Sufficiente",
+      "Molto buono",
+      "Scarso"
+    ],
+    "label": 0
+  },
+  {
+    "id": 183,
+    "text": "Adoro i cespugli, un tipo interessante di quercia.",
+    "choices": [
+      "Buono",
+      "Sufficiente",
+      "Scarso",
+      "Pessimo"
+    ],
+    "label": 3
+  },
+  {
+    "id": 370,
+    "text": "Amo il tacchino, ed anche i granchi.",
+    "choices": [
+      "Eccellente",
+      "Scarso",
+      "Ottimo",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 453,
+    "text": "Amo gli alberi pi\u00f9 delle betulle.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 1
+  },
+  {
+    "id": 288,
+    "text": "Amo gli uccelli, ed anche i merli.",
+    "choices": [
+      "Sufficiente",
+      "Scarso",
+      "Buono",
+      "Ottimo"
+    ],
+    "label": 2
+  },
+  {
+    "id": 386,
+    "text": "Amo i prodotti del mare, ed anche il caviale.",
+    "choices": [
+      "Ottimo",
+      "Scarso",
+      "Molto buono",
+      "Buono"
+    ],
+    "label": 2
+  },
+  {
+    "id": 379,
+    "text": "Amo le ostriche, ed anche il tacchino.",
+    "choices": [
+      "Molto buono",
+      "Ottimo",
+      "Pessimo",
+      "Buono"
+    ],
+    "label": 1
+  }
 ]
