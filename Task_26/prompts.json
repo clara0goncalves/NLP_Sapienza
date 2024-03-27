@@ -1,0 +1,11 @@
+[
+  {
+    "prompt": "Il termine '{{text}}' pu\u00f2 essere iperonimo di: {{choices}}"
+  },
+  {
+    "prompt": "Dato il termine '{{text}}', quale tra le seguenti parole \u00e8 un suo iperonimo? {{choices}}"
+  },
+  {
+    "prompt": "Scegli l'iperonimo del termine ''{{text}}: {{choices}}"
+  }
+]
