@@ -1943,7 +1943,6 @@
 {"ID": "2121", "Sentence": "Apprezzo il Primitivo , ed anche la birra .", "Labels": "1"}
 {"ID": "1103", "Sentence": "Uso la plastica , un tipo interessante di poliestere .", "Labels": "0"}
 {"ID": "5375", "Sentence": "Amo i conigli , ma non le balene .", "Labels": "1"}
-{"ID": "ID", "Sentence": "Sentence", "Labels": "Labels"}
 {"ID": "2625", "Sentence": "Ho incontrato gli astronomi , ed anche gli scienziati .", "Labels": "0"}
 {"ID": "3069", "Sentence": "Non amo le carote , preferisco il prosciutto cotto .", "Labels": "1"}
 {"ID": "2414", "Sentence": "Si fida dei sensi , ed anche della vista .", "Labels": "0"}
@@ -3889,7 +3888,6 @@
 {"ID": "4511", "Sentence": "Si fida della vista , eccetto che dei sensi .", "Labels": "0"}
 {"ID": "1123", "Sentence": "Uso il cuoio , un tipo interessante di nylon .", "Labels": "0"}
 {"ID": "2315", "Sentence": "Amo i giochi da tavolo , ed anche i documentari .", "Labels": "1"}
-{"ID": "ID", "Sentence": "Sentence", "Labels": "Labels"}
 {"ID": "5407", "Sentence": "Si fida dell' udito , ma non le dicerie .", "Labels": "1"}
 {"ID": "322", "Sentence": "Amo i sussidiari , e pi\u00f9 specificamente i thriller .", "Labels": "0"}
 {"ID": "2162", "Sentence": "Apprezzo i giochi da tavolo , ed anche il blues .", "Labels": "1"}

@@ -1,0 +1,1947 @@
+{"ID": "5407", "Sentence": "Si fida dell' udito , ma non le dicerie .", "Labels": "1"}
+{"ID": "322", "Sentence": "Amo i sussidiari , e pi\u00f9 specificamente i thriller .", "Labels": "0"}
+{"ID": "2162", "Sentence": "Apprezzo i giochi da tavolo , ed anche il blues .", "Labels": "1"}
+{"ID": "377", "Sentence": "Amo le collane , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "540", "Sentence": "Posso capire le emozioni , e pi\u00f9 specificamente l' amore .", "Labels": "1"}
+{"ID": "4708", "Sentence": "Ho incontrato gli scienziati , eccetto i genetisti .", "Labels": "1"}
+{"ID": "2068", "Sentence": "Apprezzo il parquet , ed anche i guardaroba .", "Labels": "1"}
+{"ID": "4483", "Sentence": "Amo i camerieri pi\u00f9 dei genetisti .", "Labels": "1"}
+{"ID": "2255", "Sentence": "Amo le ostriche , ed anche il tacchino .", "Labels": "1"}
+{"ID": "5516", "Sentence": "Amo i manuali , ma non la musica .", "Labels": "1"}
+{"ID": "772", "Sentence": "Apprezzo i mobili , eccetto le posate .", "Labels": "0"}
+{"ID": "3739", "Sentence": "Amo le betulle pi\u00f9 degli animali .", "Labels": "1"}
+{"ID": "13", "Sentence": "Amo i vestiti , eccetto i pantaloni .", "Labels": "1"}
+{"ID": "1529", "Sentence": "Amo le meduse , un tipo interessante di coniglio .", "Labels": "0"}
+{"ID": "5178", "Sentence": "Adoro le carote , ma non il prosciutto .", "Labels": "1"}
+{"ID": "3687", "Sentence": "Amo gli animali domestici pi\u00f9 dei pantaloni .", "Labels": "1"}
+{"ID": "3809", "Sentence": "Uso il PVC pi\u00f9 del legno .", "Labels": "1"}
+{"ID": "312", "Sentence": "Adoro il tacchino , e pi\u00f9 specificamente il caviale .", "Labels": "0"}
+{"ID": "674", "Sentence": "Ho incontrato gli scienziati , e pi\u00f9 specificamente i genetisti .", "Labels": "1"}
+{"ID": "1864", "Sentence": "Amo le Harley-Davidson , ed anche le biciclette .", "Labels": "1"}
+{"ID": "4479", "Sentence": "Amo gli impiegati pi\u00f9 dei genetisti .", "Labels": "1"}
+{"ID": "4900", "Sentence": "Amo le calze , ma non gli orecchini .", "Labels": "1"}
+{"ID": "462", "Sentence": "Adoro l' erba , eccetto le querce .", "Labels": "0"}
+{"ID": "4044", "Sentence": "Amo il lardo pi\u00f9 delle mele .", "Labels": "1"}
+{"ID": "3", "Sentence": "Amo gli abeti , e pi\u00f9 specificamente gli alberi .", "Labels": "0"}
+{"ID": "3204", "Sentence": "Non amo i gioielli , preferisco le borsette .", "Labels": "1"}
+{"ID": "4106", "Sentence": "Amo gli anelli , eccetto le sciarpe .", "Labels": "0"}
+{"ID": "317", "Sentence": "Amo i saggi , e pi\u00f9 specificamente i thriller .", "Labels": "0"}
+{"ID": "250", "Sentence": "Adoro le carote , e pi\u00f9 specificamente il prosciutto .", "Labels": "0"}
+{"ID": "1389", "Sentence": "Adoro il caviale , un tipo interessante di prodotti del mare .", "Labels": "1"}
+{"ID": "4198", "Sentence": "Amo gli orecchini pi\u00f9 delle sciarpe .", "Labels": "1"}
+{"ID": "757", "Sentence": "Uso il PVC , eccetto il legno .", "Labels": "0"}
+{"ID": "3134", "Sentence": "Non amo il manzo , preferisco le ostriche .", "Labels": "1"}
+{"ID": "4978", "Sentence": "Uso il nylon , ma non la plastica .", "Labels": "0"}
+{"ID": "768", "Sentence": "Apprezzo le sedie , eccetto le posate .", "Labels": "0"}
+{"ID": "4514", "Sentence": "Si fida della vista , eccetto che dei notiziari .", "Labels": "0"}
+{"ID": "4598", "Sentence": "Posso capire la tristezza , eccetto i calcoli .", "Labels": "0"}
+{"ID": "1104", "Sentence": "Uso la plastica , un tipo interessante di legno .", "Labels": "0"}
+{"ID": "4109", "Sentence": "Amo gli occhiali , eccetto gli anelli .", "Labels": "0"}
+{"ID": "2322", "Sentence": "Amo i gioielli , ed anche i braccialetti .", "Labels": "0"}
+{"ID": "1427", "Sentence": "Amo i film , un tipo interessante di comedie .", "Labels": "0"}
+{"ID": "5209", "Sentence": "Adoro il salmone , ma non il vitello .", "Labels": "1"}
+{"ID": "3189", "Sentence": "Non amo i documentari , preferisco i saggi .", "Labels": "1"}
+{"ID": "1412", "Sentence": "Amo i videogiochi , un tipo interessante di thriller .", "Labels": "0"}
+{"ID": "3573", "Sentence": "Amo i bulldog pi\u00f9 dei conigli .", "Labels": "1"}
+{"ID": "741", "Sentence": "Uso il nylon , eccetto il cotone .", "Labels": "0"}
+{"ID": "949", "Sentence": "Amo i maiali , un tipo interessante di merlo .", "Labels": "0"}
+{"ID": "225", "Sentence": "Apprezzo il blues , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "5568", "Sentence": "Amo i professori , ma non gli uffici .", "Labels": "1"}
+{"ID": "5659", "Sentence": "Amo i bassotti , e pi\u00f9 specificamente i pappagalli .", "Labels": "0"}
+{"ID": "83", "Sentence": "Apprezzo la carta da parati , e pi\u00f9 specificamente le sedie .", "Labels": "0"}
+{"ID": "1455", "Sentence": "Amo i braccialetti , un tipo interessante di sciarpa .", "Labels": "0"}
+{"ID": "4037", "Sentence": "Amo le carote pi\u00f9 del bacon .", "Labels": "1"}
+{"ID": "2615", "Sentence": "Ho incontrato i genetisti , ed anche gli scienziati .", "Labels": "0"}
+{"ID": "197", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente il jazz .", "Labels": "1"}
+{"ID": "5467", "Sentence": "Posso capire l' amore , ma non la logica .", "Labels": "1"}
+{"ID": "923", "Sentence": "Amo i pappagalli , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "4395", "Sentence": "Amo il cinema pi\u00f9 dei saggi .", "Labels": "1"}
+{"ID": "221", "Sentence": "Apprezzo il blues , e pi\u00f9 specificamente i giochi da tavolo .", "Labels": "0"}
+{"ID": "4307", "Sentence": "Si fida del tatto pi\u00f9 che dei sensi .", "Labels": "0"}
+{"ID": "401", "Sentence": "Amo le sciarpe , e pi\u00f9 specificamente gli anelli .", "Labels": "0"}
+{"ID": "4031", "Sentence": "Amo il maiale pi\u00f9 del bacon .", "Labels": "0"}
+{"ID": "5008", "Sentence": "Uso il cuoio , ma non il PVC .", "Labels": "1"}
+{"ID": "2801", "Sentence": "Non amo gli orecchini , preferisco le camicie .", "Labels": "1"}
+{"ID": "2906", "Sentence": "Non amo il vinile , preferisco il cotone .", "Labels": "1"}
+{"ID": "2859", "Sentence": "Non amo l' erba , preferisco gli abeti .", "Labels": "1"}
+{"ID": "466", "Sentence": "Si fida dei sensi , e pi\u00f9 specificamente delle ricostruzioni .", "Labels": "0"}
+{"ID": "5661", "Sentence": "Amo i bassotti , e pi\u00f9 specificamente i conigli .", "Labels": "0"}
+{"ID": "4513", "Sentence": "Si fida dei sensi , eccetto che delle dicerie .", "Labels": "0"}
+{"ID": "2129", "Sentence": "Apprezzo i giochi da tavolo , ed anche il rock .", "Labels": "1"}
+{"ID": "4667", "Sentence": "Amo i camerieri , eccetto gli uffici .", "Labels": "0"}
+{"ID": "2672", "Sentence": "Non amo i gatti , preferisco i bobtail .", "Labels": "1"}
+{"ID": "2222", "Sentence": "Adoro il prosciutto cotto , eccetto le carote .", "Labels": "0"}
+{"ID": "3642", "Sentence": "Amo le Suzuki pi\u00f9 delle navi .", "Labels": "1"}
+{"ID": "3609", "Sentence": "Amo i gatti pi\u00f9 dei merli .", "Labels": "1"}
+{"ID": "245", "Sentence": "Adoro il prosciutto , e pi\u00f9 specificamente i broccoli .", "Labels": "0"}
+{"ID": "1229", "Sentence": "Apprezzo l' acqua , un tipo interessante di Primitivo .", "Labels": "0"}
+{"ID": "2064", "Sentence": "Apprezzo i dipinti , ed anche i guardaroba .", "Labels": "1"}
+{"ID": "1688", "Sentence": "Amo gli impiegati , un tipo interessante di scuola .", "Labels": "0"}
+{"ID": "859", "Sentence": "Apprezzo il Chianti , eccetto la birra .", "Labels": "0"}
+{"ID": "5635", "Sentence": "Amo i bobtail , e pi\u00f9 specificamente i cani .", "Labels": "0"}
+{"ID": "4650", "Sentence": "Amo gli impiegati , eccetto i ristoranti .", "Labels": "0"}
+{"ID": "2217", "Sentence": "Amo il lardo , ed anche le mele .", "Labels": "1"}
+{"ID": "1716", "Sentence": "Amo i professori , un tipo interessante di lavoratore .", "Labels": "1"}
+{"ID": "2375", "Sentence": "Amo le meduse , ed anche i gatti .", "Labels": "1"}
+{"ID": "3909", "Sentence": "Apprezzo la birra pi\u00f9 del Chianti .", "Labels": "1"}
+{"ID": "5522", "Sentence": "Amo i manuali , ma non i cartoni animati .", "Labels": "1"}
+{"ID": "2515", "Sentence": "Amo i libri , ed anche il cinema .", "Labels": "1"}
+{"ID": "1096", "Sentence": "Adoro i pini , un tipo interessante di cespuglio .", "Labels": "0"}
+{"ID": "4227", "Sentence": "Amo i cani , eccetto le giraffe .", "Labels": "0"}
+{"ID": "2331", "Sentence": "Amo le scarpe , ed anche i braccialetti .", "Labels": "1"}
+{"ID": "4545", "Sentence": "Si fida delle dicerie , eccetto che del gusto .", "Labels": "0"}
+{"ID": "3864", "Sentence": "Apprezzo i letti pi\u00f9 dei mobili .", "Labels": "0"}
+{"ID": "1953", "Sentence": "Amo gli animali , ed anche le querce .", "Labels": "1"}
+{"ID": "4219", "Sentence": "Amo i gatti pi\u00f9 degli orsi .", "Labels": "1"}
+{"ID": "97", "Sentence": "Apprezzo il parquet , e pi\u00f9 specificamente i tavoli .", "Labels": "0"}
+{"ID": "55", "Sentence": "Uso il legno , e pi\u00f9 specificamente il vinile .", "Labels": "0"}
+{"ID": "1986", "Sentence": "Amo gli animali , ed anche i pini .", "Labels": "1"}
+{"ID": "3389", "Sentence": "Non amo i sussidiari , preferisco la musica .", "Labels": "1"}
+{"ID": "4064", "Sentence": "Amo il vitello pi\u00f9 del salmone .", "Labels": "1"}
+{"ID": "5575", "Sentence": "Ho incontrato i biologi , ma non i camerieri .", "Labels": "1"}
+{"ID": "2300", "Sentence": "Amo le commedie , ed anche i sussidiari .", "Labels": "1"}
+{"ID": "2126", "Sentence": "Apprezzo la musica , ed anche il rock .", "Labels": "0"}
+{"ID": "1260", "Sentence": "Apprezzo il jazz , un tipo interessante di collana .", "Labels": "0"}
+{"ID": "4006", "Sentence": "Amo il maiale pi\u00f9 del pesce .", "Labels": "1"}
+{"ID": "2146", "Sentence": "Apprezzo i gioielli , ed anche il jazz .", "Labels": "1"}
+{"ID": "819", "Sentence": "Apprezzo i letti , eccetto la carta da parati .", "Labels": "0"}
+{"ID": "386", "Sentence": "Amo le borsette , e pi\u00f9 specificamente gli orecchini .", "Labels": "0"}
+{"ID": "1820", "Sentence": "Amo gli uccelli , ed anche i gatti .", "Labels": "1"}
+{"ID": "3013", "Sentence": "Non amo gli sport , preferisco il rock .", "Labels": "1"}
+{"ID": "3837", "Sentence": "Apprezzo i mobili pi\u00f9 del parquet .", "Labels": "1"}
+{"ID": "1152", "Sentence": "Apprezzo i mobili , un tipo interessante di dipinto .", "Labels": "0"}
+{"ID": "1760", "Sentence": "Ho incontrato i fisici , un tipo interessante di scienziato .", "Labels": "1"}
+{"ID": "4076", "Sentence": "Amo i granchi pi\u00f9 del vitello .", "Labels": "1"}
+{"ID": "4124", "Sentence": "Amo i videogiochi pi\u00f9 dei thriller .", "Labels": "1"}
+{"ID": "4366", "Sentence": "Posso capire la tristezza pi\u00f9 della saggezza .", "Labels": "1"}
+{"ID": "1278", "Sentence": "Apprezzo gli sport , un tipo interessante di blues .", "Labels": "0"}
+{"ID": "5061", "Sentence": "Apprezzo il vino , ma non la coca cola .", "Labels": "1"}
+{"ID": "5106", "Sentence": "Apprezzo il rock , ma non gli sport .", "Labels": "1"}
+{"ID": "2446", "Sentence": "Si fida delle ricostruzioni , ed anche del tatto .", "Labels": "1"}
+{"ID": "5071", "Sentence": "Apprezzo lo Chardonnay , ma non la coca cola .", "Labels": "1"}
+{"ID": "5376", "Sentence": "Amo le balene , ma non i conigli .", "Labels": "1"}
+{"ID": "4461", "Sentence": "Amo le scuole pi\u00f9 dei professori .", "Labels": "1"}
+{"ID": "2236", "Sentence": "Amo il salmone , ed anche il manzo .", "Labels": "1"}
+{"ID": "1445", "Sentence": "Amo i giochi da tavolo , un tipo interessante di documentario .", "Labels": "0"}
+{"ID": "4670", "Sentence": "Amo i guardiani , eccetto le fabbriche .", "Labels": "0"}
+{"ID": "2194", "Sentence": "Adoro il maiale , eccetto i broccoli .", "Labels": "0"}
+{"ID": "993", "Sentence": "Amo gli enduro , un tipo interessante di bicicletta .", "Labels": "0"}
+{"ID": "2110", "Sentence": "Apprezzo la sprite , ed anche il Chianti .", "Labels": "1"}
+{"ID": "2940", "Sentence": "Non amo i tavoli , preferisco i dipinti .", "Labels": "1"}
+{"ID": "3260", "Sentence": "Non amo gli animali domestici , preferisco le balene .", "Labels": "1"}
+{"ID": "380", "Sentence": "Amo le sciarpe , e pi\u00f9 specificamente le collane .", "Labels": "0"}
+{"ID": "1256", "Sentence": "Apprezzo i giochi da tavolo , un tipo interessante di jazz .", "Labels": "0"}
+{"ID": "5738", "Sentence": "Amo le biciclette , e pi\u00f9 specificamente gli enduro .", "Labels": "0"}
+{"ID": "924", "Sentence": "Amo i criceti , un tipo interessante di pappagallo .", "Labels": "0"}
+{"ID": "4932", "Sentence": "Adoro gli animali , ma non le betulle .", "Labels": "1"}
+{"ID": "1593", "Sentence": "Posso capire le emozioni , un tipo interessante di saggezza .", "Labels": "0"}
+{"ID": "1149", "Sentence": "Apprezzo i mobili , un tipo interessante di posate .", "Labels": "0"}
+{"ID": "220", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente il blues .", "Labels": "1"}
+{"ID": "3824", "Sentence": "Apprezzo le sedie pi\u00f9 delle posate .", "Labels": "1"}
+{"ID": "2321", "Sentence": "Amo i braccialetti , ed anche i gioielli .", "Labels": "0"}
+{"ID": "4799", "Sentence": "Amo le anatre , ma non gli uccelli .", "Labels": "0"}
+{"ID": "4089", "Sentence": "Amo il tacchino pi\u00f9 delle ostriche .", "Labels": "1"}
+{"ID": "2746", "Sentence": "Non amo le Harley-Davidson , preferisco le moto .", "Labels": "0"}
+{"ID": "3515", "Sentence": "Non amo i fisici , preferisco gli impiegati .", "Labels": "1"}
+{"ID": "5067", "Sentence": "Apprezzo il vino , ma non la sprite .", "Labels": "1"}
+{"ID": "1930", "Sentence": "Amo i vestiti , ed anche le calze .", "Labels": "0"}
+{"ID": "4918", "Sentence": "Adoro gli animali , ma non le querce .", "Labels": "1"}
+{"ID": "3083", "Sentence": "Non amo il bacon , preferisco il maiale .", "Labels": "0"}
+{"ID": "4843", "Sentence": "Amo le Suzuki , ma non le moto .", "Labels": "0"}
+{"ID": "2617", "Sentence": "Ho incontrato i genetisti , ed anche i camerieri .", "Labels": "1"}
+{"ID": "2818", "Sentence": "Non amo le calze , preferisco i gioielli .", "Labels": "1"}
+{"ID": "213", "Sentence": "Apprezzo il cibo , e pi\u00f9 specificamente la techno .", "Labels": "0"}
+{"ID": "2951", "Sentence": "Non amo i dipinti , preferisco i guardaroba .", "Labels": "1"}
+{"ID": "1612", "Sentence": "Posso capire la paura , un tipo interessante di calcolo .", "Labels": "0"}
+{"ID": "445", "Sentence": "Amo i criceti , e pi\u00f9 specificamente gli orsi .", "Labels": "0"}
+{"ID": "894", "Sentence": "Amo i pappagalli , un tipo interessante di bobtail .", "Labels": "0"}
+{"ID": "3989", "Sentence": "Amo gli occhiali , eccetto i braccialetti .", "Labels": "0"}
+{"ID": "1316", "Sentence": "Adoro il maiale , un tipo interessante di prosciutto .", "Labels": "0"}
+{"ID": "3086", "Sentence": "Non amo i broccoli , preferisco il bacon .", "Labels": "1"}
+{"ID": "3018", "Sentence": "Non amo i giochi da tavolo , preferisco il rock .", "Labels": "1"}
+{"ID": "5543", "Sentence": "Amo i lavoratori , ma non i camerieri .", "Labels": "1"}
+{"ID": "3795", "Sentence": "Uso il vetro pi\u00f9 del nylon .", "Labels": "1"}
+{"ID": "2014", "Sentence": "Uso il cuoio , ed anche il nylon .", "Labels": "1"}
+{"ID": "2775", "Sentence": "Non amo i treni , preferisco gli enduro .", "Labels": "1"}
+{"ID": "186", "Sentence": "Apprezzo il rock , e pi\u00f9 specificamente il cibo .", "Labels": "0"}
+{"ID": "1441", "Sentence": "Amo i documentari , un tipo interessante di libro di testo .", "Labels": "0"}
+{"ID": "2432", "Sentence": "Adoro il pesce , eccetto il bacon .", "Labels": "0"}
+{"ID": "2306", "Sentence": "Amo i videogiochi , ed anche le commedie .", "Labels": "1"}
+{"ID": "3348", "Sentence": "Non ama la gioia , preferisce la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "2657", "Sentence": "Non amo gli husky , preferisco i gatti .", "Labels": "1"}
+{"ID": "5011", "Sentence": "Apprezzo le posate , ma non le sedie .", "Labels": "1"}
+{"ID": "1515", "Sentence": "Amo gli animali domestici , un tipo interessante di cane .", "Labels": "0"}
+{"ID": "2330", "Sentence": "Amo i braccialetti , ed anche le scarpe .", "Labels": "1"}
+{"ID": "4947", "Sentence": "Adoro i cespugli , ma non gli abeti .", "Labels": "1"}
+{"ID": "1794", "Sentence": "Amo i bobtail , ed anche i conigli .", "Labels": "1"}
+{"ID": "2091", "Sentence": "Apprezzo la birra , ed anche il Merlot .", "Labels": "1"}
+{"ID": "5440", "Sentence": "Posso capire le emozioni , ma non la gioia .", "Labels": "1"}
+{"ID": "1749", "Sentence": "Ho incontrato gli impiegati , un tipo interessante di astronomo .", "Labels": "0"}
+{"ID": "1865", "Sentence": "Amo le biciclette , ed anche le Harley-Davidson .", "Labels": "1"}
+{"ID": "4681", "Sentence": "Amo le fabbriche , eccetto i professori .", "Labels": "0"}
+{"ID": "891", "Sentence": "Amo i bobtail , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "1382", "Sentence": "Adoro le ostriche , un tipo interessante di tacchino .", "Labels": "0"}
+{"ID": "5438", "Sentence": "Posso capire la saggezza , ma non la gioia .", "Labels": "1"}
+{"ID": "4969", "Sentence": "Uso la plastica , ma non il cotone .", "Labels": "1"}
+{"ID": "4097", "Sentence": "Amo il caviale pi\u00f9 del vitello .", "Labels": "1"}
+{"ID": "3145", "Sentence": "Adoro il salmone , eccetto il pollo .", "Labels": "0"}
+{"ID": "3237", "Sentence": "Non amo gli anelli , preferisco le borsette .", "Labels": "1"}
+{"ID": "4", "Sentence": "Amo gli alberi , e pi\u00f9 specificamente gli abeti .", "Labels": "1"}
+{"ID": "1952", "Sentence": "Amo le querce , ed anche gli animali .", "Labels": "1"}
+{"ID": "2537", "Sentence": "Amo i libri , ed anche i romanzi .", "Labels": "0"}
+{"ID": "884", "Sentence": "Amo i conigli , un tipo interessante di husky .", "Labels": "0"}
+{"ID": "3533", "Sentence": "Adoro il caviale , eccetto i prodotti del mare .", "Labels": "0"}
+{"ID": "3295", "Sentence": "Adoro i granchi , eccetto il vitello .", "Labels": "0"}
+{"ID": "3772", "Sentence": "Amo gli arbusti pi\u00f9 dei pini .", "Labels": "1"}
+{"ID": "5756", "Sentence": "Amo le camicie , e pi\u00f9 specificamente i vestiti .", "Labels": "0"}
+{"ID": "5272", "Sentence": "Amo i western , ma non i giochi da tavolo .", "Labels": "1"}
+{"ID": "387", "Sentence": "Amo gli orecchini , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "2035", "Sentence": "Apprezzo le sedie , ed anche le posate .", "Labels": "1"}
+{"ID": "4954", "Sentence": "Adoro i pini , ma non gli animali .", "Labels": "1"}
+{"ID": "5240", "Sentence": "Adoro il caviale , ma non il pollo .", "Labels": "1"}
+{"ID": "3002", "Sentence": "Non amo la coca cola , preferisco il Primitivo .", "Labels": "1"}
+{"ID": "5023", "Sentence": "Apprezzo il parquet , ma non le sedie .", "Labels": "1"}
+{"ID": "535", "Sentence": "Posso capire la paura , e pi\u00f9 specificamente i calcoli .", "Labels": "0"}
+{"ID": "65", "Sentence": "Uso il legno , e pi\u00f9 specificamente il PVC .", "Labels": "0"}
+{"ID": "3747", "Sentence": "Amo i film , eccetto i sussidiari .", "Labels": "0"}
+{"ID": "4390", "Sentence": "Amo i saggi pi\u00f9 della musica .", "Labels": "1"}
+{"ID": "676", "Sentence": "Ho incontrato i camerieri , e pi\u00f9 specificamente i genetisti .", "Labels": "0"}
+{"ID": "1954", "Sentence": "Amo gli alberi , ed anche gli animali .", "Labels": "1"}
+{"ID": "3571", "Sentence": "Amo i bulldog pi\u00f9 dei pappagalli .", "Labels": "1"}
+{"ID": "5724", "Sentence": "Amo le navi , e pi\u00f9 specificamente le Suzuki .", "Labels": "0"}
+{"ID": "4135", "Sentence": "Amo i videogiochi pi\u00f9 dei western .", "Labels": "1"}
+{"ID": "1252", "Sentence": "Apprezzo gli sport , un tipo interessante di jazz .", "Labels": "0"}
+{"ID": "602", "Sentence": "Adoro le betulle , eccetto gli animali .", "Labels": "0"}
+{"ID": "1179", "Sentence": "Apprezzo il parquet , un tipo interessante di guardaroba .", "Labels": "0"}
+{"ID": "733", "Sentence": "Uso la plastica , eccetto il vetro .", "Labels": "0"}
+{"ID": "2429", "Sentence": "Si fida dei sensi , ed anche dell' udito .", "Labels": "0"}
+{"ID": "1723", "Sentence": "Amo gli uffici , un tipo interessante di professore .", "Labels": "0"}
+{"ID": "4627", "Sentence": "Amo i romanzi , eccetto i libri .", "Labels": "0"}
+{"ID": "2663", "Sentence": "Non amo i criceti , preferisco gli husky .", "Labels": "1"}
+{"ID": "3700", "Sentence": "Amo le calze pi\u00f9 dei gioielli .", "Labels": "1"}
+{"ID": "1234", "Sentence": "Apprezzo il rock , un tipo interessante di sport .", "Labels": "0"}
+{"ID": "2390", "Sentence": "Amo le balene , ed anche i cani .", "Labels": "1"}
+{"ID": "2749", "Sentence": "Non amo le Harley-Davidson , preferisco le biciclette .", "Labels": "1"}
+{"ID": "2876", "Sentence": "Non amo i pini , preferisco gli arbusti .", "Labels": "1"}
+{"ID": "1396", "Sentence": "Adoro il caviale , un tipo interessante di manzo .", "Labels": "0"}
+{"ID": "4317", "Sentence": "Amo gli orsi , eccetto i criceti .", "Labels": "0"}
+{"ID": "2048", "Sentence": "Apprezzo i mobili , ed anche il parquet .", "Labels": "1"}
+{"ID": "3820", "Sentence": "Amo i western , eccetto i film .", "Labels": "0"}
+{"ID": "3884", "Sentence": "Apprezzo la birra pi\u00f9 del Merlot .", "Labels": "1"}
+{"ID": "1692", "Sentence": "Amo gli uffici , un tipo interessante di impiegato .", "Labels": "0"}
+{"ID": "2971", "Sentence": "Non amo il Merlot , preferisco l' acqua .", "Labels": "1"}
+{"ID": "2604", "Sentence": "Ho incontrato i biologi , ed anche i camerieri .", "Labels": "1"}
+{"ID": "413", "Sentence": "Amo gli animali domestici , e pi\u00f9 specificamente gli orsi .", "Labels": "0"}
+{"ID": "2686", "Sentence": "Non amo i criceti , preferisco i bulldog .", "Labels": "1"}
+{"ID": "2701", "Sentence": "Non amo i pappagalli , preferisco i gatti .", "Labels": "1"}
+{"ID": "5217", "Sentence": "Adoro i prodotti del mare , ma non il manzo .", "Labels": "1"}
+{"ID": "4475", "Sentence": "Amo i biologi pi\u00f9 dei portieri .", "Labels": "1"}
+{"ID": "948", "Sentence": "Amo i merli , un tipo interessante di maiale .", "Labels": "0"}
+{"ID": "5532", "Sentence": "Amo i ristoranti , ma non gli impiegati .", "Labels": "1"}
+{"ID": "3980", "Sentence": "Apprezzo il blues pi\u00f9 dei gioielli .", "Labels": "1"}
+{"ID": "735", "Sentence": "Uso il cuoio , eccetto il poliestere .", "Labels": "0"}
+{"ID": "1191", "Sentence": "Apprezzo la coca cola , un tipo interessante di Merlot .", "Labels": "0"}
+{"ID": "262", "Sentence": "Adoro il pesce , e pi\u00f9 specificamente il lardo .", "Labels": "0"}
+{"ID": "5741", "Sentence": "Amo gli enduro , e pi\u00f9 specificamente gli aeroplani .", "Labels": "0"}
+{"ID": "2860", "Sentence": "Non amo gli abeti , preferisco gli alberi .", "Labels": "0"}
+{"ID": "1524", "Sentence": "Amo i conigli , un tipo interessante di animale domestico .", "Labels": "1"}
+{"ID": "1333", "Sentence": "Adoro il bacon , un tipo interessante di carote .", "Labels": "0"}
+{"ID": "1001", "Sentence": "Amo le Kawasakis , un tipo interessante di moto .", "Labels": "1"}
+{"ID": "1481", "Sentence": "Amo le sciarpe , un tipo interessante di orecchino .", "Labels": "0"}
+{"ID": "1255", "Sentence": "Apprezzo il jazz , un tipo interessante di gioco da tavolo .", "Labels": "0"}
+{"ID": "3177", "Sentence": "Adoro il salmone , eccetto il tacchino .", "Labels": "0"}
+{"ID": "187", "Sentence": "Apprezzo il cibo , e pi\u00f9 specificamente il rock .", "Labels": "0"}
+{"ID": "715", "Sentence": "Adoro i pini , eccetto gli alberi .", "Labels": "0"}
+{"ID": "742", "Sentence": "Uso il cotone , eccetto il nylon .", "Labels": "0"}
+{"ID": "1578", "Sentence": "Si fida delle congetture , un tipo interessante del tatto .", "Labels": "0"}
+{"ID": "1297", "Sentence": "Apprezzo i giochi da tavolo , eccetto il jazz .", "Labels": "0"}
+{"ID": "3223", "Sentence": "Non amo gli occhiali , preferisco le collane .", "Labels": "1"}
+{"ID": "364", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente le borsette .", "Labels": "0"}
+{"ID": "3371", "Sentence": "Non ama l' amore , preferisce le emozioni .", "Labels": "0"}
+{"ID": "1581", "Sentence": "Si fida del gusto , un tipo interessante di senso .", "Labels": "1"}
+{"ID": "1220", "Sentence": "Apprezzo il Chianti , un tipo interessante di sprite .", "Labels": "0"}
+{"ID": "5601", "Sentence": "Ho incontrato gli astronomi , ma non i guardiani .", "Labels": "1"}
+{"ID": "4071", "Sentence": "Amo i prodotti del mare pi\u00f9 del manzo .", "Labels": "1"}
+{"ID": "1601", "Sentence": "Posso capire i calcoli , un tipo interessante di gioia .", "Labels": "0"}
+{"ID": "2833", "Sentence": "Non amo gli orecchini , preferisco le gonne .", "Labels": "1"}
+{"ID": "830", "Sentence": "Apprezzo l' acqua , eccetto il Merlot .", "Labels": "0"}
+{"ID": "5603", "Sentence": "Ho incontrato gli astronomi , ma non i portieri .", "Labels": "1"}
+{"ID": "4857", "Sentence": "Amo gli enduro , ma non gli aeroplani .", "Labels": "1"}
+{"ID": "231", "Sentence": "Adoro il maiale , e pi\u00f9 specificamente il pesce .", "Labels": "0"}
+{"ID": "2355", "Sentence": "Amo gli anelli , ed anche le borsette .", "Labels": "1"}
+{"ID": "441", "Sentence": "Amo i criceti , e pi\u00f9 specificamente le giraffe .", "Labels": "0"}
+{"ID": "1741", "Sentence": "Ho incontrato gli scienziati , un tipo interessante di genetista .", "Labels": "0"}
+{"ID": "4386", "Sentence": "Amo i libri pi\u00f9 dei cartoni animati .", "Labels": "1"}
+{"ID": "5037", "Sentence": "Apprezzo le posate , ma non i guardaroba .", "Labels": "1"}
+{"ID": "3801", "Sentence": "Uso la plastica pi\u00f9 del vinile .", "Labels": "0"}
+{"ID": "3518", "Sentence": "Non amo gli scienziati , preferisco i fisici .", "Labels": "0"}
+{"ID": "3441", "Sentence": "Non amo gli impiegati , preferisco le scuole .", "Labels": "1"}
+{"ID": "4027", "Sentence": "Amo le carote pi\u00f9 del prosciutto .", "Labels": "1"}
+{"ID": "689", "Sentence": "Ho incontrato gli astronomi , e pi\u00f9 specificamente i portieri .", "Labels": "0"}
+{"ID": "818", "Sentence": "Amo i maiali , eccetto i pappagalli .", "Labels": "0"}
+{"ID": "2602", "Sentence": "Ho incontrato gli scienziati , ed anche i biologi .", "Labels": "0"}
+{"ID": "181", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente il rock .", "Labels": "1"}
+{"ID": "2131", "Sentence": "Apprezzo il rock , ed anche il cibo .", "Labels": "1"}
+{"ID": "5359", "Sentence": "Amo i cani , ma non gli orsi .", "Labels": "1"}
+{"ID": "1614", "Sentence": "Posso capire l' amore , un tipo interessante di saggezza .", "Labels": "0"}
+{"ID": "5559", "Sentence": "Amo gli uffici , ma non i guardiani .", "Labels": "1"}
+{"ID": "1038", "Sentence": "Amo i vestiti , un tipo interessante di calze .", "Labels": "0"}
+{"ID": "959", "Sentence": "Amo i maiali , un tipo interessante di passero .", "Labels": "0"}
+{"ID": "442", "Sentence": "Amo le giraffe , e pi\u00f9 specificamente i criceti .", "Labels": "0"}
+{"ID": "5207", "Sentence": "Adoro i prodotti del mare , ma non il salmone .", "Labels": "1"}
+{"ID": "5317", "Sentence": "Amo gli occhiali , ma non le collane .", "Labels": "1"}
+{"ID": "4628", "Sentence": "Amo i libri , eccetto i romanzi .", "Labels": "1"}
+{"ID": "4434", "Sentence": "Amo i camerieri pi\u00f9 delle fabbriche .", "Labels": "1"}
+{"ID": "4435", "Sentence": "Amo le fabbriche pi\u00f9 dei camerieri .", "Labels": "1"}
+{"ID": "3806", "Sentence": "Uso il vinile pi\u00f9 del cuoio .", "Labels": "1"}
+{"ID": "2187", "Sentence": "Amo il maiale , ed anche le carote .", "Labels": "1"}
+{"ID": "3133", "Sentence": "Non amo le ostriche , preferisco il manzo .", "Labels": "1"}
+{"ID": "3981", "Sentence": "Apprezzo i gioielli pi\u00f9 del blues .", "Labels": "1"}
+{"ID": "1337", "Sentence": "Adoro il pesce , un tipo interessante di lardo .", "Labels": "0"}
+{"ID": "2365", "Sentence": "Amo i gatti , ed anche le giraffe .", "Labels": "1"}
+{"ID": "2894", "Sentence": "Non amo il nylon , preferisco la plastica .", "Labels": "0"}
+{"ID": "1535", "Sentence": "Amo gli animali domestici , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "3754", "Sentence": "Amo gli animali pi\u00f9 degli abeti .", "Labels": "1"}
+{"ID": "4639", "Sentence": "Amo i manuali , eccetto il cinema .", "Labels": "0"}
+{"ID": "1372", "Sentence": "Adoro i granchi , un tipo interessante di manzo .", "Labels": "0"}
+{"ID": "1591", "Sentence": "Posso capire la gioia , un tipo interessante di emozione .", "Labels": "1"}
+{"ID": "3859", "Sentence": "Apprezzo la carta da parati pi\u00f9 dei guardaroba .", "Labels": "1"}
+{"ID": "938", "Sentence": "Amo i maiali , un tipo interessante di anatra .", "Labels": "0"}
+{"ID": "4311", "Sentence": "Amo gli animali domestici , eccetto i criceti .", "Labels": "1"}
+{"ID": "5733", "Sentence": "Amo gli enduro , e pi\u00f9 specificamente le navi .", "Labels": "0"}
+{"ID": "4659", "Sentence": "Amo i camerieri , eccetto le fabbriche .", "Labels": "0"}
+{"ID": "846", "Sentence": "Amo gli uccelli , eccetto i cani .", "Labels": "0"}
+{"ID": "1933", "Sentence": "Amo le calze , ed anche gli occhiali .", "Labels": "1"}
+{"ID": "4792", "Sentence": "Amo i pappagalli , ma non i maiali .", "Labels": "1"}
+{"ID": "1131", "Sentence": "Uso il vetro , un tipo interessante di vinile .", "Labels": "0"}
+{"ID": "4215", "Sentence": "Amo le giraffe pi\u00f9 dei gatti .", "Labels": "1"}
+{"ID": "2513", "Sentence": "Amo il cinema , ed anche i sussidiari .", "Labels": "1"}
+{"ID": "4995", "Sentence": "Uso il vinile , ma non il vetro .", "Labels": "1"}
+{"ID": "3663", "Sentence": "Amo le navi pi\u00f9 delle Kawasakis .", "Labels": "1"}
+{"ID": "4539", "Sentence": "Si fida dei notiziari , eccetto che del tatto .", "Labels": "0"}
+{"ID": "1140", "Sentence": "Uso il cotone , un tipo interessante di PVC .", "Labels": "0"}
+{"ID": "2583", "Sentence": "Amo i ristoranti , ed anche i guardiani .", "Labels": "1"}
+{"ID": "2399", "Sentence": "Amo i conigli , ed anche le balene .", "Labels": "1"}
+{"ID": "1526", "Sentence": "Amo i conigli , un tipo interessante di orso .", "Labels": "0"}
+{"ID": "1011", "Sentence": "Amo gli animali domestici , un tipo interessante di camicia .", "Labels": "0"}
+{"ID": "343", "Sentence": "Amo i film , e pi\u00f9 specificamente le commedie .", "Labels": "1"}
+{"ID": "5431", "Sentence": "Si fida del gusto , ma non i notiziari .", "Labels": "1"}
+{"ID": "107", "Sentence": "Apprezzo il parquet , e pi\u00f9 specificamente i guardaroba .", "Labels": "0"}
+{"ID": "2265", "Sentence": "Amo il caviale , ed anche il tacchino .", "Labels": "1"}
+{"ID": "1086", "Sentence": "Adoro gli abeti , un tipo interessante di cespuglio .", "Labels": "0"}
+{"ID": "1789", "Sentence": "Amo i cani , ed anche i bobtail .", "Labels": "0"}
+{"ID": "4362", "Sentence": "Posso capire l' amore pi\u00f9 della logica .", "Labels": "1"}
+{"ID": "4764", "Sentence": "Amo i bulldog , ma non i gatti .", "Labels": "1"}
+{"ID": "1433", "Sentence": "Amo i videogiochi , un tipo interessante di commedia .", "Labels": "0"}
+{"ID": "3291", "Sentence": "Adoro i granchi , eccetto il pollo .", "Labels": "0"}
+{"ID": "769", "Sentence": "Apprezzo le posate , eccetto le sedie .", "Labels": "0"}
+{"ID": "4332", "Sentence": "Posso capire la gioia pi\u00f9 delle emozioni .", "Labels": "0"}
+{"ID": "1180", "Sentence": "Apprezzo i letti , un tipo interessante di posate .", "Labels": "0"}
+{"ID": "2904", "Sentence": "Non amo il vinile , preferisco la plastica .", "Labels": "0"}
+{"ID": "936", "Sentence": "Amo i criceti , un tipo interessante di anatra .", "Labels": "0"}
+{"ID": "2760", "Sentence": "Non amo le Suzuki , preferisco le moto .", "Labels": "0"}
+{"ID": "2508", "Sentence": "Amo la musica , ed anche i sussidiari .", "Labels": "1"}
+{"ID": "5348", "Sentence": "Amo i gatti , ma non le meduse .", "Labels": "1"}
+{"ID": "4347", "Sentence": "Posso capire la saggezza pi\u00f9 della paura .", "Labels": "1"}
+{"ID": "4721", "Sentence": "Ho incontrato gli astronomi , eccetto i guardiani .", "Labels": "0"}
+{"ID": "3183", "Sentence": "Non amo i sussidiari , preferisco le commedie .", "Labels": "1"}
+{"ID": "2934", "Sentence": "Non amo il parquet , preferisco le sedie .", "Labels": "1"}
+{"ID": "1373", "Sentence": "Adoro il manzo , un tipo interessante di granchi .", "Labels": "0"}
+{"ID": "137", "Sentence": "Apprezzo la coca cola , e pi\u00f9 specificamente lo Chardonnay .", "Labels": "0"}
+{"ID": "1118", "Sentence": "Uso il nylon , un tipo interessante di cotone .", "Labels": "0"}
+{"ID": "3778", "Sentence": "Uso la plastica pi\u00f9 del legno .", "Labels": "1"}
+{"ID": "793", "Sentence": "Apprezzo la carta da parati , eccetto i tavoli .", "Labels": "0"}
+{"ID": "5374", "Sentence": "Amo le meduse , ma non i conigli .", "Labels": "1"}
+{"ID": "2791", "Sentence": "Non amo le camicie , preferisco i vestiti .", "Labels": "0"}
+{"ID": "311", "Sentence": "Adoro il caviale , e pi\u00f9 specificamente il tacchino .", "Labels": "0"}
+{"ID": "2483", "Sentence": "Posso capire la paura , ed anche i calcoli .", "Labels": "1"}
+{"ID": "2341", "Sentence": "Amo le collane , ed anche le scarpe .", "Labels": "1"}
+{"ID": "2332", "Sentence": "Amo i gioielli , ed anche le scarpe .", "Labels": "1"}
+{"ID": "4452", "Sentence": "Amo i guardiani pi\u00f9 degli uffici .", "Labels": "1"}
+{"ID": "2152", "Sentence": "Apprezzo i giochi da tavolo , ed anche la techno .", "Labels": "1"}
+{"ID": "4623", "Sentence": "Amo i saggi , eccetto i dipinti .", "Labels": "0"}
+{"ID": "294", "Sentence": "Adoro il manzo , e pi\u00f9 specificamente i granchi .", "Labels": "0"}
+{"ID": "1363", "Sentence": "Adoro i granchi , un tipo interessante di pollo .", "Labels": "0"}
+{"ID": "2385", "Sentence": "Amo i cani , ed anche gli orsi .", "Labels": "1"}
+{"ID": "2939", "Sentence": "Non amo i mobili , preferisco i tavoli .", "Labels": "0"}
+{"ID": "3334", "Sentence": "Non si fida delle dicerie , preferisce il gusto .", "Labels": "1"}
+{"ID": "5270", "Sentence": "Amo i western , ma non i sussidiari .", "Labels": "1"}
+{"ID": "3054", "Sentence": "Non amo il blues , preferisco i gioielli .", "Labels": "1"}
+{"ID": "5536", "Sentence": "Amo i lavoratori , ma non le scuole .", "Labels": "1"}
+{"ID": "370", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente gli occhiali .", "Labels": "0"}
+{"ID": "3639", "Sentence": "Amo le Harley-Davidson pi\u00f9 degli aeroplani .", "Labels": "1"}
+{"ID": "1309", "Sentence": "Adoro il prosciutto cotto , un tipo interessante di carote .", "Labels": "0"}
+{"ID": "1486", "Sentence": "Amo le scarpe , un tipo interessante di orecchino .", "Labels": "0"}
+{"ID": "4779", "Sentence": "Amo i criceti , ma non i bassotti .", "Labels": "1"}
+{"ID": "3752", "Sentence": "Amo gli alberi pi\u00f9 degli abeti .", "Labels": "0"}
+{"ID": "1439", "Sentence": "Amo i documentari , un tipo interessante di film .", "Labels": "1"}
+{"ID": "2915", "Sentence": "Non amo la plastica , preferisco il PVC .", "Labels": "0"}
+{"ID": "3413", "Sentence": "Non amo i romanzi , preferisco la musica .", "Labels": "1"}
+{"ID": "1659", "Sentence": "Amo i romanzi , un tipo interessante di musica .", "Labels": "0"}
+{"ID": "5222", "Sentence": "Adoro i granchi , ma non il vitello .", "Labels": "1"}
+{"ID": "4472", "Sentence": "Amo i biologi pi\u00f9 dei guardiani .", "Labels": "1"}
+{"ID": "2273", "Sentence": "Amo i film , ed anche i saggi .", "Labels": "1"}
+{"ID": "2804", "Sentence": "Non amo i pantaloni , preferisco gli animali domestici .", "Labels": "1"}
+{"ID": "582", "Sentence": "Adoro le betulle , eccetto l' erba .", "Labels": "0"}
+{"ID": "1237", "Sentence": "Apprezzo la musica , un tipo interessante di rock .", "Labels": "0"}
+{"ID": "5697", "Sentence": "Amo i passeri , e pi\u00f9 specificamente i gatti .", "Labels": "0"}
+{"ID": "4696", "Sentence": "Ho incontrato i biologi , eccetto i camerieri .", "Labels": "0"}
+{"ID": "4640", "Sentence": "Amo il cinema , eccetto i manuali .", "Labels": "0"}
+{"ID": "570", "Sentence": "Amo i libri , e pi\u00f9 specificamente i dipinti .", "Labels": "0"}
+{"ID": "1841", "Sentence": "Amo i merli , ed anche gli uccelli .", "Labels": "0"}
+{"ID": "1666", "Sentence": "Amo i cartoni animati , un tipo interessante di romanzo .", "Labels": "0"}
+{"ID": "3272", "Sentence": "Non amo le giraffe , preferisco i conigli .", "Labels": "1"}
+{"ID": "4098", "Sentence": "Amo il vitello pi\u00f9 del caviale .", "Labels": "1"}
+{"ID": "298", "Sentence": "Adoro i prodotti del mare , e pi\u00f9 specificamente le ostriche .", "Labels": "1"}
+{"ID": "4055", "Sentence": "Amo gli occhiali , eccetto gli orecchini .", "Labels": "0"}
+{"ID": "3270", "Sentence": "Non amo le balene , preferisco i cani .", "Labels": "1"}
+{"ID": "3660", "Sentence": "Amo gli enduro pi\u00f9 degli aeroplani .", "Labels": "1"}
+{"ID": "4711", "Sentence": "Ho incontrato i genetisti , eccetto i guardiani .", "Labels": "0"}
+{"ID": "2422", "Sentence": "Si fida della vista , ed anche delle congetture .", "Labels": "1"}
+{"ID": "1936", "Sentence": "Amo gli orecchini , ed anche le calze .", "Labels": "1"}
+{"ID": "3140", "Sentence": "Non amo il vitello , preferisco il caviale .", "Labels": "1"}
+{"ID": "5230", "Sentence": "Adoro il pollo , ma non le ostriche .", "Labels": "1"}
+{"ID": "3288", "Sentence": "Non amo le meduse , preferisco i criceti .", "Labels": "1"}
+{"ID": "1211", "Sentence": "Apprezzo la sprite , un tipo interessante di Chardonnay .", "Labels": "0"}
+{"ID": "5672", "Sentence": "Amo i pappagalli , e pi\u00f9 specificamente i maiali .", "Labels": "0"}
+{"ID": "398", "Sentence": "Amo gli anelli , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "1128", "Sentence": "Uso il vinile , un tipo interessante di cotone .", "Labels": "0"}
+{"ID": "1034", "Sentence": "Amo le anatre , eccetto i maiali .", "Labels": "0"}
+{"ID": "1201", "Sentence": "Apprezzo il Merlot , un tipo interessante di birra .", "Labels": "0"}
+{"ID": "1850", "Sentence": "Amo i gatti , ed anche i passeri .", "Labels": "1"}
+{"ID": "5457", "Sentence": "Posso capire la paura , ma non la logica .", "Labels": "1"}
+{"ID": "3557", "Sentence": "Amo i bobtail pi\u00f9 dei criceti .", "Labels": "1"}
+{"ID": "3409", "Sentence": "Non amo i saggi , preferisco i cartoni animati .", "Labels": "1"}
+{"ID": "1776", "Sentence": "Amo i cani , ed anche i gatti .", "Labels": "1"}
+{"ID": "2799", "Sentence": "Non amo i vestiti , preferisco gli occhiali .", "Labels": "1"}
+{"ID": "5095", "Sentence": "Apprezzo il Primitivo , ma non l' acqua .", "Labels": "1"}
+{"ID": "5753", "Sentence": "Amo le camicie , eccetto le scarpe .", "Labels": "0"}
+{"ID": "5127", "Sentence": "Apprezzo il cibo , ma non il jazz .", "Labels": "1"}
+{"ID": "3424", "Sentence": "Non amo la musica , preferisco i manuali .", "Labels": "1"}
+{"ID": "876", "Sentence": "Amo i cani , un tipo interessante di gatto .", "Labels": "0"}
+{"ID": "405", "Sentence": "Amo le scarpe , e pi\u00f9 specificamente gli anelli .", "Labels": "0"}
+{"ID": "5035", "Sentence": "Apprezzo il parquet , ma non i tavoli .", "Labels": "1"}
+{"ID": "4735", "Sentence": "Amo i cani , eccetto gli husky .", "Labels": "1"}
+{"ID": "2228", "Sentence": "Amo i prodotti del mare , ed anche il salmone .", "Labels": "0"}
+{"ID": "3114", "Sentence": "Non amo i prodotti del mare , preferisco il manzo .", "Labels": "1"}
+{"ID": "2313", "Sentence": "Adoro il prosciutto , eccetto i broccoli .", "Labels": "0"}
+{"ID": "1540", "Sentence": "Amo i criceti , un tipo interessante di balena .", "Labels": "0"}
+{"ID": "5641", "Sentence": "Amo i bobtail , e pi\u00f9 specificamente i conigli .", "Labels": "0"}
+{"ID": "939", "Sentence": "Amo le anatre , un tipo interessante di cane .", "Labels": "0"}
+{"ID": "992", "Sentence": "Amo le moto , un tipo interessante di enduro .", "Labels": "0"}
+{"ID": "1424", "Sentence": "Amo le commedie , un tipo interessante di saggio .", "Labels": "0"}
+{"ID": "2", "Sentence": "Amo l' erba , e pi\u00f9 specificamente gli abeti .", "Labels": "0"}
+{"ID": "822", "Sentence": "Apprezzo il parquet , eccetto i letti .", "Labels": "0"}
+{"ID": "1997", "Sentence": "Uso il cotone , ed anche il poliestere .", "Labels": "1"}
+{"ID": "5083", "Sentence": "Apprezzo il Chianti , ma non il vino .", "Labels": "0"}
+{"ID": "5310", "Sentence": "Amo le collane , ma non le borsette .", "Labels": "1"}
+{"ID": "2398", "Sentence": "Amo le meduse , ed anche i conigli .", "Labels": "1"}
+{"ID": "4368", "Sentence": "Posso capire la tristezza pi\u00f9 delle emozioni .", "Labels": "0"}
+{"ID": "5640", "Sentence": "Amo i pappagalli , e pi\u00f9 specificamente i bobtail .", "Labels": "0"}
+{"ID": "5542", "Sentence": "Amo i camerieri , ma non i lavoratori .", "Labels": "0"}
+{"ID": "102", "Sentence": "Apprezzo i guardaroba , e pi\u00f9 specificamente i dipinti .", "Labels": "0"}
+{"ID": "2043", "Sentence": "Apprezzo le sedie , ed anche la carta da parati .", "Labels": "1"}
+{"ID": "5806", "Sentence": "Amo le gonne , e pi\u00f9 specificamente gli orecchini .", "Labels": "0"}
+{"ID": "1192", "Sentence": "Apprezzo il Merlot , un tipo interessante di vino .", "Labels": "1"}
+{"ID": "276", "Sentence": "Adoro il salmone , e pi\u00f9 specificamente il vitello .", "Labels": "0"}
+{"ID": "1572", "Sentence": "Si fida dei sensi , un tipo interessante del tatto .", "Labels": "0"}
+{"ID": "2674", "Sentence": "Non amo i cani , preferisco i bobtail .", "Labels": "0"}
+{"ID": "1028", "Sentence": "Amo i pantaloni , un tipo interessante di gioielli .", "Labels": "0"}
+{"ID": "736", "Sentence": "Uso la plastica , eccetto il cuoio .", "Labels": "0"}
+{"ID": "500", "Sentence": "Si fida del gusto , e pi\u00f9 specificamente dei sensi .", "Labels": "0"}
+{"ID": "4179", "Sentence": "Amo i braccialetti pi\u00f9 delle scarpe .", "Labels": "1"}
+{"ID": "3121", "Sentence": "Non amo i granchi , preferisco il tacchino .", "Labels": "1"}
+{"ID": "3740", "Sentence": "Amo gli animali pi\u00f9 delle betulle .", "Labels": "1"}
+{"ID": "2914", "Sentence": "Non amo il PVC , preferisco la plastica .", "Labels": "0"}
+{"ID": "852", "Sentence": "Apprezzo la coca cola , eccetto il Chianti .", "Labels": "0"}
+{"ID": "412", "Sentence": "Amo gli orsi , e pi\u00f9 specificamente i gatti .", "Labels": "0"}
+{"ID": "3497", "Sentence": "Non amo i camerieri , preferisco i genetisti .", "Labels": "1"}
+{"ID": "1381", "Sentence": "Adoro il vitello , un tipo interessante di ostriche .", "Labels": "0"}
+{"ID": "5091", "Sentence": "Apprezzo il Primitivo , ma non la coca cola .", "Labels": "1"}
+{"ID": "3055", "Sentence": "Non amo i gioielli , preferisco il blues .", "Labels": "1"}
+{"ID": "816", "Sentence": "Apprezzo i letti , eccetto i dipinti .", "Labels": "0"}
+{"ID": "3999", "Sentence": "Amo le sciarpe , eccetto le collane .", "Labels": "0"}
+{"ID": "1321", "Sentence": "Adoro le mele , un tipo interessante di prosciutto .", "Labels": "0"}
+{"ID": "2726", "Sentence": "Non amo i merli , preferisco gli uccelli .", "Labels": "0"}
+{"ID": "2776", "Sentence": "Non amo gli enduro , preferisco gli aeroplani .", "Labels": "1"}
+{"ID": "1902", "Sentence": "Amo gli aeroplani , ed anche le Kawasakis .", "Labels": "1"}
+{"ID": "730", "Sentence": "Uso la plastica , eccetto il cotone .", "Labels": "0"}
+{"ID": "2085", "Sentence": "Apprezzo l' acqua , ed anche il Merlot .", "Labels": "1"}
+{"ID": "3843", "Sentence": "Apprezzo i mobili pi\u00f9 dei tavoli .", "Labels": "0"}
+{"ID": "2644", "Sentence": "Adoro il lardo , eccetto il pesce .", "Labels": "0"}
+{"ID": "5687", "Sentence": "Amo i merli , e pi\u00f9 specificamente i gatti .", "Labels": "0"}
+{"ID": "3416", "Sentence": "Non amo i libri , preferisco i romanzi .", "Labels": "0"}
+{"ID": "588", "Sentence": "Amo il cinema , e pi\u00f9 specificamente i romanzi .", "Labels": "0"}
+{"ID": "3985", "Sentence": "Amo i braccialetti , eccetto le sciarpe .", "Labels": "0"}
+{"ID": "284", "Sentence": "Adoro i prodotti del mare , e pi\u00f9 specificamente il manzo .", "Labels": "0"}
+{"ID": "1199", "Sentence": "Apprezzo la sprite , un tipo interessante di Merlot .", "Labels": "0"}
+{"ID": "5038", "Sentence": "Apprezzo i guardaroba , ma non i mobili .", "Labels": "0"}
+{"ID": "1060", "Sentence": "Adoro gli alberi , un tipo interessante di erba .", "Labels": "0"}
+{"ID": "3877", "Sentence": "Apprezzo il Merlot pi\u00f9 dell' acqua .", "Labels": "1"}
+{"ID": "4757", "Sentence": "Amo i bobtail , ma non i criceti .", "Labels": "1"}
+{"ID": "5442", "Sentence": "Posso capire la gioia , ma non la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "946", "Sentence": "Amo i merli , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "549", "Sentence": "Posso capire la tristezza , e pi\u00f9 specificamente le emozioni .", "Labels": "0"}
+{"ID": "3064", "Sentence": "Non amo il maiale , preferisco i broccoli .", "Labels": "1"}
+{"ID": "5181", "Sentence": "Adoro il bacon , ma non il maiale .", "Labels": "0"}
+{"ID": "3256", "Sentence": "Non amo le meduse , preferisco i gatti .", "Labels": "1"}
+{"ID": "4158", "Sentence": "Amo i sussidiari pi\u00f9 dei documentari .", "Labels": "1"}
+{"ID": "5510", "Sentence": "Amo i romanzi , ma non il cinema .", "Labels": "1"}
+{"ID": "155", "Sentence": "Apprezzo la sprite , e pi\u00f9 specificamente il Chianti .", "Labels": "0"}
+{"ID": "2519", "Sentence": "Amo i sussidiari , ed anche i dipinti .", "Labels": "1"}
+{"ID": "4477", "Sentence": "Amo gli scienziati pi\u00f9 dei portieri .", "Labels": "1"}
+{"ID": "3378", "Sentence": "Non ama i calcoli , preferisce l' amore .", "Labels": "1"}
+{"ID": "2461", "Sentence": "Posso capire la gioia , ed anche la saggezza .", "Labels": "1"}
+{"ID": "4593", "Sentence": "Posso capire le emozioni , eccetto la tristezza .", "Labels": "1"}
+{"ID": "3757", "Sentence": "Amo i cespugli pi\u00f9 degli abeti .", "Labels": "1"}
+{"ID": "4283", "Sentence": "Si fida della vista pi\u00f9 che dei notiziari .", "Labels": "1"}
+{"ID": "1679", "Sentence": "Amo i criceti , eccetto i merli .", "Labels": "0"}
+{"ID": "3244", "Sentence": "Non amo gli occhiali , preferisco gli anelli .", "Labels": "1"}
+{"ID": "835", "Sentence": "Apprezzo il vino , eccetto la sprite .", "Labels": "0"}
+{"ID": "1574", "Sentence": "Si fida dei notiziari , un tipo interessante del tatto .", "Labels": "0"}
+{"ID": "4509", "Sentence": "Si fida della vista , eccetto che delle dicerie .", "Labels": "0"}
+{"ID": "1610", "Sentence": "Posso capire la paura , un tipo interessante di logica .", "Labels": "0"}
+{"ID": "3399", "Sentence": "Non amo i libri , preferisco i cartoni animati .", "Labels": "1"}
+{"ID": "3579", "Sentence": "Amo i bassotti pi\u00f9 dei criceti .", "Labels": "1"}
+{"ID": "1712", "Sentence": "Amo i guardiani , un tipo interessante di ufficio .", "Labels": "0"}
+{"ID": "2578", "Sentence": "Amo i guardiani , ed anche le fabbriche .", "Labels": "1"}
+{"ID": "1332", "Sentence": "Adoro le mele , un tipo interessante di bacon .", "Labels": "0"}
+{"ID": "1198", "Sentence": "Apprezzo il Merlot , un tipo interessante di sprite .", "Labels": "0"}
+{"ID": "3771", "Sentence": "Amo i pini pi\u00f9 degli arbusti .", "Labels": "1"}
+{"ID": "5486", "Sentence": "Amo i libri , ma non la musica .", "Labels": "1"}
+{"ID": "2096", "Sentence": "Apprezzo il vino , ed anche lo Chardonnay .", "Labels": "0"}
+{"ID": "2944", "Sentence": "Non amo i tavoli , preferisco il parquet .", "Labels": "1"}
+{"ID": "2585", "Sentence": "Amo le scuole , ed anche i guardiani .", "Labels": "1"}
+{"ID": "1072", "Sentence": "Adoro le betulle , un tipo interessante di albero .", "Labels": "1"}
+{"ID": "5667", "Sentence": "Amo gli uccelli , e pi\u00f9 specificamente i pappagalli .", "Labels": "1"}
+{"ID": "761", "Sentence": "Uso il PVC , eccetto il cotone .", "Labels": "0"}
+{"ID": "5241", "Sentence": "Adoro il pollo , ma non il caviale .", "Labels": "1"}
+{"ID": "5591", "Sentence": "Ho incontrato i guardiani , ma non i genetisti .", "Labels": "1"}
+{"ID": "5268", "Sentence": "Amo i western , ma non i film .", "Labels": "0"}
+{"ID": "88", "Sentence": "Apprezzo i tavoli , e pi\u00f9 specificamente le posate .", "Labels": "0"}
+{"ID": "3581", "Sentence": "Amo i bassotti pi\u00f9 dei pappagalli .", "Labels": "1"}
+{"ID": "1981", "Sentence": "Amo i pini , ed anche l' erba .", "Labels": "1"}
+{"ID": "1117", "Sentence": "Uso la plastica , un tipo interessante di nylon .", "Labels": "0"}
+{"ID": "5056", "Sentence": "Apprezzo il parquet , ma non i letti .", "Labels": "1"}
+{"ID": "1949", "Sentence": "Amo le querce , ed anche gli alberi .", "Labels": "0"}
+{"ID": "4233", "Sentence": "Amo le giraffe pi\u00f9 dei cani .", "Labels": "1"}
+{"ID": "3435", "Sentence": "Non amo gli impiegati , preferisco i lavoratori .", "Labels": "0"}
+{"ID": "3122", "Sentence": "Non amo il tacchino , preferisco i granchi .", "Labels": "1"}
+{"ID": "1166", "Sentence": "Apprezzo i tavoli , un tipo interessante di carta da parati .", "Labels": "0"}
+{"ID": "5381", "Sentence": "Amo i criceti , ma non gli orsi .", "Labels": "1"}
+{"ID": "1437", "Sentence": "Amo i documentari , un tipo interessante di saggio .", "Labels": "0"}
+{"ID": "1035", "Sentence": "Amo le calze , un tipo interessante di animale domestico .", "Labels": "0"}
+{"ID": "4949", "Sentence": "Adoro gli arbusti , ma non gli abeti .", "Labels": "1"}
+{"ID": "4794", "Sentence": "Amo gli uccelli , ma non i maiali .", "Labels": "1"}
+{"ID": "3601", "Sentence": "Amo gli uccelli pi\u00f9 delle anatre .", "Labels": "0"}
+{"ID": "1202", "Sentence": "Apprezzo la birra , un tipo interessante di Merlot .", "Labels": "0"}
+{"ID": "400", "Sentence": "Amo gli anelli , e pi\u00f9 specificamente le sciarpe .", "Labels": "0"}
+{"ID": "914", "Sentence": "Amo i pappagalli , un tipo interessante di bassotto .", "Labels": "0"}
+{"ID": "5702", "Sentence": "Amo i criceti , e pi\u00f9 specificamente i passeri .", "Labels": "0"}
+{"ID": "2382", "Sentence": "Amo le giraffe , ed anche i cani .", "Labels": "1"}
+{"ID": "165", "Sentence": "Apprezzo l' acqua , e pi\u00f9 specificamente il Primitivo .", "Labels": "0"}
+{"ID": "2235", "Sentence": "Amo i prodotti del mare , ed anche il tacchino .", "Labels": "1"}
+{"ID": "2430", "Sentence": "Si fida dell' udito , ed anche dei notiziari .", "Labels": "1"}
+{"ID": "616", "Sentence": "Ho incontrato i lavoratori , e pi\u00f9 specificamente i ristoranti .", "Labels": "0"}
+{"ID": "2962", "Sentence": "Non amo i letti , preferisco la carta da parati .", "Labels": "1"}
+{"ID": "4919", "Sentence": "Adoro gli alberi , ma non gli animali .", "Labels": "1"}
+{"ID": "728", "Sentence": "Uso il poliestere , eccetto il cotone .", "Labels": "0"}
+{"ID": "1080", "Sentence": "Adoro gli abeti , un tipo interessante di erba .", "Labels": "0"}
+{"ID": "777", "Sentence": "Apprezzo la carta da parati , eccetto le sedie .", "Labels": "0"}
+{"ID": "5469", "Sentence": "Posso capire l' amore , ma non i calcoli .", "Labels": "1"}
+{"ID": "3120", "Sentence": "Non amo il vitello , preferisco i granchi .", "Labels": "1"}
+{"ID": "3572", "Sentence": "Amo i pappagalli pi\u00f9 dei bulldog .", "Labels": "1"}
+{"ID": "1759", "Sentence": "Ho incontrato gli impiegati , un tipo interessante di fisico .", "Labels": "0"}
+{"ID": "1065", "Sentence": "Adoro i cespugli , un tipo interessante di quercia .", "Labels": "0"}
+{"ID": "4850", "Sentence": "Amo gli enduro , ma non le navi .", "Labels": "1"}
+{"ID": "756", "Sentence": "Uso il cuoio , eccetto il vinile .", "Labels": "0"}
+{"ID": "454", "Sentence": "Adoro le querce , eccetto l' erba .", "Labels": "0"}
+{"ID": "1963", "Sentence": "Amo le betulle , ed anche gli alberi .", "Labels": "0"}
+{"ID": "671", "Sentence": "Ho incontrato i genetisti , e pi\u00f9 specificamente gli impiegati .", "Labels": "0"}
+{"ID": "3582", "Sentence": "Amo i pappagalli pi\u00f9 dei bassotti .", "Labels": "1"}
+{"ID": "4392", "Sentence": "Amo i saggi pi\u00f9 dei libri .", "Labels": "0"}
+{"ID": "5611", "Sentence": "Ho incontrato i fisici , ma non i guardiani .", "Labels": "1"}
+{"ID": "267", "Sentence": "Adoro il lardo , e pi\u00f9 specificamente le mele .", "Labels": "0"}
+{"ID": "5694", "Sentence": "Amo i maiali , e pi\u00f9 specificamente i merli .", "Labels": "0"}
+{"ID": "3212", "Sentence": "Non amo i braccialetti , preferisco le scarpe .", "Labels": "1"}
+{"ID": "4827", "Sentence": "Amo i cani , eccetto i gatti .", "Labels": "0"}
+{"ID": "3855", "Sentence": "Apprezzo i mobili pi\u00f9 dei guardaroba .", "Labels": "0"}
+{"ID": "3104", "Sentence": "Non amo i prodotti del mare , preferisco il salmone .", "Labels": "0"}
+{"ID": "3917", "Sentence": "Apprezzo l' acqua pi\u00f9 del Primitivo .", "Labels": "1"}
+{"ID": "2184", "Sentence": "Amo il maiale , ed anche le mele .", "Labels": "1"}
+{"ID": "4290", "Sentence": "Si fida delle congetture pi\u00f9 che della vista .", "Labels": "1"}
+{"ID": "2406", "Sentence": "Amo gli orsi , ed anche i criceti .", "Labels": "1"}
+{"ID": "3009", "Sentence": "Non amo il Primitivo , preferisco la birra .", "Labels": "1"}
+{"ID": "4710", "Sentence": "Ho incontrato i camerieri , eccetto i genetisti .", "Labels": "0"}
+{"ID": "4854", "Sentence": "Amo le biciclette , ma non gli enduro .", "Labels": "1"}
+{"ID": "5792", "Sentence": "Amo le calze , e pi\u00f9 specificamente gli occhiali .", "Labels": "0"}
+{"ID": "5055", "Sentence": "Apprezzo i letti , ma non il parquet .", "Labels": "1"}
+{"ID": "5161", "Sentence": "Adoro i broccoli , ma non il prosciutto cotto .", "Labels": "1"}
+{"ID": "2758", "Sentence": "Non amo le Suzuki , preferisco le navi .", "Labels": "1"}
+{"ID": "4288", "Sentence": "Si fida dei sensi pi\u00f9 che delle ricostruzioni .", "Labels": "1"}
+{"ID": "4485", "Sentence": "Amo i guardiani pi\u00f9 dei genetisti .", "Labels": "1"}
+{"ID": "3521", "Sentence": "Adoro le ostriche , eccetto il vitello .", "Labels": "0"}
+{"ID": "3607", "Sentence": "Amo i cani pi\u00f9 delle anatre .", "Labels": "1"}
+{"ID": "1934", "Sentence": "Amo gli occhiali , ed anche le calze .", "Labels": "1"}
+{"ID": "5495", "Sentence": "Amo i libri , ma non i dipinti .", "Labels": "1"}
+{"ID": "1643", "Sentence": "Amo i cartoni animati , un tipo interessante di libro di testo .", "Labels": "0"}
+{"ID": "2027", "Sentence": "Uso il PVC , ed anche la plastica .", "Labels": "0"}
+{"ID": "5108", "Sentence": "Apprezzo il rock , ma non la musica .", "Labels": "0"}
+{"ID": "145", "Sentence": "Apprezzo lo Chardonnay , e pi\u00f9 specificamente la birra .", "Labels": "0"}
+{"ID": "1763", "Sentence": "Ho incontrato i camerieri , un tipo interessante di fisico .", "Labels": "0"}
+{"ID": "1974", "Sentence": "Amo gli alberi , ed anche gli abeti .", "Labels": "0"}
+{"ID": "3946", "Sentence": "Apprezzo la musica pi\u00f9 del cibo .", "Labels": "1"}
+{"ID": "4173", "Sentence": "Amo le sciarpe pi\u00f9 dei braccialetti .", "Labels": "1"}
+{"ID": "5437", "Sentence": "Posso capire la gioia , ma non la saggezza .", "Labels": "1"}
+{"ID": "2012", "Sentence": "Uso il vetro , ed anche il nylon .", "Labels": "1"}
+{"ID": "5034", "Sentence": "Apprezzo i tavoli , ma non il parquet .", "Labels": "1"}
+{"ID": "5110", "Sentence": "Apprezzo la musica , ma non gli sport .", "Labels": "1"}
+{"ID": "2475", "Sentence": "Posso capire la paura , ed anche la saggezza .", "Labels": "1"}
+{"ID": "3796", "Sentence": "Uso il nylon pi\u00f9 del cuoio .", "Labels": "1"}
+{"ID": "925", "Sentence": "Amo gli uccelli , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "2792", "Sentence": "Non amo i vestiti , preferisco le camicie .", "Labels": "0"}
+{"ID": "1319", "Sentence": "Apprezzo il cibo , eccetto il jazz .", "Labels": "0"}
+{"ID": "1475", "Sentence": "Amo le scarpe , un tipo interessante di collana .", "Labels": "0"}
+{"ID": "3044", "Sentence": "Non amo la techno , preferisco i gioielli .", "Labels": "1"}
+{"ID": "4610", "Sentence": "Amo i libri , eccetto i cartoni animati .", "Labels": "0"}
+{"ID": "1960", "Sentence": "Amo gli alberi , ed anche gli arbusti .", "Labels": "1"}
+{"ID": "2252", "Sentence": "Amo i prodotti del mare , ed anche le ostriche .", "Labels": "0"}
+{"ID": "4683", "Sentence": "Amo i lavoratori , eccetto i professori .", "Labels": "1"}
+{"ID": "1173", "Sentence": "Apprezzo i mobili , un tipo interessante di guardaroba .", "Labels": "0"}
+{"ID": "2812", "Sentence": "Non amo i pantaloni , preferisco gli orecchini .", "Labels": "1"}
+{"ID": "416", "Sentence": "Amo gli animali domestici , e pi\u00f9 specificamente le meduse .", "Labels": "0"}
+{"ID": "1269", "Sentence": "Apprezzo la techno , un tipo interessante di gioco da tavolo .", "Labels": "0"}
+{"ID": "2702", "Sentence": "Non amo i gatti , preferisco i pappagalli .", "Labels": "1"}
+{"ID": "202", "Sentence": "Apprezzo il jazz , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "1722", "Sentence": "Amo i professori , un tipo interessante di ufficio .", "Labels": "0"}
+{"ID": "89", "Sentence": "Apprezzo le posate , e pi\u00f9 specificamente i tavoli .", "Labels": "0"}
+{"ID": "1943", "Sentence": "Amo le gonne , ed anche gli occhiali .", "Labels": "1"}
+{"ID": "427", "Sentence": "Amo le meduse , e pi\u00f9 specificamente i cani .", "Labels": "0"}
+{"ID": "4931", "Sentence": "Adoro le betulle , ma non gli animali .", "Labels": "1"}
+{"ID": "1780", "Sentence": "Amo gli husky , ed anche i pappagalli .", "Labels": "1"}
+{"ID": "393", "Sentence": "Amo gli orecchini , e pi\u00f9 specificamente le scarpe .", "Labels": "0"}
+{"ID": "3174", "Sentence": "Non amo i giochi da tavolo , preferisco i western .", "Labels": "1"}
+{"ID": "1145", "Sentence": "Apprezzo le sedie , un tipo interessante di posate .", "Labels": "0"}
+{"ID": "2237", "Sentence": "Amo il manzo , ed anche il salmone .", "Labels": "1"}
+{"ID": "1842", "Sentence": "Amo gli uccelli , ed anche i merli .", "Labels": "0"}
+{"ID": "929", "Sentence": "Amo i pappagalli , un tipo interessante di cane .", "Labels": "0"}
+{"ID": "5616", "Sentence": "Amo i bulldog , eccetto i cani .", "Labels": "0"}
+{"ID": "5620", "Sentence": "Amo gli husky , e pi\u00f9 specificamente i cani .", "Labels": "0"}
+{"ID": "3502", "Sentence": "Non amo i portieri , preferisco i genetisti .", "Labels": "1"}
+{"ID": "3232", "Sentence": "Adoro i prodotti del mare , eccetto il manzo .", "Labels": "0"}
+{"ID": "1661", "Sentence": "Amo i romanzi , un tipo interessante di libro .", "Labels": "1"}
+{"ID": "5459", "Sentence": "Posso capire la paura , ma non i calcoli .", "Labels": "1"}
+{"ID": "633", "Sentence": "Ho incontrato i camerieri , e pi\u00f9 specificamente gli uffici .", "Labels": "0"}
+{"ID": "3395", "Sentence": "Non amo il cinema , preferisco i sussidiari .", "Labels": "1"}
+{"ID": "5432", "Sentence": "Si fida dei notiziari , ma non il gusto .", "Labels": "1"}
+{"ID": "719", "Sentence": "Adoro i pini , eccetto i cespugli .", "Labels": "0"}
+{"ID": "1608", "Sentence": "Posso capire la paura , un tipo interessante di stupidit\u00e0 .", "Labels": "0"}
+{"ID": "1090", "Sentence": "Adoro i pini , un tipo interessante di erba .", "Labels": "0"}
+{"ID": "159", "Sentence": "Amo gli occhiali , eccetto le calze .", "Labels": "0"}
+{"ID": "2710", "Sentence": "Non amo i maiali , preferisco i pappagalli .", "Labels": "1"}
+{"ID": "3225", "Sentence": "Non amo le scarpe , preferisco le collane .", "Labels": "1"}
+{"ID": "3865", "Sentence": "Apprezzo i mobili pi\u00f9 dei letti .", "Labels": "0"}
+{"ID": "1301", "Sentence": "Adoro il maiale , un tipo interessante di prosciutto cotto .", "Labels": "0"}
+{"ID": "19", "Sentence": "Amo gli animali , e pi\u00f9 specificamente i pini .", "Labels": "0"}
+{"ID": "4267", "Sentence": "Amo le balene pi\u00f9 dei criceti .", "Labels": "1"}
+{"ID": "4643", "Sentence": "Amo i manuali , eccetto i dipinti .", "Labels": "0"}
+{"ID": "544", "Sentence": "Posso capire la logica , e pi\u00f9 specificamente l' amore .", "Labels": "0"}
+{"ID": "4657", "Sentence": "Amo gli uffici , eccetto gli impiegati .", "Labels": "0"}
+{"ID": "4852", "Sentence": "Amo gli enduro , ma non le moto .", "Labels": "0"}
+{"ID": "3934", "Sentence": "Amo i documentari , eccetto i videogiochi .", "Labels": "0"}
+{"ID": "3474", "Sentence": "Non amo le scuole , preferisco i professori .", "Labels": "1"}
+{"ID": "1537", "Sentence": "Amo gli orsi , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "3499", "Sentence": "Non amo i genetisti , preferisco i guardiani .", "Labels": "1"}
+{"ID": "2433", "Sentence": "Si fida dell' udito , ed anche delle ricostruzioni .", "Labels": "1"}
+{"ID": "2963", "Sentence": "Non amo la carta da parati , preferisco i letti .", "Labels": "1"}
+{"ID": "379", "Sentence": "Amo le collane , e pi\u00f9 specificamente le sciarpe .", "Labels": "0"}
+{"ID": "528", "Sentence": "Posso capire la saggezza , e pi\u00f9 specificamente la paura .", "Labels": "0"}
+{"ID": "282", "Sentence": "Adoro il salmone , e pi\u00f9 specificamente il manzo .", "Labels": "0"}
+{"ID": "5609", "Sentence": "Ho incontrato i fisici , ma non i camerieri .", "Labels": "1"}
+{"ID": "277", "Sentence": "Adoro il vitello , e pi\u00f9 specificamente il salmone .", "Labels": "0"}
+{"ID": "1106", "Sentence": "Uso il cotone , un tipo interessante di poliestere .", "Labels": "0"}
+{"ID": "4253", "Sentence": "Amo le meduse pi\u00f9 dei conigli .", "Labels": "1"}
+{"ID": "4551", "Sentence": "Si fida delle ricostruzioni , eccetto che del gusto .", "Labels": "0"}
+{"ID": "2377", "Sentence": "Amo i gatti , ed anche le balene .", "Labels": "1"}
+{"ID": "1508", "Sentence": "Amo gli animali domestici , un tipo interessante di meduse .", "Labels": "0"}
+{"ID": "365", "Sentence": "Amo i braccialetti , e pi\u00f9 specificamente le sciarpe .", "Labels": "0"}
+{"ID": "4676", "Sentence": "Amo i guardiani , eccetto le scuole .", "Labels": "0"}
+{"ID": "3077", "Sentence": "Non amo il prosciutto , preferisco le mele .", "Labels": "1"}
+{"ID": "2532", "Sentence": "Amo i dipinti , ed anche i saggi .", "Labels": "1"}
+{"ID": "2647", "Sentence": "Adoro il maiale , eccetto il lardo .", "Labels": "1"}
+{"ID": "4759", "Sentence": "Amo i bobtail , ma non i pappagalli .", "Labels": "1"}
+{"ID": "2316", "Sentence": "Amo i documentari , ed anche i videogiochi .", "Labels": "1"}
+{"ID": "3608", "Sentence": "Amo i merli pi\u00f9 dei gatti .", "Labels": "1"}
+{"ID": "2352", "Sentence": "Amo gli occhiali , ed anche gli orecchini .", "Labels": "1"}
+{"ID": "618", "Sentence": "Ho incontrato le scuole , e pi\u00f9 specificamente gli impiegati .", "Labels": "0"}
+{"ID": "1185", "Sentence": "Apprezzo i dipinti , un tipo interessante di letto .", "Labels": "0"}
+{"ID": "5004", "Sentence": "Uso il cotone , ma non il PVC .", "Labels": "1"}
+{"ID": "4163", "Sentence": "Amo i videogiochi pi\u00f9 dei documentari .", "Labels": "1"}
+{"ID": "367", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente le sciarpe .", "Labels": "0"}
+{"ID": "1124", "Sentence": "Uso il vinile , un tipo interessante di legno .", "Labels": "0"}
+{"ID": "2029", "Sentence": "Uso il PVC , ed anche il cotone .", "Labels": "1"}
+{"ID": "5682", "Sentence": "Amo i criceti , e pi\u00f9 specificamente le anatre .", "Labels": "0"}
+{"ID": "721", "Sentence": "Adoro i pini , eccetto gli arbusti .", "Labels": "0"}
+{"ID": "1813", "Sentence": "Amo i pappagalli , ed anche i bassotti .", "Labels": "1"}
+{"ID": "3949", "Sentence": "Apprezzo la musica pi\u00f9 dei gioielli .", "Labels": "1"}
+{"ID": "1993", "Sentence": "Uso il poliestere , ed anche la plastica .", "Labels": "0"}
+{"ID": "3238", "Sentence": "Non amo le borsette , preferisco gli anelli .", "Labels": "1"}
+{"ID": "3455", "Sentence": "Non amo i camerieri , preferisco gli uffici .", "Labels": "1"}
+{"ID": "4328", "Sentence": "Amo i criceti , eccetto le meduse .", "Labels": "0"}
+{"ID": "5245", "Sentence": "Adoro il vitello , ma non il caviale .", "Labels": "1"}
+{"ID": "1464", "Sentence": "Apprezzo il blues , eccetto il cibo .", "Labels": "0"}
+{"ID": "2106", "Sentence": "Apprezzo il vino , ed anche il Chianti .", "Labels": "0"}
+{"ID": "5032", "Sentence": "Apprezzo i tavoli , ma non la carta da parati .", "Labels": "1"}
+{"ID": "5206", "Sentence": "Adoro il salmone , ma non i prodotti del mare .", "Labels": "0"}
+{"ID": "154", "Sentence": "Apprezzo il Chianti , e pi\u00f9 specificamente la sprite .", "Labels": "0"}
+{"ID": "3365", "Sentence": "Non ama la paura , preferisce la logica .", "Labels": "1"}
+{"ID": "1482", "Sentence": "Apprezzo il blues , eccetto i gioielli .", "Labels": "0"}
+{"ID": "3229", "Sentence": "Non amo i gioielli , preferisco gli orecchini .", "Labels": "0"}
+{"ID": "5033", "Sentence": "Apprezzo la carta da parati , ma non i tavoli .", "Labels": "1"}
+{"ID": "1339", "Sentence": "Adoro il maiale , un tipo interessante di lardo .", "Labels": "0"}
+{"ID": "4171", "Sentence": "Amo i gioielli pi\u00f9 delle borsette .", "Labels": "1"}
+{"ID": "2413", "Sentence": "Si fida della vista , ed anche dei sensi .", "Labels": "0"}
+{"ID": "5009", "Sentence": "Amo le moto , eccetto gli enduro .", "Labels": "0"}
+{"ID": "1892", "Sentence": "Amo gli aeroplani , ed anche gli enduro .", "Labels": "1"}
+{"ID": "451", "Sentence": "Amo i cani , eccetto i bassotti .", "Labels": "1"}
+{"ID": "1485", "Sentence": "Amo gli orecchini , un tipo interessante di scarpa .", "Labels": "0"}
+{"ID": "2889", "Sentence": "Non amo il poliestere , preferisco il cuoio .", "Labels": "1"}
+{"ID": "1538", "Sentence": "Amo i criceti , un tipo interessante di meduse .", "Labels": "0"}
+{"ID": "2359", "Sentence": "Amo gli anelli , ed anche le sciarpe .", "Labels": "1"}
+{"ID": "5499", "Sentence": "Amo i libri , ma non i saggi .", "Labels": "1"}
+{"ID": "3029", "Sentence": "Non amo la musica , preferisco il jazz .", "Labels": "0"}
+{"ID": "2195", "Sentence": "Amo il prosciutto , ed anche le mele .", "Labels": "1"}
+{"ID": "4994", "Sentence": "Amo i treni , eccetto le Harley-Davidson .", "Labels": "0"}
+{"ID": "1416", "Sentence": "Amo i western , un tipo interessante di film .", "Labels": "1"}
+{"ID": "4056", "Sentence": "Amo gli orecchini , eccetto le scarpe .", "Labels": "0"}
+{"ID": "4182", "Sentence": "Amo i gioielli pi\u00f9 delle scarpe .", "Labels": "1"}
+{"ID": "4416", "Sentence": "Amo i manuali pi\u00f9 dei cartoni animati .", "Labels": "1"}
+{"ID": "4442", "Sentence": "Amo i camerieri pi\u00f9 degli uffici .", "Labels": "1"}
+{"ID": "9", "Sentence": "Amo i cespugli , e pi\u00f9 specificamente gli abeti .", "Labels": "0"}
+{"ID": "3737", "Sentence": "Amo le betulle pi\u00f9 degli alberi .", "Labels": "0"}
+{"ID": "2716", "Sentence": "Non amo le anatre , preferisco gli uccelli .", "Labels": "0"}
+{"ID": "4309", "Sentence": "Si fida del tatto pi\u00f9 che dei notiziari .", "Labels": "1"}
+{"ID": "1027", "Sentence": "Amo i vestiti , un tipo interessante di pantaloni .", "Labels": "0"}
+{"ID": "3520", "Sentence": "Non amo i camerieri , preferisco i fisici .", "Labels": "1"}
+{"ID": "4104", "Sentence": "Amo gli anelli , eccetto i gioielli .", "Labels": "0"}
+{"ID": "1047", "Sentence": "Amo le gonne , un tipo interessante di vestiti .", "Labels": "1"}
+{"ID": "3160", "Sentence": "Non amo i thriller , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "1367", "Sentence": "Adoro i granchi , un tipo interessante di vitello .", "Labels": "0"}
+{"ID": "1556", "Sentence": "Si fida delle congetture , un tipo interessante della vista .", "Labels": "0"}
+{"ID": "5075", "Sentence": "Apprezzo lo Chardonnay , ma non l' acqua .", "Labels": "1"}
+{"ID": "2484", "Sentence": "Posso capire i calcoli , ed anche la paura .", "Labels": "1"}
+{"ID": "2442", "Sentence": "Si fida del tatto , ed anche dei notiziari .", "Labels": "1"}
+{"ID": "2577", "Sentence": "Amo gli uffici , ed anche i camerieri .", "Labels": "1"}
+{"ID": "1889", "Sentence": "Amo gli enduro , ed anche i treni .", "Labels": "1"}
+{"ID": "4248", "Sentence": "Amo gli animali domestici pi\u00f9 dei conigli .", "Labels": "0"}
+{"ID": "4653", "Sentence": "Amo gli impiegati , eccetto le scuole .", "Labels": "0"}
+{"ID": "5123", "Sentence": "Apprezzo la musica , ma non il jazz .", "Labels": "1"}
+{"ID": "2945", "Sentence": "Non amo il parquet , preferisco i tavoli .", "Labels": "1"}
+{"ID": "3936", "Sentence": "Apprezzo il rock pi\u00f9 degli sport .", "Labels": "1"}
+{"ID": "3748", "Sentence": "Amo i thriller , eccetto i giochi da tavolo .", "Labels": "0"}
+{"ID": "3678", "Sentence": "Amo i gioielli pi\u00f9 delle camicie .", "Labels": "1"}
+{"ID": "463", "Sentence": "Si fida dei sensi , e pi\u00f9 specificamente dei notiziari .", "Labels": "0"}
+{"ID": "3156", "Sentence": "Non amo i film , preferisco i saggi .", "Labels": "1"}
+{"ID": "2772", "Sentence": "Non amo gli enduro , preferisco le biciclette .", "Labels": "1"}
+{"ID": "2488", "Sentence": "Posso capire l' amore , ed anche le emozioni .", "Labels": "0"}
+{"ID": "5224", "Sentence": "Adoro i granchi , ma non il tacchino .", "Labels": "1"}
+{"ID": "2337", "Sentence": "Amo le collane , ed anche le sciarpe .", "Labels": "1"}
+{"ID": "5406", "Sentence": "Si fida dei sensi , ma non le congetture .", "Labels": "1"}
+{"ID": "191", "Sentence": "Amo le gonne , eccetto gli occhiali .", "Labels": "0"}
+{"ID": "4218", "Sentence": "Amo gli animali domestici pi\u00f9 delle giraffe .", "Labels": "1"}
+{"ID": "4684", "Sentence": "Amo i professori , eccetto i ristoranti .", "Labels": "0"}
+{"ID": "4981", "Sentence": "Uso il cotone , ma non il nylon .", "Labels": "1"}
+{"ID": "2603", "Sentence": "Ho incontrato gli scienziati , ed anche gli impiegati .", "Labels": "1"}
+{"ID": "5133", "Sentence": "Apprezzo la techno , ma non la musica .", "Labels": "0"}
+{"ID": "2450", "Sentence": "Si fida delle dicerie , ed anche del gusto .", "Labels": "1"}
+{"ID": "2388", "Sentence": "Amo le meduse , ed anche i cani .", "Labels": "1"}
+{"ID": "3746", "Sentence": "Amo i sussidiari , eccetto i thriller .", "Labels": "0"}
+{"ID": "1403", "Sentence": "Amo i film , un tipo interessante di thriller .", "Labels": "0"}
+{"ID": "279", "Sentence": "Adoro il salmone , e pi\u00f9 specificamente il tacchino .", "Labels": "0"}
+{"ID": "4975", "Sentence": "Uso la plastica , ma non il cuoio .", "Labels": "1"}
+{"ID": "1305", "Sentence": "Adoro il maiale , un tipo interessante di broccoli .", "Labels": "0"}
+{"ID": "4992", "Sentence": "Uso il vinile , ma non il cotone .", "Labels": "1"}
+{"ID": "1162", "Sentence": "Apprezzo i tavoli , un tipo interessante di mobili .", "Labels": "1"}
+{"ID": "5610", "Sentence": "Ho incontrato i camerieri , ma non i fisici .", "Labels": "1"}
+{"ID": "1167", "Sentence": "Apprezzo la carta da parati , un tipo interessante di tavolo .", "Labels": "0"}
+{"ID": "5143", "Sentence": "Apprezzo gli sport , ma non il blues .", "Labels": "1"}
+{"ID": "4595", "Sentence": "Posso capire la stupidit\u00e0 , eccetto la tristezza .", "Labels": "0"}
+{"ID": "4957", "Sentence": "Adoro i pini , ma non i cespugli .", "Labels": "1"}
+{"ID": "1247", "Sentence": "Apprezzo il rock , eccetto gli sport .", "Labels": "0"}
+{"ID": "4607", "Sentence": "Amo i libri , eccetto il cinema .", "Labels": "0"}
+{"ID": "4976", "Sentence": "Uso il nylon , ma non il legno .", "Labels": "1"}
+{"ID": "5342", "Sentence": "Amo i gatti , ma non gli animali domestici .", "Labels": "0"}
+{"ID": "4490", "Sentence": "Amo gli astronomi pi\u00f9 degli scienziati .", "Labels": "0"}
+{"ID": "2305", "Sentence": "Amo le commedie , ed anche i videogiochi .", "Labels": "1"}
+{"ID": "5443", "Sentence": "Posso capire la stupidit\u00e0 , ma non la gioia .", "Labels": "1"}
+{"ID": "443", "Sentence": "Amo i criceti , e pi\u00f9 specificamente gli animali domestici .", "Labels": "0"}
+{"ID": "933", "Sentence": "Amo le anatre , un tipo interessante di uccello .", "Labels": "1"}
+{"ID": "3618", "Sentence": "Amo i passeri pi\u00f9 dei gatti .", "Labels": "1"}
+{"ID": "5030", "Sentence": "Apprezzo i tavoli , ma non i dipinti .", "Labels": "1"}
+{"ID": "3491", "Sentence": "Non amo gli scienziati , preferisco i portieri .", "Labels": "1"}
+{"ID": "1371", "Sentence": "Adoro il tacchino , un tipo interessante di granchi .", "Labels": "0"}
+{"ID": "4666", "Sentence": "Amo le scuole , eccetto i camerieri .", "Labels": "0"}
+{"ID": "2088", "Sentence": "Apprezzo la sprite , ed anche il Merlot .", "Labels": "1"}
+{"ID": "5821", "Sentence": "Amo le querce , e pi\u00f9 specificamente i cespugli .", "Labels": "0"}
+{"ID": "4990", "Sentence": "Uso il vinile , ma non la plastica .", "Labels": "0"}
+{"ID": "4540", "Sentence": "Si fida del tatto , eccetto che delle ricostruzioni .", "Labels": "0"}
+{"ID": "2737", "Sentence": "Non amo gli uccelli , preferisco i passeri .", "Labels": "0"}
+{"ID": "2311", "Sentence": "Amo i documentari , ed anche i sussidiari .", "Labels": "1"}
+{"ID": "238", "Sentence": "Adoro il prosciutto cotto , e pi\u00f9 specificamente le carote .", "Labels": "0"}
+{"ID": "4865", "Sentence": "Amo i treni , ma non le Kawasakis .", "Labels": "1"}
+{"ID": "982", "Sentence": "Amo le moto , un tipo interessante di Suzuki .", "Labels": "0"}
+{"ID": "714", "Sentence": "Adoro l' erba , eccetto i pini .", "Labels": "0"}
+{"ID": "1987", "Sentence": "Amo i pini , ed anche i cespugli .", "Labels": "1"}
+{"ID": "4214", "Sentence": "Amo i gatti pi\u00f9 delle giraffe .", "Labels": "1"}
+{"ID": "5349", "Sentence": "Amo le meduse , ma non i gatti .", "Labels": "1"}
+{"ID": "5365", "Sentence": "Amo le balene , ma non i cani .", "Labels": "1"}
+{"ID": "2408", "Sentence": "Amo le meduse , ed anche i criceti .", "Labels": "1"}
+{"ID": "470", "Sentence": "Si fida dei sensi , e pi\u00f9 specificamente delle congetture .", "Labels": "0"}
+{"ID": "3721", "Sentence": "Amo le querce pi\u00f9 degli animali .", "Labels": "1"}
+{"ID": "707", "Sentence": "Amo i bassotti , eccetto i conigli .", "Labels": "0"}
+{"ID": "1354", "Sentence": "Adoro il salmone , un tipo interessante di tacchino .", "Labels": "0"}
+{"ID": "3622", "Sentence": "Amo i passeri pi\u00f9 dei criceti .", "Labels": "1"}
+{"ID": "5012", "Sentence": "Apprezzo le sedie , ma non i mobili .", "Labels": "0"}
+{"ID": "1548", "Sentence": "Si fida dei sensi , un tipo interessante di diceria .", "Labels": "0"}
+{"ID": "5583", "Sentence": "Ho incontrato gli scienziati , ma non i portieri .", "Labels": "1"}
+{"ID": "1569", "Sentence": "Si fida del tatto , un tipo interessante di diceria .", "Labels": "0"}
+{"ID": "4156", "Sentence": "Amo i film pi\u00f9 dei documentari .", "Labels": "0"}
+{"ID": "4622", "Sentence": "Amo i cartoni animati , eccetto i saggi .", "Labels": "0"}
+{"ID": "1127", "Sentence": "Uso la plastica , un tipo interessante di vinile .", "Labels": "0"}
+{"ID": "4281", "Sentence": "Si fida dei sensi pi\u00f9 che della vista .", "Labels": "0"}
+{"ID": "2132", "Sentence": "Apprezzo il cibo , ed anche il rock .", "Labels": "1"}
+{"ID": "4758", "Sentence": "Amo i criceti , ma non i bobtail .", "Labels": "1"}
+{"ID": "1558", "Sentence": "Si fida dell' udito , un tipo interessante di diceria .", "Labels": "0"}
+{"ID": "7", "Sentence": "Amo le scarpe , eccetto i pantaloni .", "Labels": "0"}
+{"ID": "5562", "Sentence": "Amo i professori , ma non i lavoratori .", "Labels": "0"}
+{"ID": "4668", "Sentence": "Amo gli uffici , eccetto i camerieri .", "Labels": "0"}
+{"ID": "1083", "Sentence": "Adoro gli alberi , un tipo interessante di abete .", "Labels": "0"}
+{"ID": "3783", "Sentence": "Uso il vetro pi\u00f9 del poliestere .", "Labels": "1"}
+{"ID": "4437", "Sentence": "Amo i lavoratori pi\u00f9 dei camerieri .", "Labels": "0"}
+{"ID": "4921", "Sentence": "Adoro i cespugli , ma non le querce .", "Labels": "1"}
+{"ID": "2203", "Sentence": "Amo il maiale , ed anche il bacon .", "Labels": "0"}
+{"ID": "4728", "Sentence": "Ho incontrato gli scienziati , eccetto i fisici .", "Labels": "1"}
+{"ID": "4022", "Sentence": "Amo il prosciutto pi\u00f9 dei broccoli .", "Labels": "1"}
+{"ID": "3243", "Sentence": "Non amo gli anelli , preferisco gli occhiali .", "Labels": "1"}
+{"ID": "2435", "Sentence": "Si fida dell' udito , ed anche delle congetture .", "Labels": "1"}
+{"ID": "2008", "Sentence": "Uso la plastica , ed anche il nylon .", "Labels": "0"}
+{"ID": "1436", "Sentence": "Apprezzo il blues , eccetto la musica .", "Labels": "0"}
+{"ID": "1176", "Sentence": "Apprezzo i guardaroba , un tipo interessante di carta da parati .", "Labels": "0"}
+{"ID": "1453", "Sentence": "Amo i gioielli , un tipo interessante di braccialetto .", "Labels": "0"}
+{"ID": "1554", "Sentence": "Si fida dei sensi , un tipo interessante di ricostruzione .", "Labels": "0"}
+{"ID": "5201", "Sentence": "Amo gli enduro , eccetto le moto .", "Labels": "0"}
+{"ID": "2214", "Sentence": "Amo il maiale , ed anche il lardo .", "Labels": "0"}
+{"ID": "2794", "Sentence": "Non amo le camicie , preferisco i gioielli .", "Labels": "1"}
+{"ID": "1330", "Sentence": "Apprezzo il jazz , eccetto i gioielli .", "Labels": "0"}
+{"ID": "537", "Sentence": "Posso capire l' amore , e pi\u00f9 specificamente la saggezza .", "Labels": "0"}
+{"ID": "2856", "Sentence": "Non amo le betulle , preferisco gli arbusti .", "Labels": "1"}
+{"ID": "2279", "Sentence": "Amo i film , ed anche i giochi da tavolo .", "Labels": "1"}
+{"ID": "1384", "Sentence": "Adoro le ostriche , un tipo interessante di manzo .", "Labels": "0"}
+{"ID": "34", "Sentence": "Uso il poliestere , e pi\u00f9 specificamente il vetro .", "Labels": "0"}
+{"ID": "3808", "Sentence": "Amo i western , eccetto i saggi .", "Labels": "0"}
+{"ID": "2240", "Sentence": "Amo il pollo , ed anche i granchi .", "Labels": "1"}
+{"ID": "5319", "Sentence": "Amo le scarpe , ma non le collane .", "Labels": "1"}
+{"ID": "598", "Sentence": "Amo i manuali , e pi\u00f9 specificamente i libri .", "Labels": "0"}
+{"ID": "2673", "Sentence": "Non amo i bobtail , preferisco i cani .", "Labels": "0"}
+{"ID": "3303", "Sentence": "Non si fida dei notiziari , preferisce la vista .", "Labels": "1"}
+{"ID": "1607", "Sentence": "Posso capire le emozioni , un tipo interessante di paura .", "Labels": "0"}
+{"ID": "3211", "Sentence": "Non amo i gioielli , preferisco gli occhiali .", "Labels": "1"}
+{"ID": "142", "Sentence": "Amo le calze , eccetto i gioielli .", "Labels": "0"}
+{"ID": "3452", "Sentence": "Non amo i ristoranti , preferisco i camerieri .", "Labels": "1"}
+{"ID": "3886", "Sentence": "Apprezzo lo Chardonnay pi\u00f9 della coca cola .", "Labels": "1"}
+{"ID": "2107", "Sentence": "Apprezzo il Chianti , ed anche l' acqua .", "Labels": "1"}
+{"ID": "2506", "Sentence": "Posso capire i calcoli , ed anche la tristezza .", "Labels": "1"}
+{"ID": "1802", "Sentence": "Amo i bulldog , ed anche i pappagalli .", "Labels": "1"}
+{"ID": "4094", "Sentence": "Amo il pollo pi\u00f9 del caviale .", "Labels": "1"}
+{"ID": "4114", "Sentence": "Amo i thriller pi\u00f9 dei film .", "Labels": "0"}
+{"ID": "2845", "Sentence": "Non amo le querce , preferisco gli arbusti .", "Labels": "1"}
+{"ID": "5739", "Sentence": "Amo gli enduro , e pi\u00f9 specificamente i treni .", "Labels": "0"}
+{"ID": "1434", "Sentence": "Apprezzo il blues , eccetto gli sport .", "Labels": "0"}
+{"ID": "5427", "Sentence": "Si fida del gusto , ma non le dicerie .", "Labels": "1"}
+{"ID": "492", "Sentence": "Si fida del tatto , e pi\u00f9 specificamente delle ricostruzioni .", "Labels": "0"}
+{"ID": "4269", "Sentence": "Amo le giraffe , eccetto i conigli .", "Labels": "0"}
+{"ID": "1085", "Sentence": "Adoro gli animali , un tipo interessante di abete .", "Labels": "0"}
+{"ID": "3222", "Sentence": "Non amo le collane , preferisco gli occhiali .", "Labels": "1"}
+{"ID": "700", "Sentence": "Ho incontrato i portieri , e pi\u00f9 specificamente i fisici .", "Labels": "0"}
+{"ID": "1742", "Sentence": "Ho incontrato i genetisti , un tipo interessante di cameriere .", "Labels": "0"}
+{"ID": "2722", "Sentence": "Non amo le anatre , preferisco i cani .", "Labels": "1"}
+{"ID": "5328", "Sentence": "Amo gli orecchini , ma non le scarpe .", "Labels": "1"}
+{"ID": "5785", "Sentence": "Amo le calze , e pi\u00f9 specificamente gli animali domestici .", "Labels": "0"}
+{"ID": "5220", "Sentence": "Adoro i granchi , ma non i prodotti del mare .", "Labels": "0"}
+{"ID": "5621", "Sentence": "Amo i cani , e pi\u00f9 specificamente gli husky .", "Labels": "1"}
+{"ID": "5111", "Sentence": "Apprezzo il rock , ma non i giochi da tavolo .", "Labels": "1"}
+{"ID": "3343", "Sentence": "Non ama la gioia , preferisce la saggezza .", "Labels": "1"}
+{"ID": "2348", "Sentence": "Amo gli orecchini , ed anche le sciarpe .", "Labels": "1"}
+{"ID": "3420", "Sentence": "Non amo i cartoni animati , preferisco i romanzi .", "Labels": "1"}
+{"ID": "494", "Sentence": "Si fida del tatto , e pi\u00f9 specificamente delle congetture .", "Labels": "0"}
+{"ID": "4087", "Sentence": "Amo il vitello pi\u00f9 delle ostriche .", "Labels": "1"}
+{"ID": "3612", "Sentence": "Amo i merli pi\u00f9 dei criceti .", "Labels": "1"}
+{"ID": "2320", "Sentence": "Amo le borsette , ed anche i braccialetti .", "Labels": "1"}
+{"ID": "2697", "Sentence": "Non amo i bassotti , preferisco i pappagalli .", "Labels": "1"}
+{"ID": "623", "Sentence": "Ho incontrato i lavoratori , e pi\u00f9 specificamente gli uffici .", "Labels": "0"}
+{"ID": "2441", "Sentence": "Si fida dei sensi , ed anche del tatto .", "Labels": "0"}
+{"ID": "3911", "Sentence": "Amo i sussidiari , eccetto le commedie .", "Labels": "0"}
+{"ID": "5211", "Sentence": "Adoro i prodotti del mare , ma non il vitello .", "Labels": "1"}
+{"ID": "1584", "Sentence": "Si fida dei notiziari , un tipo interessante del gusto .", "Labels": "0"}
+{"ID": "638", "Sentence": "Ho incontrato le fabbriche , e pi\u00f9 specificamente i guardiani .", "Labels": "0"}
+{"ID": "2170", "Sentence": "Adoro il maiale , eccetto il prosciutto cotto .", "Labels": "1"}
+{"ID": "3346", "Sentence": "Non ama le emozioni , preferisce la gioia .", "Labels": "0"}
+{"ID": "4415", "Sentence": "Amo il cinema pi\u00f9 dei manuali .", "Labels": "1"}
+{"ID": "2514", "Sentence": "Adoro il bacon , eccetto le carote .", "Labels": "0"}
+{"ID": "5812", "Sentence": "Amo i vestiti , eccetto gli orecchini .", "Labels": "0"}
+{"ID": "4484", "Sentence": "Amo i genetisti pi\u00f9 dei guardiani .", "Labels": "1"}
+{"ID": "3221", "Sentence": "Non amo le sciarpe , preferisco le collane .", "Labels": "1"}
+{"ID": "5154", "Sentence": "Amo gli husky , eccetto i criceti .", "Labels": "0"}
+{"ID": "5596", "Sentence": "Ho incontrato gli impiegati , ma non gli astronomi .", "Labels": "1"}
+{"ID": "4751", "Sentence": "Amo i conigli , ma non gli husky .", "Labels": "1"}
+{"ID": "3595", "Sentence": "Amo gli uccelli pi\u00f9 dei maiali .", "Labels": "1"}
+{"ID": "3541", "Sentence": "Amo i cani pi\u00f9 dei gatti .", "Labels": "1"}
+{"ID": "928", "Sentence": "Amo gli uccelli , un tipo interessante di maiale .", "Labels": "0"}
+{"ID": "2633", "Sentence": "Ho incontrato i fisici , ed anche gli impiegati .", "Labels": "1"}
+{"ID": "1183", "Sentence": "Apprezzo i mobili , un tipo interessante di letto .", "Labels": "0"}
+{"ID": "5236", "Sentence": "Adoro le ostriche , ma non il tacchino .", "Labels": "1"}
+{"ID": "2280", "Sentence": "Amo i thriller , ed anche i videogiochi .", "Labels": "1"}
+{"ID": "1746", "Sentence": "Ho incontrato i genetisti , un tipo interessante di portiere .", "Labels": "0"}
+{"ID": "4254", "Sentence": "Amo i conigli pi\u00f9 delle balene .", "Labels": "1"}
+{"ID": "1549", "Sentence": "Si fida della vista , un tipo interessante di notiziario .", "Labels": "0"}
+{"ID": "5802", "Sentence": "Amo le gonne , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "2471", "Sentence": "Posso capire le emozioni , ed anche la logica .", "Labels": "1"}
+{"ID": "234", "Sentence": "Adoro il maiale , e pi\u00f9 specificamente i broccoli .", "Labels": "0"}
+{"ID": "1651", "Sentence": "Amo i libri , un tipo interessante di saggio .", "Labels": "0"}
+{"ID": "2595", "Sentence": "Amo i professori , ed anche le scuole .", "Labels": "1"}
+{"ID": "4750", "Sentence": "Amo gli husky , ma non i conigli .", "Labels": "1"}
+{"ID": "1843", "Sentence": "Amo i merli , ed anche i criceti .", "Labels": "1"}
+{"ID": "3093", "Sentence": "Non amo il lardo , preferisco il maiale .", "Labels": "0"}
+{"ID": "5652", "Sentence": "Amo i conigli , e pi\u00f9 specificamente i bulldog .", "Labels": "0"}
+{"ID": "2864", "Sentence": "Non amo gli abeti , preferisco i cespugli .", "Labels": "1"}
+{"ID": "4736", "Sentence": "Amo i bobtail , eccetto i pappagalli .", "Labels": "0"}
+{"ID": "2124", "Sentence": "Apprezzo gli sport , ed anche il rock .", "Labels": "1"}
+{"ID": "2128", "Sentence": "Apprezzo il rock , ed anche i giochi da tavolo .", "Labels": "1"}
+{"ID": "2785", "Sentence": "Non amo i treni , preferisco le Kawasakis .", "Labels": "1"}
+{"ID": "2026", "Sentence": "Uso il legno , ed anche il PVC .", "Labels": "1"}
+{"ID": "2872", "Sentence": "Non amo i pini , preferisco gli animali .", "Labels": "1"}
+{"ID": "1527", "Sentence": "Amo gli orsi , un tipo interessante di coniglio .", "Labels": "0"}
+{"ID": "2221", "Sentence": "Adoro il maiale , eccetto le mele .", "Labels": "0"}
+{"ID": "2426", "Sentence": "Si fida dell' udito , ed anche delle dicerie .", "Labels": "1"}
+{"ID": "3804", "Sentence": "Uso il vinile pi\u00f9 del vetro .", "Labels": "1"}
+{"ID": "4199", "Sentence": "Amo le sciarpe pi\u00f9 degli orecchini .", "Labels": "1"}
+{"ID": "2847", "Sentence": "Non amo gli alberi , preferisco gli arbusti .", "Labels": "1"}
+{"ID": "296", "Sentence": "Adoro il pollo , e pi\u00f9 specificamente le ostriche .", "Labels": "0"}
+{"ID": "4350", "Sentence": "Posso capire la paura pi\u00f9 della stupidit\u00e0 .", "Labels": "1"}
+{"ID": "1221", "Sentence": "Apprezzo la sprite , un tipo interessante di Chianti .", "Labels": "0"}
+{"ID": "409", "Sentence": "Amo gli animali domestici , e pi\u00f9 specificamente i gatti .", "Labels": "1"}
+{"ID": "423", "Sentence": "Amo gli animali domestici , e pi\u00f9 specificamente i cani .", "Labels": "1"}
+{"ID": "5405", "Sentence": "Si fida delle congetture , ma non la vista .", "Labels": "1"}
+{"ID": "3479", "Sentence": "Non amo i biologi , preferisco gli scienziati .", "Labels": "0"}
+{"ID": "3485", "Sentence": "Non amo i biologi , preferisco i guardiani .", "Labels": "1"}
+{"ID": "2827", "Sentence": "Non amo i vestiti , preferisco le gonne .", "Labels": "0"}
+{"ID": "3326", "Sentence": "Non si fida del tatto , preferisce i notiziari .", "Labels": "1"}
+{"ID": "1029", "Sentence": "Amo i gioielli , un tipo interessante di trouser .", "Labels": "0"}
+{"ID": "3248", "Sentence": "Non amo le giraffe , preferisco i gatti .", "Labels": "1"}
+{"ID": "448", "Sentence": "Amo le meduse , e pi\u00f9 specificamente i criceti .", "Labels": "0"}
+{"ID": "4524", "Sentence": "Si fida dell' udito , eccetto che delle dicerie .", "Labels": "0"}
+{"ID": "3574", "Sentence": "Amo i conigli pi\u00f9 dei bulldog .", "Labels": "1"}
+{"ID": "307", "Sentence": "Adoro il caviale , e pi\u00f9 specificamente i prodotti del mare .", "Labels": "0"}
+{"ID": "3501", "Sentence": "Non amo i genetisti , preferisco i portieri .", "Labels": "1"}
+{"ID": "786", "Sentence": "Apprezzo le posate , eccetto i tavoli .", "Labels": "0"}
+{"ID": "5572", "Sentence": "Ho incontrato i biologi , ma non gli scienziati .", "Labels": "0"}
+{"ID": "62", "Sentence": "Uso il vinile , e pi\u00f9 specificamente il cuoio .", "Labels": "0"}
+{"ID": "3534", "Sentence": "Adoro i prodotti del mare , eccetto il caviale .", "Labels": "1"}
+{"ID": "814", "Sentence": "Apprezzo i letti , eccetto i mobili .", "Labels": "0"}
+{"ID": "17", "Sentence": "Amo gli alberi , e pi\u00f9 specificamente i pini .", "Labels": "1"}
+{"ID": "3638", "Sentence": "Amo le moto pi\u00f9 dei treni .", "Labels": "1"}
+{"ID": "5320", "Sentence": "Amo gli orecchini , ma non le borsette .", "Labels": "1"}
+{"ID": "4393", "Sentence": "Amo i libri pi\u00f9 dei saggi .", "Labels": "0"}
+{"ID": "3844", "Sentence": "Apprezzo i tavoli pi\u00f9 dei dipinti .", "Labels": "1"}
+{"ID": "2199", "Sentence": "Adoro il prosciutto cotto , eccetto le mele .", "Labels": "0"}
+{"ID": "1816", "Sentence": "Amo i pappagalli , ed anche i gatti .", "Labels": "1"}
+{"ID": "5099", "Sentence": "Apprezzo il Primitivo , ma non la birra .", "Labels": "1"}
+{"ID": "5468", "Sentence": "Posso capire la logica , ma non l' amore .", "Labels": "1"}
+{"ID": "1777", "Sentence": "Amo gli husky , ed anche i criceti .", "Labels": "1"}
+{"ID": "2778", "Sentence": "Non amo le Kawasakis , preferisco le navi .", "Labels": "1"}
+{"ID": "1751", "Sentence": "Ho incontrato gli scienziati , un tipo interessante di astronomo .", "Labels": "0"}
+{"ID": "4175", "Sentence": "Amo i gioielli pi\u00f9 delle sciarpe .", "Labels": "1"}
+{"ID": "3496", "Sentence": "Non amo i genetisti , preferisco i camerieri .", "Labels": "1"}
+{"ID": "5777", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente i pantaloni .", "Labels": "0"}
+{"ID": "117", "Sentence": "Apprezzo il parquet , e pi\u00f9 specificamente i letti .", "Labels": "0"}
+{"ID": "3897", "Sentence": "Amo i saggi , eccetto le commedie .", "Labels": "0"}
+{"ID": "2198", "Sentence": "Amo le carote , ed anche il prosciutto .", "Labels": "1"}
+{"ID": "1235", "Sentence": "Apprezzo gli sport , un tipo interessante di rock .", "Labels": "0"}
+{"ID": "4018", "Sentence": "Amo il prosciutto pi\u00f9 del pesce .", "Labels": "1"}
+{"ID": "4234", "Sentence": "Amo i cani pi\u00f9 degli animali domestici .", "Labels": "0"}
+{"ID": "1652", "Sentence": "Amo i saggi , un tipo interessante di cinema .", "Labels": "0"}
+{"ID": "5129", "Sentence": "Apprezzo i gioielli , ma non il jazz .", "Labels": "1"}
+{"ID": "381", "Sentence": "Amo le collane , e pi\u00f9 specificamente gli occhiali .", "Labels": "0"}
+{"ID": "389", "Sentence": "Amo gli orecchini , e pi\u00f9 specificamente le sciarpe .", "Labels": "0"}
+{"ID": "1144", "Sentence": "Uso il cuoio , un tipo interessante di PVC .", "Labels": "0"}
+{"ID": "3818", "Sentence": "Uso il PVC pi\u00f9 del cuoio .", "Labels": "1"}
+{"ID": "1542", "Sentence": "Amo i merli , eccetto i gatti .", "Labels": "0"}
+{"ID": "668", "Sentence": "Ho incontrato i biologi , e pi\u00f9 specificamente i portieri .", "Labels": "0"}
+{"ID": "1837", "Sentence": "Amo le anatre , ed anche i cani .", "Labels": "1"}
+{"ID": "4881", "Sentence": "Amo i vestiti , ma non gli orecchini .", "Labels": "1"}
+{"ID": "1374", "Sentence": "Apprezzo la techno , eccetto i giochi da tavolo .", "Labels": "0"}
+{"ID": "4046", "Sentence": "Amo il lardo pi\u00f9 delle carote .", "Labels": "1"}
+{"ID": "1585", "Sentence": "Si fida del gusto , un tipo interessante di ricostruzione .", "Labels": "0"}
+{"ID": "955", "Sentence": "Amo gli uccelli , un tipo interessante di passero .", "Labels": "0"}
+{"ID": "3793", "Sentence": "Uso il cotone pi\u00f9 del nylon .", "Labels": "1"}
+{"ID": "5581", "Sentence": "Ho incontrato i biologi , ma non i portieri .", "Labels": "1"}
+{"ID": "4255", "Sentence": "Amo le balene pi\u00f9 dei conigli .", "Labels": "1"}
+{"ID": "2047", "Sentence": "Apprezzo il parquet , ed anche le sedie .", "Labels": "1"}
+{"ID": "5155", "Sentence": "Adoro il prosciutto cotto , ma non il pesce .", "Labels": "1"}
+{"ID": "5418", "Sentence": "Si fida delle dicerie , ma non il tatto .", "Labels": "1"}
+{"ID": "1390", "Sentence": "Adoro i prodotti del mare , un tipo interessante di caviale .", "Labels": "0"}
+{"ID": "4080", "Sentence": "Amo i granchi pi\u00f9 del manzo .", "Labels": "1"}
+{"ID": "874", "Sentence": "Amo gli husky , un tipo interessante di cane .", "Labels": "1"}
+{"ID": "2201", "Sentence": "Amo il pesce , ed anche il bacon .", "Labels": "1"}
+{"ID": "2394", "Sentence": "Amo gli animali domestici , ed anche i conigli .", "Labels": "0"}
+{"ID": "3376", "Sentence": "Non ama la logica , preferisce l' amore .", "Labels": "1"}
+{"ID": "3358", "Sentence": "Non ama le emozioni , preferisce i calcoli .", "Labels": "1"}
+{"ID": "3015", "Sentence": "Non amo la musica , preferisco il rock .", "Labels": "0"}
+{"ID": "27", "Sentence": "Uso il legno , e pi\u00f9 specificamente il poliestere .", "Labels": "0"}
+{"ID": "3940", "Sentence": "Apprezzo la musica pi\u00f9 degli sport .", "Labels": "1"}
+{"ID": "1405", "Sentence": "Amo i thriller , un tipo interessante di libro di testo .", "Labels": "0"}
+{"ID": "880", "Sentence": "Amo gli husky , un tipo interessante di pappagallo .", "Labels": "0"}
+{"ID": "4816", "Sentence": "Amo i cani , ma non i merli .", "Labels": "1"}
+{"ID": "1620", "Sentence": "Posso capire l' amore , un tipo interessante di logica .", "Labels": "0"}
+{"ID": "1132", "Sentence": "Uso il vinile , un tipo interessante di cuoio .", "Labels": "0"}
+{"ID": "3817", "Sentence": "Uso il vetro pi\u00f9 del PVC .", "Labels": "1"}
+{"ID": "2581", "Sentence": "Amo i lavoratori , ed anche i guardiani .", "Labels": "0"}
+{"ID": "1874", "Sentence": "Amo le navi , ed anche le Suzuki .", "Labels": "1"}
+{"ID": "4820", "Sentence": "Amo gli uccelli , ma non i passeri .", "Labels": "1"}
+{"ID": "1068", "Sentence": "Adoro gli arbusti , un tipo interessante di quercia .", "Labels": "0"}
+{"ID": "538", "Sentence": "Posso capire la saggezza , e pi\u00f9 specificamente l' amore .", "Labels": "0"}
+{"ID": "5519", "Sentence": "Amo i libri , ma non i manuali .", "Labels": "1"}
+{"ID": "877", "Sentence": "Amo gli husky , un tipo interessante di criceto .", "Labels": "0"}
+{"ID": "2815", "Sentence": "Non amo gli animali domestici , preferisco le calze .", "Labels": "1"}
+{"ID": "2358", "Sentence": "Amo i gioielli , ed anche gli anelli .", "Labels": "0"}
+{"ID": "3849", "Sentence": "Apprezzo il parquet pi\u00f9 dei tavoli .", "Labels": "1"}
+{"ID": "4699", "Sentence": "Ho incontrato i biologi , eccetto i guardiani .", "Labels": "0"}
+{"ID": "4108", "Sentence": "Amo gli anelli , eccetto gli occhiali .", "Labels": "0"}
+{"ID": "5331", "Sentence": "Amo le borsette , ma non gli anelli .", "Labels": "1"}
+{"ID": "3001", "Sentence": "Non amo il Primitivo , preferisco la coca cola .", "Labels": "1"}
+{"ID": "4355", "Sentence": "Posso capire i calcoli pi\u00f9 della paura .", "Labels": "1"}
+{"ID": "5636", "Sentence": "Amo i cani , e pi\u00f9 specificamente i bobtail .", "Labels": "1"}
+{"ID": "5105", "Sentence": "Amo le biciclette , eccetto le Suzuki .", "Labels": "0"}
+{"ID": "3606", "Sentence": "Amo le anatre pi\u00f9 dei cani .", "Labels": "1"}
+{"ID": "3931", "Sentence": "Amo i sussidiari , eccetto i documentari .", "Labels": "0"}
+{"ID": "3749", "Sentence": "Amo gli abeti pi\u00f9 dell' erba .", "Labels": "1"}
+{"ID": "4404", "Sentence": "Amo i romanzi pi\u00f9 del cinema .", "Labels": "1"}
+{"ID": "5779", "Sentence": "Amo i pantaloni , e pi\u00f9 specificamente gli occhiali .", "Labels": "0"}
+{"ID": "4538", "Sentence": "Si fida del tatto , eccetto che dei notiziari .", "Labels": "0"}
+{"ID": "5120", "Sentence": "Apprezzo il jazz , ma non gli sport .", "Labels": "1"}
+{"ID": "2145", "Sentence": "Apprezzo il jazz , ed anche i gioielli .", "Labels": "1"}
+{"ID": "2325", "Sentence": "Amo le sciarpe , ed anche i braccialetti .", "Labels": "1"}
+{"ID": "361", "Sentence": "Amo le borsette , e pi\u00f9 specificamente i braccialetti .", "Labels": "0"}
+{"ID": "2030", "Sentence": "Uso il cotone , ed anche il PVC .", "Labels": "1"}
+{"ID": "2020", "Sentence": "Uso il cotone , ed anche il vinile .", "Labels": "1"}
+{"ID": "2428", "Sentence": "Si fida dell' udito , ed anche dei sensi .", "Labels": "0"}
+{"ID": "3377", "Sentence": "Non ama l' amore , preferisce i calcoli .", "Labels": "1"}
+{"ID": "1037", "Sentence": "Amo le calze , un tipo interessante di vestiti .", "Labels": "1"}
+{"ID": "505", "Sentence": "Si fida delle ricostruzioni , e pi\u00f9 specificamente del gusto .", "Labels": "0"}
+{"ID": "5308", "Sentence": "Amo le scarpe , ma non i braccialetti .", "Labels": "1"}
+{"ID": "2811", "Sentence": "Non amo gli occhiali , preferisco i pantaloni .", "Labels": "1"}
+{"ID": "1088", "Sentence": "Adoro gli abeti , un tipo interessante di arbusto .", "Labels": "0"}
+{"ID": "1478", "Sentence": "Amo gli orecchini , un tipo interessante di gioielli .", "Labels": "1"}
+{"ID": "5584", "Sentence": "Ho incontrato i genetisti , ma non gli impiegati .", "Labels": "1"}
+{"ID": "26", "Sentence": "Uso il poliestere , e pi\u00f9 specificamente il legno .", "Labels": "0"}
+{"ID": "1277", "Sentence": "Apprezzo il blues , un tipo interessante di sport .", "Labels": "0"}
+{"ID": "40", "Sentence": "Uso la plastica , e pi\u00f9 specificamente il cuoio .", "Labels": "0"}
+{"ID": "4059", "Sentence": "Amo il pollo pi\u00f9 del salmone .", "Labels": "1"}
+{"ID": "2200", "Sentence": "Amo il bacon , ed anche il pesce .", "Labels": "1"}
+{"ID": "514", "Sentence": "Posso capire le emozioni , e pi\u00f9 specificamente la gioia .", "Labels": "1"}
+{"ID": "3383", "Sentence": "Non ama la tristezza , preferisce la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "3526", "Sentence": "Adoro il vitello , eccetto le ostriche .", "Labels": "0"}
+{"ID": "2640", "Sentence": "Ho incontrato i guardiani , ed anche i fisici .", "Labels": "1"}
+{"ID": "2988", "Sentence": "Non amo la sprite , preferisco lo Chardonnay .", "Labels": "1"}
+{"ID": "3870", "Sentence": "Apprezzo i letti pi\u00f9 del parquet .", "Labels": "1"}
+{"ID": "3028", "Sentence": "Non amo il jazz , preferisco la musica .", "Labels": "0"}
+{"ID": "5397", "Sentence": "Si fida dei sensi , ma non le dicerie .", "Labels": "1"}
+{"ID": "4054", "Sentence": "Amo gli orecchini , eccetto gli occhiali .", "Labels": "0"}
+{"ID": "2081", "Sentence": "Apprezzo il Merlot , ed anche il vino .", "Labels": "0"}
+{"ID": "3560", "Sentence": "Amo i pappagalli pi\u00f9 dei bobtail .", "Labels": "1"}
+{"ID": "1699", "Sentence": "Amo i ristoranti , un tipo interessante di cameriere .", "Labels": "0"}
+{"ID": "988", "Sentence": "Amo gli aeroplani , un tipo interessante di Suzuki .", "Labels": "0"}
+{"ID": "1264", "Sentence": "Apprezzo i giochi da tavolo , eccetto il rock .", "Labels": "0"}
+{"ID": "702", "Sentence": "Adoro l' erba , eccetto gli abeti .", "Labels": "0"}
+{"ID": "3411", "Sentence": "Non amo i saggi , preferisco i dipinti .", "Labels": "1"}
+{"ID": "5410", "Sentence": "Si fida dei sensi , ma non l' udito .", "Labels": "1"}
+{"ID": "3450", "Sentence": "Non amo i lavoratori , preferisco i camerieri .", "Labels": "0"}
+{"ID": "3128", "Sentence": "Non amo i prodotti del mare , preferisco le ostriche .", "Labels": "0"}
+{"ID": "600", "Sentence": "Amo i manuali , e pi\u00f9 specificamente il cinema .", "Labels": "0"}
+{"ID": "2930", "Sentence": "Non amo le sedie , preferisco la carta da parati .", "Labels": "1"}
+{"ID": "488", "Sentence": "Si fida dei sensi , e pi\u00f9 specificamente del tatto .", "Labels": "1"}
+{"ID": "711", "Sentence": "Adoro gli arbusti , eccetto gli abeti .", "Labels": "0"}
+{"ID": "223", "Sentence": "Apprezzo il blues , e pi\u00f9 specificamente il cibo .", "Labels": "0"}
+{"ID": "3019", "Sentence": "Non amo la musica , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "2793", "Sentence": "Non amo i vestiti , preferisco gli animali domestici .", "Labels": "1"}
+{"ID": "545", "Sentence": "Posso capire l' amore , e pi\u00f9 specificamente i calcoli .", "Labels": "0"}
+{"ID": "4855", "Sentence": "Amo gli enduro , ma non i treni .", "Labels": "1"}
+{"ID": "23", "Sentence": "Amo i pini , e pi\u00f9 specificamente gli arbusti .", "Labels": "0"}
+{"ID": "171", "Sentence": "Amo gli orecchini , eccetto le calze .", "Labels": "0"}
+{"ID": "4271", "Sentence": "Amo gli animali domestici , eccetto i conigli .", "Labels": "1"}
+{"ID": "1603", "Sentence": "Posso capire le emozioni , un tipo interessante di calcolo .", "Labels": "0"}
+{"ID": "3596", "Sentence": "Amo i pappagalli pi\u00f9 dei cani .", "Labels": "1"}
+{"ID": "823", "Sentence": "Amo gli uccelli , eccetto i maiali .", "Labels": "0"}
+{"ID": "357", "Sentence": "Amo i giochi da tavolo , e pi\u00f9 specificamente i documentari .", "Labels": "0"}
+{"ID": "2361", "Sentence": "Amo gli anelli , ed anche gli occhiali .", "Labels": "1"}
+{"ID": "5338", "Sentence": "Amo gli anelli , ma non le scarpe .", "Labels": "1"}
+{"ID": "3202", "Sentence": "Non amo i braccialetti , preferisco i gioielli .", "Labels": "0"}
+{"ID": "5453", "Sentence": "Posso capire la paura , ma non le emozioni .", "Labels": "0"}
+{"ID": "779", "Sentence": "Apprezzo le sedie , eccetto il parquet .", "Labels": "0"}
+{"ID": "932", "Sentence": "Amo i gatti , un tipo interessante di anatra .", "Labels": "0"}
+{"ID": "1409", "Sentence": "Amo i giochi da tavolo , un tipo interessante di thriller .", "Labels": "0"}
+{"ID": "3162", "Sentence": "Non amo i film , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "5284", "Sentence": "Amo le commedie , ma non i videogiochi .", "Labels": "1"}
+{"ID": "1154", "Sentence": "Apprezzo la carta da parati , un tipo interessante di sedia .", "Labels": "0"}
+{"ID": "2691", "Sentence": "Non amo i bassotti , preferisco i gatti .", "Labels": "1"}
+{"ID": "2696", "Sentence": "Non amo i criceti , preferisco i bassotti .", "Labels": "1"}
+{"ID": "3861", "Sentence": "Apprezzo il parquet pi\u00f9 dei guardaroba .", "Labels": "1"}
+{"ID": "1293", "Sentence": "Apprezzo gli sport , eccetto il jazz .", "Labels": "0"}
+{"ID": "2627", "Sentence": "Ho incontrato gli astronomi , ed anche i camerieri .", "Labels": "1"}
+{"ID": "1139", "Sentence": "Uso il PVC , un tipo interessante di cotone .", "Labels": "0"}
+{"ID": "3666", "Sentence": "Amo le Kawasakis pi\u00f9 delle biciclette .", "Labels": "1"}
+{"ID": "3490", "Sentence": "Adoro le ostriche , eccetto il pollo .", "Labels": "0"}
+{"ID": "3625", "Sentence": "Amo i maiali pi\u00f9 dei passeri .", "Labels": "1"}
+{"ID": "489", "Sentence": "Si fida del tatto , e pi\u00f9 specificamente dei notiziari .", "Labels": "0"}
+{"ID": "1368", "Sentence": "Adoro il vitello , un tipo interessante di granchi .", "Labels": "0"}
+{"ID": "1938", "Sentence": "Amo gli animali domestici , ed anche le gonne .", "Labels": "1"}
+{"ID": "3627", "Sentence": "Amo i cani pi\u00f9 dei passeri .", "Labels": "1"}
+{"ID": "1632", "Sentence": "Posso capire la tristezza , un tipo interessante di calcolo .", "Labels": "0"}
+{"ID": "2215", "Sentence": "Amo il lardo , ed anche i broccoli .", "Labels": "1"}
+{"ID": "2381", "Sentence": "Amo i cani , ed anche le giraffe .", "Labels": "1"}
+{"ID": "3722", "Sentence": "Amo gli animali pi\u00f9 delle querce .", "Labels": "1"}
+{"ID": "1877", "Sentence": "Amo le Suzuki , ed anche le biciclette .", "Labels": "1"}
+{"ID": "1156", "Sentence": "Apprezzo le sedie , un tipo interessante di parquet .", "Labels": "0"}
+{"ID": "571", "Sentence": "Amo i saggi , e pi\u00f9 specificamente la musica .", "Labels": "0"}
+{"ID": "1259", "Sentence": "Apprezzo il cibo , un tipo interessante di jazz .", "Labels": "0"}
+{"ID": "2090", "Sentence": "Apprezzo il Merlot , ed anche la birra .", "Labels": "1"}
+{"ID": "1973", "Sentence": "Amo gli abeti , ed anche gli alberi .", "Labels": "0"}
+{"ID": "1851", "Sentence": "Amo i passeri , ed anche gli uccelli .", "Labels": "0"}
+{"ID": "4202", "Sentence": "Amo gli orecchini pi\u00f9 delle scarpe .", "Labels": "1"}
+{"ID": "4372", "Sentence": "Posso capire la tristezza pi\u00f9 della logica .", "Labels": "1"}
+{"ID": "5346", "Sentence": "Amo gli orsi , ma non i gatti .", "Labels": "1"}
+{"ID": "4616", "Sentence": "Amo la musica , eccetto i saggi .", "Labels": "0"}
+{"ID": "4582", "Sentence": "Posso capire l' amore , eccetto le emozioni .", "Labels": "0"}
+{"ID": "57", "Sentence": "Uso la plastica , e pi\u00f9 specificamente il vinile .", "Labels": "1"}
+{"ID": "1964", "Sentence": "Amo gli alberi , ed anche le betulle .", "Labels": "0"}
+{"ID": "3322", "Sentence": "Non si fida del tatto , preferisce le dicerie .", "Labels": "1"}
+{"ID": "4329", "Sentence": "Amo le meduse , eccetto i criceti .", "Labels": "0"}
+{"ID": "396", "Sentence": "Amo gli anelli , e pi\u00f9 specificamente le borsette .", "Labels": "0"}
+{"ID": "2842", "Sentence": "Non amo le querce , preferisco i cespugli .", "Labels": "1"}
+{"ID": "5420", "Sentence": "Si fida dei sensi , ma non il tatto .", "Labels": "1"}
+{"ID": "5580", "Sentence": "Ho incontrato gli scienziati , ma non i guardiani .", "Labels": "1"}
+{"ID": "4334", "Sentence": "Posso capire le emozioni pi\u00f9 della saggezza .", "Labels": "1"}
+{"ID": "3442", "Sentence": "Non amo le scuole , preferisco gli impiegati .", "Labels": "1"}
+{"ID": "1545", "Sentence": "Si fida delle dicerie , un tipo interessante della vista .", "Labels": "0"}
+{"ID": "969", "Sentence": "Amo le moto , un tipo interessante di nave .", "Labels": "0"}
+{"ID": "1116", "Sentence": "Uso il nylon , un tipo interessante di plastica .", "Labels": "1"}
+{"ID": "649", "Sentence": "Ho incontrato i professori , e pi\u00f9 specificamente i lavoratori .", "Labels": "0"}
+{"ID": "5214", "Sentence": "Adoro i prodotti del mare , ma non il tacchino .", "Labels": "1"}
+{"ID": "5043", "Sentence": "Apprezzo i guardaroba , ma non la carta da parati .", "Labels": "1"}
+{"ID": "3072", "Sentence": "Non amo il pesce , preferisco il prosciutto .", "Labels": "1"}
+{"ID": "3604", "Sentence": "Amo le anatre pi\u00f9 dei maiali .", "Labels": "1"}
+{"ID": "3669", "Sentence": "Amo i treni pi\u00f9 delle Kawasakis .", "Labels": "1"}
+{"ID": "4693", "Sentence": "Ho incontrato i biologi , eccetto gli scienziati .", "Labels": "0"}
+{"ID": "5633", "Sentence": "Amo i bobtail , e pi\u00f9 specificamente i gatti .", "Labels": "0"}
+{"ID": "5045", "Sentence": "Apprezzo i guardaroba , ma non il parquet .", "Labels": "1"}
+{"ID": "4887", "Sentence": "Amo i gioielli , ma non i pantaloni .", "Labels": "1"}
+{"ID": "1111", "Sentence": "Uso il poliestere , un tipo interessante di cuoio .", "Labels": "0"}
+{"ID": "4798", "Sentence": "Amo i gatti , ma non le anatre .", "Labels": "1"}
+{"ID": "2538", "Sentence": "Amo i romanzi , ed anche il cinema .", "Labels": "1"}
+{"ID": "5710", "Sentence": "Amo le navi , e pi\u00f9 specificamente le Harley-Davidson .", "Labels": "0"}
+{"ID": "4337", "Sentence": "Amo i criceti , eccetto le balene .", "Labels": "0"}
+{"ID": "565", "Sentence": "Amo i sussidiari , e pi\u00f9 specificamente i cartoni animati .", "Labels": "0"}
+{"ID": "53", "Sentence": "Amo gli orecchini , eccetto i pantaloni .", "Labels": "0"}
+{"ID": "4323", "Sentence": "Si fida dei notiziari pi\u00f9 che del gusto .", "Labels": "1"}
+{"ID": "4985", "Sentence": "Uso il nylon , ma non il cuoio .", "Labels": "1"}
+{"ID": "1600", "Sentence": "Posso capire la gioia , un tipo interessante di calcolo .", "Labels": "0"}
+{"ID": "392", "Sentence": "Amo gli occhiali , e pi\u00f9 specificamente gli orecchini .", "Labels": "0"}
+{"ID": "2744", "Sentence": "Non amo le Harley-Davidson , preferisco le navi .", "Labels": "1"}
+{"ID": "1901", "Sentence": "Amo le Kawasakis , ed anche gli aeroplani .", "Labels": "1"}
+{"ID": "5508", "Sentence": "Amo i romanzi , ma non i libri .", "Labels": "0"}
+{"ID": "4810", "Sentence": "Amo gli uccelli , ma non i merli .", "Labels": "1"}
+{"ID": "5588", "Sentence": "Ho incontrato i genetisti , ma non i camerieri .", "Labels": "1"}
+{"ID": "2681", "Sentence": "Non amo i bulldog , preferisco i gatti .", "Labels": "1"}
+{"ID": "2111", "Sentence": "Apprezzo il Chianti , ed anche la birra .", "Labels": "1"}
+{"ID": "3090", "Sentence": "Non amo le carote , preferisco il bacon .", "Labels": "1"}
+{"ID": "566", "Sentence": "Amo i cartoni animati , e pi\u00f9 specificamente i sussidiari .", "Labels": "0"}
+{"ID": "4924", "Sentence": "Adoro gli arbusti , ma non le querce .", "Labels": "1"}
+{"ID": "2590", "Sentence": "Amo le fabbriche , ed anche i professori .", "Labels": "1"}
+{"ID": "1227", "Sentence": "Apprezzo il vino , un tipo interessante di Primitivo .", "Labels": "0"}
+{"ID": "4897", "Sentence": "Amo i gioielli , ma non le calze .", "Labels": "1"}
+{"ID": "4876", "Sentence": "Amo le camicie , ma non gli occhiali .", "Labels": "1"}
+{"ID": "5693", "Sentence": "Amo i merli , e pi\u00f9 specificamente i maiali .", "Labels": "0"}
+{"ID": "1343", "Sentence": "Adoro le mele , un tipo interessante di lardo .", "Labels": "0"}
+{"ID": "1366", "Sentence": "Adoro i prodotti del mare , un tipo interessante di granchio .", "Labels": "0"}
+{"ID": "1863", "Sentence": "Amo le moto , ed anche le navi .", "Labels": "1"}
+{"ID": "2464", "Sentence": "Posso capire le emozioni , ed anche la gioia .", "Labels": "0"}
+{"ID": "4048", "Sentence": "Amo gli orecchini , eccetto le borsette .", "Labels": "0"}
+{"ID": "3629", "Sentence": "Amo le navi pi\u00f9 delle Harley-Davidson .", "Labels": "1"}
+{"ID": "84", "Sentence": "Apprezzo i mobili , e pi\u00f9 specificamente la carta da parati .", "Labels": "0"}
+{"ID": "2191", "Sentence": "Amo il maiale , ed anche il prosciutto .", "Labels": "0"}
+{"ID": "2521", "Sentence": "Adoro le carote , eccetto il bacon .", "Labels": "0"}
+{"ID": "5563", "Sentence": "Amo i lavoratori , ma non i professori .", "Labels": "1"}
+{"ID": "640", "Sentence": "Ho incontrato i lavoratori , e pi\u00f9 specificamente i guardiani .", "Labels": "1"}
+{"ID": "3871", "Sentence": "Apprezzo il parquet pi\u00f9 dei letti .", "Labels": "1"}
+{"ID": "4542", "Sentence": "Si fida del tatto , eccetto che delle congetture .", "Labels": "0"}
+{"ID": "183", "Sentence": "Apprezzo il rock , e pi\u00f9 specificamente i giochi da tavolo .", "Labels": "0"}
+{"ID": "4839", "Sentence": "Amo gli aeroplani , ma non le Harley-Davidson .", "Labels": "1"}
+{"ID": "4166", "Sentence": "Amo gli animali domestici , eccetto le meduse .", "Labels": "0"}
+{"ID": "5645", "Sentence": "Amo i bulldog , e pi\u00f9 specificamente i cani .", "Labels": "0"}
+{"ID": "2800", "Sentence": "Non amo le camicie , preferisco gli orecchini .", "Labels": "1"}
+{"ID": "4312", "Sentence": "Si fida del tatto pi\u00f9 che delle ricostruzioni .", "Labels": "1"}
+{"ID": "5538", "Sentence": "Amo gli uffici , ma non gli impiegati .", "Labels": "1"}
+{"ID": "4293", "Sentence": "Si fida delle dicerie pi\u00f9 che dell' udito .", "Labels": "1"}
+{"ID": "3124", "Sentence": "Non amo il manzo , preferisco i granchi .", "Labels": "1"}
+{"ID": "5803", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente le gonne .", "Labels": "0"}
+{"ID": "1982", "Sentence": "Amo l' erba , ed anche i pini .", "Labels": "1"}
+{"ID": "2342", "Sentence": "Amo le scarpe , ed anche le collane .", "Labels": "1"}
+{"ID": "3165", "Sentence": "Non amo i film , preferisco i videogiochi .", "Labels": "1"}
+{"ID": "251", "Sentence": "Adoro il bacon , e pi\u00f9 specificamente il pesce .", "Labels": "0"}
+{"ID": "3168", "Sentence": "Non amo i western , preferisco i film .", "Labels": "0"}
+{"ID": "2298", "Sentence": "Amo le commedie , ed anche i film .", "Labels": "0"}
+{"ID": "2033", "Sentence": "Uso il PVC , ed anche il cuoio .", "Labels": "1"}
+{"ID": "3691", "Sentence": "Amo i gioielli pi\u00f9 dei pantaloni .", "Labels": "1"}
+{"ID": "3825", "Sentence": "Apprezzo le posate pi\u00f9 delle sedie .", "Labels": "1"}
+{"ID": "5096", "Sentence": "Apprezzo l' acqua , ma non il Primitivo .", "Labels": "1"}
+{"ID": "828", "Sentence": "Apprezzo il vino , eccetto la coca cola .", "Labels": "0"}
+{"ID": "2224", "Sentence": "Adoro il maiale , eccetto le carote .", "Labels": "0"}
+{"ID": "3447", "Sentence": "Non amo i camerieri , preferisco le fabbriche .", "Labels": "1"}
+{"ID": "2212", "Sentence": "Amo il pesce , ed anche il lardo .", "Labels": "1"}
+{"ID": "627", "Sentence": "Ho incontrato i camerieri , e pi\u00f9 specificamente i lavoratori .", "Labels": "0"}
+{"ID": "4140", "Sentence": "Amo i saggi pi\u00f9 delle commedie .", "Labels": "1"}
+{"ID": "915", "Sentence": "Amo i bassotti , un tipo interessante di coniglio .", "Labels": "0"}
+{"ID": "2584", "Sentence": "Amo i guardiani , ed anche le scuole .", "Labels": "1"}
+{"ID": "3342", "Sentence": "Non si fida delle congetture , preferisce il gusto .", "Labels": "1"}
+{"ID": "5772", "Sentence": "Amo i pantaloni , e pi\u00f9 specificamente gli animali domestici .", "Labels": "0"}
+{"ID": "4859", "Sentence": "Amo le Kawasakis , ma non le navi .", "Labels": "1"}
+{"ID": "1391", "Sentence": "Adoro il caviale , un tipo interessante di vitello .", "Labels": "0"}
+{"ID": "1361", "Sentence": "Apprezzo gli sport , eccetto la techno .", "Labels": "0"}
+{"ID": "5373", "Sentence": "Amo i conigli , ma non le meduse .", "Labels": "1"}
+{"ID": "2247", "Sentence": "Amo i granchi , ed anche il manzo .", "Labels": "1"}
+{"ID": "369", "Sentence": "Amo gli occhiali , e pi\u00f9 specificamente i braccialetti .", "Labels": "0"}
+{"ID": "4860", "Sentence": "Amo le navi , ma non le Kawasakis .", "Labels": "1"}
+{"ID": "1989", "Sentence": "Amo i pini , ed anche gli arbusti .", "Labels": "1"}
+{"ID": "2122", "Sentence": "Apprezzo la birra , ed anche il Primitivo .", "Labels": "1"}
+{"ID": "801", "Sentence": "Apprezzo i guardaroba , eccetto i mobili .", "Labels": "0"}
+{"ID": "1022", "Sentence": "Amo gli orecchini , un tipo interessante di camicia .", "Labels": "0"}
+{"ID": "2731", "Sentence": "Non amo i maiali , preferisco i merli .", "Labels": "1"}
+{"ID": "4738", "Sentence": "Amo i bobtail , eccetto i conigli .", "Labels": "0"}
+{"ID": "1253", "Sentence": "Apprezzo il jazz , un tipo interessante di musica .", "Labels": "1"}
+{"ID": "5028", "Sentence": "Apprezzo i tavoli , ma non i mobili .", "Labels": "0"}
+{"ID": "3363", "Sentence": "Non ama la paura , preferisce la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "1823", "Sentence": "Amo gli uccelli , ed anche i criceti .", "Labels": "1"}
+{"ID": "5770", "Sentence": "Amo i vestiti , eccetto le camicie .", "Labels": "1"}
+{"ID": "5833", "Sentence": "Amo le betulle , e pi\u00f9 specificamente i cespugli .", "Labels": "0"}
+{"ID": "5556", "Sentence": "Amo i guardiani , ma non le scuole .", "Labels": "1"}
+{"ID": "2150", "Sentence": "Apprezzo la musica , ed anche la techno .", "Labels": "0"}
+{"ID": "1894", "Sentence": "Amo le navi , ed anche le Kawasakis .", "Labels": "1"}
+{"ID": "4724", "Sentence": "Ho incontrato i portieri , eccetto gli astronomi .", "Labels": "0"}
+{"ID": "1996", "Sentence": "Uso il poliestere , ed anche il cotone .", "Labels": "1"}
+{"ID": "2921", "Sentence": "Non amo il cuoio , preferisco il PVC .", "Labels": "1"}
+{"ID": "2120", "Sentence": "Apprezzo la sprite , ed anche il Primitivo .", "Labels": "1"}
+{"ID": "3588", "Sentence": "Amo gli uccelli pi\u00f9 dei pappagalli .", "Labels": "0"}
+{"ID": "1421", "Sentence": "Amo i giochi da tavolo , un tipo interessante di western .", "Labels": "0"}
+{"ID": "3100", "Sentence": "Non amo le carote , preferisco il lardo .", "Labels": "1"}
+{"ID": "4984", "Sentence": "Uso il vetro , ma non il nylon .", "Labels": "1"}
+{"ID": "3335", "Sentence": "Non si fida del gusto , preferisce i sensi .", "Labels": "0"}
+{"ID": "3858", "Sentence": "Apprezzo i guardaroba pi\u00f9 della carta da parati .", "Labels": "1"}
+{"ID": "613", "Sentence": "Ho incontrato i lavoratori , e pi\u00f9 specificamente le fabbriche .", "Labels": "0"}
+{"ID": "1707", "Sentence": "Amo i lavoratori , un tipo interessante di guardiano .", "Labels": "0"}
+{"ID": "1988", "Sentence": "Amo i cespugli , ed anche i pini .", "Labels": "1"}
+{"ID": "4562", "Sentence": "Posso capire le emozioni , eccetto la stupidit\u00e0 .", "Labels": "0"}
+{"ID": "2153", "Sentence": "Apprezzo la techno , ed anche il cibo .", "Labels": "1"}
+{"ID": "5031", "Sentence": "Apprezzo i dipinti , ma non i tavoli .", "Labels": "1"}
+{"ID": "3215", "Sentence": "Non amo i gioielli , preferisco le scarpe .", "Labels": "1"}
+{"ID": "2878", "Sentence": "Non amo il poliestere , preferisco il legno .", "Labels": "1"}
+{"ID": "3258", "Sentence": "Non amo i gatti , preferisco le balene .", "Labels": "1"}
+{"ID": "5485", "Sentence": "Amo i libri , ma non i sussidiari .", "Labels": "1"}
+{"ID": "3117", "Sentence": "Non amo i granchi , preferisco i prodotti del mare .", "Labels": "0"}
+{"ID": "2163", "Sentence": "Apprezzo il blues , ed anche il cibo .", "Labels": "1"}
+{"ID": "3941", "Sentence": "Apprezzo il rock pi\u00f9 dei giochi da tavolo .", "Labels": "1"}
+{"ID": "5460", "Sentence": "Posso capire i calcoli , ma non la paura .", "Labels": "1"}
+{"ID": "4715", "Sentence": "Ho incontrato gli astronomi , eccetto gli impiegati .", "Labels": "0"}
+{"ID": "4365", "Sentence": "Posso capire i calcoli pi\u00f9 dell' amore .", "Labels": "1"}
+{"ID": "1393", "Sentence": "Apprezzo il cibo , eccetto la techno .", "Labels": "0"}
+{"ID": "1510", "Sentence": "Amo le balene , un tipo interessante di gatto .", "Labels": "0"}
+{"ID": "2763", "Sentence": "Non amo le biciclette , preferisco le Suzuki .", "Labels": "1"}
+{"ID": "3784", "Sentence": "Uso la plastica pi\u00f9 del vetro .", "Labels": "1"}
+{"ID": "3888", "Sentence": "Apprezzo lo Chardonnay pi\u00f9 del vino .", "Labels": "0"}
+{"ID": "4210", "Sentence": "Amo gli anelli pi\u00f9 degli occhiali .", "Labels": "1"}
+{"ID": "1286", "Sentence": "Apprezzo il blues , un tipo interessante di collana .", "Labels": "0"}
+{"ID": "1904", "Sentence": "Amo gli animali domestici , ed anche le camicie .", "Labels": "1"}
+{"ID": "3945", "Sentence": "Apprezzo il cibo pi\u00f9 del rock .", "Labels": "1"}
+{"ID": "2614", "Sentence": "Ho incontrato gli impiegati , ed anche i genetisti .", "Labels": "1"}
+{"ID": "3488", "Sentence": "Non amo i biologi , preferisco i portieri .", "Labels": "1"}
+{"ID": "4478", "Sentence": "Amo i genetisti pi\u00f9 degli impiegati .", "Labels": "1"}
+{"ID": "2202", "Sentence": "Amo il bacon , ed anche il maiale .", "Labels": "0"}
+{"ID": "3076", "Sentence": "Non amo i broccoli , preferisco il prosciutto .", "Labels": "1"}
+{"ID": "2363", "Sentence": "Amo gli anelli , ed anche le scarpe .", "Labels": "1"}
+{"ID": "2628", "Sentence": "Ho incontrato i camerieri , ed anche gli astronomi .", "Labels": "1"}
+{"ID": "5421", "Sentence": "Si fida del tatto , ma non i notiziari .", "Labels": "1"}
+{"ID": "3853", "Sentence": "Apprezzo le posate pi\u00f9 dei guardaroba .", "Labels": "1"}
+{"ID": "4685", "Sentence": "Amo i ristoranti , eccetto i professori .", "Labels": "0"}
+{"ID": "961", "Sentence": "Amo i cani , un tipo interessante di passero .", "Labels": "0"}
+{"ID": "3393", "Sentence": "Non amo i libri , preferisco la musica .", "Labels": "1"}
+{"ID": "705", "Sentence": "Adoro gli abeti , eccetto gli animali .", "Labels": "0"}
+{"ID": "5530", "Sentence": "Amo i lavoratori , ma non le fabbriche .", "Labels": "1"}
+{"ID": "5321", "Sentence": "Amo le borsette , ma non gli orecchini .", "Labels": "1"}
+{"ID": "5203", "Sentence": "Amo le biciclette , eccetto gli enduro .", "Labels": "0"}
+{"ID": "5718", "Sentence": "Amo i treni , e pi\u00f9 specificamente le Harley-Davidson .", "Labels": "0"}
+{"ID": "1299", "Sentence": "Adoro il pesce , un tipo interessante di prosciutto cotto .", "Labels": "0"}
+{"ID": "3475", "Sentence": "Non amo i professori , preferisco gli uffici .", "Labels": "1"}
+{"ID": "1704", "Sentence": "Amo i guardiani , un tipo interessante di fabbrica .", "Labels": "0"}
+{"ID": "3328", "Sentence": "Adoro il tacchino , eccetto i granchi .", "Labels": "0"}
+{"ID": "5404", "Sentence": "Si fida della vista , ma non le congetture .", "Labels": "1"}
+{"ID": "2816", "Sentence": "Non amo le calze , preferisco i vestiti .", "Labels": "0"}
+{"ID": "5357", "Sentence": "Amo i cani , ma non gli animali domestici .", "Labels": "0"}
+{"ID": "3763", "Sentence": "Amo i pini pi\u00f9 dell' erba .", "Labels": "1"}
+{"ID": "5565", "Sentence": "Amo i ristoranti , ma non i professori .", "Labels": "1"}
+{"ID": "4991", "Sentence": "Uso la plastica , ma non il vinile .", "Labels": "1"}
+{"ID": "589", "Sentence": "Adoro l' erba , eccetto le betulle .", "Labels": "0"}
+{"ID": "2733", "Sentence": "Non amo i cani , preferisco i merli .", "Labels": "1"}
+{"ID": "444", "Sentence": "Amo gli animali domestici , e pi\u00f9 specificamente i criceti .", "Labels": "1"}
+{"ID": "1605", "Sentence": "Posso capire la saggezza , un tipo interessante di paura .", "Labels": "0"}
+{"ID": "3208", "Sentence": "Non amo i gioielli , preferisco le sciarpe .", "Labels": "1"}
+{"ID": "2204", "Sentence": "Amo il bacon , ed anche i broccoli .", "Labels": "1"}
+{"ID": "3578", "Sentence": "Amo i cani pi\u00f9 dei bassotti .", "Labels": "0"}
+{"ID": "63", "Sentence": "Uso il cuoio , e pi\u00f9 specificamente il vinile .", "Labels": "0"}
+{"ID": "4297", "Sentence": "Si fida dei notiziari pi\u00f9 che dell' udito .", "Labels": "1"}
+{"ID": "3096", "Sentence": "Non amo i broccoli , preferisco il lardo .", "Labels": "1"}
+{"ID": "3510", "Sentence": "Adoro i prodotti del mare , eccetto le ostriche .", "Labels": "1"}
+{"ID": "1204", "Sentence": "Apprezzo lo Chardonnay , un tipo interessante di coca cola .", "Labels": "0"}
+{"ID": "3263", "Sentence": "Non amo i cani , preferisco gli animali domestici .", "Labels": "0"}
+{"ID": "3185", "Sentence": "Non amo le commedie , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "5801", "Sentence": "Amo i vestiti , e pi\u00f9 specificamente le gonne .", "Labels": "1"}
+{"ID": "4526", "Sentence": "Si fida dell' udito , eccetto che dei sensi .", "Labels": "0"}
+{"ID": "2376", "Sentence": "Amo gli animali domestici , ed anche le meduse .", "Labels": "1"}
+{"ID": "471", "Sentence": "Adoro gli alberi , eccetto le querce .", "Labels": "1"}
+{"ID": "4602", "Sentence": "Amo i sussidiari , eccetto i libri .", "Labels": "0"}
+{"ID": "579", "Sentence": "Amo i saggi , e pi\u00f9 specificamente i dipinti .", "Labels": "0"}
+{"ID": "4168", "Sentence": "Amo le borsette pi\u00f9 dei braccialetti .", "Labels": "1"}
+{"ID": "1807", "Sentence": "Amo i gatti , ed anche i bassotti .", "Labels": "1"}
+{"ID": "106", "Sentence": "Apprezzo i guardaroba , e pi\u00f9 specificamente il parquet .", "Labels": "0"}
+{"ID": "4121", "Sentence": "Amo i giochi da tavolo pi\u00f9 dei thriller .", "Labels": "1"}
+{"ID": "3522", "Sentence": "Non amo i fisici , preferisco i guardiani .", "Labels": "1"}
+{"ID": "2231", "Sentence": "Amo il vitello , ed anche il salmone .", "Labels": "1"}
+{"ID": "2626", "Sentence": "Ho incontrato gli scienziati , ed anche gli astronomi .", "Labels": "0"}
+{"ID": "4909", "Sentence": "Amo gli occhiali , ma non le gonne .", "Labels": "1"}
+{"ID": "1590", "Sentence": "Posso capire la saggezza , un tipo interessante di gioia .", "Labels": "0"}
+{"ID": "833", "Sentence": "Apprezzo il Merlot , eccetto la sprite .", "Labels": "0"}
+{"ID": "5599", "Sentence": "Ho incontrato gli astronomi , ma non i camerieri .", "Labels": "1"}
+{"ID": "4491", "Sentence": "Amo gli scienziati pi\u00f9 degli astronomi .", "Labels": "0"}
+{"ID": "72", "Sentence": "Uso il PVC , e pi\u00f9 specificamente il cuoio .", "Labels": "0"}
+{"ID": "2260", "Sentence": "Amo il pollo , ed anche il caviale .", "Labels": "1"}
+{"ID": "3770", "Sentence": "Amo i cespugli pi\u00f9 dei pini .", "Labels": "1"}
+{"ID": "5020", "Sentence": "Apprezzo la carta da parati , ma non le sedie .", "Labels": "1"}
+{"ID": "4266", "Sentence": "Amo i criceti pi\u00f9 delle balene .", "Labels": "1"}
+{"ID": "3302", "Sentence": "Non si fida della vista , preferisce i notiziari .", "Labels": "1"}
+{"ID": "902", "Sentence": "Amo i criceti , un tipo interessante di bulldog .", "Labels": "0"}
+{"ID": "889", "Sentence": "Amo i bobtail , un tipo interessante di cane .", "Labels": "1"}
+{"ID": "1717", "Sentence": "Amo i lavoratori , un tipo interessante di professore .", "Labels": "0"}
+{"ID": "980", "Sentence": "Amo le navi , un tipo interessante di Suzuki .", "Labels": "0"}
+{"ID": "4674", "Sentence": "Amo i guardiani , eccetto i ristoranti .", "Labels": "0"}
+{"ID": "4394", "Sentence": "Amo i saggi pi\u00f9 del cinema .", "Labels": "1"}
+{"ID": "5219", "Sentence": "Adoro il pollo , ma non i granchi .", "Labels": "1"}
+{"ID": "3926", "Sentence": "Amo i documentari , eccetto i saggi .", "Labels": "0"}
+{"ID": "1069", "Sentence": "Adoro gli alberi , un tipo interessante di arbusto .", "Labels": "0"}
+{"ID": "4194", "Sentence": "Amo gli orecchini pi\u00f9 delle borsette .", "Labels": "1"}
+{"ID": "4658", "Sentence": "Amo i lavoratori , eccetto gli uffici .", "Labels": "0"}
+{"ID": "1631", "Sentence": "Posso capire la logica , un tipo interessante di tristezza .", "Labels": "0"}
+{"ID": "578", "Sentence": "Amo i cartoni animati , e pi\u00f9 specificamente i saggi .", "Labels": "0"}
+{"ID": "4144", "Sentence": "Amo i sussidiari pi\u00f9 delle commedie .", "Labels": "1"}
+{"ID": "3546", "Sentence": "Amo i pappagalli pi\u00f9 degli husky .", "Labels": "1"}
+{"ID": "4621", "Sentence": "Amo i saggi , eccetto i cartoni animati .", "Labels": "0"}
+{"ID": "1766", "Sentence": "Ho incontrato i fisici , un tipo interessante di portiere .", "Labels": "0"}
+{"ID": "1171", "Sentence": "Apprezzo le posate , un tipo interessante di guardaroba .", "Labels": "0"}
+{"ID": "942", "Sentence": "Amo i merli , un tipo interessante di gatto .", "Labels": "0"}
+{"ID": "452", "Sentence": "Amo i bassotti , eccetto i criceti .", "Labels": "0"}
+{"ID": "3525", "Sentence": "Non amo i portieri , preferisco i fisici .", "Labels": "1"}
+{"ID": "871", "Sentence": "Amo gli husky , eccetto i gatti .", "Labels": "0"}
+{"ID": "2814", "Sentence": "Non amo le calze , preferisco gli animali domestici .", "Labels": "1"}
+{"ID": "4284", "Sentence": "Si fida dei notiziari pi\u00f9 che della vista .", "Labels": "1"}
+{"ID": "4642", "Sentence": "Amo i cartoni animati , eccetto i manuali .", "Labels": "0"}
+{"ID": "1991", "Sentence": "Uso il poliestere , ed anche il legno .", "Labels": "1"}
+{"ID": "5595", "Sentence": "Ho incontrato gli astronomi , ma non gli impiegati .", "Labels": "1"}
+{"ID": "3846", "Sentence": "Apprezzo i tavoli pi\u00f9 della carta da parati .", "Labels": "1"}
+{"ID": "130", "Sentence": "Apprezzo il vino , e pi\u00f9 specificamente la sprite .", "Labels": "0"}
+{"ID": "1092", "Sentence": "Adoro i pini , un tipo interessante di albero .", "Labels": "1"}
+{"ID": "3352", "Sentence": "Non ama la gioia , preferisce la logica .", "Labels": "1"}
+{"ID": "11", "Sentence": "Amo gli arbusti , e pi\u00f9 specificamente gli abeti .", "Labels": "0"}
+{"ID": "404", "Sentence": "Amo gli anelli , e pi\u00f9 specificamente le scarpe .", "Labels": "0"}
+{"ID": "766", "Sentence": "Uso il cuoio , eccetto il PVC .", "Labels": "0"}
+{"ID": "2910", "Sentence": "Non amo il vinile , preferisco il cuoio .", "Labels": "1"}
+{"ID": "433", "Sentence": "Amo i conigli , e pi\u00f9 specificamente gli animali domestici .", "Labels": "0"}
+{"ID": "4112", "Sentence": "Amo i thriller pi\u00f9 dei saggi .", "Labels": "1"}
+{"ID": "4111", "Sentence": "Amo le scarpe , eccetto gli anelli .", "Labels": "0"}
+{"ID": "4127", "Sentence": "Amo i saggi pi\u00f9 dei western .", "Labels": "1"}
+{"ID": "2956", "Sentence": "Non amo i letti , preferisco le posate .", "Labels": "1"}
+{"ID": "5070", "Sentence": "Apprezzo il vino , ma non la birra .", "Labels": "1"}
+{"ID": "2533", "Sentence": "Amo i passeri , eccetto i gatti .", "Labels": "0"}
+{"ID": "862", "Sentence": "Apprezzo la coca cola , eccetto il Primitivo .", "Labels": "0"}
+{"ID": "3513", "Sentence": "Non amo gli astronomi , preferisco i portieri .", "Labels": "1"}
+{"ID": "2523", "Sentence": "Amo i saggi , ed anche la musica .", "Labels": "1"}
+{"ID": "1683", "Sentence": "Amo i lavoratori , un tipo interessante di impiegato .", "Labels": "0"}
+{"ID": "1528", "Sentence": "Amo i conigli , un tipo interessante di meduse .", "Labels": "0"}
+{"ID": "29", "Sentence": "Uso la plastica , e pi\u00f9 specificamente il poliestere .", "Labels": "1"}
+{"ID": "4147", "Sentence": "Amo i giochi da tavolo pi\u00f9 delle commedie .", "Labels": "1"}
+{"ID": "5531", "Sentence": "Amo gli impiegati , ma non i ristoranti .", "Labels": "1"}
+{"ID": "3755", "Sentence": "Amo i giochi da tavolo , eccetto i thriller .", "Labels": "0"}
+{"ID": "3683", "Sentence": "Amo le camicie pi\u00f9 degli orecchini .", "Labels": "1"}
+{"ID": "2309", "Sentence": "Amo i documentari , ed anche i film .", "Labels": "0"}
+{"ID": "194", "Sentence": "Apprezzo il jazz , e pi\u00f9 specificamente gli sport .", "Labels": "0"}
+{"ID": "2066", "Sentence": "Apprezzo la carta da parati , ed anche i guardaroba .", "Labels": "1"}
+{"ID": "1181", "Sentence": "Apprezzo le posate , un tipo interessante di letto .", "Labels": "0"}
+{"ID": "2080", "Sentence": "Apprezzo la coca cola , ed anche il Merlot .", "Labels": "1"}
+{"ID": "5104", "Sentence": "Amo le Suzuki , eccetto le biciclette .", "Labels": "0"}
+{"ID": "776", "Sentence": "Apprezzo le sedie , eccetto la carta da parati .", "Labels": "0"}
+{"ID": "1840", "Sentence": "Amo i gatti , ed anche i merli .", "Labels": "1"}
+{"ID": "3451", "Sentence": "Non amo i camerieri , preferisco i ristoranti .", "Labels": "1"}
+{"ID": "3246", "Sentence": "Non amo le scarpe , preferisco gli anelli .", "Labels": "1"}
+{"ID": "1599", "Sentence": "Posso capire le emozioni , un tipo interessante di logica .", "Labels": "0"}
+{"ID": "158", "Sentence": "Amo le calze , eccetto gli occhiali .", "Labels": "0"}
+{"ID": "5362", "Sentence": "Amo i cani , ma non le meduse .", "Labels": "1"}
+{"ID": "224", "Sentence": "Apprezzo il cibo , e pi\u00f9 specificamente il blues .", "Labels": "0"}
+{"ID": "2955", "Sentence": "Non amo il parquet , preferisco i guardaroba .", "Labels": "1"}
+{"ID": "5817", "Sentence": "Amo gli alberi , e pi\u00f9 specificamente l' erba .", "Labels": "0"}
+{"ID": "1000", "Sentence": "Amo le navi , un tipo interessante di Kawasaki .", "Labels": "0"}
+{"ID": "1017", "Sentence": "Amo i vestiti , un tipo interessante di gioielli .", "Labels": "0"}
+{"ID": "184", "Sentence": "Apprezzo i giochi da tavolo , e pi\u00f9 specificamente il rock .", "Labels": "0"}
+{"ID": "3623", "Sentence": "Amo i criceti pi\u00f9 dei passeri .", "Labels": "1"}
+{"ID": "414", "Sentence": "Amo i gatti , e pi\u00f9 specificamente le meduse .", "Labels": "0"}
+{"ID": "3830", "Sentence": "Apprezzo i dipinti pi\u00f9 delle sedie .", "Labels": "1"}
+{"ID": "3146", "Sentence": "Adoro il pollo , eccetto il salmone .", "Labels": "0"}
+{"ID": "1855", "Sentence": "Amo i passeri , ed anche i maiali .", "Labels": "1"}
+{"ID": "1094", "Sentence": "Adoro i pini , un tipo interessante di animale .", "Labels": "0"}
+{"ID": "1878", "Sentence": "Amo le biciclette , ed anche le Suzuki .", "Labels": "1"}
+{"ID": "4913", "Sentence": "Adoro l' erba , ma non le querce .", "Labels": "1"}
+{"ID": "4460", "Sentence": "Amo i professori pi\u00f9 delle scuole .", "Labels": "1"}
+{"ID": "2867", "Sentence": "Non amo gli arbusti , preferisco gli abeti .", "Labels": "1"}
+{"ID": "71", "Sentence": "Uso il vetro , e pi\u00f9 specificamente il PVC .", "Labels": "0"}
+{"ID": "4189", "Sentence": "Amo le sciarpe pi\u00f9 delle collane .", "Labels": "1"}
+{"ID": "3532", "Sentence": "Adoro il pollo , eccetto il caviale .", "Labels": "0"}
+{"ID": "1975", "Sentence": "Amo gli abeti , ed anche gli animali .", "Labels": "1"}
+{"ID": "1715", "Sentence": "Amo le fabbriche , un tipo interessante di professore .", "Labels": "0"}
+{"ID": "759", "Sentence": "Uso il PVC , eccetto la plastica .", "Labels": "0"}
+{"ID": "1197", "Sentence": "Apprezzo il vino , un tipo interessante di acqua .", "Labels": "0"}
+{"ID": "2805", "Sentence": "Non amo gli animali domestici , preferisco i pantaloni .", "Labels": "1"}
+{"ID": "4656", "Sentence": "Amo gli impiegati , eccetto gli uffici .", "Labels": "0"}
+{"ID": "438", "Sentence": "Amo le meduse , e pi\u00f9 specificamente i conigli .", "Labels": "0"}
+{"ID": "4029", "Sentence": "Amo il pesce pi\u00f9 del bacon .", "Labels": "1"}
+{"ID": "3255", "Sentence": "Non amo i gatti , preferisco le meduse .", "Labels": "1"}
+{"ID": "1678", "Sentence": "Amo i dipinti , un tipo interessante di manuale .", "Labels": "0"}
+{"ID": "3960", "Sentence": "Apprezzo la techno pi\u00f9 degli sport .", "Labels": "1"}
+{"ID": "2295", "Sentence": "Adoro il prosciutto , eccetto il maiale .", "Labels": "0"}
+{"ID": "5188", "Sentence": "Adoro le carote , ma non il bacon .", "Labels": "1"}
+{"ID": "4208", "Sentence": "Amo gli anelli pi\u00f9 delle sciarpe .", "Labels": "1"}
+{"ID": "3167", "Sentence": "Non amo i saggi , preferisco i western .", "Labels": "1"}
+{"ID": "52", "Sentence": "Amo i pantaloni , eccetto gli orecchini .", "Labels": "0"}
+{"ID": "5796", "Sentence": "Amo le camicie , eccetto gli occhiali .", "Labels": "0"}
+{"ID": "5732", "Sentence": "Amo gli aeroplani , e pi\u00f9 specificamente le Suzuki .", "Labels": "0"}
+{"ID": "4530", "Sentence": "Si fida dell' udito , eccetto che delle ricostruzioni .", "Labels": "0"}
+{"ID": "3912", "Sentence": "Apprezzo il Primitivo pi\u00f9 della coca cola .", "Labels": "1"}
+{"ID": "2688", "Sentence": "Non amo i pappagalli , preferisco i bulldog .", "Labels": "1"}
+{"ID": "161", "Sentence": "Apprezzo la coca cola , e pi\u00f9 specificamente il Primitivo .", "Labels": "0"}
+{"ID": "2752", "Sentence": "Non amo le Harley-Davidson , preferisco i treni .", "Labels": "1"}
+{"ID": "2354", "Sentence": "Amo le scarpe , ed anche gli orecchini .", "Labels": "1"}
+{"ID": "1947", "Sentence": "Amo le querce , ed anche l' erba .", "Labels": "1"}
+{"ID": "375", "Sentence": "Amo le collane , e pi\u00f9 specificamente le borsette .", "Labels": "0"}
+{"ID": "1785", "Sentence": "Amo i cani , ed anche i conigli .", "Labels": "1"}
+{"ID": "2156", "Sentence": "Apprezzo i gioielli , ed anche la techno .", "Labels": "1"}
+{"ID": "4314", "Sentence": "Si fida del tatto pi\u00f9 che delle congetture .", "Labels": "1"}
+{"ID": "1218", "Sentence": "Apprezzo il Chianti , un tipo interessante di acqua .", "Labels": "0"}
+{"ID": "268", "Sentence": "Adoro le mele , e pi\u00f9 specificamente il lardo .", "Labels": "0"}
+{"ID": "2004", "Sentence": "Uso la plastica , ed anche il cuoio .", "Labels": "1"}
+{"ID": "1093", "Sentence": "Adoro gli alberi , un tipo interessante di pino .", "Labels": "0"}
+{"ID": "1342", "Sentence": "Adoro il lardo , un tipo interessante di mele .", "Labels": "0"}
+{"ID": "325", "Sentence": "Amo i giochi da tavolo , e pi\u00f9 specificamente i thriller .", "Labels": "0"}
+{"ID": "1138", "Sentence": "Uso la plastica , un tipo interessante di PVC .", "Labels": "0"}
+{"ID": "520", "Sentence": "Posso capire la logica , e pi\u00f9 specificamente la gioia .", "Labels": "0"}
+{"ID": "983", "Sentence": "Amo le Suzuki , un tipo interessante di bicicletta .", "Labels": "0"}
+{"ID": "3245", "Sentence": "Non amo gli anelli , preferisco le scarpe .", "Labels": "1"}
+{"ID": "2765", "Sentence": "Non amo i treni , preferisco le Suzuki .", "Labels": "1"}
+{"ID": "178", "Sentence": "Apprezzo il rock , e pi\u00f9 specificamente gli sport .", "Labels": "0"}
+{"ID": "1994", "Sentence": "Uso la plastica , ed anche il poliestere .", "Labels": "0"}
+{"ID": "5109", "Sentence": "Apprezzo la musica , ma non il rock .", "Labels": "1"}
+{"ID": "5757", "Sentence": "Amo i vestiti , e pi\u00f9 specificamente le camicie .", "Labels": "1"}
+{"ID": "4279", "Sentence": "Si fida delle dicerie pi\u00f9 che della vista .", "Labels": "1"}
+{"ID": "3080", "Sentence": "Non amo le carote , preferisco il prosciutto .", "Labels": "1"}
+{"ID": "5148", "Sentence": "Apprezzo il blues , ma non il cibo .", "Labels": "1"}
+{"ID": "74", "Sentence": "Apprezzo le sedie , e pi\u00f9 specificamente le posate .", "Labels": "0"}
+{"ID": "656", "Sentence": "Ho incontrato gli uffici , e pi\u00f9 specificamente i professori .", "Labels": "0"}
+{"ID": "4403", "Sentence": "Amo i libri pi\u00f9 dei romanzi .", "Labels": "0"}
+{"ID": "460", "Sentence": "Si fida della vista , e pi\u00f9 specificamente dei notiziari .", "Labels": "0"}
+{"ID": "4869", "Sentence": "Amo le scarpe , ma non le camicie .", "Labels": "1"}
+{"ID": "5266", "Sentence": "Amo i western , ma non i saggi .", "Labels": "1"}
+{"ID": "3285", "Sentence": "Non amo i criceti , preferisco gli orsi .", "Labels": "1"}
+{"ID": "3714", "Sentence": "Amo le gonne pi\u00f9 degli orecchini .", "Labels": "1"}
+{"ID": "2468", "Sentence": "Posso capire le emozioni , ed anche la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "2975", "Sentence": "Non amo la sprite , preferisco il Merlot .", "Labels": "1"}
+{"ID": "2777", "Sentence": "Non amo gli aeroplani , preferisco gli enduro .", "Labels": "1"}
+{"ID": "1513", "Sentence": "Amo le giraffe , un tipo interessante di cane .", "Labels": "0"}
+{"ID": "4572", "Sentence": "Posso capire le emozioni , eccetto la paura .", "Labels": "1"}
+{"ID": "4889", "Sentence": "Amo gli occhiali , ma non i pantaloni .", "Labels": "1"}
+{"ID": "2573", "Sentence": "Amo i ristoranti , ed anche i camerieri .", "Labels": "1"}
+{"ID": "1506", "Sentence": "Amo i gatti , un tipo interessante di meduse .", "Labels": "0"}
+{"ID": "5761", "Sentence": "Amo le scarpe , eccetto le camicie .", "Labels": "0"}
+{"ID": "4654", "Sentence": "Amo le scuole , eccetto gli impiegati .", "Labels": "0"}
+{"ID": "4338", "Sentence": "Posso capire le emozioni pi\u00f9 della stupidit\u00e0 .", "Labels": "1"}
+{"ID": "5727", "Sentence": "Amo le Suzuki , e pi\u00f9 specificamente le biciclette .", "Labels": "0"}
+{"ID": "2745", "Sentence": "Non amo le navi , preferisco le Harley-Davidson .", "Labels": "1"}
+{"ID": "4188", "Sentence": "Amo le collane pi\u00f9 delle sciarpe .", "Labels": "1"}
+{"ID": "3594", "Sentence": "Amo i maiali pi\u00f9 dei pappagalli .", "Labels": "1"}
+{"ID": "5134", "Sentence": "Apprezzo la musica , ma non la techno .", "Labels": "1"}
+{"ID": "3898", "Sentence": "Amo le commedie , eccetto i film .", "Labels": "0"}
+{"ID": "3487", "Sentence": "Non amo gli scienziati , preferisco i guardiani .", "Labels": "1"}
+{"ID": "4213", "Sentence": "Amo le scarpe pi\u00f9 degli anelli .", "Labels": "1"}
+{"ID": "770", "Sentence": "Apprezzo le sedie , eccetto i mobili .", "Labels": "0"}
+{"ID": "4078", "Sentence": "Amo i granchi pi\u00f9 del tacchino .", "Labels": "1"}
+{"ID": "5162", "Sentence": "Adoro il maiale , ma non i broccoli .", "Labels": "1"}
+{"ID": "4883", "Sentence": "Amo le scarpe , ma non i pantaloni .", "Labels": "1"}
+{"ID": "2611", "Sentence": "Ho incontrato i portieri , ed anche i biologi .", "Labels": "1"}
+{"ID": "218", "Sentence": "Apprezzo gli sport , e pi\u00f9 specificamente il blues .", "Labels": "0"}
+{"ID": "5377", "Sentence": "Amo i criceti , ma non le giraffe .", "Labels": "1"}
+{"ID": "1900", "Sentence": "Amo i treni , ed anche le Kawasakis .", "Labels": "1"}
+{"ID": "3045", "Sentence": "Non amo i gioielli , preferisco la techno .", "Labels": "1"}
+{"ID": "2848", "Sentence": "Non amo le betulle , preferisco l' erba .", "Labels": "1"}
+{"ID": "1761", "Sentence": "Ho incontrato gli scienziati , un tipo interessante di fisico .", "Labels": "0"}
+{"ID": "3827", "Sentence": "Apprezzo i mobili pi\u00f9 delle sedie .", "Labels": "0"}
+{"ID": "164", "Sentence": "Apprezzo il Primitivo , e pi\u00f9 specificamente l' acqua .", "Labels": "0"}
+{"ID": "748", "Sentence": "Uso il legno , eccetto il vinile .", "Labels": "0"}
+{"ID": "2678", "Sentence": "Non amo i pappagalli , preferisco i bobtail .", "Labels": "1"}
+{"ID": "499", "Sentence": "Si fida delle dicerie , e pi\u00f9 specificamente del gusto .", "Labels": "0"}
+{"ID": "2335", "Sentence": "Amo le collane , ed anche i gioielli .", "Labels": "0"}
+{"ID": "2653", "Sentence": "Adoro il lardo , eccetto le carote .", "Labels": "0"}
+{"ID": "5526", "Sentence": "Amo gli impiegati , ma non le fabbriche .", "Labels": "1"}
+{"ID": "5629", "Sentence": "Amo gli husky , e pi\u00f9 specificamente i conigli .", "Labels": "0"}
+{"ID": "5737", "Sentence": "Amo gli enduro , e pi\u00f9 specificamente le biciclette .", "Labels": "0"}
+{"ID": "3105", "Sentence": "Non amo i prodotti del mare , preferisco il pollo .", "Labels": "1"}
+{"ID": "4282", "Sentence": "Si fida dei sensi pi\u00f9 che delle dicerie .", "Labels": "1"}
+{"ID": "4081", "Sentence": "Amo il manzo pi\u00f9 dei granchi .", "Labels": "1"}
+{"ID": "5060", "Sentence": "Apprezzo il vino , ma non il Merlot .", "Labels": "1"}
+{"ID": "2013", "Sentence": "Uso il nylon , ed anche il cuoio .", "Labels": "1"}
+{"ID": "2613", "Sentence": "Ho incontrato i genetisti , ed anche gli impiegati .", "Labels": "1"}
+{"ID": "485", "Sentence": "Si fida del tatto , e pi\u00f9 specificamente delle dicerie .", "Labels": "0"}
+{"ID": "5408", "Sentence": "Si fida delle dicerie , ma non l' udito .", "Labels": "1"}
+{"ID": "3147", "Sentence": "Adoro il salmone , eccetto i prodotti del mare .", "Labels": "0"}
+{"ID": "2919", "Sentence": "Non amo il vetro , preferisco il PVC .", "Labels": "1"}
+{"ID": "3597", "Sentence": "Amo gli uccelli pi\u00f9 dei cani .", "Labels": "1"}
+{"ID": "4786", "Sentence": "Amo i pappagalli , ma non gli uccelli .", "Labels": "0"}
+{"ID": "2444", "Sentence": "Adoro il maiale , eccetto il bacon .", "Labels": "1"}
+{"ID": "1400", "Sentence": "Amo i thriller , un tipo interessante di saggio .", "Labels": "0"}
+{"ID": "3155", "Sentence": "Non amo i film , preferisco i thriller .", "Labels": "0"}
+{"ID": "3042", "Sentence": "Non amo la techno , preferisco il cibo .", "Labels": "1"}
+{"ID": "3584", "Sentence": "Amo i conigli pi\u00f9 dei bassotti .", "Labels": "1"}
+{"ID": "1725", "Sentence": "Ho incontrato gli impiegati , un tipo interessante di biologo .", "Labels": "0"}
+{"ID": "3340", "Sentence": "Non si fida delle ricostruzioni , preferisce il gusto .", "Labels": "1"}
+{"ID": "2974", "Sentence": "Non amo il Merlot , preferisco la sprite .", "Labels": "1"}
+{"ID": "1669", "Sentence": "Amo i manuali , un tipo interessante di musica .", "Labels": "0"}
+{"ID": "5752", "Sentence": "Amo gli aeroplani , e pi\u00f9 specificamente le Kawasakis .", "Labels": "0"}
+{"ID": "157", "Sentence": "Apprezzo la birra , e pi\u00f9 specificamente il Chianti .", "Labels": "0"}
+{"ID": "2495", "Sentence": "Posso capire l' amore , ed anche i calcoli .", "Labels": "1"}
+{"ID": "2985", "Sentence": "Non amo lo Chardonnay , preferisco l' acqua .", "Labels": "1"}
+{"ID": "2954", "Sentence": "Non amo i guardaroba , preferisco il parquet .", "Labels": "1"}
+{"ID": "2547", "Sentence": "Amo i libri , ed anche i manuali .", "Labels": "0"}
+{"ID": "2251", "Sentence": "Amo le ostriche , ed anche i prodotti del mare .", "Labels": "0"}
+{"ID": "2154", "Sentence": "Apprezzo il cibo , ed anche la techno .", "Labels": "1"}
+{"ID": "4632", "Sentence": "Amo i cartoni animati , eccetto i romanzi .", "Labels": "0"}
+{"ID": "483", "Sentence": "Si fida delle congetture , e pi\u00f9 specificamente dell' udito .", "Labels": "0"}
+{"ID": "575", "Sentence": "Amo i saggi , e pi\u00f9 specificamente il cinema .", "Labels": "0"}
+{"ID": "3495", "Sentence": "Non amo gli scienziati , preferisco i genetisti .", "Labels": "0"}
+{"ID": "595", "Sentence": "Adoro gli alberi , eccetto le betulle .", "Labels": "1"}
+{"ID": "5774", "Sentence": "Amo i pantaloni , e pi\u00f9 specificamente i vestiti .", "Labels": "0"}
+{"ID": "3111", "Sentence": "Non amo i prodotti del mare , preferisco il tacchino .", "Labels": "1"}
+{"ID": "1322", "Sentence": "Adoro il prosciutto , un tipo interessante di carote .", "Labels": "0"}
+{"ID": "2278", "Sentence": "Amo i giochi da tavolo , ed anche i thriller .", "Labels": "1"}
+{"ID": "5600", "Sentence": "Ho incontrato i camerieri , ma non gli astronomi .", "Labels": "1"}
+{"ID": "3264", "Sentence": "Non amo gli animali domestici , preferisco i cani .", "Labels": "0"}
+{"ID": "2597", "Sentence": "Amo i professori , ed anche gli uffici .", "Labels": "1"}
+{"ID": "4971", "Sentence": "Uso il vetro , ma non il poliestere .", "Labels": "1"}
+{"ID": "3481", "Sentence": "Non amo gli scienziati , preferisco gli impiegati .", "Labels": "1"}
+{"ID": "2062", "Sentence": "Apprezzo i mobili , ed anche i guardaroba .", "Labels": "0"}
+{"ID": "3173", "Sentence": "Non amo i western , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "5429", "Sentence": "Si fida del gusto , ma non i sensi .", "Labels": "0"}
+{"ID": "5426", "Sentence": "Si fida delle congetture , ma non il tatto .", "Labels": "1"}
+{"ID": "139", "Sentence": "Apprezzo il vino , e pi\u00f9 specificamente lo Chardonnay .", "Labels": "1"}
+{"ID": "1756", "Sentence": "Ho incontrato gli astronomi , un tipo interessante di portiere .", "Labels": "0"}
+{"ID": "608", "Sentence": "Amo i pappagalli , eccetto i bassotti .", "Labels": "0"}
+{"ID": "2659", "Sentence": "Non amo gli husky , preferisco i cani .", "Labels": "0"}
+{"ID": "2492", "Sentence": "Adoro le mele , eccetto il bacon .", "Labels": "0"}
+{"ID": "4884", "Sentence": "Amo i pantaloni , ma non i vestiti .", "Labels": "0"}
+{"ID": "3918", "Sentence": "Apprezzo il Primitivo pi\u00f9 della sprite .", "Labels": "1"}
+{"ID": "4444", "Sentence": "Amo i guardiani pi\u00f9 delle fabbriche .", "Labels": "1"}
+{"ID": "1224", "Sentence": "Apprezzo il Primitivo , un tipo interessante di coca cola .", "Labels": "0"}
+{"ID": "4413", "Sentence": "Amo i libri pi\u00f9 dei manuali .", "Labels": "0"}
+{"ID": "366", "Sentence": "Amo le sciarpe , e pi\u00f9 specificamente i braccialetti .", "Labels": "0"}
+{"ID": "4825", "Sentence": "Amo i passeri , ma non i cani .", "Labels": "1"}
+{"ID": "3631", "Sentence": "Amo le moto pi\u00f9 delle Harley-Davidson .", "Labels": "0"}
+{"ID": "903", "Sentence": "Amo i bulldog , un tipo interessante di pappagallo .", "Labels": "0"}
+{"ID": "1417", "Sentence": "Amo i film , un tipo interessante di western .", "Labels": "0"}
+{"ID": "207", "Sentence": "Apprezzo gli sport , e pi\u00f9 specificamente la techno .", "Labels": "0"}
+{"ID": "2454", "Sentence": "Si fida dei notiziari , ed anche del gusto .", "Labels": "1"}
+{"ID": "3670", "Sentence": "Amo le Kawasakis pi\u00f9 degli aeroplani .", "Labels": "1"}
+{"ID": "2895", "Sentence": "Non amo la plastica , preferisco il nylon .", "Labels": "0"}
+{"ID": "185", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente i giochi da tavolo .", "Labels": "0"}
+{"ID": "4476", "Sentence": "Amo i portieri pi\u00f9 dei biologi .", "Labels": "1"}
+{"ID": "1748", "Sentence": "Ho incontrato gli astronomi , un tipo interessante di impiegato .", "Labels": "0"}
+{"ID": "2693", "Sentence": "Non amo i bassotti , preferisco i cani .", "Labels": "0"}
+{"ID": "2009", "Sentence": "Uso il nylon , ed anche il cotone .", "Labels": "1"}
+{"ID": "4425", "Sentence": "Amo gli impiegati pi\u00f9 dei ristoranti .", "Labels": "1"}
+{"ID": "2649", "Sentence": "Adoro i broccoli , eccetto il lardo .", "Labels": "0"}
+{"ID": "2539", "Sentence": "Amo il cinema , ed anche i romanzi .", "Labels": "1"}
+{"ID": "5398", "Sentence": "Si fida della vista , ma non i notiziari .", "Labels": "1"}
+{"ID": "5793", "Sentence": "Amo gli occhiali , e pi\u00f9 specificamente le calze .", "Labels": "0"}
+{"ID": "1672", "Sentence": "Amo i libri , un tipo interessante di manuale .", "Labels": "0"}
+{"ID": "5654", "Sentence": "Amo i gatti , e pi\u00f9 specificamente i bassotti .", "Labels": "0"}
+{"ID": "1765", "Sentence": "Ho incontrato i guardiani , un tipo interessante di fisico .", "Labels": "0"}
+{"ID": "1911", "Sentence": "Amo le camicie , ed anche gli occhiali .", "Labels": "1"}
+{"ID": "5606", "Sentence": "Ho incontrato gli impiegati , ma non i fisici .", "Labels": "1"}
+{"ID": "1223", "Sentence": "Apprezzo la birra , un tipo interessante di Chianti .", "Labels": "0"}
+{"ID": "2147", "Sentence": "Apprezzo la techno , ed anche gli sport .", "Labels": "1"}
+{"ID": "5192", "Sentence": "Adoro il maiale , ma non il lardo .", "Labels": "1"}
+{"ID": "4250", "Sentence": "Amo gli orsi pi\u00f9 dei conigli .", "Labels": "1"}
+{"ID": "5352", "Sentence": "Amo le balene , ma non i gatti .", "Labels": "1"}
+{"ID": "3709", "Sentence": "Amo i vestiti pi\u00f9 delle gonne .", "Labels": "0"}
+{"ID": "2109", "Sentence": "Apprezzo il Chianti , ed anche la sprite .", "Labels": "1"}
+{"ID": "491", "Sentence": "Adoro gli alberi , eccetto gli animali .", "Labels": "0"}
+{"ID": "4863", "Sentence": "Amo le biciclette , ma non le Kawasakis .", "Labels": "1"}
+{"ID": "5276", "Sentence": "Amo le commedie , ma non i saggi .", "Labels": "1"}
+{"ID": "1159", "Sentence": "Amo i cani , eccetto le anatre .", "Labels": "0"}
+{"ID": "5330", "Sentence": "Amo gli anelli , ma non le borsette .", "Labels": "1"}
+{"ID": "5005", "Sentence": "Uso il PVC , ma non il vetro .", "Labels": "1"}
+{"ID": "648", "Sentence": "Ho incontrato le fabbriche , e pi\u00f9 specificamente i professori .", "Labels": "0"}
+{"ID": "4812", "Sentence": "Amo i criceti , ma non i merli .", "Labels": "1"}
+{"ID": "115", "Sentence": "Apprezzo la carta da parati , e pi\u00f9 specificamente i letti .", "Labels": "0"}
+{"ID": "5311", "Sentence": "Amo le borsette , ma non le collane .", "Labels": "1"}
+{"ID": "33", "Sentence": "Uso la plastica , e pi\u00f9 specificamente il cotone .", "Labels": "0"}
+{"ID": "1376", "Sentence": "Adoro le ostriche , un tipo interessante di pollo .", "Labels": "0"}
+{"ID": "214", "Sentence": "Apprezzo la techno , e pi\u00f9 specificamente i gioielli .", "Labels": "0"}
+{"ID": "991", "Sentence": "Amo gli enduro , un tipo interessante di moto .", "Labels": "1"}
+{"ID": "4986", "Sentence": "Uso il cuoio , ma non il nylon .", "Labels": "1"}
+{"ID": "5196", "Sentence": "Adoro le mele , ma non il lardo .", "Labels": "1"}
+{"ID": "333", "Sentence": "Amo i film , e pi\u00f9 specificamente i western .", "Labels": "1"}
+{"ID": "4636", "Sentence": "Amo la musica , eccetto i manuali .", "Labels": "0"}
+{"ID": "1230", "Sentence": "Apprezzo il Primitivo , un tipo interessante di sprite .", "Labels": "0"}
+{"ID": "2525", "Sentence": "Amo i saggi , ed anche i libri .", "Labels": "0"}
+{"ID": "5165", "Sentence": "Adoro il maiale , ma non le mele .", "Labels": "1"}
+{"ID": "3992", "Sentence": "Amo le scarpe , eccetto i braccialetti .", "Labels": "0"}
+{"ID": "4587", "Sentence": "Posso capire la logica , eccetto l' amore .", "Labels": "0"}
+{"ID": "1291", "Sentence": "Apprezzo la musica , eccetto i gioielli .", "Labels": "0"}
+{"ID": "1706", "Sentence": "Amo i guardiani , un tipo interessante di lavoratore .", "Labels": "1"}
+{"ID": "1750", "Sentence": "Ho incontrato gli astronomi , un tipo interessante di scienziato .", "Labels": "1"}
+{"ID": "606", "Sentence": "Amo i dipinti , e pi\u00f9 specificamente i manuali .", "Labels": "0"}
+{"ID": "3372", "Sentence": "Non ama le emozioni , preferisce l' amore .", "Labels": "0"}
+{"ID": "3738", "Sentence": "Amo gli alberi pi\u00f9 delle betulle .", "Labels": "0"}
+{"ID": "1648", "Sentence": "Amo i saggi , un tipo interessante di musica .", "Labels": "0"}
+{"ID": "2780", "Sentence": "Non amo le Kawasakis , preferisco le moto .", "Labels": "0"}
+{"ID": "1175", "Sentence": "Apprezzo i dipinti , un tipo interessante di guardaroba .", "Labels": "0"}
+{"ID": "2947", "Sentence": "Non amo le posate , preferisco i guardaroba .", "Labels": "1"}
+{"ID": "49", "Sentence": "Uso il vetro , e pi\u00f9 specificamente il nylon .", "Labels": "0"}
+{"ID": "270", "Sentence": "Adoro le carote , e pi\u00f9 specificamente il lardo .", "Labels": "0"}
+{"ID": "1350", "Sentence": "Adoro i prodotti del mare , un tipo interessante di pollo .", "Labels": "0"}
+{"ID": "4528", "Sentence": "Si fida dell' udito , eccetto che dei notiziari .", "Labels": "0"}
+{"ID": "2044", "Sentence": "Apprezzo la carta da parati , ed anche le sedie .", "Labels": "1"}
+{"ID": "481", "Sentence": "Si fida delle ricostruzioni , e pi\u00f9 specificamente dell' udito .", "Labels": "0"}
+{"ID": "182", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente gli sport .", "Labels": "0"}
+{"ID": "2901", "Sentence": "Non amo il cuoio , preferisco il nylon .", "Labels": "1"}
+{"ID": "4673", "Sentence": "Amo i lavoratori , eccetto i guardiani .", "Labels": "1"}
+{"ID": "5509", "Sentence": "Amo i libri , ma non i romanzi .", "Labels": "1"}
+{"ID": "709", "Sentence": "Adoro i cespugli , eccetto gli abeti .", "Labels": "0"}
+{"ID": "1304", "Sentence": "Adoro i broccoli , un tipo interessante di prosciutto cotto .", "Labels": "0"}
+{"ID": "5614", "Sentence": "Ho incontrato i portieri , ma non i fisici .", "Labels": "1"}
+{"ID": "4983", "Sentence": "Uso il nylon , ma non il vetro .", "Labels": "1"}
+{"ID": "5263", "Sentence": "Amo i thriller , ma non i videogiochi .", "Labels": "1"}
+{"ID": "3833", "Sentence": "Apprezzo la carta da parati pi\u00f9 delle sedie .", "Labels": "1"}
+{"ID": "2099", "Sentence": "Apprezzo lo Chardonnay , ed anche la sprite .", "Labels": "1"}
+{"ID": "3006", "Sentence": "Non amo l' acqua , preferisco il Primitivo .", "Labels": "1"}
+{"ID": "5364", "Sentence": "Amo i cani , ma non le balene .", "Labels": "1"}
+{"ID": "3355", "Sentence": "Non ama la gioia , preferisce i calcoli .", "Labels": "1"}
+{"ID": "2732", "Sentence": "Non amo i merli , preferisco i cani .", "Labels": "1"}
+{"ID": "2266", "Sentence": "Amo il tacchino , ed anche il caviale .", "Labels": "1"}
+{"ID": "3921", "Sentence": "Apprezzo la birra pi\u00f9 del Primitivo .", "Labels": "1"}
+{"ID": "1307", "Sentence": "Adoro le mele , un tipo interessante di prosciutto cotto .", "Labels": "0"}
+{"ID": "3344", "Sentence": "Non ama la saggezza , preferisce la gioia .", "Labels": "1"}
+{"ID": "3403", "Sentence": "Non amo i saggi , preferisco la musica .", "Labels": "1"}
+{"ID": "596", "Sentence": "Amo i manuali , e pi\u00f9 specificamente la musica .", "Labels": "0"}
+{"ID": "1718", "Sentence": "Amo i professori , un tipo interessante di ristorante .", "Labels": "0"}
+{"ID": "4584", "Sentence": "Posso capire l' amore , eccetto la stupidit\u00e0 .", "Labels": "0"}
+{"ID": "4944", "Sentence": "Adoro gli animali , ma non gli abeti .", "Labels": "1"}
+{"ID": "5598", "Sentence": "Ho incontrato gli scienziati , ma non gli astronomi .", "Labels": "1"}
+{"ID": "4191", "Sentence": "Amo gli occhiali pi\u00f9 delle collane .", "Labels": "1"}
+{"ID": "352", "Sentence": "Amo i documentari , e pi\u00f9 specificamente i film .", "Labels": "0"}
+{"ID": "3193", "Sentence": "Non amo i documentari , preferisco i sussidiari .", "Labels": "1"}
+{"ID": "704", "Sentence": "Adoro gli alberi , eccetto gli abeti .", "Labels": "1"}
+{"ID": "584", "Sentence": "Amo la musica , e pi\u00f9 specificamente i romanzi .", "Labels": "0"}
+{"ID": "5834", "Sentence": "Amo i cespugli , e pi\u00f9 specificamente le betulle .", "Labels": "0"}
+{"ID": "631", "Sentence": "Ho incontrato i camerieri , e pi\u00f9 specificamente le scuole .", "Labels": "0"}
+{"ID": "2687", "Sentence": "Non amo i bulldog , preferisco i pappagalli .", "Labels": "1"}
+{"ID": "5367", "Sentence": "Amo i conigli , ma non le giraffe .", "Labels": "1"}
+{"ID": "4756", "Sentence": "Amo i cani , ma non i bobtail .", "Labels": "1"}
+{"ID": "3430", "Sentence": "Non amo i cartoni animati , preferisco i manuali .", "Labels": "1"}
+{"ID": "2868", "Sentence": "Non amo i pini , preferisco l' erba .", "Labels": "1"}
+{"ID": "2166", "Sentence": "Apprezzo i gioielli , ed anche il blues .", "Labels": "1"}
+{"ID": "217", "Sentence": "Apprezzo il blues , e pi\u00f9 specificamente gli sport .", "Labels": "0"}
+{"ID": "4946", "Sentence": "Adoro gli abeti , ma non i cespugli .", "Labels": "1"}
+{"ID": "3492", "Sentence": "Non amo i genetisti , preferisco gli impiegati .", "Labels": "1"}
+{"ID": "5175", "Sentence": "Adoro il prosciutto , ma non le mele .", "Labels": "1"}
+{"ID": "2084", "Sentence": "Apprezzo il Merlot , ed anche l' acqua .", "Labels": "1"}
+{"ID": "1566", "Sentence": "Si fida dell' udito , un tipo interessante di congettura .", "Labels": "0"}
+{"ID": "3408", "Sentence": "Non amo il cinema , preferisco i saggi .", "Labels": "1"}
+{"ID": "1164", "Sentence": "Apprezzo i tavoli , un tipo interessante di dipinto .", "Labels": "0"}
+{"ID": "4934", "Sentence": "Adoro le betulle , ma non i cespugli .", "Labels": "1"}
+{"ID": "1835", "Sentence": "Amo le anatre , ed anche i maiali .", "Labels": "1"}
+{"ID": "5041", "Sentence": "Apprezzo i dipinti , ma non i guardaroba .", "Labels": "1"}
+{"ID": "998", "Sentence": "Amo gli aeroplani , un tipo interessante di enduro .", "Labels": "0"}
+{"ID": "469", "Sentence": "Adoro le querce , eccetto gli alberi .", "Labels": "0"}
+{"ID": "2469", "Sentence": "Posso capire la gioia , ed anche la logica .", "Labels": "1"}
+{"ID": "5098", "Sentence": "Apprezzo la sprite , ma non il Primitivo .", "Labels": "1"}
+{"ID": "4003", "Sentence": "Amo il pesce pi\u00f9 del prosciutto cotto .", "Labels": "1"}
+{"ID": "2000", "Sentence": "Uso il vetro , ed anche il poliestere .", "Labels": "1"}
+{"ID": "5578", "Sentence": "Ho incontrato i biologi , ma non i guardiani .", "Labels": "1"}
+{"ID": "4633", "Sentence": "Amo i romanzi , eccetto i dipinti .", "Labels": "0"}
+{"ID": "3554", "Sentence": "Amo i gatti pi\u00f9 dei bobtail .", "Labels": "1"}
+{"ID": "3444", "Sentence": "Non amo gli impiegati , preferisco gli uffici .", "Labels": "1"}
+{"ID": "5140", "Sentence": "Apprezzo la techno , ma non i gioielli .", "Labels": "1"}
+{"ID": "5251", "Sentence": "Amo gli aeroplani , eccetto gli enduro .", "Labels": "0"}
+{"ID": "2501", "Sentence": "Posso capire la tristezza , ed anche la stupidit\u00e0 .", "Labels": "1"}
+{"ID": "4230", "Sentence": "Amo i cani , eccetto gli animali domestici .", "Labels": "0"}
+{"ID": "1879", "Sentence": "Amo le Suzuki , ed anche i treni .", "Labels": "1"}
+{"ID": "209", "Sentence": "Apprezzo la musica , e pi\u00f9 specificamente la techno .", "Labels": "1"}
+{"ID": "532", "Sentence": "Posso capire la stupidit\u00e0 , e pi\u00f9 specificamente la paura .", "Labels": "0"}
+{"ID": "1876", "Sentence": "Amo le moto , ed anche le Suzuki .", "Labels": "0"}
+{"ID": "2622", "Sentence": "Ho incontrato i portieri , ed anche i genetisti .", "Labels": "1"}
+{"ID": "2142", "Sentence": "Apprezzo i giochi da tavolo , ed anche il jazz .", "Labels": "1"}
+{"ID": "2036", "Sentence": "Apprezzo le posate , ed anche le sedie .", "Labels": "1"}
+{"ID": "4028", "Sentence": "Amo il bacon pi\u00f9 del pesce .", "Labels": "1"}
+{"ID": "3010", "Sentence": "Non amo la birra , preferisco il Primitivo .", "Labels": "1"}
+{"ID": "4178", "Sentence": "Amo i gioielli pi\u00f9 degli occhiali .", "Labels": "1"}
+{"ID": "3975", "Sentence": "Apprezzo il blues pi\u00f9 dei giochi da tavolo .", "Labels": "1"}
+{"ID": "2560", "Sentence": "Amo i ristoranti , ed anche gli impiegati .", "Labels": "1"}
+{"ID": "3456", "Sentence": "Non amo gli uffici , preferisco i camerieri .", "Labels": "1"}
+{"ID": "2683", "Sentence": "Non amo i bulldog , preferisco i cani .", "Labels": "0"}
+{"ID": "4118", "Sentence": "Amo i sussidiari pi\u00f9 dei thriller .", "Labels": "1"}
+{"ID": "3732", "Sentence": "Amo i thriller , eccetto i film .", "Labels": "0"}
+{"ID": "4901", "Sentence": "Amo gli orecchini , ma non le calze .", "Labels": "1"}
+{"ID": "907", "Sentence": "Amo i bassotti , un tipo interessante di gatto .", "Labels": "0"}
+{"ID": "2401", "Sentence": "Amo i criceti , ed anche le giraffe .", "Labels": "1"}
+{"ID": "5064", "Sentence": "Apprezzo il vino , ma non l' acqua .", "Labels": "1"}
+{"ID": "663", "Sentence": "Ho incontrato i camerieri , e pi\u00f9 specificamente i biologi .", "Labels": "0"}
+{"ID": "2840", "Sentence": "Non amo gli animali , preferisco le querce .", "Labels": "1"}
+{"ID": "2025", "Sentence": "Uso il PVC , ed anche il legno .", "Labels": "1"}
+{"ID": "3509", "Sentence": "Non amo i camerieri , preferisco gli astronomi .", "Labels": "1"}
+{"ID": "1078", "Sentence": "Adoro le betulle , un tipo interessante di arbusto .", "Labels": "0"}
+{"ID": "1470", "Sentence": "Amo le sciarpe , un tipo interessante di collana .", "Labels": "0"}
+{"ID": "585", "Sentence": "Amo i romanzi , e pi\u00f9 specificamente i libri .", "Labels": "0"}
+{"ID": "3187", "Sentence": "Non amo le commedie , preferisco i videogiochi .", "Labels": "1"}
+{"ID": "1694", "Sentence": "Amo i camerieri , un tipo interessante di fabbrica .", "Labels": "0"}
+{"ID": "605", "Sentence": "Amo i manuali , e pi\u00f9 specificamente i dipinti .", "Labels": "0"}
+{"ID": "351", "Sentence": "Amo i saggi , e pi\u00f9 specificamente i documentari .", "Labels": "0"}
+{"ID": "4359", "Sentence": "Posso capire le emozioni pi\u00f9 dell' amore .", "Labels": "0"}
+{"ID": "1702", "Sentence": "Amo i camerieri , un tipo interessante di ufficio .", "Labels": "0"}
+{"ID": "324", "Sentence": "Amo i thriller , e pi\u00f9 specificamente i giochi da tavolo .", "Labels": "0"}
+{"ID": "682", "Sentence": "Ho incontrato gli impiegati , e pi\u00f9 specificamente gli astronomi .", "Labels": "0"}
+{"ID": "5088", "Sentence": "Apprezzo la sprite , ma non il Chianti .", "Labels": "1"}
+{"ID": "4744", "Sentence": "Amo gli husky , ma non i criceti .", "Labels": "1"}
+{"ID": "1580", "Sentence": "Si fida delle dicerie , un tipo interessante del gusto .", "Labels": "0"}
+{"ID": "4424", "Sentence": "Amo i lavoratori pi\u00f9 delle fabbriche .", "Labels": "1"}
+{"ID": "293", "Sentence": "Adoro i granchi , e pi\u00f9 specificamente il manzo .", "Labels": "0"}
+{"ID": "1764", "Sentence": "Ho incontrato i fisici , un tipo interessante di guardiano .", "Labels": "0"}
+{"ID": "4844", "Sentence": "Amo le Suzuki , ma non le biciclette .", "Labels": "1"}
+{"ID": "4914", "Sentence": "Adoro le querce , ma non gli alberi .", "Labels": "0"}
+{"ID": "839", "Sentence": "Amo i conigli , eccetto gli husky .", "Labels": "0"}
+{"ID": "3896", "Sentence": "Amo le commedie , eccetto i saggi .", "Labels": "0"}
+{"ID": "2568", "Sentence": "Amo i camerieri , ed anche le fabbriche .", "Labels": "1"}
+{"ID": "3459", "Sentence": "Non amo i guardiani , preferisco i lavoratori .", "Labels": "0"}
+{"ID": "269", "Sentence": "Adoro il lardo , e pi\u00f9 specificamente le carote .", "Labels": "0"}
+{"ID": "2367", "Sentence": "Amo i gatti , ed anche gli animali domestici .", "Labels": "0"}
+{"ID": "1519", "Sentence": "Amo le meduse , un tipo interessante di cane .", "Labels": "0"}
+{"ID": "1345", "Sentence": "Adoro le carote , un tipo interessante di lardo .", "Labels": "0"}
+{"ID": "4340", "Sentence": "Posso capire la logica pi\u00f9 della gioia .", "Labels": "1"}
+{"ID": "4075", "Sentence": "Amo i prodotti del mare pi\u00f9 dei granchi .", "Labels": "0"}
+{"ID": "512", "Sentence": "Posso capire la saggezza , e pi\u00f9 specificamente la gioia .", "Labels": "0"}
+{"ID": "1045", "Sentence": "Amo le gonne , un tipo interessante di animale domestico .", "Labels": "0"}
+{"ID": "2987", "Sentence": "Non amo lo Chardonnay , preferisco la sprite .", "Labels": "1"}
+{"ID": "1369", "Sentence": "Apprezzo la musica , eccetto la techno .", "Labels": "1"}
+{"ID": "5449", "Sentence": "Posso capire i calcoli , ma non la gioia .", "Labels": "1"}
+{"ID": "4601", "Sentence": "Amo la musica , eccetto i sussidiari .", "Labels": "0"}
+{"ID": "4346", "Sentence": "Posso capire la paura pi\u00f9 della saggezza .", "Labels": "1"}
+{"ID": "553", "Sentence": "Posso capire la tristezza , e pi\u00f9 specificamente la logica .", "Labels": "0"}
+{"ID": "5259", "Sentence": "Amo i film , ma non i sussidiari .", "Labels": "1"}
+{"ID": "1966", "Sentence": "Amo gli animali , ed anche le betulle .", "Labels": "1"}
+{"ID": "3948", "Sentence": "Apprezzo i gioielli pi\u00f9 del rock .", "Labels": "1"}
+{"ID": "2112", "Sentence": "Apprezzo la birra , ed anche il Chianti .", "Labels": "1"}
+{"ID": "3854", "Sentence": "Apprezzo i guardaroba pi\u00f9 dei mobili .", "Labels": "0"}
+{"ID": "2478", "Sentence": "Posso capire le emozioni , ed anche la paura .", "Labels": "0"}
+{"ID": "665", "Sentence": "Ho incontrato i biologi , e pi\u00f9 specificamente i guardiani .", "Labels": "0"}
+{"ID": "5832", "Sentence": "Amo gli animali , e pi\u00f9 specificamente le betulle .", "Labels": "0"}
+{"ID": "5622", "Sentence": "Amo i cani , e pi\u00f9 specificamente i gatti .", "Labels": "0"}
+{"ID": "1182", "Sentence": "Apprezzo i letti , un tipo interessante di mobili .", "Labels": "1"}
+{"ID": "3427", "Sentence": "Non amo i manuali , preferisco il cinema .", "Labels": "1"}
+{"ID": "4238", "Sentence": "Amo i cani , eccetto gli orsi .", "Labels": "0"}
+{"ID": "2826", "Sentence": "Non amo le gonne , preferisco i vestiti .", "Labels": "0"}
+{"ID": "2115", "Sentence": "Apprezzo il Primitivo , ed anche il vino .", "Labels": "0"}
+{"ID": "1483", "Sentence": "Amo gli orecchini , un tipo interessante di occhiali .", "Labels": "0"}
+{"ID": "3095", "Sentence": "Non amo il lardo , preferisco i broccoli .", "Labels": "1"}
+{"ID": "3633", "Sentence": "Amo le Harley-Davidson pi\u00f9 delle biciclette .", "Labels": "1"}
+{"ID": "3224", "Sentence": "Non amo le collane , preferisco le scarpe .", "Labels": "1"}
+{"ID": "962", "Sentence": "Amo gli uccelli , eccetto le anatre .", "Labels": "1"}
+{"ID": "4148", "Sentence": "Amo le commedie pi\u00f9 dei videogiochi .", "Labels": "1"}
+{"ID": "2436", "Sentence": "Si fida delle congetture , ed anche dell' udito .", "Labels": "1"}
+{"ID": "878", "Sentence": "Amo i criceti , un tipo interessante di husky .", "Labels": "0"}
+{"ID": "4486", "Sentence": "Amo i genetisti pi\u00f9 dei portieri .", "Labels": "1"}
+{"ID": "3159", "Sentence": "Non amo i film , preferisco i sussidiari .", "Labels": "1"}
+{"ID": "1772", "Sentence": "Amo gli husky , ed anche i gatti .", "Labels": "1"}
+{"ID": "669", "Sentence": "Ho incontrato i portieri , e pi\u00f9 specificamente i biologi .", "Labels": "0"}
+{"ID": "4185", "Sentence": "Amo le borsette pi\u00f9 delle collane .", "Labels": "1"}
+{"ID": "5445", "Sentence": "Posso capire la gioia , ma non la logica .", "Labels": "1"}
+{"ID": "2176", "Sentence": "Amo il prosciutto cotto , ed anche il maiale .", "Labels": "0"}
+{"ID": "4474", "Sentence": "Amo gli scienziati pi\u00f9 dei guardiani .", "Labels": "1"}
+{"ID": "5790", "Sentence": "Amo i gioielli , e pi\u00f9 specificamente le calze .", "Labels": "0"}
+{"ID": "1781", "Sentence": "Amo i pappagalli , ed anche gli husky .", "Labels": "1"}
+{"ID": "60", "Sentence": "Uso il vinile , e pi\u00f9 specificamente il vetro .", "Labels": "0"}
+{"ID": "4999", "Sentence": "Uso il PVC , ma non il legno .", "Labels": "1"}
+{"ID": "3905", "Sentence": "Amo i film , eccetto le commedie .", "Labels": "1"}
+{"ID": "4049", "Sentence": "Amo le borsette , eccetto gli orecchini .", "Labels": "0"}
+{"ID": "5824", "Sentence": "Amo le querce , e pi\u00f9 specificamente gli arbusti .", "Labels": "0"}
+{"ID": "2728", "Sentence": "Non amo i merli , preferisco i criceti .", "Labels": "1"}
+{"ID": "958", "Sentence": "Amo i passeri , un tipo interessante di maiale .", "Labels": "0"}
+{"ID": "693", "Sentence": "Ho incontrato i fisici , e pi\u00f9 specificamente gli scienziati .", "Labels": "0"}
+{"ID": "337", "Sentence": "Amo i giochi da tavolo , e pi\u00f9 specificamente i western .", "Labels": "0"}
+{"ID": "5769", "Sentence": "Amo i vestiti , e pi\u00f9 specificamente gli orecchini .", "Labels": "0"}
+{"ID": "931", "Sentence": "Amo le anatre , un tipo interessante di gatto .", "Labels": "0"}
+{"ID": "3050", "Sentence": "Non amo il blues , preferisco i giochi da tavolo .", "Labels": "1"}
+{"ID": "4024", "Sentence": "Amo il prosciutto pi\u00f9 delle mele .", "Labels": "1"}
+{"ID": "1737", "Sentence": "Ho incontrato gli scienziati , un tipo interessante di portiere .", "Labels": "0"}
+{"ID": "5816", "Sentence": "Amo gli alberi , e pi\u00f9 specificamente le querce .", "Labels": "1"}
+{"ID": "1969", "Sentence": "Amo le betulle , ed anche gli arbusti .", "Labels": "1"}
+{"ID": "1222", "Sentence": "Apprezzo il Chianti , un tipo interessante di birra .", "Labels": "0"}
+{"ID": "5751", "Sentence": "Amo le Kawasakis , e pi\u00f9 specificamente gli aeroplani .", "Labels": "0"}
+{"ID": "355", "Sentence": "Amo i sussidiari , e pi\u00f9 specificamente i documentari .", "Labels": "0"}
+{"ID": "2403", "Sentence": "Amo i criceti , ed anche gli animali domestici .", "Labels": "0"}
+{"ID": "1051", "Sentence": "Amo le gonne , un tipo interessante di vetro .", "Labels": "0"}
+{"ID": "122", "Sentence": "Apprezzo il vino , e pi\u00f9 specificamente il Merlot .", "Labels": "1"}
+{"ID": "4418", "Sentence": "Amo i manuali pi\u00f9 dei dipinti .", "Labels": "1"}
+{"ID": "299", "Sentence": "Adoro le ostriche , e pi\u00f9 specificamente il vitello .", "Labels": "0"}
+{"ID": "2714", "Sentence": "Non amo le anatre , preferisco i gatti .", "Labels": "1"}
+{"ID": "3375", "Sentence": "Non ama l' amore , preferisce la logica .", "Labels": "1"}
+{"ID": "2467", "Sentence": "Posso capire la stupidit\u00e0 , ed anche la gioia .", "Labels": "1"}
+{"ID": "1177", "Sentence": "Apprezzo la carta da parati , un tipo interessante di guardaroba .", "Labels": "0"}
+{"ID": "1821", "Sentence": "Amo i pappagalli , ed anche i criceti .", "Labels": "1"}
+{"ID": "5340", "Sentence": "Amo i gatti , ma non le giraffe .", "Labels": "1"}
+{"ID": "518", "Sentence": "Posso capire le emozioni , e pi\u00f9 specificamente la stupidit\u00e0 .", "Labels": "0"}
+{"ID": "3785", "Sentence": "Uso il poliestere pi\u00f9 del cuoio .", "Labels": "1"}
+{"ID": "5780", "Sentence": "Amo gli occhiali , e pi\u00f9 specificamente i pantaloni .", "Labels": "0"}
+{"ID": "1805", "Sentence": "Amo i conigli , ed anche i bulldog .", "Labels": "1"}
+{"ID": "3386", "Sentence": "Non ama la logica , preferisce la tristezza .", "Labels": "1"}
+{"ID": "1908", "Sentence": "Amo le camicie , ed anche i gioielli .", "Labels": "1"}
+{"ID": "2497", "Sentence": "Posso capire la tristezza , ed anche la saggezza .", "Labels": "1"}
+{"ID": "3650", "Sentence": "Amo le Suzuki pi\u00f9 degli aeroplani .", "Labels": "1"}
+{"ID": "3436", "Sentence": "Non amo i lavoratori , preferisco gli impiegati .", "Labels": "0"}
+{"ID": "2463", "Sentence": "Posso capire la gioia , ed anche le emozioni .", "Labels": "0"}
+{"ID": "1362", "Sentence": "Apprezzo la techno , eccetto la musica .", "Labels": "0"}
+{"ID": "3289", "Sentence": "Non amo i criceti , preferisco le balene .", "Labels": "1"}
+{"ID": "3689", "Sentence": "Amo i vestiti pi\u00f9 dei pantaloni .", "Labels": "0"}
+{"ID": "2003", "Sentence": "Uso il cuoio , ed anche il poliestere .", "Labels": "1"}
+{"ID": "2807", "Sentence": "Non amo i vestiti , preferisco i pantaloni .", "Labels": "0"}
+{"ID": "5679", "Sentence": "Amo le anatre , e pi\u00f9 specificamente gli uccelli .", "Labels": "0"}
+{"ID": "1134", "Sentence": "Amo le anatre , eccetto i cani .", "Labels": "0"}
+{"ID": "895", "Sentence": "Amo i bobtail , un tipo interessante di coniglio .", "Labels": "0"}
+{"ID": "3323", "Sentence": "Non si fida delle dicerie , preferisce il tatto .", "Labels": "1"}
+{"ID": "2658", "Sentence": "Non amo i gatti , preferisco gli husky .", "Labels": "1"}
+{"ID": "1262", "Sentence": "Apprezzo la musica , eccetto gli sport .", "Labels": "0"}
+{"ID": "1114", "Sentence": "Uso il nylon , un tipo interessante di legno .", "Labels": "0"}
+{"ID": "1730", "Sentence": "Ho incontrato i camerieri , un tipo interessante di biologo .", "Labels": "0"}
+{"ID": "1753", "Sentence": "Ho incontrato i camerieri , un tipo interessante di astronomo .", "Labels": "0"}
+{"ID": "0", "Sentence": "Amo i pantaloni , eccetto le scarpe .", "Labels": "0"}
+{"ID": "5316", "Sentence": "Amo le collane , ma non gli occhiali .", "Labels": "1"}
+{"ID": "3320", "Sentence": "Non si fida delle congetture , preferisce l' udito .", "Labels": "1"}
+{"ID": "4987", "Sentence": "Amo le Harley-Davidson , eccetto i treni .", "Labels": "0"}
+{"ID": "4335", "Sentence": "Posso capire la gioia pi\u00f9 della stupidit\u00e0 .", "Labels": "1"}
+{"ID": "997", "Sentence": "Amo gli enduro , un tipo interessante di aeroplano .", "Labels": "0"}
+{"ID": "4845", "Sentence": "Amo le biciclette , ma non le Suzuki .", "Labels": "1"}
+{"ID": "3652", "Sentence": "Amo gli enduro pi\u00f9 delle navi .", "Labels": "1"}
+{"ID": "1285", "Sentence": "Apprezzo il cibo , un tipo interessante di blues .", "Labels": "0"}
+{"ID": "1525", "Sentence": "Amo gli animali domestici , un tipo interessante di coniglio .", "Labels": "0"}
+{"ID": "2323", "Sentence": "Amo i gioielli , ed anche le borsette .", "Labels": "1"}
+{"ID": "4446", "Sentence": "Amo i guardiani pi\u00f9 dei lavoratori .", "Labels": "0"}
+{"ID": "2612", "Sentence": "Ho incontrato gli scienziati , ed anche i portieri .", "Labels": "1"}
+{"ID": "2750", "Sentence": "Non amo le biciclette , preferisco le Harley-Davidson .", "Labels": "1"}
+{"ID": "3214", "Sentence": "Adoro il manzo , eccetto il salmone .", "Labels": "0"}
+{"ID": "522", "Sentence": "Posso capire la gioia , e pi\u00f9 specificamente i calcoli .", "Labels": "0"}
+{"ID": "2636", "Sentence": "Ho incontrato gli scienziati , ed anche i fisici .", "Labels": "0"}
+{"ID": "281", "Sentence": "Adoro i prodotti del mare , e pi\u00f9 specificamente il tacchino .", "Labels": "0"}
+{"ID": "385", "Sentence": "Amo gli orecchini , e pi\u00f9 specificamente le borsette .", "Labels": "0"}
+{"ID": "342", "Sentence": "Amo le commedie , e pi\u00f9 specificamente i film .", "Labels": "0"}
+{"ID": "3635", "Sentence": "Amo le moto pi\u00f9 delle biciclette .", "Labels": "1"}
+{"ID": "3653", "Sentence": "Amo le navi pi\u00f9 degli enduro .", "Labels": "1"}
+{"ID": "3012", "Sentence": "Non amo il rock , preferisco gli sport .", "Labels": "1"}
+{"ID": "3218", "Sentence": "Non amo le collane , preferisco i gioielli .", "Labels": "0"}
+{"ID": "1135", "Sentence": "Uso il PVC , un tipo interessante di legno .", "Labels": "0"}
+{"ID": "2983", "Sentence": "Non amo lo Chardonnay , preferisco il vino .", "Labels": "0"}
+{"ID": "560", "Sentence": "Amo i libri , e pi\u00f9 specificamente i sussidiari .", "Labels": "1"}
+{"ID": "713", "Sentence": "Adoro i pini , eccetto l' erba .", "Labels": "0"}
+{"ID": "692", "Sentence": "Ho incontrato gli impiegati , e pi\u00f9 specificamente i fisici .", "Labels": "0"}
+{"ID": "5221", "Sentence": "Adoro i prodotti del mare , ma non i granchi .", "Labels": "1"}
+{"ID": "1064", "Sentence": "Adoro le querce , un tipo interessante di cespuglio .", "Labels": "0"}
+{"ID": "4348", "Sentence": "Posso capire la paura pi\u00f9 delle emozioni .", "Labels": "0"}
+{"ID": "5819", "Sentence": "Amo gli animali , e pi\u00f9 specificamente le querce .", "Labels": "0"}
+{"ID": "2694", "Sentence": "Non amo i cani , preferisco i bassotti .", "Labels": "0"}
+{"ID": "1418", "Sentence": "Amo i western , un tipo interessante di libro di testo .", "Labels": "0"}
+{"ID": "2652", "Sentence": "Adoro le mele , eccetto il lardo .", "Labels": "0"}
+{"ID": "1950", "Sentence": "Amo gli alberi , ed anche le querce .", "Labels": "0"}
+{"ID": "3154", "Sentence": "Non amo i thriller , preferisco i film .", "Labels": "0"}
+{"ID": "4358", "Sentence": "Posso capire l' amore pi\u00f9 delle emozioni .", "Labels": "0"}
+{"ID": "1819", "Sentence": "Amo gli uccelli , ed anche i pappagalli .", "Labels": "0"}
+{"ID": "1214", "Sentence": "Apprezzo il Chianti , un tipo interessante di coca cola .", "Labels": "0"}
+{"ID": "740", "Sentence": "Uso la plastica , eccetto il nylon .", "Labels": "1"}
+{"ID": "5573", "Sentence": "Ho incontrato gli scienziati , ma non i biologi .", "Labels": "1"}
+{"ID": "5069", "Sentence": "Apprezzo la birra , ma non il Merlot .", "Labels": "1"}
+{"ID": "599", "Sentence": "Amo i libri , e pi\u00f9 specificamente i manuali .", "Labels": "1"}
+{"ID": "331", "Sentence": "Amo i saggi , e pi\u00f9 specificamente i western .", "Labels": "0"}
+{"ID": "2561", "Sentence": "Amo i lavoratori , ed anche i ristoranti .", "Labels": "1"}
+{"ID": "1560", "Sentence": "Si fida dell' udito , un tipo interessante di senso .", "Labels": "1"}
+{"ID": "1740", "Sentence": "Ho incontrato i genetisti , un tipo interessante di scienziato .", "Labels": "1"}
+{"ID": "1732", "Sentence": "Ho incontrato i biologi , un tipo interessante di guardiano .", "Labels": "0"}
+{"ID": "4367", "Sentence": "Posso capire la saggezza pi\u00f9 della tristezza .", "Labels": "1"}
+{"ID": "2838", "Sentence": "Non amo gli alberi , preferisco l' erba .", "Labels": "1"}
+{"ID": "789", "Sentence": "Apprezzo i tavoli , eccetto i dipinti .", "Labels": "0"}
+{"ID": "2164", "Sentence": "Apprezzo il cibo , ed anche il blues .", "Labels": "1"}
+{"ID": "2548", "Sentence": "Amo i manuali , ed anche il cinema .", "Labels": "1"}
+{"ID": "2094", "Sentence": "Apprezzo la coca cola , ed anche lo Chardonnay .", "Labels": "1"}
+{"ID": "1939", "Sentence": "Amo le gonne , ed anche i vestiti .", "Labels": "0"}
+{"ID": "3299", "Sentence": "Non si fida della vista , preferisce i sensi .", "Labels": "0"}
+{"ID": "4159", "Sentence": "Amo gli animali domestici , eccetto gli orsi .", "Labels": "0"}
+{"ID": "4310", "Sentence": "Si fida dei notiziari pi\u00f9 che del tatto .", "Labels": "1"}
+{"ID": "5233", "Sentence": "Adoro le ostriche , ma non il vitello .", "Labels": "1"}
+{"ID": "1848", "Sentence": "Amo i cani , ed anche i merli .", "Labels": "1"}
+{"ID": "2680", "Sentence": "Non amo i conigli , preferisco i bobtail .", "Labels": "1"}
+{"ID": "5701", "Sentence": "Amo i passeri , e pi\u00f9 specificamente i criceti .", "Labels": "0"}
+{"ID": "175", "Sentence": "Amo i vestiti , eccetto le gonne .", "Labels": "1"}
+{"ID": "4102", "Sentence": "Amo il caviale pi\u00f9 del manzo .", "Labels": "1"}
+{"ID": "4879", "Sentence": "Amo le camicie , ma non gli orecchini .", "Labels": "1"}
+{"ID": "4356", "Sentence": "Posso capire l' amore pi\u00f9 della saggezza .", "Labels": "1"}
+{"ID": "1817", "Sentence": "Amo i gatti , ed anche i pappagalli .", "Labels": "1"}
+{"ID": "743", "Sentence": "Uso il nylon , eccetto il vetro .", "Labels": "0"}
+{"ID": "4162", "Sentence": "Amo i documentari pi\u00f9 dei videogiochi .", "Labels": "1"}
+{"ID": "5093", "Sentence": "Apprezzo il Primitivo , ma non il vino .", "Labels": "0"}
+{"ID": "5232", "Sentence": "Adoro i prodotti del mare , ma non le ostriche .", "Labels": "1"}
+{"ID": "2058", "Sentence": "Apprezzo il parquet , ed anche i tavoli .", "Labels": "1"}
+{"ID": "4129", "Sentence": "Amo i film pi\u00f9 dei western .", "Labels": "0"}
+{"ID": "4868", "Sentence": "Amo le camicie , ma non le scarpe .", "Labels": "1"}
+{"ID": "348", "Sentence": "Amo le commedie , e pi\u00f9 specificamente i videogiochi .", "Labels": "0"}
+{"ID": "3710", "Sentence": "Amo le gonne pi\u00f9 dei gioielli .", "Labels": "1"}
+{"ID": "475", "Sentence": "Si fida dell' udito , e pi\u00f9 specificamente dei sensi .", "Labels": "0"}
+{"ID": "2410", "Sentence": "Amo le balene , ed anche i criceti .", "Labels": "1"}
+{"ID": "2024", "Sentence": "Uso il cuoio , ed anche il vinile .", "Labels": "1"}
+{"ID": "2185", "Sentence": "Amo il prosciutto cotto , ed anche le carote .", "Labels": "1"}
+{"ID": "4291", "Sentence": "Si fida dei sensi pi\u00f9 che delle congetture .", "Labels": "1"}
+{"ID": "4664", "Sentence": "Amo i ristoranti , eccetto i camerieri .", "Labels": "0"}
+{"ID": "3856", "Sentence": "Apprezzo i guardaroba pi\u00f9 dei dipinti .", "Labels": "1"}
+{"ID": "329", "Sentence": "Amo i film , e pi\u00f9 specificamente i videogiochi .", "Labels": "0"}
+{"ID": "103", "Sentence": "Apprezzo i dipinti , e pi\u00f9 specificamente i guardaroba .", "Labels": "0"}
+{"ID": "645", "Sentence": "Ho incontrato i guardiani , e pi\u00f9 specificamente gli uffici .", "Labels": "0"}
+{"ID": "476", "Sentence": "Si fida dei sensi , e pi\u00f9 specificamente dell' udito .", "Labels": "1"}
+{"ID": "1161", "Sentence": "Apprezzo le posate , un tipo interessante di tavolo .", "Labels": "0"}
+{"ID": "1451", "Sentence": "Amo le borsette , un tipo interessante di braccialetto .", "Labels": "0"}
+{"ID": "4240", "Sentence": "Amo le meduse pi\u00f9 dei cani .", "Labels": "1"}
+{"ID": "2046", "Sentence": "Apprezzo le sedie , ed anche il parquet .", "Labels": "1"}
