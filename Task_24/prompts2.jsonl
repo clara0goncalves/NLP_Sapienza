@@ -1,0 +1,5 @@
+{
+  "prompt_1": "Data la frase '{text}' questa esprime un sentimento (Neutro), (Negativo), (Positivo) o (Misto)?",
+  "prompt_2": "Considerando l'affermazione '{text}', questa esprime un sentimento (Neutro), (Negativo), (Positivo) o (Misto)?",
+  "prompt_3": "Considerando l'affermazione '{text}', riflette un sentimento (Neutro), (Negativo), (Positivo) o (Misto)?"
+}
