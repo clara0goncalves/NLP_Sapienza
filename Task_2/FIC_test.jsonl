@@ -1,0 +1,838 @@
+[
+    {
+        "sentence_id": 0,
+        "text": "Nella mattina seguente , tardi , Alba sedeva sulla scaletta che conduceva all’ aia ed accarezzava nel grembo un piccolo coniglio bianco , tutto raccolto come un gomitolo di lana , il quale agitava senza tregua il musetto roseo e gli occhi che parevano due goccie d’ acqua pietrificate . ",
+        "target_entity": "Alba",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 1,
+        "text": "Paolo avea ancora nel pensiero i versi di Tennyson , e il nome di Dio accanto a quello dell’ Amore . ",
+        "target_entity": "Tennyson",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 2,
+        "text": "Ed Alba restava a lungo sotto di loro , piena d’ ammirazione per le corolle fragili e leggere , perfette opere di Dio . ",
+        "target_entity": "Dio",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 3,
+        "text": "Paolo si sentiva smarrito , oppresso come da un affanno in quella profondità sconosciuta . ",
+        "target_entity": "Paolo",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 4,
+        "text": "Fu a Rallico . ",
+        "target_entity": "Rallico",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 5,
+        "text": "Nel mese di maggio vi si celebrava la festa di Maria , e , tutte le sere , il piccolo paese scendeva a cantar le litanie dinnanzi al solo altare che la cura pietosa di Paolo copriva di rose nuove , rosse , pallide , gialle , vive e odorose . ",
+        "target_entity": "Maria",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 6,
+        "text": "Due giorni dopo , Paolo , aprendo a caso le Confessioni di S. Agostino , trovate nella camera di Alba , ne lesse la fine : ",
+        "target_entity": "S.",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 7,
+        "text": "Fino ad allora i due fratelli erano rimasti soli , ed in città Luigi , il loro servo , aveva serbata fedelmente la consegna di non rivelare ad alcuno l’ eremo dove i suoi padroni si erano rifugiati . ",
+        "target_entity": "Luigi",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 8,
+        "text": "In quell’ occasione una sua zia gli aveva regalato un’ imagine di S. Luigi Gonzaga , in una cornice ovale d’ argento . ",
+        "target_entity": "Gonzaga",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 9,
+        "text": "Alla tua anima parla Iddio . ",
+        "target_entity": "Iddio",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 10,
+        "text": "Paolo volle ad un tratto saper di Sofia ; ",
+        "target_entity": "Sofia",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 11,
+        "text": "Quando rinvenne , il sindaco di Brovi pensò di condurla via e glielo fece dire da me . ",
+        "target_entity": "Brovi",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 12,
+        "text": "Egli entrò , aprì l’ uscio della sua camera adagio , ed ascoltò . ",
+        "target_entity": "l’",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 13,
+        "text": "L’ Ombra in basso , sulla porta della sua casa , ricuciva fascie per un nuovo bimbo che attendeva . ",
+        "target_entity": "Ombra",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 14,
+        "text": "L’ occhio del lago , sotto il ciglio nero dei boschi , si aprì un momento umido e profondo , si chiuse nell’ ombra . ",
+        "target_entity": "L’",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 15,
+        "text": "La vettura , appena ebbe svoltato sulla via opposta a Cerete , si fermò . ",
+        "target_entity": "Cerete",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 16,
+        "text": "Ma il sarto cominciò subito , confusamente , a parlargli del paese ricco di torba , dei milioni che erano scomparsi , di un suo figlio a Torino . ",
+        "target_entity": "Torino",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 17,
+        "text": "Alba guardò smarrita il fratello , ma questi sorridendo interrogò : ",
+        "target_entity": "Alba",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 18,
+        "text": "Fortunatamente Sancho era vicino a casa . ",
+        "target_entity": "Sancho",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 19,
+        "text": "Mentre Alba apriva le lettere che Sancho aveva appena portate dalla città , Paolo leggeva il canzoniere di Gaspara Stampa , una scrittrice che egli amava , perchè nella vita di lei voleva riconoscere il dramma che aveva turbata la sua . ",
+        "target_entity": "Gaspara",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 20,
+        "text": "Mentre Alba apriva le lettere che Sancho aveva appena portate dalla città , Paolo leggeva il canzoniere di Gaspara Stampa , una scrittrice che egli amava , perchè nella vita di lei voleva riconoscere il dramma che aveva turbata la sua . ",
+        "target_entity": "Stampa",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 21,
+        "text": "Gli pareva che nulla fosse più degno d’ essere lodato del Creatore . ",
+        "target_entity": "Creatore",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 22,
+        "text": "Ora il signor Devio era moribondo . ",
+        "target_entity": "Devio",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 23,
+        "text": "Una prima volta era stato in Ispagna , a Tarragona . ",
+        "target_entity": "Ispagna",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 24,
+        "text": "Restò a lungo dinnanzi a santa Tecla , la patrona di Tarragona , che in un bassorilievo era tra i serpenti : ",
+        "target_entity": "Tarragona",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 25,
+        "text": "Un orologio batteva sonoro , secco , quasi ruvido , sotto la Madonna bianca di gesso che allargava le palme aperte misericordiosa . ",
+        "target_entity": "Madonna",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 26,
+        "text": "Guardò la medesima santa fra i demoni tranquilla , sorretta e consolata dagli angeli . ",
+        "target_entity": "santa",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 27,
+        "text": "Restò a lungo dinnanzi a santa Tecla , la patrona di Tarragona , che in un bassorilievo era tra i serpenti : ",
+        "target_entity": "Tecla",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 28,
+        "text": "Quelle figurazioni , quelle opere in cui la fede e l’ arte eran riuscite a superare la vita , quelle statue gialle antiche nel silenzioso tempio di S. Olegario , avean finito ad opprimerlo , a staccare la sua anima dal suo corpo . ",
+        "target_entity": "Olegario",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 29,
+        "text": "D’ un tratto il sagrestano lo condusse dinnanzi a una bassa cappella , a forma di grotta , e lo lasciò solo fra quattro statue di pietra dipinta , aureolate d’ oro , intorno a un Cristo dentro una cassa di cristallo fra merletti preziosi . ",
+        "target_entity": "Cristo",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 30,
+        "text": "Parve a Paolo che i visi rigidi e preganti , pieni di rassegnazione dolorosa , che il viso del Salvatore , il quale riposava senza serbar traccia delle sofferenze trascorse , all’ improvviso si animassero , lo guardassero , lo fissassero . ",
+        "target_entity": "Salvatore",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 31,
+        "text": "Fuori , sulla Rambla fiorita , da cui si vedeva scintillare nel fondo il mare , tutto era scomparso , tutto era vinto . ",
+        "target_entity": "Rambla",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 32,
+        "text": "Egual sentimento egli aveva provato dopo una lunga assenza dall’ Italia , quando , viste infinite nuove cose , stancati gli occhi , il corpo , il pensiero , la sua anima tornava con dolcezza ai luoghi comuni , noti , dove era stato tante volte , dove aveva passeggiato così a lungo . ",
+        "target_entity": "Italia",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 33,
+        "text": "Il piccolo monumento avea il nome in basso « Maria Ungaro Terni » cinto da una larga corona di fiori che erano secchi da molto tempo , da molti mesi , penduli e polverosi , cose morte sul sepolcro d’ una morta . ",
+        "target_entity": "Ungaro",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 34,
+        "text": "Il piccolo monumento avea il nome in basso « Maria Ungaro Terni » cinto da una larga corona di fiori che erano secchi da molto tempo , da molti mesi , penduli e polverosi , cose morte sul sepolcro d’ una morta . ",
+        "target_entity": "Terni",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 35,
+        "text": "Avean scoperto , in un canto , un antico fresco il quale rappresentava una Santa Marta intenta ad aspergere , con un viso di vecchia grinzosa ed annoiata . ",
+        "target_entity": "Santa",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 36,
+        "text": "Avean scoperto , in un canto , un antico fresco il quale rappresentava una Santa Marta intenta ad aspergere , con un viso di vecchia grinzosa ed annoiata . ",
+        "target_entity": "Marta",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 37,
+        "text": "Spogliandosi , egli tenea gli occhi levati al suo S. Luigi , evitando di guardarsi il corpo , parendogli questa una impurità . ",
+        "target_entity": "Luigi",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 38,
+        "text": "Tutto ciò che l’ amore di Paolo aveva di acre e di impuro trascinava la sua anima rasente al suolo , turbava le sue devozioni e la sua fede nascente . ",
+        "target_entity": "Paolo",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 39,
+        "text": "Paolo Ungaro , dopo la morte del padre a cui si era riaperta , per una caduta da cavallo , la vecchia ferita di Castelfidardo , aveva trascorsa la sua triste fanciullezza in una piccola città sperduta fra i prati ed i salci del Novarese . ",
+        "target_entity": "Castelfidardo",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 40,
+        "text": "Paolo Ungaro , dopo la morte del padre a cui si era riaperta , per una caduta da cavallo , la vecchia ferita di Castelfidardo , aveva trascorsa la sua triste fanciullezza in una piccola città sperduta fra i prati ed i salci del Novarese . ",
+        "target_entity": "Novarese",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 41,
+        "text": "Egli studiava e leggeva senza tregua , e la madre l’ aveva trovato una notte d’ inverno , in camicia , a tremare sopra una piccola cassa di ferro , di fianco a un lumino ad olio , preso da un volume di Ponson du Terrail , che raccontava le avventure di Rocambole . ",
+        "target_entity": "Ponson",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 42,
+        "text": "Egli studiava e leggeva senza tregua , e la madre l’ aveva trovato una notte d’ inverno , in camicia , a tremare sopra una piccola cassa di ferro , di fianco a un lumino ad olio , preso da un volume di Ponson du Terrail , che raccontava le avventure di Rocambole . ",
+        "target_entity": "du",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 43,
+        "text": "Egli studiava e leggeva senza tregua , e la madre l’ aveva trovato una notte d’ inverno , in camicia , a tremare sopra una piccola cassa di ferro , di fianco a un lumino ad olio , preso da un volume di Ponson du Terrail , che raccontava le avventure di Rocambole . ",
+        "target_entity": "Terrail",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 44,
+        "text": "Egli studiava e leggeva senza tregua , e la madre l’ aveva trovato una notte d’ inverno , in camicia , a tremare sopra una piccola cassa di ferro , di fianco a un lumino ad olio , preso da un volume di Ponson du Terrail , che raccontava le avventure di Rocambole . ",
+        "target_entity": "Rocambole",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 45,
+        "text": "Un giorno il bimbo desiderò di leggere Margherita Pusterla e il signore la portò in una bella edizione illustrata . ",
+        "target_entity": "Margherita",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 46,
+        "text": "Un giorno il bimbo desiderò di leggere Margherita Pusterla e il signore la portò in una bella edizione illustrata . ",
+        "target_entity": "Pusterla",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 47,
+        "text": "Non v’ erano che una bella facciata gotica a una chiesa sconciata dentro dall’ ignoranza , e i piccioni dominatori sul capo di Vittorio Emanuele in una piazza deserta . ",
+        "target_entity": "Vittorio",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 48,
+        "text": "Non v’ erano che una bella facciata gotica a una chiesa sconciata dentro dall’ ignoranza , e i piccioni dominatori sul capo di Vittorio Emanuele in una piazza deserta . ",
+        "target_entity": "Emanuele",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 49,
+        "text": "Ora il signor Devio era moribondo . ",
+        "target_entity": "Devio",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 50,
+        "text": "Sofia Devio Triberti era maritata da due anni a un banchiere che ella non amava . ",
+        "target_entity": "Triberti",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 51,
+        "text": "Ha avuto disgrazie alla Borsa , gli hanno fatto capire ... Deve aver commesso qualche indelicatezza ! ",
+        "target_entity": "Borsa",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 2
+    },
+    {
+        "sentence_id": 52,
+        "text": "— Sì , sì , invece – interruppe donna Bice . ",
+        "target_entity": "Bice",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 53,
+        "text": "Aveva ricevuto quella sera , in una lettera da una buona zia , donna Bice Melitti , i saluti di Sofia , e ne era stato un attinto lieto e poi turbato perchè non li sapeva spiegare . ",
+        "target_entity": "Melitti",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 54,
+        "text": "Alfredo , vieni qui , lascia stare – gridò al bimbo che si affannava a trattenere l’ asinello . ",
+        "target_entity": "Alfredo",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 55,
+        "text": "Giovanna , vieni qui – e una donna avanzò con un grande cesto da cui spuntavano i colli dei fiaschi – andiamo , su , fatemi vedere la vostra casa . ",
+        "target_entity": "Giovanna",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 56,
+        "text": "Paolo riconobbe Alberto Premi , e non ebbe più la forza di andare innanzi , di tornare indietro , di slanciarsi . ",
+        "target_entity": "Alberto",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 57,
+        "text": "Alberto Premi . ",
+        "target_entity": "Premi",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 58,
+        "text": "Paolo ricordò , con tenera gioia , un giorno di primavera , in Grecia , quando era stato con Alba poco lungi da Atene , a Kifissià , il paese delle rose . ",
+        "target_entity": "Grecia",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 59,
+        "text": "Paolo ricordò , con tenera gioia , un giorno di primavera , in Grecia , quando era stato con Alba poco lungi da Atene , a Kifissià , il paese delle rose . ",
+        "target_entity": "Atene",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 60,
+        "text": "Paolo ricordò , con tenera gioia , un giorno di primavera , in Grecia , quando era stato con Alba poco lungi da Atene , a Kifissià , il paese delle rose . ",
+        "target_entity": "Kifissià",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 61,
+        "text": "Trascorreva le ore sui maggenghi , nei viottoli , per le boschine , seguìta dal fratello che pensava o leggeva , e da Fido , il cane giallo che le trotterellava dietro a capo basso . ",
+        "target_entity": "Fido",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 62,
+        "text": "Chiamiamola ..... l’ Ombra ! ",
+        "target_entity": "Ombra",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 63,
+        "text": "Dove le case finivano , Paolo incontrò il marito dell’ Ombra , che Alba chiamava umoristicamente Sancho Panza . ",
+        "target_entity": "Panza",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 64,
+        "text": "Egli aveva infatti qualche caratteristica del fedele compagno di Don Chisciotte : ",
+        "target_entity": "Don",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 65,
+        "text": "Egli aveva infatti qualche caratteristica del fedele compagno di Don Chisciotte : ",
+        "target_entity": "Chisciotte",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 66,
+        "text": "Alba si ostinava a metter fiori in un vasello di Boemia che era stato un regalo della lontana , ed egli avea così sempre dinnanzi una cosa di lei , che si animava , che talvolta parlava : ",
+        "target_entity": "Boemia",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 67,
+        "text": "Ella nei primi giorni dell’ amore , per via , aveva ripetuta una strofa di Murger che Paolo sapeva ancora a memoria : ",
+        "target_entity": "Murger",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 68,
+        "text": "Su , a Superga . ",
+        "target_entity": "Superga",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 1
+    },
+    {
+        "sentence_id": 69,
+        "text": "Un giorno Alba lo trovò nello studio , sopra un libro di Büchner , e gli domandò che leggesse . ",
+        "target_entity": "Büchner",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 70,
+        "text": "Due giorni dopo , Paolo , aprendo a caso le Confessioni di S. Agostino , trovate nella camera di Alba , ne lesse la fine : ",
+        "target_entity": "Agostino",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 71,
+        "text": "— Gray . ",
+        "target_entity": "Gray",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 72,
+        "text": "Pure gli restava una vaga sensazione di tenerezza , di devozione , di timore , la sensazione che qualcosa in lui si compieva d’ insolito , che egli era scosso , che forse tornava a credere , a sperare , come quando , bambino , levava di nascosto gli occhi al Sanctus , per vedere Gesù scendere nell’ ostia . ",
+        "target_entity": "Sanctus",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 73,
+        "text": "Pure gli restava una vaga sensazione di tenerezza , di devozione , di timore , la sensazione che qualcosa in lui si compieva d’ insolito , che egli era scosso , che forse tornava a credere , a sperare , come quando , bambino , levava di nascosto gli occhi al Sanctus , per vedere Gesù scendere nell’ ostia . ",
+        "target_entity": "Gesù",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 74,
+        "text": "Michele ha scritto in città , il sindaco di Brovi ha scritto a quel sindaco , ma non si è potuto saper nulla . ",
+        "target_entity": "Michele",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    },
+    {
+        "sentence_id": 75,
+        "text": "« Nina , aprile 18 ... » . ",
+        "target_entity": "Nina",
+        "choices": [
+            "persona",
+            "località",
+            "organizzazione"
+        ],
+        "label": 0
+    }
+]
