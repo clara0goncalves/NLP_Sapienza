@@ -1,0 +1,5 @@
+{
+  "prompt_1": "Data la seguente frase '{text}' in questo contesto la parola '{target_entity}' si riferisce ad una (persona), ad una (luogo) o ad un' (organizzazione) ?",
+  "prompt_2": "Analizzando la frase '{text}' come classificheresti la parola '{target_entity}' date le seguenti possibili classi (persona), (luogo), o (organizzazione) ?",
+  "prompt_3": "Una parola come '{target_entity}' pu\u00f2 essere interpretata in modi differenti, nel testo '{text}', \u00e8 usata riferendosi ad una (persona), ad una (luogo) o ad un' (organizzazione) ? "
+}
