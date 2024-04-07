@@ -1,0 +1,5 @@
+{
+  "prompt_1": "Considerando la frase '{text}' questa \u00e8 (Non ironico) o (Ironico)?",
+  "prompt_2": "Considerando l'affermazione '{text}', \u00e8 (Non Ironico) o (Ironico)?",
+  "prompt_3": "Considerando l'affermazione '{text}', riflette il contesto (Non Ironico) o (Ironico)?"
+}
