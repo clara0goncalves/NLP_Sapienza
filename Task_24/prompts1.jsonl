@@ -1,5 +1,0 @@
-{
-  "prompt_1": "Considerando la frase {text} questa frase \u00e8 (Oggettiva) o (Soggettiva) ?",
-  "prompt_2": "Considerando l'affermazione {text}, trasmette una prospettiva (Oggettiva) o (Soggettiva) ?",
-  "prompt_3": "Considerando l'affermazione {text}, riflette sentimenti (Oggettiva) o (Soggettiva) ? "
-}
